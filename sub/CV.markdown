@@ -32,7 +32,7 @@ css: http://users.drew.edu/jmuccigr/css/clean_md.css
 </span>
 
 <span class="item">
-<span class="date"> 1987 </span> [Amherst College](https://www.amherst.edu/academiclife/departments/classics/), B.A., ΦΒΚ, classics and chemistry
+<span class="date"> 1987 </span> [Amherst College](https://www.amherst.edu/academiclife/departments/classics/), B.A., $\Phi$BK, classics and chemistry
 </span>
 
 <span class="item">
