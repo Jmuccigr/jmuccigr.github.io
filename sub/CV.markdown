@@ -8,7 +8,8 @@ css: http://users.drew.edu/jmuccigr/css/clean_md.css
 
 |aa|bb|
 |:--|--:|
-|Professor of Classics|[Drew University](http://www.drew.edu/)|
+\hspace{2.5in} \= \hspace{1.75in} \kill
+Professor of Classics|[Drew University](http://www.drew.edu/)|
 |<jmuccigr@drew.edu>|[214a Brothers College](http://www.drew.edu/map/?building=brothers&Perspective=Y#building=brothers)|
 |<http://www.users.drew.edu/jmuccigr/>| Madison, NJ 07940 |
 |[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](http://drew.academia.edu/JohnMuccigrosso)|+1.973.408.3029|
@@ -55,17 +56,17 @@ School](http://www.regis.org/)
 </span>
 
 <span class="item">
-<span class="date"> 2011–2014 </span> [Director of Institutional Research](http://www.depts.drew.edu/research/),
+<span class="date"> 2011–2014 </span> [Director of Institutional Research](http://www.depts.drew.edu/research/)
 </span>
 
 <span class="item">
-<span class="date"> 2009–2014 </span> Associate Dean, [College of Liberal Arts](http://www.drew.edu/cla/cla-deans-office/),
+<span class="date"> 2009–2014 </span> Associate Dean, [College of Liberal Arts](http://www.drew.edu/cla/cla-deans-office/)
 </span>
 
 ### Responsibilities
 
-* Director of Institutional Research: Internal & external reporting, survey administration, retention analysis, budget-preparation assistance
-* Associate Dean: Budget & salary, retention, management of physical resources, scheduling, college IR, admissions outreach, special projects
+<span class="item_standalone">Director of Institutional Research: Internal & external reporting, survey administration, retention analysis, budget-preparation assistance</span>
+<span class="item_standalone">Associate Dean: Budget & salary, retention, management of physical resources, scheduling, college IR, admissions outreach, special projects</span>
 
 ### Administrative Committee Service
 
@@ -201,9 +202,10 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 ### Archaeological Experience
 
-*  Director: *Vicus Martis Tudertium* [Field School](http://users.drew.edu/jmuccigr/vicusadmartis/) (2008–present)
-*  Supervisor:  [Paestum](http://www.perseus.tufts.edu/cgi-bin/atlas?sites=Poseidonia) (Italy, 1995, ‘97, ‘99)
-*  Participant: Duos Nuraghes (Sardinia, Italy, 1992); Roman Forum
+<span class="item_standalone">Director: *Vicus Martis Tudertium* [Field School](http://users.drew.edu/jmuccigr/vicusadmartis/) (2008–present)</span>
+<span class="item_standalone">Supervisor:  [Paestum](http://www.perseus.tufts.edu/cgi-bin/atlas?sites=Poseidonia) (Italy, 1995, ‘97, ‘99)
+</span>
+<span class="item_standalone">Participant: Duos Nuraghes (Sardinia, Italy, 1992); Roman Forum
 ([Rome, Italy](http://pubweb.parc.xerox.com/map/border%3D1/color%3D1/grid%3D0/ht%3D24.00/lat%3D41.53/lon%3D15/mark%3D41.53,12.3,6,9/format%3D.gif), 1991); Son Mas Sanctuary (Mallorca, Spain, 1990); Poggio Civitate (Murlo, Italy, 1987–88)
 
 ### Publications
@@ -219,17 +221,21 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 </span>
 
 <span class="item">
-<span class="date"> 2012 </span> “Re-Interpreting the Robinson Skyphos,” *SHT* [**13**.A.1, 1–15](http://sht.ut.ee/index.php/sht/article/view/13.A.1)
-“Report on the Linked Ancient World Data Institute,” with Thomas Elliott and Sebastian Heath, *ISQ* [**24**, 2–3](http://www.niso.org/apps/group_public/download.php/9404/CR_Elliott-etal_LAWDI_isqv24no2-3.pdf), Spring/Summer
+<span class="date"> 2012 </span> “Re-Interpreting the Robinson Skyphos,” *SHT* [**13**.A.1, 1–15](http://sht.ut.ee/index.php/sht/article/view/13.A.1)  
+</span>
+<span class="item">“Report on the Linked Ancient World Data Institute,” with Thomas Elliott and Sebastian Heath, *ISQ* [**24**, 2–3](http://www.niso.org/apps/group_public/download.php/9404/CR_Elliott-etal_LAWDI_isqv24no2-3.pdf), Spring/Summer
 </span>
 
 <span class="item">
-<span class="date"> 2011 </span> “A New Archaic Dipinto from Poseidonia,” with James Higginbotham, *ZPE* [**178**, 191–194](http://www.jstor.org/stable/41616766)
-“The 2010 Excavation Season at the Site of the Vicus ad Martis Tudertium (PG),” *FOLD&R* [**227**](http://www.fastionline.org/docs/FOLDER-it-2011-227.pdf)
+<span class="date"> 2011 </span> “A New Archaic Dipinto from Poseidonia,” with James Higginbotham, *ZPE* [**178**, 191–194](http://www.jstor.org/stable/41616766)  
+</span>
+<span class="item">“The 2010 Excavation Season at the Site of the Vicus ad Martis Tudertium (PG),” *FOLD&R* [**227**](http://www.fastionline.org/docs/FOLDER-it-2011-227.pdf)
 </span>
 
 <span class="item">
-<span class="date"> 2010 </span> “Excavations along the Via Flaminia: the Vicus ad Martis Tudertium,” *Etruscan News* [**13**, Winter](http://ancientstudies.fas.nyu.edu/docs/CP/963/EtruscanNews10_winter.pdf), p. 16 “The 2008 and 2009 Excavation Seasons at the Site of the Vicus ad Martis Tudertium (PG),” *FOLD&R* [**185**](http://www.fastionline.org/docs/FOLDER-it-2010-185.pdf)
+<span class="date"> 2010 </span> “Excavations along the Via Flaminia: the Vicus ad Martis Tudertium,” *Etruscan News* [**13**, Winter](http://ancientstudies.fas.nyu.edu/docs/CP/963/EtruscanNews10_winter.pdf), p. 16  
+</span>
+<span class="item">“The 2008 and 2009 Excavation Seasons at the Site of the Vicus ad Martis Tudertium (PG),” *FOLD&R* [**185**](http://www.fastionline.org/docs/FOLDER-it-2010-185.pdf)
 </span>
 
 <span class="item">
@@ -279,8 +285,9 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 </span>
 
 <span class="item">
-<span class="date"> 2010 </span> Fik Meijer, *Chariot racing in the Roman Empire*, *BMCR* [2010.11.26](http://bmcr.brynmawr.edu/2010/2010-11-26.html)
-Nigel B. Crowther, *Sport in Ancient Times*, *CJ* [**106**(2), 242–243](http://www.jstor.org/stable/10.5184/classicalj.106.2.0242)
+<span class="date"> 2010 </span> Fik Meijer, *Chariot racing in the Roman Empire*, *BMCR* [2010.11.26](http://bmcr.brynmawr.edu/2010/2010-11-26.html)  
+</span>
+<span class="item">Nigel B. Crowther, *Sport in Ancient Times*, *CJ* [**106**(2), 242–243](http://www.jstor.org/stable/10.5184/classicalj.106.2.0242)
 </span>
 
 <span class="item">
@@ -292,15 +299,18 @@ Nigel B. Crowther, *Sport in Ancient Times*, *CJ* [**106**(2), 242–243](http:/
 </span>
 
 <span class="item">
-<span class="date"> 2005 </span> Christopher S. Mackay, *Ancient Rome: A Military and political history*, *CO* 83.1
-Filippo Canali De Rossi, *Le relazioni diplomatiche di Roma, Vol. I: dall’età regia alla conquista del primato in Italia (753-265 a.C)*, *BMCR* [2005.02.19](http://bmcr.brynmawr.edu/2005/2005-02-19.html)
+<span class="date"> 2005 </span> Christopher S. Mackay, *Ancient Rome: A Military and political history*, *CO* 83.1  
+</span>
+<span class="item">Filippo Canali De Rossi, *Le relazioni diplomatiche di Roma, Vol. I: dall’età regia alla conquista del primato in Italia (753-265 a.C)*, *BMCR* [2005.02.19](http://bmcr.brynmawr.edu/2005/2005-02-19.html)
 </span>
 
 <span class="item">
 <span class="date"> 2004 </span> Nathan Rosenstein, *Rome at war: Farms, families, and death in the Middle Republic*, *BMCR*
 [2004.07.56](http://bmcr.brynmawr.edu/2004/2004-07-56.html)  
-Thomas F. Scanlon, *Eros and Greek athletics*, *CO* **81**.2 (Winter)
-Peter J. Holliday, *Origins of pictorial representation in Roman art*, *NECJ* **31**.1 (February)
+</span>
+<span class="item">Thomas F. Scanlon, *Eros and Greek athletics*, *CO* **81**.2 (Winter)  
+</span>
+<span class="item">Peter J. Holliday, *Origins of pictorial representation in Roman art*, *NECJ* **31**.1 (February)
 </span>
 
 <span class="item">
@@ -308,8 +318,9 @@ Peter J. Holliday, *Origins of pictorial representation in Roman art*, *NECJ* **
 </span>
 
 <span class="item">
-<span class="date"> 2002 </span> Serafina Cuomo, *Ancient Mathematics*, *CO* **80**.1 (Fall)
-Christer Bruun, *The Roman middle republic: Politics, religion, and historiography c. 400-133 B.C.*, *CW* [**95**.4 (Summer), 460–461](http://www.jstor.org/discover/10.2307/4352698)
+<span class="date"> 2002 </span> Serafina Cuomo, *Ancient Mathematics*, *CO* **80**.1 (Fall)  
+</span>
+<span class="item">Christer Bruun, *The Roman middle republic: Politics, religion, and historiography c. 400-133 B.C.*, *CW* [**95**.4 (Summer), 460–461](http://www.jstor.org/discover/10.2307/4352698)
 </span>
 
 <span class="item">
