@@ -1,5 +1,4 @@
 ---
-title: "John D. Muccigrosso - CV"
 css: http://users.drew.edu/jmuccigr/css/clean_md.css
 ---
 
@@ -8,7 +7,7 @@ css: http://users.drew.edu/jmuccigr/css/clean_md.css
 
 |aa|bb|
 |:--|--:|
-\hspace{2.5in} \= \hspace{1.75in} \kill
+\hspace{2.5in} = \hspace{1.75in} \kill
 Professor of Classics|[Drew University](http://www.drew.edu/)|
 |<jmuccigr@drew.edu>|[214a Brothers College](http://www.drew.edu/map/?building=brothers&Perspective=Y#building=brothers)|
 |<http://www.users.drew.edu/jmuccigr/>| Madison, NJ 07940 |
@@ -49,7 +48,6 @@ School](http://www.regis.org/)
 
 <span class="item">
 <span class="date"> 1998–present </span> Professor, [Department of Classics](http://www.depts.drew.edu/classics/)
-
 -   1998 Assistant, 2004 Associate, 2013 Full
 -   2005–2008 Chair
 -   Fall 2000 Acting Chair
@@ -156,6 +154,10 @@ from 2004)
 </span>
 
 <span class="item">
+<span class="date">2005 </span> DuPont Fellow, National Humanities Center (*Space: Familiar, Sacred, Contested, Compulsory*, led by Annabel Wharton, Department of Art and Art History, Duke University)
+</span>
+
+<span class="item">
 <span class="date"> 1998–1999 </span> Faculty Research Grants
 </span>
 
@@ -207,6 +209,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 </span>
 <span class="item_standalone">Participant: Duos Nuraghes (Sardinia, Italy, 1992); Roman Forum
 ([Rome, Italy](http://pubweb.parc.xerox.com/map/border%3D1/color%3D1/grid%3D0/ht%3D24.00/lat%3D41.53/lon%3D15/mark%3D41.53,12.3,6,9/format%3D.gif), 1991); Son Mas Sanctuary (Mallorca, Spain, 1990); Poggio Civitate (Murlo, Italy, 1987–88)
+</span>
 
 ### Publications
 
@@ -463,5 +466,5 @@ Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Mi
 
 |aa|bb|cc|
 |:--|:--:|--:|
-|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Wednesday, 1 April 2015.|[Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Wednesday, 12 August 2015.|[Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](http://users.drew.edu/jmuccigr/CV.pdf) of this document.|&nbsp;|
