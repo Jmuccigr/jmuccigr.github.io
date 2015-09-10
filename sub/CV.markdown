@@ -32,7 +32,7 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 </span>
 
 <span class="item">
-<span class="date"> 1987 </span> [Amherst College](https://www.amherst.edu/academiclife/departments/classics/), B.A., $\Phi$BK, classics and chemistry
+<span class="date"> 1987 </span> [Amherst College](https://www.amherst.edu/), B.A., $\Phi$BK, [classics](https://www.amherst.edu/academiclife/departments/classics/) and [chemistry](https://www.amherst.edu/academiclife/departments/chemistry/)
 </span>
 
 <span class="item">
