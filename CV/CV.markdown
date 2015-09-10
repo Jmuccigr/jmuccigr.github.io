@@ -4,10 +4,10 @@ css: http://users.drew.edu/jmuccigr/css/clean_md.css
 
 # John D. Muccigrosso
 
+[comment]: # (For the pdf generation, which isn't working now anyway, put the following in the table as the third line. It leaves behind the = in html:\hspace{2.5in} = \hspace{1.75in} \kill)
 
 |aa|bb|
 |:--|--:|
-\hspace{2.5in} = \hspace{1.75in} \kill
 Professor of Classics|[Drew University](http://www.drew.edu/)|
 |<jmuccigr@drew.edu>|[214a Brothers College](http://www.drew.edu/map/?building=brothers&Perspective=Y#building=brothers)|
 |<http://www.users.drew.edu/jmuccigr/>| Madison, NJ 07940 |
@@ -48,9 +48,10 @@ School](http://www.regis.org/)
 
 <span class="item">
 <span class="date"> 1998–present </span> Professor, [Department of Classics](http://www.depts.drew.edu/classics/)
--   1998 Assistant, 2004 Associate, 2013 Full
--   2005–2008 Chair
--   Fall 2000 Acting Chair
+
+- 1998 Assistant, 2004 Associate, 2013 Full
+- Fall 2015-present, 2005–2008 Chair
+- Fall 2000 Acting Chair
 </span>
 
 <span class="item">
@@ -102,8 +103,7 @@ Organizational Review
 </span>
 
 <span class="item">
-<span class="date"> 2009–2012 </span> Co-Chair, Enrollment Management
-and Retention Committee
+<span class="date"> 2009–2012 </span> Co-Chair, Enrollment Management and Retention Committee
 </span>
 
 ### Faculty Committee Service
