@@ -217,7 +217,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 #### Papers
 
 <span class="item">
-<span class="date"> 2015 </span> “The 2011 Excavation Season at the Site of the Vicus Martis Tudertium (PG),” with Rangar Cline, Sarah Harvey, Elena Lorenzetti, and Stefano Spiganti *FOLD&R* [**327**](http://www.fastionline.org/docs/FOLDER-it-2015-327.pdf)
+<span class="date"> 2015 </span> "The 2011 Excavation Season at the Site of the Vicus Martis Tudertium (PG)," with Rangar Cline, Sarah Harvey, Elena Lorenzetti, and Stefano Spiganti *FOLD&R* [**327**](http://www.fastionline.org/docs/FOLDER-it-2015-327.pdf)
 </span>
 
 <span class="item">
@@ -225,49 +225,49 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 </span>
 
 <span class="item">
-<span class="date"> 2012 </span> “Re-Interpreting the Robinson Skyphos,” *SHT* [**13**.A.1, 1–15](http://sht.ut.ee/index.php/sht/article/view/13.A.1)  
+<span class="date"> 2012 </span> "Re-Interpreting the Robinson Skyphos," *SHT* [**13**.A.1, 1–15](http://sht.ut.ee/index.php/sht/article/view/13.A.1)  
 </span>
-<span class="item">“Report on the Linked Ancient World Data Institute,” with Thomas Elliott and Sebastian Heath, *ISQ* [**24**, 2–3](http://www.niso.org/apps/group_public/download.php/9404/CR_Elliott-etal_LAWDI_isqv24no2-3.pdf), Spring/Summer
-</span>
-
-<span class="item">
-<span class="date"> 2011 </span> “A New Archaic Dipinto from Poseidonia,” with James Higginbotham, *ZPE* [**178**, 191–194](http://www.jstor.org/stable/41616766)  
-</span>
-<span class="item">“The 2010 Excavation Season at the Site of the Vicus ad Martis Tudertium (PG),” *FOLD&R* [**227**](http://www.fastionline.org/docs/FOLDER-it-2011-227.pdf)
+<span class="item">"Report on the Linked Ancient World Data Institute," with Thomas Elliott and Sebastian Heath, *ISQ* [**24**, 2–3](http://www.niso.org/apps/group_public/download.php/9404/CR_Elliott-etal_LAWDI_isqv24no2-3.pdf), Spring/Summer
 </span>
 
 <span class="item">
-<span class="date"> 2010 </span> “Excavations along the Via Flaminia: the Vicus ad Martis Tudertium,” *Etruscan News* [**13**, Winter](http://ancientstudies.fas.nyu.edu/docs/CP/963/EtruscanNews10_winter.pdf), p. 16  
+<span class="date"> 2011 </span> "A New Archaic Dipinto from Poseidonia," with James Higginbotham, *ZPE* [**178**, 191–194](http://www.jstor.org/stable/41616766)  
 </span>
-<span class="item">“The 2008 and 2009 Excavation Seasons at the Site of the Vicus ad Martis Tudertium (PG),” *FOLD&R* [**185**](http://www.fastionline.org/docs/FOLDER-it-2010-185.pdf)
-</span>
-
-<span class="item">
-<span class="date"> 2009 </span> “Excavations at the Vicus ad Martis Tudertium,” *Etruscan News* [**11**, Winter](http://ancientstudies.fas.nyu.edu/docs/CP/963/etruscannews_vol11_winter2009.pdf), p. 15
+<span class="item">"The 2010 Excavation Season at the Site of the Vicus ad Martis Tudertium (PG)," *FOLD&R* [**227**](http://www.fastionline.org/docs/FOLDER-it-2011-227.pdf)
 </span>
 
 <span class="item">
-<span class="date"> 2006 </span> “Religion and Politics: Did the Romans scruple about the placement of their temples?,” *Religion in Roman Italy in the Mid- and Late Republican Eras (“Yale Classical Studies”)*, 181–206, Cambridge University Press
+<span class="date"> 2010 </span> "Excavations along the Via Flaminia: the Vicus ad Martis Tudertium," *Etruscan News* [**13**, Winter](http://ancientstudies.fas.nyu.edu/docs/CP/963/EtruscanNews10_winter.pdf), p. 16  
+</span>
+<span class="item">"The 2008 and 2009 Excavation Seasons at the Site of the Vicus ad Martis Tudertium (PG)," *FOLD&R* [**185**](http://www.fastionline.org/docs/FOLDER-it-2010-185.pdf)
 </span>
 
 <span class="item">
-<span class="date"> 2004 </span> “Frequent vocabulary in Latin textbooks,” *CW* [**97**(4), 409–433](http://www.jstor.org/stable/4352875)
+<span class="date"> 2009 </span> "Excavations at the Vicus ad Martis Tudertium," *Etruscan News* [**11**, Winter](http://ancientstudies.fas.nyu.edu/docs/CP/963/etruscannews_vol11_winter2009.pdf), p. 15
 </span>
 
 <span class="item">
-<span class="date"> 2003 </span> “The Brindisi *Elogium* and the Rejected *Lectio Senatus* of Appius Claudius Caecus,” *Historia* **52**.4, 496–501
+<span class="date"> 2006 </span> "Religion and Politics: Did the Romans scruple about the placement of their temples?," *Religion in Roman Italy in the Mid- and Late Republican Eras ("Yale Classical Studies")*, 181–206, Cambridge University Press
 </span>
 
 <span class="item">
-<span class="date"> 1999 </span> “Critical thinking and reflective learning in the Latin classroom,” with D. Pennell Ross, in *Language learners of tomorrow: Process and promise*, p. 232–251, M. A. Kassen, ed., NECTFL Conference Reports, National Textbook Co., Lincolnwood, Illinois
+<span class="date"> 2004 </span> "Frequent vocabulary in Latin textbooks," *CW* [**97**(4), 409–433](http://www.jstor.org/stable/4352875)
 </span>
 
 <span class="item">
-<span class="date"> 1990 </span> “Synthesis and infrared spectroscopic investigations of substance P and isotopically labelled analogues,” MS Thesis, MIT
+<span class="date"> 2003 </span> "The Brindisi *Elogium* and the Rejected *Lectio Senatus* of Appius Claudius Caecus," *Historia* **52**.4, 496–501
 </span>
 
 <span class="item">
-<span class="date"> 1989 </span> “Benzylhydrazine as a pseudo-substrate of bovine serum amine oxidase,” with L. Morpurgo *et al*, [*Biochem. J.* **260**, 19–25](http://www.biochemj.org/bj/260/bj2600019.htm)
+<span class="date"> 1999 </span> "Critical thinking and reflective learning in the Latin classroom," with D. Pennell Ross, in *Language learners of tomorrow: Process and promise*, p. 232–251, M. A. Kassen, ed., NECTFL Conference Reports, National Textbook Co., Lincolnwood, Illinois
+</span>
+
+<span class="item">
+<span class="date"> 1990 </span> "Synthesis and infrared spectroscopic investigations of substance P and isotopically labelled analogues," MS Thesis, MIT
+</span>
+
+<span class="item">
+<span class="date"> 1989 </span> "Benzylhydrazine as a pseudo-substrate of bovine serum amine oxidase," with L. Morpurgo *et al*, [*Biochem. J.* **260**, 19–25](http://www.biochemj.org/bj/260/bj2600019.htm)
 </span>
 
 #### Reviews
@@ -334,117 +334,117 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 ### Invited Talks
 
 <span class="item">
-<span class="date"> 2012 </span> “Excavations at the *Vicus ad Martis* in Umbria,” NJ Classical Association, October 13
+<span class="date"> 2012 </span> "Excavations at the *Vicus ad Martis* in Umbria," NJ Classical Association, October 13
 </span>
 
 <span class="item">
-<span class="date"> 2010 </span> “New Excavations on the Flaminian Way: A Field School at the *Vicus ad Martis*,” Fairfield College, March 17
+<span class="date"> 2010 </span> "New Excavations on the Flaminian Way: A Field School at the *Vicus ad Martis*," Fairfield College, March 17
 </span>
 
 <span class="item">
-<span class="date"> 2008 </span> “Report on first season of excavations at the Vicus ad Martis Tudertium,” Museum of S. Maria della Pace, as part of the “Giornate Europee del Patrimonio” program, September 28
+<span class="date"> 2008 </span> "Report on first season of excavations at the Vicus ad Martis Tudertium," Museum of S. Maria della Pace, as part of the "Giornate Europee del Patrimonio" program, September 28
 </span>
 
 <span class="item">
-<span class="date"> 2007 </span> “Instructional technology and the teaching of Latin: Where we’ve been and where we’re going,” Glenn M. Knudsvig Memorial Symposium at the University of Michigan, Keynote speaker, 9 July
+<span class="date"> 2007 </span> "Instructional technology and the teaching of Latin: Where we’ve been and where we’re going," Glenn M. Knudsvig Memorial Symposium at the University of Michigan, Keynote speaker, 9 July
 </span>
 
 <span class="item">
-<span class="date"> 2005 </span> “*Quirites* and the preservation of early Latin texts,” Stockton College, 10 April
+<span class="date"> 2005 </span> "*Quirites* and the preservation of early Latin texts," Stockton College, 10 April
 </span>
 
 <span class="item">
-<span class="date"> 2003 </span> “Religion and Politics: Did the Romans scruple about the placement of their temples?,” Yale University, 1 March
+<span class="date"> 2003 </span> "Religion and Politics: Did the Romans scruple about the placement of their temples?," Yale University, 1 March
 </span>
 
 <span class="item">
-<span class="date"> 2001 </span> “Paestum,” Amherst College, 4 October
+<span class="date"> 2001 </span> "Paestum," Amherst College, 4 October
 </span>
 
 <span class="item">
-<span class="date"> 2000 </span> “Gladiators and Political Competiton in Republican Rome,” New Jersey Classical Association Spring Meeting
+<span class="date"> 2000 </span> "Gladiators and Political Competiton in Republican Rome," New Jersey Classical Association Spring Meeting
 </span>
 
 ### Conference Papers
 
 <span class="item">
-<span class="date"> 2015 </span> “Seventh Season of Excavation at the *Vicus Martis Tudertium*,” AIA, with Dr. Sarah Harvey and Dr. Jill Rhodes
+<span class="date"> 2015 </span> "Seventh Season of Excavation at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill Rhodes
 </span>
 
 <span class="item">
-<span class="date"> 2014 </span> “Sixth Season of Excavation at the *Vicus Ad Martis Tudertium*,” AIA, with Dr. Sarah Harvey
+<span class="date"> 2014 </span> "Sixth Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA, with Dr. Sarah Harvey
 </span>
 
 <span class="item">
-<span class="date"> 2013 </span> “Fifth Season of Excavation at the *Vicus Ad Martis Tudertium*,” AIA
+<span class="date"> 2013 </span> "Fifth Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA
 </span>
 
 <span class="item">
-<span class="date"> 2012 </span> “Fourth Season of Excavation at the *Vicus Ad Martis Tudertium*,” AIA
+<span class="date"> 2012 </span> "Fourth Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA
 </span>
 
 <span class="item">
-<span class="date"> 2011 </span> “Third Season of Excavation at the *Vicus Ad Martis Tudertium*,” AIA
+<span class="date"> 2011 </span> "Third Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA
 </span>
 
 <span class="item">
-<span class="date"> 2010 </span> “Second Season of Excavation at the *Vicus Ad Martis Tudertium*,” AIA
+<span class="date"> 2010 </span> "Second Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA
 </span>
 
 <span class="item">
-<span class="date"> 2009 </span> “Results of First Season of Excavation and Geo-magnetic Survey at the Vicus ad Martis Tudertium,” with Tommaso Mattioli, Departimento Uomo & Territorio, University of Perugia, AIA
+<span class="date"> 2009 </span> "Results of First Season of Excavation and Geo-magnetic Survey at the Vicus ad Martis Tudertium," with Tommaso Mattioli, Departimento Uomo & Territorio, University of Perugia, AIA
 </span>
 
 <span class="item">
-<span class="date"> 2006 </span> “Depictions of Workshops in Ancient Art: Too Many Potters?,” poster, AIA (2nd Prize Winner)
+<span class="date"> 2006 </span> "Depictions of Workshops in Ancient Art: Too Many Potters?," poster, AIA (2nd Prize Winner)
 </span>
 
 <span class="item">
-<span class="date"> 2005 </span> Invited Facilitator for panel discussion: “*Davus and Grumio Go To College*: workshop and discussion on creating the ideal college-level Latin textbook,” CAAS, fall meeting
+<span class="date"> 2005 </span> Invited Facilitator for panel discussion: "*Davus and Grumio Go To College*: workshop and discussion on creating the ideal college-level Latin textbook," CAAS, fall meeting
 </span>
 
 <span class="item">
-<span class="date"> 2003 </span> “Frequent Latin vocabulary,” ACL Institute
+<span class="date"> 2003 </span> "Frequent Latin vocabulary," ACL Institute
 </span>
 
 <span class="item">
-<span class="date"> 2002 </span> “Political Competition in urban building in Mid-Republican Rome,” AAH
+<span class="date"> 2002 </span> "Political Competition in urban building in Mid-Republican Rome," AAH
 </span>
 
 <span class="item">
-<span class="date"> 2000 </span> “Creating and using a Latin-vocabulary database,” Michigan-Latin Symposium
+<span class="date"> 2000 </span> "Creating and using a Latin-vocabulary database," Michigan-Latin Symposium
 </span>
 
 <span class="item">
-<span class="date"> 1999 </span> “Preliminary results of a survey of classical-language students,” ACL Institute (session organizer)
+<span class="date"> 1999 </span> "Preliminary results of a survey of classical-language students," ACL Institute (session organizer)
 </span>
 
 <span class="item">
-<span class="date"> 1999 </span> “The Reflective practitioner in the Latin classroom,” with D. Ross, NECTFL
+<span class="date"> 1999 </span> "The Reflective practitioner in the Latin classroom," with D. Ross, NECTFL
 </span>
 
 <span class="item">
-<span class="date"> 1998 </span> “Appius Claudius Caecus and the Brindisi elogium,” APA
+<span class="date"> 1998 </span> "Appius Claudius Caecus and the Brindisi elogium," APA
 </span>
 
 <span class="item">
-<span class="date"> 1998 </span> “(Mis)Reading Livy”, CAMWS
+<span class="date"> 1998 </span> "(Mis)Reading Livy", CAMWS
 </span>
 
 <span class="item">
-<span class="date"> 1997 </span> “Political rivalry and monuments in the Roman Republic,” APA
+<span class="date"> 1997 </span> "Political rivalry and monuments in the Roman Republic," APA
 </span>
 
 <span class="item">
-<span class="date"> 1997 </span> “Courseware on the Internet: Recent work at the University of Michigan,” ACL Institute
+<span class="date"> 1997 </span> "Courseware on the Internet: Recent work at the University of Michigan," ACL Institute
 </span>
 
 <span class="item">
-<span class="date"> 1996 </span> “Using the Internet for teaching,” AIA
+<span class="date"> 1996 </span> "Using the Internet for teaching," AIA
 </span>
 
 <span class="item">
-<span class="date"> 1992 </span> “Sardinia and off-island contacts,”
+<span class="date"> 1992 </span> "Sardinia and off-island contacts,"
 Chacmool
 </span>
 
@@ -457,7 +457,7 @@ Chacmool
 ### Dissertation
 
 <span class="item_standalone">
-“[Factional Competition and Monumental Construction in Mid-Republican Rome](http://dx.doi.org/10.6084/m9.figshare.763319),” D. S. Potter, advisor
+"[Factional Competition and Monumental Construction in Mid-Republican Rome](http://dx.doi.org/10.6084/m9.figshare.763319)," D. S. Potter, advisor
 </span>
 
 ### Technology-Related Experience
