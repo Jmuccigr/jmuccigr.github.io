@@ -33,7 +33,8 @@ School](http://www.regis.org/)
 
 |date|item|
 |:--|:--|
-1998–present | Professor, [Department of Classics](http://www.depts.drew.edu/classics/)
+1998–present | Professor, [Department of Classics](http://www.depts.drew.edu/classics/)  
+
 - 1998 Assistant, 2004 Associate, 2013 Full
 - Fall 2015-present, 2005–2008 Chair
 - Fall 2000 Acting Chair
@@ -210,5 +211,5 @@ Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Mi
 
 |aa|bb|cc|
 |:--|:--:|--:|
-|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Thursday, 10 September 2015.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Saturday, 19 September 2015.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](http://users.drew.edu/jmuccigr/CV.pdf) of this document.|&nbsp;|
