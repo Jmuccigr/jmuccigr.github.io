@@ -131,7 +131,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 2006 | "Religion and Politics: Did the Romans scruple about the placement of their temples?," *Religion in Roman Italy in the Mid- and Late Republican Eras ("Yale Classical Studies")*, 181–206, Cambridge University Press
 2004 | "Frequent vocabulary in Latin textbooks," *CW* [**97**(4), 409–433](http://www.jstor.org/stable/4352875)
 2003 | "The Brindisi *Elogium* and the Rejected *Lectio Senatus* of Appius Claudius Caecus," *Historia* **52**.4, 496–501
-1999 | "Critical thinking and reflective learning in the Latin classroom," with D. Pennell Ross, in *Language learners of tomorrow: Process and promise*, p. 232–251, M. A. Kassen, ed., NECTFL Conference Reports, National Textbook Co., Lincolnwood, Illinois
+1999 | "Critical thinking and reflective learning in the Latin classroom," with D. Pennell Ross, in [*Language learners of tomorrow: Process and promise*](https://www.worldcat.org/title/language-learners-of-tomorrow-process-and-promise/oclc/42195608), p. 232–251, M. A. Kassen, ed., NECTFL Conference Reports, National Textbook Co., Lincolnwood, Illinois
 1990 | "Synthesis and infrared spectroscopic investigations of substance P and isotopically labelled analogues," MS Thesis, MIT
 1989 | "Benzylhydrazine as a pseudo-substrate of bovine serum amine oxidase," with L. Morpurgo *et al*, [*Biochem. J.* **260**, 19–25](http://www.biochemj.org/bj/260/bj2600019.htm)
 
