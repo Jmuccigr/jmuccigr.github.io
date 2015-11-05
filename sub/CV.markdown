@@ -19,15 +19,13 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 
 |date|item|
 |:--|:--|
-1998|[University of Michigan](http://www.umich.edu/), Ph.D., [Classical Studies](http://www.lsa.umich.edu/classics/)
 1998 | [University of Michigan](http://www.umich.edu/), Ph.D., [Classical Studies](http://www.lsa.umich.edu/classics/)
 1994 (Summer) | [American School for Classical Studies](http://www.ascsa.edu.gr/), Summer Program
 1990–1993 | University of Minnesota, Center for Ancient Studies
 1990 | [Massachusetts Institute of Technology](http://chemistry.mit.edu/), M.S., chemistry
 1987 | [Amherst College](https://www.amherst.edu/), B.A., $\Phi$BK, [classics](https://www.amherst.edu/academiclife/departments/classics/) and [chemistry](https://www.amherst.edu/academiclife/departments/chemistry/)
 1986 (Spring) | [Intercollegiate Center for Classical Studies](http://globaled.duke.edu/Programs/Semester/ICCS_Rome), Rome
-1983 | [Regis High
-School](http://www.regis.org/)
+1983 | [Regis High School](http://www.regis.org/)
 
 ### Academic Employment
 
@@ -211,5 +209,5 @@ Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Mi
 
 |aa|bb|cc|
 |:--|:--:|--:|
-|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Saturday, 19 September 2015.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Thursday, 5 November 2015.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](http://users.drew.edu/jmuccigr/CV.pdf) of this document.|&nbsp;|
