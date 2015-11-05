@@ -11,3 +11,5 @@ This is my CV, which I'm converting to markdown so that I can use pandoc to gene
     - Wrote new css & shell script to generate two versions at the same time by using different css files. Then realized I could use @media in css to handle print version and re-did my css too.
 - 2015 Sept 17 - Switched to using tables instead of html spans. Updated the css too.
 - 2015 Sept 19 - Fixed re-broken table under faculty career, including tweaking list in css since markdown can't handle lists in table cells without using html.
+- 2015 Nov 5 - Removed duplicate line and unnecessary line break in Education section. Updated last-edited date.
+- 
