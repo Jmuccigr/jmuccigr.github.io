@@ -27,7 +27,7 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 1986 (Spring) | [Intercollegiate Center for Classical Studies](http://globaled.duke.edu/Programs/Semester/ICCS_Rome), Rome
 1983 | [Regis High School](http://www.regis.org/)
 
-### Academic Employment (Drew University)
+### Academic Employment, Drew University
 
 |date|item|
 |:--|:--|
@@ -111,7 +111,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 ### Publications
 
-#### Papers
+#### Papers & Chapters
 
 |date|item|
 |:--|:--|
@@ -203,9 +203,9 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 ### Technology-Related Experience
 <span class="item_standalone">
-Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Web sites (now defunct): Papyrology, Ancient-Mediterranean list archives; computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998); Courseware developer, University of Michigan Classical Civilization program (1995)
+SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Web sites (now defunct): Papyrology, Ancient-Mediterranean list archives; computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998); Courseware developer, University of Michigan Classical Civilization program (1995)
 
 |aa|bb|cc|
 |:--|:--:|--:|
-|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Wednesday, 2 December 2015.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Saturday, 5 December 2015.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](http://users.drew.edu/jmuccigr/CV.pdf) of this document.|&nbsp;|
