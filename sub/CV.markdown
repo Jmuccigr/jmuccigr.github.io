@@ -1,6 +1,6 @@
 ---
 author: John Muccigrosso
-css: /Users/john_muccigrosso/Documents/github/local/css/clean_md.css
+css: /Users/john_muccigrosso/Documents/github/local/css/clean_CV.css
 ---
 
 # John D. Muccigrosso
@@ -64,6 +64,7 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 
 |date|item|
 |:--|:--|
+2015-present | Baldwin Honors Committee
 2006–2008 | Chair, Committee on Academic Policy and Curriculum
 2004–2005 | Mellon Foreign-Language Grant steering committee
 2000–2006 | College Space Committee (chair from 2004)
@@ -170,6 +171,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 |date|item|
 |:--|:--|
+2016 | "The Late Antique/Early Medieval Cemetery at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill Rhodes
 2015 | "Seventh Season of Excavation at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill Rhodes
 2014 | "Sixth Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA, with Dr. Sarah Harvey
 2013 | "Fifth Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA
@@ -207,5 +209,5 @@ SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classic
 
 |aa|bb|cc|
 |:--|:--:|--:|
-|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Saturday, 5 December 2015.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Thursday, 14 January 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](http://users.drew.edu/jmuccigr/CV.pdf) of this document.|&nbsp;|
