@@ -209,5 +209,5 @@ SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classic
 
 |aa|bb|cc|
 |:--|:--:|--:|
-|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Thursday, 14 January 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Thursday, 20 January 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](http://users.drew.edu/jmuccigr/CV.pdf) of this document.|&nbsp;|
