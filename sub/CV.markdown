@@ -1,7 +1,7 @@
 ---
 author: John Muccigrosso
 css: /Users/john_muccigrosso/Documents/github/local/css/clean_CV.css
----
+...
 
 # John D. Muccigrosso
 
@@ -33,7 +33,7 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 |:--|:--|
 1998–present | Chair, [Department of Classics](http://www.depts.drew.edu/classics/)  
 
-- Fall 2015-present, 2005–2008 Chair
+- Fall 2015–present, 2005–2008 Chair
 - Fall 2000 Acting Chair
 - 2013 Full, 2004 Associate, 1998 Assistant
 
@@ -64,7 +64,7 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 
 |date|item|
 |:--|:--|
-2015-present | Baldwin Honors Committee
+2015–present | Baldwin Honors Committee
 2006–2008 | Chair, Committee on Academic Policy and Curriculum
 2004–2005 | Mellon Foreign-Language Grant steering committee
 2000–2006 | College Space Committee (chair from 2004)
@@ -105,10 +105,10 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 <span class="item_standalone">Director: *Vicus Martis Tudertium* [Field School](http://users.drew.edu/jmuccigr/vicusadmartis/) (2008–present)
 
-<span class="item_standalone">Supervisor:  [Paestum](http://www.perseus.tufts.edu/cgi-bin/atlas?sites=Poseidonia) (Italy, 1995, ‘97, ‘99)
+<span class="item_standalone">Supervisor:  [Paestum](http://pleiades.stoa.org/places/442733) (Italy, 1995, ‘97, ‘99)
 
 <span class="item_standalone">Participant: Duos Nuraghes (Sardinia, Italy, 1992); Roman Forum
-([Rome, Italy](http://pubweb.parc.xerox.com/map/border%3D1/color%3D1/grid%3D0/ht%3D24.00/lat%3D41.53/lon%3D15/mark%3D41.53,12.3,6,9/format%3D.gif), 1991); Son Mas Sanctuary (Mallorca, Spain, 1990); Poggio Civitate (Murlo, Italy, 1987–88)
+(Rome, Italy, 1991); Son Mas Sanctuary (Mallorca, Spain, 1990); [Poggio Civitate](http://www.poggiocivitate.org/) (Murlo, Italy, 1987–88)
 
 ### Publications
 
@@ -145,13 +145,13 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 2008 | Matthew Hartnett, *By Roman Hands: Inscriptions and Graffiti for Students of Latin*, *CB* **84**.2
 2007 | Keith Hopkins, Mary Beard *The Colosseum*, *Choice*
 2005 | Christopher S. Mackay, *Ancient Rome: A Military and political history*, *CO* 83.1  
-\ |Filippo Canali De Rossi, *Le relazioni diplomatiche di Roma, Vol. I: dall’età regia alla conquista del primato in Italia (753-265 a.C)*, *BMCR* [2005.02.19](http://bmcr.brynmawr.edu/2005/2005-02-19.html)
+\ |Filippo Canali De Rossi, *Le relazioni diplomatiche di Roma, Vol. I: dall’età regia alla conquista del primato in Italia (753–265 a.C)*, *BMCR* [2005.02.19](http://bmcr.brynmawr.edu/2005/2005-02-19.html)
 2004 | Nathan Rosenstein, *Rome at war: Farms, families, and death in the Middle Republic*, *BMCR* [2004.07.56](http://bmcr.brynmawr.edu/2004/2004-07-56.html)  
 \ | Thomas F. Scanlon, *Eros and Greek athletics*, *CO* **81**.2 (Winter)  
 \ | Peter J. Holliday, *Origins of pictorial representation in Roman art*, *NECJ* **31**.1 (February)
 2003 | Guy Bradley, *Ancient Umbria*, *CW* [**96**.2 (Winter), 228–229](http://www.jstor.org/stable/4352751)
 2002 | Serafina Cuomo, *Ancient Mathematics*, *CO* **80**.1 (Fall)  
-\ |Christer Bruun, *The Roman middle republic: Politics, religion, and historiography c. 400-133 B.C.*, *CW* [**95**.4 (Summer), 460–461](http://www.jstor.org/discover/10.2307/4352698)
+\ |Christer Bruun, *The Roman middle republic: Politics, religion, and historiography c. 400–133 B.C.*, *CW* [**95**.4 (Summer), 460–461](http://www.jstor.org/discover/10.2307/4352698)
 2000 | Richard C. Beacham, *Spectacle entertainments of early imperial Rome*, *CO* **78**.1 (Fall)
 
 ### Invited Talks
@@ -209,5 +209,5 @@ SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classic
 
 |aa|bb|cc|
 |:--|:--:|--:|
-|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Thursday, 20 January 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Sunday, 28 February 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](http://users.drew.edu/jmuccigr/CV.pdf) of this document.|&nbsp;|
