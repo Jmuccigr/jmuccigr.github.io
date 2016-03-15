@@ -7,25 +7,25 @@ css: /Users/john_muccigrosso/Documents/github/local/css/clean_CV.css
 
 [comment]: # (For the pdf generation, which isn't working now anyway, put the following in the table as the third line. It leaves behind the = in html:\hspace{2.5in} = \hspace{1.75in} \kill)
 
-|aa|bb|
-|:--|--:|
+|left|right|
+|:---|----:|
 Professor of Classics|[Drew University](http://www.drew.edu/)|
-|<jmuccigr@drew.edu>|[214a Brothers College](http://www.drew.edu/map/?building=brothers&Perspective=Y#building=brothers)|
+|<jmuccigr@drew.edu>|[214a Brothers College](http://www.drew.edu/map/#building=brothers)|
 |<http://www.users.drew.edu/jmuccigr/>| Madison, NJ 07940 |
-|[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](http://drew.academia.edu/JohnMuccigrosso)|+1.973.408.3029|
+|[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)|+1.973.408.3029|
 
 ### Education
 
 
 |date|item|
 |:--|:--|
-1998 | [University of Michigan](http://www.umich.edu/), Ph.D., [Classical Studies](http://www.lsa.umich.edu/classics/)
+1998 | [University of Michigan](https://www.umich.edu/), Ph.D., [Classical Studies](https://www.lsa.umich.edu/classics/)
 1994 (Summer) | [American School for Classical Studies](http://www.ascsa.edu.gr/), Summer Program
 1990–1993 | University of Minnesota, Center for Ancient Studies
 1990 | [Massachusetts Institute of Technology](http://chemistry.mit.edu/), M.S., chemistry
 1987 | [Amherst College](https://www.amherst.edu/), B.A., ΦΒΚ, [classics](https://www.amherst.edu/academiclife/departments/classics/) and [chemistry](https://www.amherst.edu/academiclife/departments/chemistry/)
-1986 (Spring) | [Intercollegiate Center for Classical Studies](http://globaled.duke.edu/Programs/Semester/ICCS_Rome), Rome
-1983 | [Regis High School](http://www.regis.org/)
+1986 (Spring) | [Intercollegiate Center for Classical Studies](https://globaled.duke.edu/Programs/Semester/ICCS_Rome), Rome
+1983 | [Regis High School](https://www.regis.org/)
 
 ### Academic Employment, Drew University
 
@@ -120,13 +120,13 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 2014 | *Current Practice in Linked Open Data for the Ancient World*, issue ed., with Thomas Elliott and Sebastian Heath, *ISAW Papers* [**7**](http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/)
 2012 | "Re-Interpreting the Robinson Skyphos," *SHT* [**13**.A.1, 1–15](http://sht.ut.ee/index.php/sht/article/view/13.A.1)  
 \ | "Report on the Linked Ancient World Data Institute," with Thomas Elliott and Sebastian Heath, *ISQ* [**24**, 2–3](http://www.niso.org/apps/group_public/download.php/9404/CR_Elliott-etal_LAWDI_isqv24no2-3.pdf), Spring/Summer
-2011 | "A New Archaic Dipinto from Poseidonia," with James Higginbotham, *ZPE* [**178**, 191–194](http://www.jstor.org/stable/41616766)  
+2011 | "A New Archaic Dipinto from Poseidonia," with James Higginbotham, *ZPE* [**178**, 191–194](https://www.jstor.org/stable/41616766)  
 \ | "The 2010 Excavation Season at the Site of the Vicus ad Martis Tudertium (PG)," *FOLD&R* [**227**](http://www.fastionline.org/docs/FOLDER-it-2011-227.pdf)
 2010 | "Excavations along the Via Flaminia: the Vicus ad Martis Tudertium," *Etruscan News* [**13**, Winter](http://ancientstudies.fas.nyu.edu/docs/CP/963/EtruscanNews10_winter.pdf), p. 16  
 \ | "The 2008 and 2009 Excavation Seasons at the Site of the Vicus ad Martis Tudertium (PG)," *FOLD&R* [**185**](http://www.fastionline.org/docs/FOLDER-it-2010-185.pdf)
 2009 | "Excavations at the Vicus ad Martis Tudertium," *Etruscan News* [**11**, Winter](http://ancientstudies.fas.nyu.edu/docs/CP/963/etruscannews_vol11_winter2009.pdf), p. 15
 2006 | "Religion and Politics: Did the Romans scruple about the placement of their temples?," *Religion in Roman Italy in the Mid- and Late Republican Eras ("Yale Classical Studies")*, 181–206, Cambridge University Press
-2004 | "Frequent vocabulary in Latin textbooks," *CW* [**97**(4), 409–433](http://www.jstor.org/stable/4352875)
+2004 | "Frequent vocabulary in Latin textbooks," *CW* [**97**(4), 409–433](https://www.jstor.org/stable/4352875)
 2003 | "The Brindisi *Elogium* and the Rejected *Lectio Senatus* of Appius Claudius Caecus," *Historia* **52**.4, 496–501
 1999 | "Critical thinking and reflective learning in the Latin classroom," with D. Pennell Ross, in [*Language learners of tomorrow: Process and promise*](https://www.worldcat.org/title/language-learners-of-tomorrow-process-and-promise/oclc/42195608), p. 232–251, M. A. Kassen, ed., NECTFL Conference Reports, National Textbook Co., Lincolnwood, Illinois
 1990 | "Synthesis and infrared spectroscopic investigations of substance P and isotopically labelled analogues," MS Thesis, MIT
@@ -141,7 +141,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 2013 | Michael L. Thomas, Gretchen E. Meyers, Ingrid E. M. Edlund-Berry, ed. *Monumentality in Etruscan and Early Roman Architecture: Ideology and Innovation*, *BMCR* [2013.03.11](http://bmcr.brynmawr.edu/2013/2013-03-11.html)
 2012 | Ramsey MacMullen, *The Earliest Romans: a character sketch*, *BMCR* [2012.02.10](http://bmcr.brynmawr.edu/2012/2012-02-10.html)
 2010 | Fik Meijer, *Chariot racing in the Roman Empire*, *BMCR* [2010.11.26](http://bmcr.brynmawr.edu/2010/2010-11-26.html)  
-\ | Nigel B. Crowther, *Sport in Ancient Times*, *CJ* [**106**(2), 242–243](http://www.jstor.org/stable/10.5184/classicalj.106.2.0242)
+\ | Nigel B. Crowther, *Sport in Ancient Times*, *CJ* [**106**(2), 242–243](https://www.jstor.org/stable/10.5184/classicalj.106.2.0242)
 2008 | Matthew Hartnett, *By Roman Hands: Inscriptions and Graffiti for Students of Latin*, *CB* **84**.2
 2007 | Keith Hopkins, Mary Beard *The Colosseum*, *Choice*
 2005 | Christopher S. Mackay, *Ancient Rome: A Military and political history*, *CO* 83.1  
@@ -149,36 +149,38 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 2004 | Nathan Rosenstein, *Rome at war: Farms, families, and death in the Middle Republic*, *BMCR* [2004.07.56](http://bmcr.brynmawr.edu/2004/2004-07-56.html)  
 \ | Thomas F. Scanlon, *Eros and Greek athletics*, *CO* **81**.2 (Winter)  
 \ | Peter J. Holliday, *Origins of pictorial representation in Roman art*, *NECJ* **31**.1 (February)
-2003 | Guy Bradley, *Ancient Umbria*, *CW* [**96**.2 (Winter), 228–229](http://www.jstor.org/stable/4352751)
+2003 | Guy Bradley, *Ancient Umbria*, *CW* [**96**.2 (Winter), 228–229](https://www.jstor.org/stable/4352751)
 2002 | Serafina Cuomo, *Ancient Mathematics*, *CO* **80**.1 (Fall)  
-\ |Christer Bruun, *The Roman middle republic: Politics, religion, and historiography c. 400–133 B.C.*, *CW* [**95**.4 (Summer), 460–461](http://www.jstor.org/discover/10.2307/4352698)
+\ |Christer Bruun, *The Roman middle republic: Politics, religion, and historiography c. 400–133 B.C.*, *CW* [**95**.4 (Summer), 460–461](https://www.jstor.org/discover/10.2307/4352698)
 2000 | Richard C. Beacham, *Spectacle entertainments of early imperial Rome*, *CO* **78**.1 (Fall)
 
 ### Invited Talks
 
 |date|item|
 |:--|:--|
+2016 | "Recent work along the Flaminian Way," AIA lecture program, University of Alberta, March 10
 2012 | "Excavations at the *Vicus ad Martis* in Umbria," NJ Classical Association, October 13
 2010 | "New Excavations on the Flaminian Way: A Field School at the *Vicus ad Martis*," Fairfield College, March 17
-2008 | "Report on first season of excavations at the Vicus ad Martis Tudertium," Museum of S. Maria della Pace, as part of the "Giornate Europee del Patrimonio" program, September 28
+2008 | "Report on first season of excavations at the *Vicus ad Martis Tudertium*," Museum of S. Maria della Pace, as part of the "Giornate Europee del Patrimonio" program, September 28
 2007 | "Instructional technology and the teaching of Latin: Where we’ve been and where we’re going," Glenn M. Knudsvig Memorial Symposium at the University of Michigan, Keynote speaker, 9 July
 2005 | "*Quirites* and the preservation of early Latin texts," Stockton College, 10 April
 2003 | "Religion and Politics: Did the Romans scruple about the placement of their temples?," Yale University, 1 March
 2001 | "Paestum," Amherst College, 4 October
-2000 | "Gladiators and Political Competiton in Republican Rome," New Jersey Classical Association Spring Meeting
+2000 | "Gladiators and Political Competition in Republican Rome," New Jersey Classical Association Spring Meeting
 
 ### Conference Papers
 
 |date|item|
 |:--|:--|
-2016 | "The Late Antique/Early Medieval Cemetery at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill Rhodes
-2015 | "Seventh Season of Excavation at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill Rhodes
+2016 | "The Late Antique/Early Medieval Cemetery at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill A. Rhodes
+2015 | "Seventh Season of Excavation at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill A. Rhodes
+\ | "An Unusual Interment of Dismembered Legs and Hands: A Roman Umbria burial puzzle," poster, American Association of Physical Anthropologists Annual Meeting, with Dr. Jill A. Rhodes (presenter)
 2014 | "Sixth Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA, with Dr. Sarah Harvey
 2013 | "Fifth Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA
 2012 | "Fourth Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA
 2011 | "Third Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA
 2010 | "Second Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA
-2009 | "Results of First Season of Excavation and Geo-magnetic Survey at the Vicus ad Martis Tudertium," with Tommaso Mattioli, Departimento Uomo & Territorio, University of Perugia, AIA
+2009 | "Results of First Season of Excavation and Geo-magnetic Survey at the *Vicus ad Martis Tudertium*," with Tommaso Mattioli, Departimento Uomo & Territorio, University of Perugia, AIA
 2006 | "Depictions of Workshops in Ancient Art: Too Many Potters?," poster, AIA (2nd Prize Winner)
 2005 | Invited Facilitator for panel discussion: "*Davus and Grumio Go To College*: workshop and discussion on creating the ideal college-level Latin textbook," CAAS, fall meeting
 2003 | "Frequent Latin vocabulary," ACL Institute
@@ -201,13 +203,13 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 ### Dissertation
 
 <span class="item_standalone">
-"[Factional Competition and Monumental Construction in Mid-Republican Rome](http://dx.doi.org/10.6084/m9.figshare.763319)," D. S. Potter, advisor
+"[Factional Competition and Monumental Construction in Mid-Republican Rome](https://dx.doi.org/10.6084/m9.figshare.763319)," D. S. Potter, advisor
 
 ### Technology-Related Experience
 <span class="item_standalone">
 SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Web sites (now defunct): Papyrology, Ancient-Mediterranean list archives; computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998); Courseware developer, University of Michigan Classical Civilization program (1995)
 
-|aa|bb|cc|
-|:--|:--:|--:|
-|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Sunday, 28 February 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|left|center|right|
+|:---|:----:|----:|
+|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Tuesday, 15 March 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](http://users.drew.edu/jmuccigr/CV.pdf) of this document.|&nbsp;|
