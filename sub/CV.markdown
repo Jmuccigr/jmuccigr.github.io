@@ -64,6 +64,7 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 
 |date|item|
 |:--|:--|
+2016–present | Digital Humanities Working Group
 2015–present | Baldwin Honors Committee
 2006–2008 | Chair, Committee on Academic Policy and Curriculum
 2004–2005 | Mellon Foreign-Language Grant steering committee
@@ -112,10 +113,11 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 ### Publications
 
-#### Papers & Chapters
+#### Books, Papers & Chapters
 
 |date|item|
 |:--|:--|
+2018 (exp.) | Fides non ficta: *Essays in honor of Paul B. Harvey, jr.*, co-edited with Celia Schultz, from a conference (April 2017) 
 2015 | "The 2011 Excavation Season at the Site of the Vicus Martis Tudertium (PG)," with Rangar Cline, Sarah Harvey, Elena Lorenzetti, and Stefano Spiganti *FOLD&R* [**327**](http://www.fastionline.org/docs/FOLDER-it-2015-327.pdf)
 2014 | *Current Practice in Linked Open Data for the Ancient World*, issue ed., with Thomas Elliott and Sebastian Heath, *ISAW Papers* [**7**](http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/)
 2012 | "Re-Interpreting the Robinson Skyphos," *SHT* [**13**.A.1, 1–15](http://sht.ut.ee/index.php/sht/article/view/13.A.1)  
