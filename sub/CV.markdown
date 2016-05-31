@@ -19,7 +19,7 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 
 |date|item|
 |:--|:--|
-1998 | [University of Michigan](https://www.umich.edu/), Ph.D., [Classical Studies](https://www.lsa.umich.edu/classics/)
+1998 | [University of Michigan](https://www.umich.edu/), Ph.D., [Classical Studies](https://lsa.umich.edu/classics/)
 1994 (Summer) | [American School for Classical Studies](http://www.ascsa.edu.gr/), Summer Program
 1990–1993 | University of Minnesota, Center for Ancient Studies
 1990 | [Massachusetts Institute of Technology](http://chemistry.mit.edu/), M.S., chemistry
@@ -41,7 +41,7 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 |:--|:--|
 2009–2014 | Associate Dean, [College of Liberal Arts](http://www.drew.edu/cla/cla-deans-office/)
 \ | *Budget & salary; retention; management of physical resources; scheduling; college IR; admissions outreach; special projects*
-2011–2014 | [Director of Institutional Research](http://www.depts.drew.edu/research/)
+2011–2014 | [Director of Institutional Research](http://www.drew.edu/InstitutionalResearch/)
 \ | *Internal & external reporting; survey administration; retention analysis; budget-preparation assistance*
 
 [comment]: # ( ### Responsibilities RETURN <span class="item_standalone">Director of Institutional Research: Internal & external reporting, survey administration, retention analysis, budget-preparation assistance RETURN <span class="item_standalone">Associate Dean: Budget & salary, retention, management of physical resources, scheduling, college IR, admissions outreach, special projects)
