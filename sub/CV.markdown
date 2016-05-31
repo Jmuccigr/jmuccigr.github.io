@@ -133,6 +133,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 1999 | "Critical thinking and reflective learning in the Latin classroom," with D. Pennell Ross, in [*Language learners of tomorrow: Process and promise*](https://www.worldcat.org/title/language-learners-of-tomorrow-process-and-promise/oclc/42195608), p. 232–251, M. A. Kassen, ed., NECTFL Conference Reports, National Textbook Co., Lincolnwood, Illinois
 1990 | "Synthesis and infrared spectroscopic investigations of substance P and isotopically labelled analogues," MS Thesis, MIT
 1989 | "Benzylhydrazine as a pseudo-substrate of bovine serum amine oxidase," with L. Morpurgo *et al*, [*Biochem. J.* **260**, 19–25](http://www.biochemj.org/bj/260/bj2600019.htm)
+1988 | "Amine oxidases as biological regulators," with E. Agostinelli, *et al.*,  in *Perspectives in polyamine research*, p. 11-15, A. Perin, *et al.*, ed., Wichtig Editore, Milan
 
 #### Reviews
 
@@ -213,5 +214,5 @@ SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classic
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Tuesday, 15 March 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Tuesday, 31 May 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](http://users.drew.edu/jmuccigr/CV.pdf) of this document.|&nbsp;|
