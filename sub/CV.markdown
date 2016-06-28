@@ -166,7 +166,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 2010 | "New Excavations on the Flaminian Way: A Field School at the *Vicus ad Martis*," Fairfield College, March 17
 2008 | "Report on first season of excavations at the *Vicus ad Martis Tudertium*," Museum of S. Maria della Pace, as part of the "Giornate Europee del Patrimonio" program, September 28
 2007 | "Instructional technology and the teaching of Latin: Where we’ve been and where we’re going," Glenn M. Knudsvig Memorial Symposium at the University of Michigan, Keynote speaker, 9 July
-2005 | "*Quirites* and the preservation of early Latin texts," Stockton College, 10 April
+2005 | "*Quirites* and the preservation of early Latin texts," Classical Humanities Society of South Jersey, at the Richard Stockton College of NJ, 10 April
 2003 | "Religion and Politics: Did the Romans scruple about the placement of their temples?," Yale University, 1 March
 2001 | "Paestum," Amherst College, 4 October
 2000 | "Gladiators and Political Competition in Republican Rome," New Jersey Classical Association Spring Meeting
@@ -214,5 +214,5 @@ SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classic
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Tuesday, 31 May 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Tuesday, 28 June 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](http://users.drew.edu/jmuccigr/CV.pdf) of this document.|&nbsp;|
