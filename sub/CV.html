@@ -1,0 +1,640 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="John Muccigrosso" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link href="data:text/css;charset=utf-8,body%0A%7B%0Abackground%2Dcolor%3A%20%23F5F5F5%3B%0Afont%2Dfamily%3A%20%22Old%20Standard%20TT%22%2C%20%22Georgia%22%2C%22Baskerville%22%2C%22Times%22%2C%22Times%20New%20Roman%22%2C%22Serif%22%3B%0Afont%2Dsize%3A%2013pt%3B%0Aline%2Dheight%3A%20110%25%3B%0Acolor%3A%20black%3B%0Awidth%3A%20600pt%3B%0Aclear%3A%20both%3B%0Amargin%2Dleft%3A%20auto%3B%0Amargin%2Dright%3A%20auto%3B%0Apadding%3A%200pt%2075pt%2050pt%2075pt%3B%0A%7D%0Ap%0A%7B%0Atext%2Dindent%3A%200pt%3B%0Amargin%2Dtop%3A%200pt%3B%0Amargin%2Dbottom%3A%200pt%3B%0A%7D%0Aspan%2Etextbox%0A%7B%0Afont%2Dfamily%3A%20%22Georgia%22%2C%22Baskerville%22%2C%22Times%22%2C%22Times%20New%20Roman%22%2C%22Serif%22%3B%0Afont%2Dsize%3A%2013pt%3B%0Aline%2Dheight%3A%20110%25%3B%0Abackground%2Dcolor%3A%20%23F5F5F5%3B%0Acolor%3A%20black%3B%0Awidth%3A%20600pt%3B%0Aclear%3A%20both%3B%0Amargin%2Dleft%3A%20auto%3B%0Amargin%2Dright%3A%20auto%3B%0Apadding%3A%200pt%2075pt%2050pt%2075pt%3B%0A%7D%0Ah1%2C%20h2%2C%20h3%2C%20h4%2C%20h5%2C%20h6%2C%20%2Esmall%5Fheading%2C%20%2Eright%5Fheading%2C%20table%3Afirst%2Dof%2Dtype%2C%20table%3Alast%2Dof%2Dtype%0A%7B%0Afont%2Dfamily%3A%20%22Gill%20Sans%22%2C%22Helvetica%22%2C%22sans%2Dserif%22%3B%0Aclear%3A%20both%3B%0A%7D%0Ah1%2C%20h2%2C%20h3%2C%20h4%2C%20h5%2C%20h6%0A%7B%0Aline%2Dheight%3A%20100%25%3B%0A%7D%0Ah1%0A%7B%0Afont%2Dsize%3A%2024pt%3B%0Afont%2Dweight%3A%20lighter%3B%0Afont%2Dvariant%3A%20small%2Dcaps%3B%0Aletter%2Dspacing%3A%20%2E07em%3B%0A%7D%0Ah2%0A%7B%0Afont%2Dsize%3A%2018pt%3B%0Afont%2Dweight%3A%20normal%3B%0Aline%2Dheight%3A%2050%25%3B%0A%7D%0Ah3%0A%7B%0Afont%2Dsize%3A%2015pt%3B%0Afont%2Dweight%3A%20lighter%3B%0Aborder%2Dtop%3A%202px%20solid%20lightgray%3B%0Amargin%2Dtop%3A%2020pt%3B%0Apadding%2Dtop%3A%208pt%3B%0A%7D%0Ah4%0A%7B%0Afont%2Dsize%3A%2013pt%3B%0Afont%2Dweight%3A%20lighter%3B%0Amargin%2Dtop%3A%200pt%3B%0A%7D%0Ah5%0A%7B%0Afont%2Dsize%3A%2010pt%3B%0Afont%2Dweight%3A%20bold%3B%0A%7D%0Ah6%0A%7B%0Afont%2Dsize%3A%209pt%3B%0Afont%2Dweight%3A%20bold%3B%0A%7D%0Atable%0A%7B%0Awidth%3A%20100%25%3B%0Apadding%2Dbottom%3A%206pt%3B%0A%7D%0Atable%20tr%20td%0A%7B%0A%0A%0A%0Avertical%2Dalign%3A%20top%3B%0Apadding%2Dbottom%3A%20%2E3em%3B%0A%7D%0Atable%20tr%20td%3Afirst%2Dchild%0A%7B%0Awidth%3A%20110pt%3B%0Apadding%2Dleft%3A%2011pt%3B%0A%7D%0Atable%3Afirst%2Dof%2Dtype%2C%20table%3Alast%2Dof%2Dtype%0A%7B%0Abackground%2Dcolor%3A%20transparent%3B%0Apadding%2Dleft%3A%200%3B%0Apadding%2Dbottom%3A%200pt%3B%0Amargin%2Dbottom%3A%20inherit%3B%0Afont%2Dweight%3A%20lighter%3B%0A%7D%0Atable%3Alast%2Dof%2Dtype%0A%7B%0Aborder%2Dtop%3A%202px%20solid%20lightgray%3B%0Amargin%2Dtop%3A%202em%3B%0Apadding%2Dtop%3A%201em%3B%0A%7D%0Atable%3Afirst%2Dof%2Dtype%20tr%20td%0A%7B%0Abackground%2Dcolor%3A%20transparent%3B%0Amargin%2Dbottom%3A%20inherit%3B%0Apadding%2Dleft%3A%200%3B%0Apadding%2Dbottom%3A%20%2E1em%3B%0A%7D%0Atable%3Anot%28%3Afirst%2Dof%2Dtype%29%3Anot%28%3Alast%2Dof%2Dtype%29%20tr%20td%3Afirst%2Dchild%0A%7B%0Afont%2Dsize%3A%20smaller%3B%0A%7D%0Ath%0A%7B%0Abackground%3A%20red%3B%0Adisplay%3A%20none%3B%0Aheight%3A%200%3B%0A%7D%0Ap%20%7E%20table%0A%7B%0A%0A%0A%7D%0Aimg%0A%7B%0Afloat%3A%20right%3B%0Awidth%3A%20150px%3B%0Aheight%3A%20auto%3B%0Aborder%3A%201pt%20solid%3B%0Atop%3A%2050pt%3B%0Aposition%3A%20relative%3B%0A%7D%0A%0Aul%0A%7B%0Aline%2Dheight%3A%20130%25%3B%0Alist%2Dstyle%2Dtype%3A%20circle%3B%0Apadding%3A%200pt%200pt%200pt%20150pt%3B%0Amargin%2Dtop%3A%20%2D%2E5em%3B%0A%7D%0Ap%20%2B%20ul%20%7B%20margin%2Dtop%3A%20%2D5pt%3B%20%7D%0Aa%0A%7B%0Abackground%3A%20transparent%3B%0Aborder%2Dbottom%3A%20thin%20dotted%3B%0Atext%2Ddecoration%3A%20none%3B%0Acolor%3A%20inherit%3B%0A%7D%0Aa%3Avisited%20%7B%20%7D%0Aa%3Ahover%0A%7B%0Abackground%2Dcolor%3A%20%23333%3B%0Acolor%3A%20%23E6E6E6%3B%0A%7D%0A%2A%2Esmall%5Fheading%0A%7B%0Afont%2Dsize%3A%2012pt%3B%0Afloat%3A%20left%3B%0Apadding%2Dbottom%3A%205pt%3B%0A%7D%0A%2Eright%5Fheading%0A%7B%0Atext%2Dalign%3A%20right%3B%0Afont%2Dsize%3A%2012pt%3B%0Aclear%3A%20none%3B%0Avertical%2Dalign%3A%20bottom%3B%0Apadding%2Dbottom%3A%2015pt%3B%0Adisplay%3A%20inline%2Dblock%3B%0Afloat%3A%20right%3B%0A%7D%0A%2Eitem%0A%7B%0Apadding%2Dleft%3A%20125pt%3B%0Aposition%3A%20relative%3B%0Aclear%3A%20both%3B%0Adisplay%3A%20block%3B%0Amargin%2Dbottom%3A%207pt%3B%0Acolor%3A%20black%3B%0A%7D%0A%2Eitem%20%2Edate%0A%7B%0Aposition%3A%20absolute%3B%0Atop%3A%200%3B%0Aleft%3A%2012pt%3B%0Aright%3A%20480pt%3B%0A%7D%0A%2A%2Eitem%5Fstandalone%0A%7B%0Adisplay%3A%20inline%2Dblock%3B%0Aline%2Dheight%3A%20110%25%3B%0Atext%2Dalign%3A%20left%3B%0Apadding%2Dleft%3A%2012pt%3B%0Amargin%2Dbottom%3A%207pt%3B%0A%7D%0A%2Efooter%0A%7B%0Aborder%2Dtop%3A%202px%20solid%20lightgray%3B%0Amargin%2Dtop%3A%2025pt%3B%0Atext%2Dalign%3A%20center%3B%0Acolor%3A%20red%3B%0A%7D%0Ahr%0A%7B%0Aheight%3A%202px%3B%0Abackground%2Dcolor%3A%20lightgray%3B%0Atext%2Dalign%3A%20center%3B%0Aborder%3A%20none%3B%0A%7D%0A%40media%20print%0A%7B%0Atable%3Alast%2Dof%2Dtype%0A%7B%0A%0Adisplay%3A%20none%3B%0Afont%2Dsize%3A%201%25%3B%0A%7D%0Aa%20%7B%0A%0Aborder%2Dstyle%3A%20none%3B%0A%7D%0Abody%0A%7B%0A%0Abackground%2Dcolor%3A%20white%3B%0A%7D%0A%7D" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<h1 id="john-d.-muccigrosso">John D. Muccigrosso</h1>
+<table>
+<thead>
+<tr class="header">
+<th align="left">left</th>
+<th align="right">right</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Professor of Classics</td>
+<td align="right"><a href="http://www.drew.edu/">Drew University</a></td>
+</tr>
+<tr class="even">
+<td align="left"><script type="text/javascript">
+<!--
+h='&#100;&#114;&#x65;&#x77;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#106;&#x6d;&#x75;&#x63;&#x63;&#x69;&#x67;&#114;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
+// -->
+</script><noscript>jmuccigr at drew dot edu</noscript></td>
+<td align="right"><a href="http://www.drew.edu/map/#building=brothers">214a Brothers College</a></td>
+</tr>
+<tr class="odd">
+<td align="left"><a href="http://www.users.drew.edu/jmuccigr/" class="uri">http://www.users.drew.edu/jmuccigr/</a></td>
+<td align="right">Madison, NJ 07940</td>
+</tr>
+<tr class="even">
+<td align="left"><a href="http://viaf.org/viaf/309849093/">VIAF</a>, <a href="http://orcid.org/0000-0002-9877-1043">ORCID</a>, <a href="https://drew.academia.edu/JohnMuccigrosso">Academia.edu</a></td>
+<td align="right">+1.973.408.3029</td>
+</tr>
+</tbody>
+</table>
+<h3 id="education">Education</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">date</th>
+<th align="left">item</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">1998</td>
+<td align="left"><a href="https://www.umich.edu/">University of Michigan</a>, Ph.D., <a href="https://lsa.umich.edu/classics/">Classical Studies</a></td>
+</tr>
+<tr class="even">
+<td align="left">1994 (Summer)</td>
+<td align="left"><a href="http://www.ascsa.edu.gr/">American School for Classical Studies</a>, Summer Program</td>
+</tr>
+<tr class="odd">
+<td align="left">1990–1993</td>
+<td align="left">University of Minnesota, Center for Ancient Studies</td>
+</tr>
+<tr class="even">
+<td align="left">1990</td>
+<td align="left"><a href="http://chemistry.mit.edu/">Massachusetts Institute of Technology</a>, M.S., chemistry</td>
+</tr>
+<tr class="odd">
+<td align="left">1987</td>
+<td align="left"><a href="https://www.amherst.edu/">Amherst College</a>, B.A., ΦΒΚ, <a href="https://www.amherst.edu/academiclife/departments/classics/">classics</a> and <a href="https://www.amherst.edu/academiclife/departments/chemistry/">chemistry</a></td>
+</tr>
+<tr class="even">
+<td align="left">1986 (Spring)</td>
+<td align="left"><a href="https://globaled.duke.edu/Programs/Semester/ICCS_Rome">Intercollegiate Center for Classical Studies</a>, Rome</td>
+</tr>
+<tr class="odd">
+<td align="left">1983</td>
+<td align="left"><a href="https://www.regis.org/">Regis High School</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="academic-employment-drew-university">Academic Employment, Drew University</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">date</th>
+<th align="left">item</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">1998–present</td>
+<td align="left">Chair, <a href="http://www.depts.drew.edu/classics/">Department of Classics</a></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Fall 2015–present, 2005–2008 Chair</li>
+<li>Fall 2000 Acting Chair</li>
+<li>2013 Full, 2004 Associate, 1998 Assistant</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th align="left">date</th>
+<th align="left">item</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2009–2014</td>
+<td align="left">Associate Dean, <a href="http://www.drew.edu/cla/cla-deans-office/">College of Liberal Arts</a></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"><em>Budget &amp; salary; retention; management of physical resources; scheduling; college IR; admissions outreach; special projects</em></td>
+</tr>
+<tr class="odd">
+<td align="left">2011–2014</td>
+<td align="left"><a href="http://www.drew.edu/InstitutionalResearch/">Director of Institutional Research</a></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"><em>Internal &amp; external reporting; survey administration; retention analysis; budget-preparation assistance</em></td>
+</tr>
+</tbody>
+</table>
+<h3 id="administrative-committee-service">Administrative Committee Service</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">date</th>
+<th align="left">item</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2011–2014</td>
+<td align="left">Net Tuition Revenue</td>
+</tr>
+<tr class="even">
+<td align="left">2010–2014</td>
+<td align="left">Leader, Banner-Transition Student Catalog Team</td>
+</tr>
+<tr class="odd">
+<td align="left">2013–2014</td>
+<td align="left">Drew2017 Prioritization Project, Steering Committee</td>
+</tr>
+<tr class="even">
+<td align="left">2013–2014</td>
+<td align="left">Chair, Academic Readiness Subcommittee, Student Success Committee</td>
+</tr>
+<tr class="odd">
+<td align="left">2012–2014</td>
+<td align="left">Risk Assessment</td>
+</tr>
+<tr class="even">
+<td align="left">2009–2014</td>
+<td align="left">Academic Standing Committee; Academic Computing Advisory Committee</td>
+</tr>
+<tr class="odd">
+<td align="left">2011–2013</td>
+<td align="left">Provost’s Council</td>
+</tr>
+<tr class="even">
+<td align="left">2011–2012</td>
+<td align="left">Facilities Utilization Team, Organizational Review</td>
+</tr>
+<tr class="odd">
+<td align="left">2009–2012</td>
+<td align="left">Co-Chair, Enrollment Management and Retention Committee</td>
+</tr>
+</tbody>
+</table>
+<h3 id="faculty-committee-service">Faculty Committee Service</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">date</th>
+<th align="left">item</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2016–present</td>
+<td align="left">Digital Humanities Working Group</td>
+</tr>
+<tr class="even">
+<td align="left">2015–present</td>
+<td align="left">Baldwin Honors Committee</td>
+</tr>
+<tr class="odd">
+<td align="left">2006–2008</td>
+<td align="left">Chair, Committee on Academic Policy and Curriculum</td>
+</tr>
+<tr class="even">
+<td align="left">2004–2005</td>
+<td align="left">Mellon Foreign-Language Grant steering committee</td>
+</tr>
+<tr class="odd">
+<td align="left">2000–2006</td>
+<td align="left">College Space Committee (chair from 2004)</td>
+</tr>
+<tr class="even">
+<td align="left">2002–2006</td>
+<td align="left">University Space Committee</td>
+</tr>
+<tr class="odd">
+<td align="left">2004–2005</td>
+<td align="left">Co-Chair, Foreign-Language Council</td>
+</tr>
+<tr class="even">
+<td align="left">2002</td>
+<td align="left">Student Life Advisory Board</td>
+</tr>
+<tr class="odd">
+<td align="left">2000–2001</td>
+<td align="left">University Technology Committee</td>
+</tr>
+</tbody>
+</table>
+<h3 id="grants-awards">Grants &amp; Awards</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">date</th>
+<th align="left">item</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2011–2013</td>
+<td align="left">NEH Institute for Advanced Topics in the Digital Humanities: Linked Ancient World Data Institute, Co-Principal Investigator</td>
+</tr>
+<tr class="even">
+<td align="left">2013, ‘07, ‘06, ‘04</td>
+<td align="left">Summer Faculty Research/Development Grant</td>
+</tr>
+<tr class="odd">
+<td align="left">2006</td>
+<td align="left">Presidential Initiative Fund Grant</td>
+</tr>
+<tr class="even">
+<td align="left">2005</td>
+<td align="left">DuPont Fellow, National Humanities Center (<em>Space: Familiar, Sacred, Contested, Compulsory</em>, led by Annabel Wharton, Department of Art and Art History, Duke University)</td>
+</tr>
+<tr class="odd">
+<td align="left">1998–1999</td>
+<td align="left">Faculty Research Grants</td>
+</tr>
+<tr class="even">
+<td align="left">1997–1998, 1996</td>
+<td align="left">Mellon Fellow, University of Michigan</td>
+</tr>
+<tr class="odd">
+<td align="left">1993–1994</td>
+<td align="left">Regents Fellow, University of Michigan</td>
+</tr>
+<tr class="even">
+<td align="left">1990–1991</td>
+<td align="left">University Fellow, University of Minnesota</td>
+</tr>
+<tr class="odd">
+<td align="left">1990</td>
+<td align="left">Amherst Memorial Fellow in Archaeology, Amherst College</td>
+</tr>
+<tr class="even">
+<td align="left">1983–1987</td>
+<td align="left">Amherst College Classics Prizes: Bertram, Billings Ancient Greek, Crowell Freshman Latin, Harry DeForrest Smith entering-freshmen Greek-language</td>
+</tr>
+</tbody>
+</table>
+<h3 id="professional-service">Professional Service</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">date</th>
+<th align="left">item</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2012–present</td>
+<td align="left"><a href="http://bmcr.brynmawr.edu/"><em>Bryn Mawr Classical Review</em></a>, editorial board</td>
+</tr>
+<tr class="even">
+<td align="left">1995–present</td>
+<td align="left">Owner of <em>Greekarch</em>, an e-mail list for Greek archaeology</td>
+</tr>
+<tr class="odd">
+<td align="left">2007–2010</td>
+<td align="left">APA Committee on the Status of Women and Minority Groups</td>
+</tr>
+</tbody>
+</table>
+<h3 id="academic-interests">Academic Interests</h3>
+<p><span class="item_standalone"> Italian archaeology, Roman history, Latin paedagogy, Digital Humanities</p>
+<h3 id="archaeological-experience">Archaeological Experience</h3>
+<p><span class="item_standalone">Director: <em>Vicus Martis Tudertium</em> <a href="http://users.drew.edu/jmuccigr/vicusadmartis/">Field School</a> (2008–present)</p>
+<p><span class="item_standalone">Supervisor: <a href="http://pleiades.stoa.org/places/442733">Paestum</a> (Italy, 1995, ‘97, ‘99)</p>
+<p><span class="item_standalone">Participant: Duos Nuraghes (Sardinia, Italy, 1992); Roman Forum (Rome, Italy, 1991); Son Mas Sanctuary (Mallorca, Spain, 1990); <a href="http://www.poggiocivitate.org/">Poggio Civitate</a> (Murlo, Italy, 1987–88)</p>
+<h3 id="publications">Publications</h3>
+<h4 id="books-papers-chapters">Books, Papers &amp; Chapters</h4>
+<table>
+<thead>
+<tr class="header">
+<th align="left">date</th>
+<th align="left">item</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2018 (exp.)</td>
+<td align="left">Fides non ficta: <em>Essays in honor of Paul B. Harvey, jr.</em>, co-edited with Celia Schultz, from a conference (April 2017)</td>
+</tr>
+<tr class="even">
+<td align="left">2015</td>
+<td align="left">“The 2011 Excavation Season at the Site of the Vicus Martis Tudertium (PG),” with Rangar Cline, Sarah Harvey, Elena Lorenzetti, and Stefano Spiganti <em>FOLD&amp;R</em> <a href="http://www.fastionline.org/docs/FOLDER-it-2015-327.pdf"><strong>327</strong></a></td>
+</tr>
+<tr class="odd">
+<td align="left">2014</td>
+<td align="left"><em>Current Practice in Linked Open Data for the Ancient World</em>, issue ed., with Thomas Elliott and Sebastian Heath, <em>ISAW Papers</em> <a href="http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/"><strong>7</strong></a></td>
+</tr>
+<tr class="even">
+<td align="left">2012</td>
+<td align="left">“Re-Interpreting the Robinson Skyphos,” <em>SHT</em> <a href="http://sht.ut.ee/index.php/sht/article/view/13.A.1"><strong>13</strong>.A.1, 1–15</a></td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">“Report on the Linked Ancient World Data Institute,” with Thomas Elliott and Sebastian Heath, <em>ISQ</em> <a href="http://www.niso.org/apps/group_public/download.php/9404/CR_Elliott-etal_LAWDI_isqv24no2-3.pdf"><strong>24</strong>, 2–3</a>, Spring/Summer</td>
+</tr>
+<tr class="even">
+<td align="left">2011</td>
+<td align="left">“A New Archaic Dipinto from Poseidonia,” with James Higginbotham, <em>ZPE</em> <a href="https://www.jstor.org/stable/41616766"><strong>178</strong>, 191–194</a></td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">“The 2010 Excavation Season at the Site of the Vicus ad Martis Tudertium (PG),” <em>FOLD&amp;R</em> <a href="http://www.fastionline.org/docs/FOLDER-it-2011-227.pdf"><strong>227</strong></a></td>
+</tr>
+<tr class="even">
+<td align="left">2010</td>
+<td align="left">“Excavations along the Via Flaminia: the Vicus ad Martis Tudertium,” <em>Etruscan News</em> <a href="http://ancientstudies.fas.nyu.edu/docs/CP/963/EtruscanNews10_winter.pdf"><strong>13</strong>, Winter</a>, p. 16</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">“The 2008 and 2009 Excavation Seasons at the Site of the Vicus ad Martis Tudertium (PG),” <em>FOLD&amp;R</em> <a href="http://www.fastionline.org/docs/FOLDER-it-2010-185.pdf"><strong>185</strong></a></td>
+</tr>
+<tr class="even">
+<td align="left">2009</td>
+<td align="left">“Excavations at the Vicus ad Martis Tudertium,” <em>Etruscan News</em> <a href="http://ancientstudies.fas.nyu.edu/docs/CP/963/etruscannews_vol11_winter2009.pdf"><strong>11</strong>, Winter</a>, p. 15</td>
+</tr>
+<tr class="odd">
+<td align="left">2006</td>
+<td align="left">“Religion and Politics: Did the Romans scruple about the placement of their temples?,” <em>Religion in Roman Italy in the Mid- and Late Republican Eras (“Yale Classical Studies”)</em>, 181–206, Cambridge University Press</td>
+</tr>
+<tr class="even">
+<td align="left">2004</td>
+<td align="left">“Frequent vocabulary in Latin textbooks,” <em>CW</em> <a href="https://www.jstor.org/stable/4352875"><strong>97</strong>(4), 409–433</a></td>
+</tr>
+<tr class="odd">
+<td align="left">2003</td>
+<td align="left">“The Brindisi <em>Elogium</em> and the Rejected <em>Lectio Senatus</em> of Appius Claudius Caecus,” <em>Historia</em> <strong>52</strong>.4, 496–501</td>
+</tr>
+<tr class="even">
+<td align="left">1999</td>
+<td align="left">“Critical thinking and reflective learning in the Latin classroom,” with D. Pennell Ross, in <a href="https://www.worldcat.org/title/language-learners-of-tomorrow-process-and-promise/oclc/42195608"><em>Language learners of tomorrow: Process and promise</em></a>, p. 232–251, M. A. Kassen, ed., NECTFL Conference Reports, National Textbook Co., Lincolnwood, Illinois</td>
+</tr>
+<tr class="odd">
+<td align="left">1990</td>
+<td align="left">“Synthesis and infrared spectroscopic investigations of substance P and isotopically labelled analogues,” MS Thesis, MIT</td>
+</tr>
+<tr class="even">
+<td align="left">1989</td>
+<td align="left">“Benzylhydrazine as a pseudo-substrate of bovine serum amine oxidase,” with L. Morpurgo <em>et al</em>, <a href="http://www.biochemj.org/bj/260/bj2600019.htm"><em>Biochem. J.</em> <strong>260</strong>, 19–25</a></td>
+</tr>
+<tr class="odd">
+<td align="left">1988</td>
+<td align="left">“Amine oxidases as biological regulators,” with E. Agostinelli, <em>et al.</em>, in <em>Perspectives in polyamine research</em>, p. 11-15, A. Perin, <em>et al.</em>, ed., Wichtig Editore, Milan</td>
+</tr>
+</tbody>
+</table>
+<h4 id="reviews">Reviews</h4>
+<table>
+<thead>
+<tr class="header">
+<th align="left">date</th>
+<th align="left">item</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2015</td>
+<td align="left">Filippo Canali De Rossi <em>Le relazioni diplomatiche di Roma, Volume IV. Dalla ‘liberazione della Grecia’ alla pace infida con Antioco III (201–194 a. C.).</em>, <em>BMCR</em> <a href="http://bmcr.brynmawr.edu/2015/2015-03-47.html">2015.03.47</a></td>
+</tr>
+<tr class="even">
+<td align="left">2014</td>
+<td align="left">Massimiliano Di Fazio <em>Feronia: spazi e tempi di una dea dell’Italia centrale antica</em>, <em>BMCR</em> <a href="http://bmcr.brynmawr.edu/2014/2014-10-25.html">2014.10.25</a></td>
+</tr>
+<tr class="odd">
+<td align="left">2013</td>
+<td align="left">Michael L. Thomas, Gretchen E. Meyers, Ingrid E. M. Edlund-Berry, ed. <em>Monumentality in Etruscan and Early Roman Architecture: Ideology and Innovation</em>, <em>BMCR</em> <a href="http://bmcr.brynmawr.edu/2013/2013-03-11.html">2013.03.11</a></td>
+</tr>
+<tr class="even">
+<td align="left">2012</td>
+<td align="left">Ramsey MacMullen, <em>The Earliest Romans: a character sketch</em>, <em>BMCR</em> <a href="http://bmcr.brynmawr.edu/2012/2012-02-10.html">2012.02.10</a></td>
+</tr>
+<tr class="odd">
+<td align="left">2010</td>
+<td align="left">Fik Meijer, <em>Chariot racing in the Roman Empire</em>, <em>BMCR</em> <a href="http://bmcr.brynmawr.edu/2010/2010-11-26.html">2010.11.26</a></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Nigel B. Crowther, <em>Sport in Ancient Times</em>, <em>CJ</em> <a href="https://www.jstor.org/stable/10.5184/classicalj.106.2.0242"><strong>106</strong>(2), 242–243</a></td>
+</tr>
+<tr class="odd">
+<td align="left">2008</td>
+<td align="left">Matthew Hartnett, <em>By Roman Hands: Inscriptions and Graffiti for Students of Latin</em>, <em>CB</em> <strong>84</strong>.2</td>
+</tr>
+<tr class="even">
+<td align="left">2007</td>
+<td align="left">Keith Hopkins, Mary Beard <em>The Colosseum</em>, <em>Choice</em></td>
+</tr>
+<tr class="odd">
+<td align="left">2005</td>
+<td align="left">Christopher S. Mackay, <em>Ancient Rome: A Military and political history</em>, <em>CO</em> 83.1</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Filippo Canali De Rossi, <em>Le relazioni diplomatiche di Roma, Vol. I: dall’età regia alla conquista del primato in Italia (753–265 a.C)</em>, <em>BMCR</em> <a href="http://bmcr.brynmawr.edu/2005/2005-02-19.html">2005.02.19</a></td>
+</tr>
+<tr class="odd">
+<td align="left">2004</td>
+<td align="left">Nathan Rosenstein, <em>Rome at war: Farms, families, and death in the Middle Republic</em>, <em>BMCR</em> <a href="http://bmcr.brynmawr.edu/2004/2004-07-56.html">2004.07.56</a></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Thomas F. Scanlon, <em>Eros and Greek athletics</em>, <em>CO</em> <strong>81</strong>.2 (Winter)</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">Peter J. Holliday, <em>Origins of pictorial representation in Roman art</em>, <em>NECJ</em> <strong>31</strong>.1 (February)</td>
+</tr>
+<tr class="even">
+<td align="left">2003</td>
+<td align="left">Guy Bradley, <em>Ancient Umbria</em>, <em>CW</em> <a href="https://www.jstor.org/stable/4352751"><strong>96</strong>.2 (Winter), 228–229</a></td>
+</tr>
+<tr class="odd">
+<td align="left">2002</td>
+<td align="left">Serafina Cuomo, <em>Ancient Mathematics</em>, <em>CO</em> <strong>80</strong>.1 (Fall)</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Christer Bruun, <em>The Roman middle republic: Politics, religion, and historiography c. 400–133 B.C.</em>, <em>CW</em> <a href="https://www.jstor.org/discover/10.2307/4352698"><strong>95</strong>.4 (Summer), 460–461</a></td>
+</tr>
+<tr class="odd">
+<td align="left">2000</td>
+<td align="left">Richard C. Beacham, <em>Spectacle entertainments of early imperial Rome</em>, <em>CO</em> <strong>78</strong>.1 (Fall)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="invited-talks">Invited Talks</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">date</th>
+<th align="left">item</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2016</td>
+<td align="left">“Recent work along the Flaminian Way,” AIA lecture program, University of Alberta, March 10</td>
+</tr>
+<tr class="even">
+<td align="left">2012</td>
+<td align="left">“Excavations at the <em>Vicus ad Martis</em> in Umbria,” NJ Classical Association, October 13</td>
+</tr>
+<tr class="odd">
+<td align="left">2010</td>
+<td align="left">“New Excavations on the Flaminian Way: A Field School at the <em>Vicus ad Martis</em>,” Fairfield College, March 17</td>
+</tr>
+<tr class="even">
+<td align="left">2008</td>
+<td align="left">“Report on first season of excavations at the <em>Vicus ad Martis Tudertium</em>,” Museum of S. Maria della Pace, as part of the “Giornate Europee del Patrimonio” program, September 28</td>
+</tr>
+<tr class="odd">
+<td align="left">2007</td>
+<td align="left">“Instructional technology and the teaching of Latin: Where we’ve been and where we’re going,” Glenn M. Knudsvig Memorial Symposium at the University of Michigan, Keynote speaker, 9 July</td>
+</tr>
+<tr class="even">
+<td align="left">2005</td>
+<td align="left">“<em>Quirites</em> and the preservation of early Latin texts,” Classical Humanities Society of South Jersey, at the Richard Stockton College of NJ, 10 April</td>
+</tr>
+<tr class="odd">
+<td align="left">2003</td>
+<td align="left">“Religion and Politics: Did the Romans scruple about the placement of their temples?,” Yale University, 1 March</td>
+</tr>
+<tr class="even">
+<td align="left">2001</td>
+<td align="left">“Paestum,” Amherst College, 4 October</td>
+</tr>
+<tr class="odd">
+<td align="left">2000</td>
+<td align="left">“Gladiators and Political Competition in Republican Rome,” New Jersey Classical Association Spring Meeting</td>
+</tr>
+</tbody>
+</table>
+<h3 id="conference-papers">Conference Papers</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">date</th>
+<th align="left">item</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2016</td>
+<td align="left">“The Late Antique/Early Medieval Cemetery at the <em>Vicus Martis Tudertium</em>,” AIA, with Dr. Sarah Harvey and Dr. Jill A. Rhodes</td>
+</tr>
+<tr class="even">
+<td align="left">2015</td>
+<td align="left">“Seventh Season of Excavation at the <em>Vicus Martis Tudertium</em>,” AIA, with Dr. Sarah Harvey and Dr. Jill A. Rhodes</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">“An Unusual Interment of Dismembered Legs and Hands: A Roman Umbria burial puzzle,” poster, American Association of Physical Anthropologists Annual Meeting, with Dr. Jill A. Rhodes (presenter)</td>
+</tr>
+<tr class="even">
+<td align="left">2014</td>
+<td align="left">“Sixth Season of Excavation at the <em>Vicus Ad Martis Tudertium</em>,” AIA, with Dr. Sarah Harvey</td>
+</tr>
+<tr class="odd">
+<td align="left">2013</td>
+<td align="left">“Fifth Season of Excavation at the <em>Vicus Ad Martis Tudertium</em>,” AIA</td>
+</tr>
+<tr class="even">
+<td align="left">2012</td>
+<td align="left">“Fourth Season of Excavation at the <em>Vicus Ad Martis Tudertium</em>,” AIA</td>
+</tr>
+<tr class="odd">
+<td align="left">2011</td>
+<td align="left">“Third Season of Excavation at the <em>Vicus Ad Martis Tudertium</em>,” AIA</td>
+</tr>
+<tr class="even">
+<td align="left">2010</td>
+<td align="left">“Second Season of Excavation at the <em>Vicus Ad Martis Tudertium</em>,” AIA</td>
+</tr>
+<tr class="odd">
+<td align="left">2009</td>
+<td align="left">“Results of First Season of Excavation and Geo-magnetic Survey at the <em>Vicus ad Martis Tudertium</em>,” with Tommaso Mattioli, Departimento Uomo &amp; Territorio, University of Perugia, AIA</td>
+</tr>
+<tr class="even">
+<td align="left">2006</td>
+<td align="left">“Depictions of Workshops in Ancient Art: Too Many Potters?,” poster, AIA (2nd Prize Winner)</td>
+</tr>
+<tr class="odd">
+<td align="left">2005</td>
+<td align="left">Invited Facilitator for panel discussion: “<em>Davus and Grumio Go To College</em>: workshop and discussion on creating the ideal college-level Latin textbook,” CAAS, fall meeting</td>
+</tr>
+<tr class="even">
+<td align="left">2003</td>
+<td align="left">“Frequent Latin vocabulary,” ACL Institute</td>
+</tr>
+<tr class="odd">
+<td align="left">2002</td>
+<td align="left">“Political Competition in urban building in Mid-Republican Rome,” AAH</td>
+</tr>
+<tr class="even">
+<td align="left">2000</td>
+<td align="left">“Creating and using a Latin-vocabulary database,” Michigan-Latin Symposium</td>
+</tr>
+<tr class="odd">
+<td align="left">1999</td>
+<td align="left">“Preliminary results of a survey of classical-language students,” ACL Institute (session organizer)</td>
+</tr>
+<tr class="even">
+<td align="left">1999</td>
+<td align="left">“The Reflective practitioner in the Latin classroom,” with D. Ross, NECTFL</td>
+</tr>
+<tr class="odd">
+<td align="left">1998</td>
+<td align="left">“Appius Claudius Caecus and the Brindisi elogium,” APA</td>
+</tr>
+<tr class="even">
+<td align="left">1998</td>
+<td align="left">“(Mis)Reading Livy”, CAMWS</td>
+</tr>
+<tr class="odd">
+<td align="left">1997</td>
+<td align="left">“Political rivalry and monuments in the Roman Republic,” APA</td>
+</tr>
+<tr class="even">
+<td align="left">1997</td>
+<td align="left">“Courseware on the Internet: Recent work at the University of Michigan,” ACL Institute</td>
+</tr>
+<tr class="odd">
+<td align="left">1996</td>
+<td align="left">“Using the Internet for teaching,” AIA</td>
+</tr>
+<tr class="even">
+<td align="left">1992</td>
+<td align="left">“Sardinia and off-island contacts,” Chacmool</td>
+</tr>
+</tbody>
+</table>
+<h3 id="teaching">Teaching</h3>
+<p><span class="item_standalone"> <em>Archaeology of Greece and Rome</em>; <em>Introduction to Roman history</em>; <em>Ancient Sport &amp; Spectacle</em>; <em>Space and Power in the ancient world</em>; <em>Science &amp; technology in the ancient world</em>; <em>Introduction to ancient drama</em>; introductory Latin sequence; intermediate Greek; advanced Latin: <em>Catullus, Vergil, Livy;</em> First-year seminars: <em>The Hero, Dead Men Do Tell Tales;</em> as graduate assistant: <em>Virgil’s</em> Aeneid; <em>Sport and Daily Life in the Roman Empire</em>; introductory chemistry; organic chemistry laboratory</p>
+<h3 id="dissertation">Dissertation</h3>
+<p><span class="item_standalone"> “<a href="https://dx.doi.org/10.6084/m9.figshare.763319">Factional Competition and Monumental Construction in Mid-Republican Rome</a>,” D. S. Potter, advisor</p>
+<h3 id="technology-related-experience">Technology-Related Experience</h3>
+<p><span class="item_standalone"> SQL queries of Ellucian’s Banner database; Greek-Arch list manager; Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Web sites (now defunct): Papyrology, Ancient-Mediterranean list archives; computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998); Courseware developer, University of Michigan Classical Civilization program (1995)</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">left</th>
+<th align="center">center</th>
+<th align="right">right</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><a href="http://users.drew.edu/jmuccigr/index.html">My Homepage</a></td>
+<td align="center">Last updated Tuesday, 28 June 2016.</td>
+<td align="right"><a href="http://www.depts.drew.edu/classics/">Drew Classics Department</a></td>
+</tr>
+<tr class="even">
+<td align="left"> </td>
+<td align="center">Download a printable <a href="http://users.drew.edu/jmuccigr/CV.pdf">PDF version</a> of this document.</td>
+<td align="right"> </td>
+</tr>
+</tbody>
+</table>
+<div id="refs" class="references">
+
+</div>
+</body>
+</html>
