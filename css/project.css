@@ -1,0 +1,203 @@
+body
+{
+	padding-left: 1em;
+	font-family: Futura,sans-serif;
+	font-size: 12pt;
+	background-color: #FFF;
+}
+
+a, a:visited
+{
+	text-decoration: none;
+	color: inherit;
+}
+
+#main a, a:hover
+{
+	text-decoration: underline;
+	color: inherit;
+	background-color: inherit;
+}
+
+#main a:hover
+{
+	text-decoration: none;
+	color: inherit;
+	background-color: #FFF;
+}
+
+#sidebar a, a:visited
+{
+	text-decoration: none;
+	color: inherit;
+}
+
+a:hover
+{
+	color: white;
+	text-decoration: none;
+	background-color: #000;
+}
+
+#container
+{
+	width: 80%;
+	position: fixed;
+	top: 0;
+	right: 10%;
+	bottom: 0;
+	left: 10%;
+	background-color: #E6E6E6;
+}
+
+#header
+{
+	position: absolute;
+	width: 100%;
+	height: 140px;
+	top: 0;
+	right: 0;
+	left: 0;
+	font-family: Futura,Helvetica,Arial,Sans-serif;
+	z-index: 100;
+	text-align: right;
+	background-image: url(../images/archaeo/S_Maria_in_Pantano_sm.jpg);
+	background-repeat: no-repeat;
+}
+
+#header p { margin: 0 20px .5em 0; }
+
+#sidebar
+{
+	position: absolute;
+	width: 160px;
+	top: 140px;
+	right: auto;
+	bottom: 0px;
+	left: 0;
+	color: white;
+	font-size: small;
+	background-color: blue;
+	padding-top: 1em;
+	z-index: 1;
+	overflow: auto;
+}
+
+.item
+{
+	font-weight: normal;
+	font-size: larger;
+	line-height: 100%;
+	margin: .6em 0 .3em 2em;
+	display: block;
+	text-indent: -1em;
+}
+
+#main
+{
+	width: auto;
+	height: auto;
+	top: 140px;
+	right: 0;
+	bottom: 100px;
+	left: 160px;
+	padding: inherit;
+	overflow: auto;
+	position: absolute;
+	margin-left: 1em;
+	margin-right: 1em;
+	border-right: thin #000;
+}
+
+#footer
+{
+	position: absolute;
+	width: auto;
+	height: 100px;
+	top: auto;
+	bottom: 0;
+	left: 160px;
+	right: 0;
+	text-align: center;
+	padding-left: 0;
+	font-size: smaller;
+	z-index: 100;
+	border-top: thin #000 solid;
+}
+
+.bottom
+{
+	position: absolute;
+	bottom: 1em;
+	height: auto;
+	text-align: center;
+	width: 100%;
+}
+
+.menubar
+{
+	position: absolute;
+	background-color: #191919;
+	color: #E6E6E6;
+	font-family: Futura,Sans-serif;
+	font-size: small;
+	bottom: 0;
+	padding: 0;
+	width: 100%;
+	list-style-type: none;
+	height: 2em;
+}
+
+.menubar ul
+{
+	position: relative;
+	bottom: 25%;
+}
+
+.menubar li
+{
+	display: inline;
+	padding: 0 1em 0 0;
+}
+
+.menubar a:hover
+{
+	color: black;
+	text-decoration: none;
+	background-color: #FFF;
+}
+
+h1, h2
+{
+	text-indent: 0;
+	font-weight: normal;
+	font-size: 24pt;
+	line-height: 100%;
+	margin: .6em 20px .3em 0;
+}
+
+li
+{
+	list-style-type: circle;
+	list-style-position: outside;
+	text-indent: 0;
+}
+
+.image
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1em;
+}
+
+.caption
+{
+	color: #4C4C4C;
+	font-size: small;
+	text-align: center;
+	margin: 0 auto 0 auto;
+	display: block;
+}
+
+.right { float: right; }
