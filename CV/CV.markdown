@@ -60,11 +60,13 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 2011–2012 | Facilities Utilization Team, Organizational Review
 2009–2012 | Co-Chair, Enrollment Management and Retention Committee
 
-### Faculty Committee Service
+### Faculty Service
 
 |date|item|
 |:--|:--|
+2016–present | Faculty Associate, Brown First-Year Residence Hall
 2016–present | Digital Humanities Working Group
+2015–present | Super-advisor to incoming students
 2015–present | Baldwin Honors Committee
 2006–2008 | Chair, Committee on Academic Policy and Curriculum
 2004–2005 | Mellon Foreign-Language Grant steering committee
@@ -214,5 +216,5 @@ SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classic
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Tuesday, 28 June 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://users.drew.edu/jmuccigr/index.html)|Last updated Monday, 5 September 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](http://users.drew.edu/jmuccigr/CV.pdf) of this document.|&nbsp;|
