@@ -11,3 +11,4 @@ This is my CV, which I'm converting to markdown so that I can use pandoc to gene
 - 2015 Sept 19 - Fixed re-broken table under faculty career, including tweaking list in css since markdown can't handle lists in table cells without using html.
 - 2015 Nov 5 - Removed duplicate line and unnecessary line break in Education section. Updated last-edited date.
 - 2015 Dec 2 - Moved things around in the employment section. Put PBK back into real Greek instead of using math function for latex.
+- 2016 sept 5 - Moved this into my github-hosted web space.
