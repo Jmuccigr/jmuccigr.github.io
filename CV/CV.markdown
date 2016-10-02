@@ -119,7 +119,8 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 |date|item|
 |:--|:--|
-2018 (exp.) | Fides non ficta: *Essays in honor of Paul B. Harvey, jr.*, co-edited with Celia Schultz, from a conference (April 2017) 
+2018 (exp.) | Fide non ficta: *Essays in honor of Paul B. Harvey, jr.*, co-edited with Celia Schultz, from a conference (April 2017) 
+2016 | "The Apsidal building of the Vicus Martis Tudertium (PG)," with Sarah Harvey, Elena Lorenzetti, Jill A. Rhodes, and Stefano Spiganti *FOLD&R* [**366**](http://www.fastionline.org/docs/FOLDER-it-2016-366.pdf)
 2015 | "The 2011 Excavation Season at the Site of the Vicus Martis Tudertium (PG)," with Rangar Cline, Sarah Harvey, Elena Lorenzetti, and Stefano Spiganti *FOLD&R* [**327**](http://www.fastionline.org/docs/FOLDER-it-2015-327.pdf)
 2014 | *Current Practice in Linked Open Data for the Ancient World*, issue ed., with Thomas Elliott and Sebastian Heath, *ISAW Papers* [**7**](http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/)
 2012 | "Re-Interpreting the Robinson Skyphos," *SHT* [**13**.A.1, 1–15](http://sht.ut.ee/index.php/sht/article/view/13.A.1)  
