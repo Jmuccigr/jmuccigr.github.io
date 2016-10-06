@@ -119,7 +119,7 @@ div#header h2 { margin: 0 0 0 1em; }
 
 .title
 {
-	font-family: "Gill Sans MT", "Helvetica", "Sans-serif";
+	font-family: "Gill Sans", "Helvetica", "Sans-serif";
 	font-size: x-large;
 	font-variant: small-caps;
 	text-align: right;
@@ -156,8 +156,9 @@ A:hover { background: #D4B600; }
 
 H1, H2, H3, H4, H5, H6
 {
-	font-family: "Gill Sans MT", "Helvetica", "Sans-serif";
+	font-family: "Gill Sans", "Helvetica", "Sans-serif";
 	font-weight: lighter;
+	font-variant: small-caps;
 }
 
 H1
