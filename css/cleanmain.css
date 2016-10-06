@@ -37,7 +37,6 @@ img
 	bottom: 0px;
 	left: 0px;
 	right: 0;
-	0px: ;
 	height: 60px;
 	background-color: gray;
 	color: white;
@@ -150,17 +149,15 @@ A
 	text-decoration: none;
 	color: inherit;
 	border-bottom: thin dotted;
-	#006: ;
 	background: transparent;
 }
 
-# A:visited { color: #006; }
 A:hover { background: #D4B600; }
 
 H1, H2, H3, H4, H5, H6
 {
 	font-family: "Gill Sans MT", "Helvetica", "Sans-serif";
-	FONT-WEIGHT: normal;
+	font-weight: lighter;
 }
 
 H1
