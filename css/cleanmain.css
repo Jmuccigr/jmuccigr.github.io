@@ -159,6 +159,7 @@ H1, H2, H3, H4, H5, H6
 	font-family: "Gill Sans", "Helvetica", "Sans-serif";
 	font-weight: lighter;
 	font-variant: small-caps;
+	letter-spacing: .07em;
 }
 
 H1
