@@ -46,20 +46,6 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 
 [comment]: # ( ### Responsibilities RETURN <span class="item_standalone">Director of Institutional Research: Internal & external reporting, survey administration, retention analysis, budget-preparation assistance RETURN <span class="item_standalone">Associate Dean: Budget & salary, retention, management of physical resources, scheduling, college IR, admissions outreach, special projects)
 
-### Administrative Committee Service
-
-|date|item|
-|:--|:--|
-2011–2014 | Net Tuition Revenue
-2010–2014 | Leader, Banner-Transition Student Catalog Team
-2013–2014 | Drew2017 Prioritization Project, Steering Committee
-2013–2014 | Chair, Academic Readiness Subcommittee, Student Success Committee
-2012–2014 | Risk Assessment
-2009–2014 | Academic Standing Committee; Academic Computing Advisory Committee
-2011–2013 | Provost’s Council
-2011–2012 | Facilities Utilization Team, Organizational Review
-2009–2012 | Co-Chair, Enrollment Management and Retention Committee
-
 ### Faculty Service
 
 |date|item|
@@ -76,6 +62,28 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 2002 | Student Life Advisory Board
 2000–2001 | University Technology Committee
 
+### Professional Service
+
+|date|item|
+|:--|:--|
+2012–present | [*Bryn Mawr Classical Review*](http://bmcr.brynmawr.edu/), editorial board
+1995–present | Owner of *Greekarch*, an e-mail list for Greek archaeology
+2007–2010 | APA Committee on the Status of Women and Minority Groups
+
+### Administrative Committee Service
+
+|date|item|
+|:--|:--|
+2011–2014 | Net Tuition Revenue
+2010–2014 | Leader, Banner-Transition Student Catalog Team
+2013–2014 | Drew2017 Prioritization Project, Steering Committee
+2013–2014 | Chair, Academic Readiness Subcommittee, Student Success Committee
+2012–2014 | Risk Assessment
+2009–2014 | Academic Standing Committee; Academic Computing Advisory Committee
+2011–2013 | Provost’s Council
+2011–2012 | Facilities Utilization Team, Organizational Review
+2009–2012 | Co-Chair, Enrollment Management and Retention Committee
+
 ### Grants & Awards
 
 |date|item|
@@ -90,14 +98,6 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 1990–1991 | University Fellow, University of Minnesota
 1990 | Amherst Memorial Fellow in Archaeology, Amherst College
 1983–1987 | Amherst College Classics Prizes: Bertram, Billings Ancient Greek, Crowell Freshman Latin, Harry DeForrest Smith entering-freshmen Greek-language
-
-### Professional Service
-
-|date|item|
-|:--|:--|
-2012–present | [*Bryn Mawr Classical Review*](http://bmcr.brynmawr.edu/), editorial board
-1995–present | Owner of *Greekarch*, an e-mail list for Greek archaeology
-2007–2010 | APA Committee on the Status of Women and Minority Groups
 
 ### Academic Interests
 
@@ -122,6 +122,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 2018 (exp.) | Fide non ficta: *Essays in honor of Paul B. Harvey, jr.*, co-edited with Celia Schultz, from a conference (April 2017) 
 2016 | "The Apsidal building of the Vicus Martis Tudertium (PG)," with Sarah Harvey, Elena Lorenzetti, Jill A. Rhodes, and Stefano Spiganti *FOLD&R* [**366**](http://www.fastionline.org/docs/FOLDER-it-2016-366.pdf)
 2015 | "The 2011 Excavation Season at the Site of the Vicus Martis Tudertium (PG)," with Rangar Cline, Sarah Harvey, Elena Lorenzetti, and Stefano Spiganti *FOLD&R* [**327**](http://www.fastionline.org/docs/FOLDER-it-2015-327.pdf)
+\ | "A Speculative Note on the Golden Calf," self-published, [2015-06-10](https://figshare.com/articles/A_Speculative_Note_on_the_Golden_Calf/1444441).
 2014 | *Current Practice in Linked Open Data for the Ancient World*, issue ed., with Thomas Elliott and Sebastian Heath, *ISAW Papers* [**7**](http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/)
 2012 | "Re-Interpreting the Robinson Skyphos," *SHT* [**13**.A.1, 1–15](http://sht.ut.ee/index.php/sht/article/view/13.A.1)  
 \ | "Report on the Linked Ancient World Data Institute," with Thomas Elliott and Sebastian Heath, *ISQ* [**24**, 2–3](http://www.niso.org/apps/group_public/download.php/9404/CR_Elliott-etal_LAWDI_isqv24no2-3.pdf), Spring/Summer
@@ -178,7 +179,8 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 |date|item|
 |:--|:--|
-2016 | "The Late Antique/Early Medieval Cemetery at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill A. Rhodes
+2016 | "A Database of Roman Temples," at the NYU Institute for the Study of the Ancient World's LAWDNY 2016 Digital Antiquity Research Workshop
+\ | "The Late Antique/Early Medieval Cemetery at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill A. Rhodes
 2015 | "Seventh Season of Excavation at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill A. Rhodes
 \ | "An Unusual Interment of Dismembered Legs and Hands: A Roman Umbria burial puzzle," poster, American Association of Physical Anthropologists Annual Meeting, with Dr. Jill A. Rhodes (presenter)
 2014 | "Sixth Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA, with Dr. Sarah Harvey
@@ -217,5 +219,5 @@ SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classic
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Thursday, 6 October 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Saturday, 19 November 2016.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
