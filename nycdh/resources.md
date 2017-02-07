@@ -1,6 +1,7 @@
 ---
 title: NYC-DH Week Workshop resources
-layout: post
 ---
+
+# Some resources
 
 Here is my page.
