@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="John D. Muccigrosso">
+  <title>Adding Zotero to pandoc</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="/Users/john_muccigrosso/Documents/github/local/reveal.js//css/reveal.css">
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="/Users/john_muccigrosso/Documents/github/local/reveal.js//css/theme/grayfull.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? '/Users/john_muccigrosso/Documents/github/local/reveal.js//css/print/pdf.css' : '/Users/john_muccigrosso/Documents/github/local/reveal.js//css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="/Users/john_muccigrosso/Documents/github/local/reveal.js//lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+  <h1 class="title">Adding Zotero to pandoc</h1>
+  <p class="author">John D. Muccigrosso</p>
+  <p class="date">Tuesday, 7 February 2017</p>
+</section>
+
+<section><section id="getting-started" class="titleslide slide level1"><h1>Getting started</h1></section><section id="zotero" class="slide level2">
+<h2>Zotero</h2>
+<ol type="1">
+<li class="fragment">Create an account at <a href="http://zotero.org/" class="uri">http://zotero.org/</a>. It’s free!</li>
+<li class="fragment">Download and install the Zotero standalone app at <a href="https://www.zotero.org/download" class="uri">https://www.zotero.org/download</a>.</li>
+<li class="fragment">Download and install the Better BibTeX plugin <a href="https://github.com/retorquere/zotero-better-bibtex/wiki/Installation" class="uri">https://github.com/retorquere/zotero-better-bibtex/wiki/Installation</a>.
+<ul>
+<li class="fragment">Once installed, check the “Show citekey…” option in its <strong>Citation</strong> preference.</li>
+</ul></li>
+</ol>
+</section><section class="slide level2">
+
+<p>To use citations, you’ll need a text file containing your citations in a special format. Fortunately we can set up Zotero so that it automatically exports such a file whenever you make a change to your library.</p>
+<ol type="1">
+<li class="fragment">In Zotero, choose “Export Library” from the <strong>File</strong> menu.</li>
+<li class="fragment">In the dialog box that opens, select the <strong>Better CSL JSON</strong> format.</li>
+<li class="fragment">Click <strong>OK</strong> and select a destination for the bibliography file.</li>
+<li class="fragment">Once the export finishes (should be a few seconds), open up the preferences and go to the Better BibTeX pane and click on the <em>Automatic Export</em> tab.</li>
+<li class="fragment">You should see the export you just did listed in the box. Click the radio button on “on idle” so that new exports will happen only when you’re not actively working in Zotero (though it has to be open).</li>
+</ol>
+</section><section id="adding-citations-for-pandoc" class="slide level2">
+<h2>Adding citations for pandoc</h2>
+<p>Now when you are writing a document and need to insert a citation:</p>
+<ol type="1">
+<li class="fragment">Find the item you want to add in your Zotero library.</li>
+<li class="fragment">Note the citation key for that item.</li>
+<li class="fragment">Cite that work by writing the citation key in your document, preceded by <code>@</code>:</li>
+</ol>
+<div class="fragment">
+<pre><code>    Here is some text with a citation (@Muccigrosso2011).</code></pre>
+</div>
+<div class="fragment">
+<p>Pandoc will replace the citation key with an in-line citation and a full one at the end of the document, by default all in the Chicago Manual of Style author-date format.</p>
+</div>
+</section><section class="slide level2">
+
+<p>But to do this, pandoc needs to know where the bibliography file is. You indicate that file with the <code>--bibliography</code> option to the pandoc command. So:</p>
+<pre><code>pandoc --bibliography=/path/to/your/file</code></pre>
+<div class="fragment">
+<p>If necessary, you can use <code>pwd</code> to get the path to the directory of your file. On my computer, it’s:</p>
+<pre><code>pandoc --bibliography=&#39;/Users/john_muccigrosso/Documents/My Documents.json&#39;</code></pre>
+<p>The <code>'</code> are there in case the file name has a space in it which normally marks a word end. Alternatively you can precede any space in a file name with <code>\</code>:</p>
+<pre><code>pandoc --bibliography=/home/jmuccigr/pandoc/muccigrosso/My\ Documents.json</code></pre>
+</div>
+</section><section class="slide level2">
+
+<p>Our sample text:</p>
+<pre><code>Here is some text with a citation (@Muccigrosso2011).</code></pre>
+<p>will now be processed into:</p>
+<div class="fragment">
+<blockquote>
+<p>Here is some text with a citation (Muccigrosso (2011)).</p>
+<p>Muccigrosso, John D. 2011. “The 2010 Excavation Season at the Site of the Vicus Ad Martis Tudertium (PG).” <em>FOLD&amp;R</em> 227: 12. <a href="http://www.fastionline.org/docs/FOLDER-it-2011-227.pdf" class="uri">http://www.fastionline.org/docs/FOLDER-it-2011-227.pdf</a></p>
+</blockquote>
+<p>pandoc grabbed all the information from the bibliography file and inserted it in-line and at the end of the file.</p>
+</div>
+</section><section class="slide level2">
+
+<p>If you surround the citation with square brackets, pandoc will be a little smarter about the formatting:</p>
+<pre><code>Here is some text with a citation [@Muccigrosso2011].
+  
+Here&#39;s a citation using the author&#39;s name in the text, followed by  
+a bracketed page reference from @Muccigrosso2011 [p. 12].</code></pre>
+<p>becomes</p>
+<blockquote>
+<p>Here is some text with a citation (Muccigrosso 2011).   Here’s a citation using the author’s name in the text, followed by a bracketed page reference from Muccigrosso (2011, 12).</p>
+</blockquote>
+<p>Note how pandoc is smart about the second citation.</p>
+</section><section id="footnotes-too" class="slide level2">
+<h2>Footnotes too!</h2>
+<p>One more thing: you can use citations within notes, if you want:</p>
+<pre><code>This guy says blah.[^1]
+                   
+[^1]: @Muccigrosso2011.</code></pre>
+<div class="fragment">
+<p>Becomes the following, with the full citation still given at the end of the document (though not shown here):</p>
+<blockquote>
+<p>This guy says blah.<sup>1</sup><br />
+ <br />
+ <br />
+  ___<br />
+1. Muccigrosso (2011).</p>
+</blockquote>
+</div>
+</section></section>
+<section><section id="formatting-the-bibliography" class="titleslide slide level1"><h1>Formatting the bibliography</h1></section><section id="csl-files" class="slide level2">
+<h2>csl Files</h2>
+<p>Another kind of text file, in a format called <em>citation style language</em> (<code>.csl</code>), is used by pandoc to format your citations. Zotero comes with dozens of them, so all you have to do is pick the one you (or the publisher) prefers and not worry about it.</p>
+<div class="fragment">
+<p>The command to tell pandoc is</p>
+<pre><code>pandoc --csl=/path/to/the/csl/file</code></pre>
+</div>
+</section><section id="quick-review" class="slide level2">
+<h2>Quick review</h2>
+<p>Now you can:</p>
+<ol type="1">
+<li class="fragment">Generate a bibliography file with Zotero and have it automatically updated.</li>
+<li class="fragment">Make pandoc do the hard work of creating citations in the right format.</li>
+<li class="fragment">Include footnotes.</li>
+</ol>
+</section></section>
+<section><section id="some-added-cli-convenience" class="titleslide slide level1"><h1>Some added CLI convenience</h1></section><section id="aliases" class="slide level2">
+<h2>Aliases</h2>
+<p>You can create shortcuts—called <em>aliases</em>—for commands that you use frequently. To see what aliases are already in place, issue the command <code>alias</code>. (You may not have any!) To create an alias, use the same command with a long argument:</p>
+<pre><code>alias &lt;new command&gt;=&#39;&lt;existing command&gt;&#39;</code></pre>
+<p>For example, the following will create a new command, <code>ll</code>, equivalent to <code>ls -l</code>:</p>
+<pre><code>alias ll=&#39;ls -l&#39;</code></pre>
+</section><section id="the-.bashrc-file" class="slide level2">
+<h2>The .bashrc file</h2>
+<p>When you log out, that alias will be destroyed; it lasts only for the session in which you execute it. So what’s so convenient about that, if you have to create the alias every time you open a session?</p>
+<div class="fragment">
+<p>When you open a new session, you’re running an environment called a <em>shell</em>. The one we’re running is called <em>Bash</em>. When you open up the shell, it reads and executes whatever commands are in a file in your home directory called <em>.bashrc</em>. You won’t have noticed that file in your home directory because a leading <code>.</code> in a filename keeps that file from being shown by <code>ls</code> (or the GUI) unless you specify the <code>-a</code> option.</p>
+</div>
+</section><section class="slide level2">
+
+<p>Let’s edit your <em>.bashrc</em> file:</p>
+<ol type="1">
+<li class="fragment">Once in your home directory, list <strong>all</strong> the files to make sure you have <em>.bashrc</em>. If you don’t have one, create it with <code>touch</code>.</li>
+<li class="fragment">Open <em>.bashrc</em> for editing with <code>nano</code>.</li>
+<li class="fragment">Look for an <code>alias</code> command in the <em>.bashrc</em> file. Create one for yourself. From now on every <strong>new</strong> shell you create will use your new aliases.</li>
+<li class="fragment">To avoid the hassle of exiting your current session and re-opening a new one, simply enter <code>source ~/.bashrc</code> and the system will load the <em>.bashrc</em> file in your home directory, making your new aliases active.</li>
+</ol>
+</section><section id="putting-it-all-together" class="slide level2">
+<h2>Putting it all together</h2>
+<p>Let’s make our own alias to help with our use of pandoc:</p>
+<ol type="1">
+<li class="fragment">Open .bashrc for editing via <code>nano</code>.</li>
+<li class="fragment">Go to the end of the file and add the following:<br />
+<code>alias pandoc='pandoc --bibiliography=/your/bibliography/file.json'</code></li>
+<li class="fragment">Close and save the file.</li>
+<li class="fragment"><code>Source</code> it to make the new alias active.</li>
+</ol>
+<div class="fragment">
+<p>From now on all your invocations of pandoc will know to use the bibliography file you specified in .bashrc, and you won’t have to worry about it.</p>
+</div>
+</section><section id="review-of-new-cli-commands" class="slide level2">
+<h2>Review of new CLI commands</h2>
+<ol type="1">
+<li class="fragment"><code>alias '&lt;new command&gt;=&lt;existing command&gt;'</code> to create a new alias.</li>
+<li class="fragment"><code>alias</code> by itself will display the active aliases.</li>
+<li class="fragment"><code>source &lt;filename&gt;</code> will execute the file as if it were a series of shell commands.</li>
+</ol>
+</section></section>
+    </div>
+  </div>
+
+  <script src="/Users/john_muccigrosso/Documents/github/local/reveal.js//lib/js/head.min.js"></script>
+  <script src="/Users/john_muccigrosso/Documents/github/local/reveal.js//js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Vertical centering of slides
+        center: false,
+        // Transition style
+        transition: 'fade', // none/fade/slide/convex/concave/zoom
+        // Transition speed
+        transitionSpeed: 'slow', // default/fast/slow
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: "100%",
+        height: "100%",
+        // Factor of the display size that should remain empty around the content
+        margin: 0,
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: '/Users/john_muccigrosso/Documents/github/local/reveal.js//lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: '/Users/john_muccigrosso/Documents/github/local/reveal.js//plugin/zoom-js/zoom.js', async: true },
+              { src: '/Users/john_muccigrosso/Documents/github/local/reveal.js//plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>Writing Scholarly Papers in Markdown</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="/Users/john_muccigrosso/Documents/github/local/reveal.js//css/reveal.css">
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="/Users/john_muccigrosso/Documents/github/local/reveal.js//css/theme/grayfull.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? '/Users/john_muccigrosso/Documents/github/local/reveal.js//css/print/pdf.css' : '/Users/john_muccigrosso/Documents/github/local/reveal.js//css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="/Users/john_muccigrosso/Documents/github/local/reveal.js//lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+  <h1 class="title">Writing Scholarly Papers in Markdown</h1>
+  <p class="date">Tuesday, 7 February 2017</p>
+</section>
+
+<section><section id="review" class="titleslide slide level1"><h1>Review</h1></section><section id="what-have-we-got" class="slide level2">
+<h2>What have we got?</h2>
+<ul>
+<li>Headings</li>
+<li>Paragraphs</li>
+<li>Emphasis (2 flavors)</li>
+<li>Lists</li>
+</ul>
+</section><section id="what-more-do-we-need" class="slide level2">
+<h2>What more do we need?</h2>
+<ul>
+<li>Block Quotation</li>
+<li>Links</li>
+<li>Images</li>
+<li>Footnotes</li>
+</ul>
+</section></section>
+<section><section id="new-stuff" class="titleslide slide level1"><h1>New Stuff</h1></section><section id="block-quotation" class="slide level2">
+<h2>Block Quotation</h2>
+<ul>
+<li class="fragment">Block quotations are created simply by the right angle bracket (which looks like you’re indenting the text: <code>&gt;</code>
+<ul>
+<li class="fragment">&gt; This is a block quote.</li>
+</ul></li>
+<li class="fragment"><blockquote>
+<p>This is a block quote.</p>
+</blockquote></li>
+</ul>
+</section><section id="links" class="slide level2">
+<h2>Links</h2>
+<ul>
+<li class="fragment">Links can be added using square brackets followed by round ones
+<ul>
+<li class="fragment">This is a [link](http://nytimes.com/).</li>
+<li class="fragment">This is a <a href="http://nytimes.com/">link</a>.</li>
+</ul></li>
+</ul>
+</section><section id="images" class="slide level2">
+<h2>Images</h2>
+<p>Images can be added from the internet, or from your computer, by adding a <code>!</code> in front of the link format:</p>
+<ul>
+<li class="fragment">![Caption](link to file)
+<ul>
+<li class="fragment">![This is from the internet](https://upload.wikimedia.org/wikipedia/commons/1/1a/Cat_crying_%28Lolcat%29.jpg)</li>
+<li class="fragment">![This is from my computer](/Users/john/Pictures/house.tif)</li>
+</ul></li>
+</ul>
+</section><section class="slide level2">
+
+<figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Cat_crying_%28Lolcat%29.jpg" alt="This is from the internet" class="medium" /><figcaption>This is from the internet</figcaption>
+</figure>
+</section><section id="footnotes" class="slide level2">
+<h2>Footnotes</h2>
+<ul>
+<li class="fragment">Footnotes use the square brackets (again) combined with the caret as a superscripting mnemonic.</li>
+</ul>
+<div class="fragment">
+<h4 id="type-1-like-youre-used-to">Type 1: Like you’re used to</h4>
+<ul>
+<li class="fragment"><p>Here is some text.<strong>[^1]</strong> And then some more text after it.</p>
+<p>[^1]: This is the note that goes with that text. You can place it anywhere in your document (like at the bottom), as long as it’s after the paragraph.</p></li>
+</ul>
+<h4 id="type-2-in-line-notes">Type 2: In-line notes</h4>
+<ul>
+<li class="fragment">Here is an inline note.<strong>^[Inlines notes are easier to write, since you don’t have to pick an identifier and move down to type the note.]</strong> You might find the interruption of the text you’re writing to be distracting.</li>
+</ul>
+</div>
+</section></section>
+    </div>
+  </div>
+
+  <script src="/Users/john_muccigrosso/Documents/github/local/reveal.js//lib/js/head.min.js"></script>
+  <script src="/Users/john_muccigrosso/Documents/github/local/reveal.js//js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Vertical centering of slides
+        center: false,
+        // Transition style
+        transition: 'fade', // none/fade/slide/convex/concave/zoom
+        // Transition speed
+        transitionSpeed: 'slow', // default/fast/slow
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: "100%",
+        height: "100%",
+        // Factor of the display size that should remain empty around the content
+        margin: 0,
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: '/Users/john_muccigrosso/Documents/github/local/reveal.js//lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: '/Users/john_muccigrosso/Documents/github/local/reveal.js//plugin/zoom-js/zoom.js', async: true },
+              { src: '/Users/john_muccigrosso/Documents/github/local/reveal.js//plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
