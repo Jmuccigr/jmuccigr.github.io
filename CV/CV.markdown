@@ -179,7 +179,8 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 |date|item|
 |:--|:--|
-2017 | "[A New On-line Database of Roman Temples](https://dx.doi.org/10.6084/m9.figshare.4536260),"  poster, AIA
+2017 | "[Developing an On-line Database of Roman Temples](https://doi.org/10.6084/m9.figshare.4765129),"  poster, CAA
+\  | "[A New On-line Database of Roman Temples](https://dx.doi.org/10.6084/m9.figshare.4536260),"  poster, AIA
 2016 | "A Database of Roman Temples," at the NYU Institute for the Study of the Ancient World's LAWDNY 2016 Digital Antiquity Research Workshop
 \ | "The Late Antique/Early Medieval Cemetery at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill A. Rhodes
 2015 | "Seventh Season of Excavation at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill A. Rhodes
@@ -220,5 +221,5 @@ SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classic
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Tuesday, 10 January 2017.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Saturday, 18 March 2017.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
