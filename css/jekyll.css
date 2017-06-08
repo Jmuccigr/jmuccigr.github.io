@@ -1,0 +1,18 @@
+body {
+   font: 400 16px/1.5;
+   font-family: "Gill Sans","Helvetica","sans-serif";
+/*   font-family: "Baskerville","Georgia","Times","Times New Roman","Serif"; */
+} 
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Gill Sans","Helvetica","sans-serif";
+	font-weight: lighter;
+}
+
+h1 {
+  font-variant: small-caps;
+}
+
+li {
+  list-style-type: circle;
+}
