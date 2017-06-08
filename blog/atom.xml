@@ -1,6 +1,7 @@
 ---
-layout: feed
+layout: default
 ---
+<!-- layout: feed -->
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
@@ -11,7 +12,7 @@ layout: feed
     <id>http://jmuccigr.github.io/blog</id>
     <author>
         <name>John D. Muccigrosso</name>
-        <email>john@muccigrosso.org</email>
+        <email>jmuccigr@drew.edu</email>
     </author>
 
     {% for post in site.posts %}
