@@ -32,6 +32,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - CV.markdown
+  - README.md
 
 defaults:
   - scope:

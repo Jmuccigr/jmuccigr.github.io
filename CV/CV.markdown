@@ -1,6 +1,7 @@
 ---
 author: John Muccigrosso
 css: /Users/john_muccigrosso/Documents/github/local/css/clean_CV.css
+title: CV
 ...
 
 # John D. Muccigrosso
