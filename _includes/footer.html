@@ -9,7 +9,6 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>
 <!-- 
             {% if site.author %}
               {{ site.author | escape }}
@@ -18,9 +17,10 @@
             {% endif %}
  -->
             {% if page.date %}
+            <li>
               Updated {{ page.date | escape }}
-            {% endif %}
             </li>
+            {% endif %}
             {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
