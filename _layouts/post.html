@@ -36,7 +36,7 @@
         
         <p class="view">by {% if page.author %}{{ page.author }}{% else %}{{site.author}}{% endif %}</p>
 
-        <small>{% if page.tags %}tags: <em>{{ page.tags | join: "; " }}</em> {% endif %}</small>
+        <small>{% if page.tags %}tags: <em>{{ page.tags | join: "</em> - <em>" }}</em> {% endif %}</small>
 
       </header>
       <section>
