@@ -1,0 +1,226 @@
+---
+type: posts 
+title: Exposure Fusion for better on-site photos 
+date: '2016-06-29T16:49:00.003-04:00' 
+author: John D. Muccigrosso 
+tags:
+- archaeology
+- technology 
+modified_time: '2016-06-29T16:50:24.463-04:00' 
+thumbnail: /images/100_5084.JPG 
+blogger_id: 
+tag:blogger.com,1999:blog-1655741187746617571.post-1872560984768356572 blogger_orig_url: http://de-vita-sua.blogspot.com/2016/06/exposure-fusion-for-better-on-site.html
+---
+
+<h1 id="introduction">
+	Introduction
+</h1>
+<div class="figure">
+	<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;">
+		<tbody>
+			<tr>
+				<td style="text-align: center;"><a href="https://3.bp.blogspot.com/-TDc_oDQf0NE/V3Qv2KudH7I/AAAAAAAAAdQ/Dm2cOkN2xbcbD6_mxZN0xj4GB955iT-ZACLcB/s1600/100_5084.JPG" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="240" src="https://3.bp.blogspot.com/-TDc_oDQf0NE/V3Qv2KudH7I/AAAAAAAAAdQ/Dm2cOkN2xbcbD6_mxZN0xj4GB955iT-ZACLcB/s320/100_5084.JPG" width="320" /></a></td>
+			</tr>
+			<tr>
+				<td class="tr-caption" style="text-align: center;"><span style="text-align: start;">1. Awkward group of students casting shade.<br />
+				(Credit John Muccigrosso)</span></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+If you've spent a few seasons on an archaeological site, odds are you've seen something like the scene in the first photo here: a bunch of people standing awkwardly close together, possibly holding some largish item, and bending their limbs at odd angles. They're trying to provide some shade so that the (possibly <em>ad hoc</em>) dig photographer has a subject with roughly consistent lighting. There are more elegant ways of achieving the same thing, of course, as in photos 2 and 3, but the idea is the same.<br />
+<div class="figure">
+	<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;">
+		<tbody>
+			<tr>
+				<td style="text-align: center;"><img alt="Large plastic sheet(?) used as shade. Credit Esri." height="320" src="https://www.esri.com/news/arcuser/0312/graphics/archaeology-inventory_1_lg.jpg" style="margin-left: auto; margin-right: auto;" width="240" /></td>
+			</tr>
+			<tr>
+				<td class="tr-caption" style="text-align: center;">&nbsp;2. Large plastic sheet(?) used as shade. (Credit <a href="http://www.esri.com/news/arcuser/0312/graphics/archaeology-inventory_1_lg.jpg" target="_blank">Esri</a>)</td>
+			</tr>
+		</tbody>
+	</table>
+	<div style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;">
+	</div>
+	<div class="caption">
+		<table cellpadding="0" cellspacing="0" class="tr-caption-container" style=" margin-left: 1em; text-align: right;">
+			<tbody>
+				<tr>
+					<td style="text-align: center;"><a href="https://pbs.twimg.com/media/CFMdnkEWEAAOSz3.jpg:large" imageanchor="1"><img border="0" height="240" src="https://pbs.twimg.com/media/CFMdnkEWEAAOSz3.jpg:large" width="320" /></a></td>
+				</tr>
+				<tr>
+					<td class="tr-caption" style="text-align: center;">3. Reflector used for casting shade. (Credit&nbsp;<a href="https://twitter.com/drkatedevlin/status/599855743022583808" target="_blank">Kate Devlin</a>)</td>
+				</tr>
+			</tbody>
+		</table>
+		Sometimes though it's just not possible to completely eliminate the problem. Maybe you're trying to take a photo of a really large area, or maybe you're the only one around. Fortunately with the advent of digital photography, there is another approach: exposure fusion.
+	</div>
+</div>
+<h1 id="the-problem">
+	The Problem
+</h1>
+Let's look at what the actual problem is.<br />
+<h2 id="detection">
+	Detection
+</h2>
+Any light receptor has a range of brightness that it can detect. Any values beyond a certain brightness register the same maximum value ("white") and any below a certain point register the same minimum ("black"). This is called the <em><a href="https://en.wikipedia.org/wiki/Dynamic_range">dynamic range</a></em> of the detector, or, more typically in photography, its <em><a href="https://en.wikipedia.org/wiki/Exposure_range">exposure range</a></em>. In the photography world, this range is measured in stops, which work in a base-2 log system, so that for every one-stop change, the value either doubles or halves. If you're handy with a camera, you'll be used to this because exposure times, f-stops, and ISO are all traditionally adjusted in increments of one stop...or so: note how shutter speeds are (were?) given as fractions of a second: 1/125, 1/60 (not twice 1/125), 1/30, 1/15, 1/8 (not twice 1/15), 1/4, 1/2, 1, and so on. (Camera buffs should note that 1 EV is equal to one stop.)<br />
+<br />
+What's the range of common detectors? Well, the human eye is pretty good at this. It can detect a total range of <a href="https://en.wikipedia.org/wiki/Human_eye#Dynamic_range">something like 46.5 stops</a>, which equates to the brightest thing being one hundred trillion (100,000,000,000,000:1) brighter than the darkest. That range foes the brightest daylight all the way to dimly lit nightscapes, and the eye accomplishes this remarkable feat by constantly adjusting to changing light levels. In daylight the range might be more like <a href="http://www.cambridgeincolour.com/tutorials/cameras-vs-human-eye.htm">~20 stops</a> (or 1,000,000:1), but some sources say it's more like 10-14 stops (1,000:1 - 16,000:1). In any case, it's pretty big, but remember that this large range can't all be successfully detected at the same time.<br />
+<br />
+Camera print film (remember that?) has an exposure range of approximately 10-14 stops, which is comparable to the human eye. Normal digital DSLRs can do <a href="http://www.dpreview.com/articles/0478806851/the-art-of-hdr-photography-part-1">7-10 stops</a> (128:1 to 1000:1), which is less than the eye. Slide film is lower still at 6-7 stops, and digital video is even lower at ~5.5 stops (45:1).<br />
+<h2 id="recreating">
+	Recreating
+</h2>
+How about output devices? If your camera can record 10 stops, how many stops can whatever is displaying the photo show? Remarkably (to me, anyway), paper can only do about 6-7 stops, which is about 100:1. The computer screen you're likely reading this on does a lot better at something up to 10 stops (1000:1). High dynamic range (HDR) monitors do a lot better at ~14 stops (30,000:1).<br />
+<br />
+The situation gets a little more complicated with digital files, because of computational techniques that are applied to the data. The detector in the camera is like a grid (I'm oversimplifying here), and each cell in the grid is a pixel. so the camera hardware has to measure the light hitting the pixel and write that number to a file. For simplicity, think about a gray-scale image: the camera writes the light intensity as a number from 0 to whatever it goes up to. One wrinkle is that some image-file formats can't handle the same dynamic range as the camera's detector. If you're old enough to remember working on monitors with limited output (like the <a href="https://en.wikipedia.org/wiki/Macintosh#History">original Macs</a> that had a dynamic range of 2, so pixels were either black or white), you'll know what this does to images. Since image files are binary formats, they tend to work in powers of 2, like the stops, so it's easy to go from the number of bits used to record light intensity to the number of stops. An 8-bit image has 256 levels of brightness, like 8 stops. The common format of JPEG is an 8-bit format (and "lossy" due to compression of the image), but it can achieve dynamic ranges up to about 11 stops due to non-linear transformation of the data coming off the camera detector (another wrinkle). If your camera can save <a href="https://en.wikipedia.org/wiki/Raw_image_format">raw</a> files, those will typically have the maximum dynamic range that your camera can measure.<br />
+<br />
+(I'm ignoring a lot of nuance to everything I just wrote about, but it's easy to immerse yourself in the details of this stuff, if you like.)<br />
+<h2 id="whats-the-problem-again">
+	What's the problem again?
+</h2>
+Back to the problem...<br />
+Like your eye, almost all cameras will make adjustments to maximize picture quality. Cheap ones do it automatically and don't let you make any changes, and more expensive ones will let you control just about everything. Insofar as they adjust then, cameras are like your eye. The problem is, they lack your brain which does a lot of heavy lifting in the background as your eye moves around the scene and adjusts, and an image taken by a camera has to be taken at only one setting. If the dynamic range of the image exceeds that of the camera, then part of the image will either be too dark or too light, and thus all the various shades of "too dark" will be black and the "too light" all white, even though the scene might have looked fine to your eye.<br />
+<br />
+This happens a lot in indoor photos, where there's a window in the background (like this quick shot of my office I just took). The bookshelves look nice, but large portions of the window are over-exposed and therefore white, even though when I look out the window I can see the details of the tree out there.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;">
+	<tbody>
+		<tr>
+			<td style="text-align: center;"><a href="https://1.bp.blogspot.com/--KdFoKUH8qM/V3QxXDi-yeI/AAAAAAAAAdg/BUYbWe1oHy8xpi3cBf4Dh4iayIAKcK1lwCLcB/s1600/office.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="240" src="https://1.bp.blogspot.com/--KdFoKUH8qM/V3QxXDi-yeI/AAAAAAAAAdg/BUYbWe1oHy8xpi3cBf4Dh4iayIAKcK1lwCLcB/s320/office.jpg" width="320" /></a></td>
+		</tr>
+		<tr>
+			<td class="tr-caption" style="text-align: center;">My office with an over-exposed window.</td>
+		</tr>
+	</tbody>
+</table>
+The problem then is how to capture the entire dynamic range of a scene when it exceeds the camera's dynamic range. One way to do this is to take advantage of the camera's ability to capture the full range with a change of settings, that is, <strong>in multiple images</strong>.<br />
+<h1 id="exposure-fusion">
+	Exposure fusion
+</h1>
+The basic idea then is to combine multiple images so that the resulting image has the best exposed parts from each. Fortunately the software is out there to do the combining (or "fusing") automatically, so all you need is a set of appropriate pictures. In this case "appropriate" means images that range from very bright—where the darkest parts of the image don't register as completely black and have some detail in them—all the way to very dark—where the lightest parts of the image don't register as completely white and have some detail in them. You'll want at least one photo in the middle too. For example, the photo of my office is pretty good on the too-bright side. There's not <em>a lot</em> of contrast in the black of my chair and the books, but I don't think they're registering completely black either. I can easily check that with the histogram function in my image-editing software (<em><a href="https://www.lemkesoft.de/en/products/graphicconverter/">Graphic Converter</a></em>) which provides a plot of how many pixels in the image are at what level of brightness. (Histograms are a pretty standard feature of most image editors, including Mac OS X's standard <em>Preview</em>.)<br />
+<div class="figure">
+	<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;">
+		<tbody>
+			<tr>
+				<td style="text-align: center;"><a href="https://4.bp.blogspot.com/--tgEQyJK1o8/V3QxetW57YI/AAAAAAAAAdo/My6tymndKlUjv2xrGa9kwcJz1Nz8KwUOgCLcB/s1600/office_histogram.png" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="180" src="https://4.bp.blogspot.com/--tgEQyJK1o8/V3QxetW57YI/AAAAAAAAAdo/My6tymndKlUjv2xrGa9kwcJz1Nz8KwUOgCLcB/s320/office_histogram.png" width="320" /></a></td>
+			</tr>
+			<tr>
+				<td class="tr-caption" style="text-align: center;">Histogram of the over-exposed office photo.</td>
+			</tr>
+		</tbody>
+	</table>
+	<br />
+	<div class="caption">
+		The horizontal axis represents brightness level and goes from black on the left to white on the right. As you can see, this image has no pixels in the darker region on the left, and a lot in the very brightest on the right, confirming my guess that this would be a good "too bright" image.<br />
+		<br />
+	</div>
+</div>
+So outside we go to take some pictures. Here are a few tips on doing that well:<br />
+<ol>
+	<li>Use a tripod. You want to minimize the difference between the views in each image, so the software can more successfully combine them. You <em>could</em> try standing really still, and you might get decent results that way, but a tripod will keep the camera steady for sure.</li>
+	<li>Take at least three photos. In most cases three will be enough (and you can get back to work on the site!). Your camera's histogram can help determine whether the photos are going to work well for this.</li>
+	<li>Use exposure time to vary the amount of light, instead of varying the aperture size, which can affect the depth of field and so make the photos less similar.</li>
+	<li>Take photos at least 2 stops to either side of the camera's automatic settings. This will be enough for most scenes, but you may find (as we will below) that scenes a larger range of brightness may need a bigger exposure range on the camera. (Here's where the histogram can show whether the photos have a wide enough range.) Many more expensive cameras as well as some cheaper ones can take a series of photos with the desired change in exposure automatically via their "exposure bracketing" function. Turn this on and when you press the button the camera will take one photo at the its automatic setting, one a fixed number of stops darker than that, and finally a third that same number of stops brighter. If you set the bracketing to go 2 stops in each direction, you'll get the desired range of 4. (The following photos were taken with a cheap Canon camera, which doesn't do exposure bracketing out of the box, but can with the free <a href="https://chdk.wikia.com/wiki/CHDK">"Canon hack development kit" (CHDK)</a> which adds scripting and a whole bunch of functionality to Canons.)</li>
+	<li>If you're using an automatic process on the camera, set a short timer (2 seconds is a common one), so that any residual motion from your pushing the button will have stopped. Alternatively, f you have a remote control, use that instead.</li>
+</ol>
+<ol class="incremental" style="list-style-type: decimal;">
+</ol>
+<h2 id="an-example">
+	An Example
+</h2>
+My backyard provided the scene for this test case. It has an unusually wide dynamic range with a white garage in full sun and some heavily shaded grass.<br />
+<h3 id="getting-the-images">
+	Getting the images
+</h3>
+Here are the three photos I started with, along with their histograms. They have a range of 4 stops:<br />
+<div class="figure">
+	<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;">
+		<tbody>
+			<tr>
+				<td style="text-align: center;"><a href="https://1.bp.blogspot.com/-n7TdgBwz6J0/V3Qxz9tW2oI/AAAAAAAAAdw/51qa47vjtSQMFfLdW6v60D0TrGYFfmk7ACLcB/s1600/3_images_2stops.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="150" src="https://1.bp.blogspot.com/-n7TdgBwz6J0/V3Qxz9tW2oI/AAAAAAAAAdw/51qa47vjtSQMFfLdW6v60D0TrGYFfmk7ACLcB/s400/3_images_2stops.png" width="400" /></a></td>
+			</tr>
+			<tr>
+				<td class="tr-caption" style="text-align: center;">Three photos with a range of 4 stops.</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+The camera's default (exposure time of 1/200s) is in the middle, and has some good detail in the shadows, but the sunlit part of the wall is completely washed out. You can see that in the histogram too: the darkest parts are close to black (on the left of the histogram), but a decent fraction of the brightest portions are at the maximum value. The darker image on the left has removed <em>almost</em> all the maxed out bright parts, and the darkest parts are still not at 0. The brighter image at right has a larger portion of the brighter sections at the max. Given that the darker image still hasn't removed the completely washed out portions, this turns out to be a scene that needs more than a 2-stop range. Fortunately I had the camera programmed to take a series of photos over an 8-stop range, so I had the other images already. Here's the new set, using 3 stops to either side of the default:<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;">
+	<tbody>
+		<tr>
+			<td style="text-align: center;"><a href="https://2.bp.blogspot.com/-WDYGOn7Z14g/V3QyGPmTOfI/AAAAAAAAAd4/QyPRlWSmIVAZIUJLzlpD_h__ChU7ZuDvACLcB/s1600/3_images_3stops.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="150" src="https://2.bp.blogspot.com/-WDYGOn7Z14g/V3QyGPmTOfI/AAAAAAAAAd4/QyPRlWSmIVAZIUJLzlpD_h__ChU7ZuDvACLcB/s400/3_images_3stops.png" width="400" /></a></td>
+		</tr>
+		<tr>
+			<td class="tr-caption" style="text-align: center;">Three photos with a range of 6 stops.</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+You can see the the darkest image now has no pixels anywhere near the maximum brightness (and still very few at the maximum darkness). The bright image of course has even more washed-out areas, but it also has a lot more detail in the darkest parts too.<br />
+<h3 id="fusing-the-images">
+	Fusing the images
+</h3>
+Now that I have the images, they need to be combined. There are some commercial and free software applications out there that can do this for you. I use a free one, <a href="http://hugin.sourceforge.net/">Hugin</a>. (I've written about using Hugin <a href="{{ site.baseurl }}{% post_url 2014-07-30-photo-fun-using-hugin %}" target="_blank">before</a>.) Hugin is designed to be a panorama maker, but making those requires a number of steps, including ones that do what we want here. While you can actually load up your photos into Hugin and use its graphical interface to do this (<a href="https://sites.google.com/site/alistargazing/home/image-processing/hugin-tutorial-enfuse-only">here's a tutorial</a>), I'm going to break out the command line and directly access the underlying software goodness.<br />
+<br />
+There are two applications to use from the command line. The first aligns the images and the second does the exposure fusion. Since I used a tripod, that first app really shouldn't have much to do, but I want to make sure that there are no problems with alignment, so I'm going to run it anyway. The app is rather straightforwardly called <code>align_image_stack</code>, and I use it with the <code>-a</code> option that tells it to align the images and save them to a series of similarly named tiff files. Once that's done, I use <code>enfuse</code> to do the fusing. Normally both processes take only a few minutes on my aging laptop. (As usual both applications can accept other parameters that modify how they work; I'm just keeping it simple here. RTFM for those details: <a href="http://wiki.panotools.org/Enfuse">enfuse</a> and <a href="http://wiki.panotools.org/Align_image_stack">align_image_stack</a>.) The exact commands (on my Mac) are (and ignore the leading numbers):<br />
+<br />
+<pre><code>1&gt; cd &lt;directory of image files&gt;<br /><br />2&gt; /Applications/Hugin/Hugin.app/Contents/MacOS/align_image_stack -a &lt;newFileName&gt;  &lt;list of existing image files&gt;<br /><br />3&gt; /Applications/Hugin/Hugin.app/Contents/MacOS/enfuse  -o &lt;final filename&gt; &lt;list of files from previous step&gt;<br /><br />4&gt; rm &lt;intermediate files&gt;</code>
+</pre>
+<br />
+Here's what each command does:<br />
+<ol class="incremental" style="list-style-type: decimal;">
+	<li>Change the working directory to the one that holds the images I want to fuse. Normally I keep each set of images in its own folder. That's not strictly necessary, but it makes some things easier and it's certainly more organized.</li>
+	<li>Run align_image_stack on the images I want to work with. Since I'm in a directory without a lot of other stuff, I can often use a wildcard here: <code>align_image_stack -a newFileName image*.tif</code>. The newFileName is what the output files will be called. align_image_stack will automatically give them an extension of "tif", so you don't need to include one, and it will also suffix a number to this name, yielding, for example, "newFileName_0000.tf" as the first file. This process runs fairly quickly since the images were really already aligned, thanks to the tripod. When it's done, you'll see the new files in the directory.</li>
+	<li>Run enfuse on the intermediate files. Again wildcards come in handy, so I typically give the intermediate files from step 2 a name different from the originals, like "aligned_image".</li>
+	<li>Finally delete the intermediate aligned files from step 2.</li>
+</ol>
+This is pretty boring stuff, so I've created an AppleScript droplet that does it all for me. It's on <a href="https://github.com/Jmuccigr/AppleScripts/tree/master/Bracketing%20via%20Hugin">GitHub</a>.<br />
+<h3 id="the-result">
+	The Result
+</h3>
+Here's what the final image looks like (I turned the output tif into a jpeg to keep the download size reasonable):<br />
+<div class="figure">
+	<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;">
+		<tbody>
+			<tr>
+				<td style="text-align: center;"><a href="https://1.bp.blogspot.com/-X6qjQKsKJl0/V3Qypa7tMDI/AAAAAAAAAeM/P4q7wGJDNWg82IT8lRnxD7vmSS83RAqlwCLcB/s1600/Bracketed_3_3stops.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="300" src="https://1.bp.blogspot.com/-X6qjQKsKJl0/V3Qypa7tMDI/AAAAAAAAAeM/P4q7wGJDNWg82IT8lRnxD7vmSS83RAqlwCLcB/s400/Bracketed_3_3stops.jpg" width="400" /></a></td>
+			</tr>
+			<tr>
+				<td class="tr-caption" style="text-align: center;">Final enfused image (as a jpeg)</td>
+			</tr>
+		</tbody>
+	</table>
+	<br />
+	<div class="caption">
+		<br />
+	</div>
+</div>
+And here's the histogram for that:<br />
+<div class="figure">
+	<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;">
+		<tbody>
+			<tr>
+				<td style="text-align: center;"><a href="https://1.bp.blogspot.com/-jvuctdv-7TY/V3Qy3jBKWeI/AAAAAAAAAec/1A8zUQMv-Sk6k4-F6frJjt8D0kBCRD51wCLcB/s1600/histogram_final.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="225" src="https://1.bp.blogspot.com/-jvuctdv-7TY/V3Qy3jBKWeI/AAAAAAAAAec/1A8zUQMv-Sk6k4-F6frJjt8D0kBCRD51wCLcB/s400/histogram_final.png" width="400" /></a></td>
+			</tr>
+			<tr>
+				<td class="tr-caption" style="text-align: center;">Histogram of final output image</td>
+			</tr>
+		</tbody>
+	</table>
+	<br />
+</div>
+The histogram shows that both brightness extremes have been eliminated in the final image, and in the image itself both the bright sections (like the garage wall) and the dark ones (the shadows on the left) show a lot of detail. It's still possible to see where the shadow fell, but its intensity has been severely reduced.<br />
+<h2 id="isnt-this-just-hdr">
+	Isn't this just "HDR"?
+</h2>
+You'd think that, strictly speaking, high-dynamic-range images (HDR) would be images that have a greater than usual dynamic range, just like HDR monitors can produce a greater dynamic range than "normal" monitors. That might mean an image with more than the typical 10 stops your camera can capture. HDR <em>can</em> mean that, but what's usually meant is the result of taking such an image (often generated using techniques similar to exposure fusing) and manipulating it so that it can be viewed in a non-HDR medium (like a piece of photographic paper or your normal computer screen). This process is called <em>tone mapping</em>, and involves, as the <a href="https://en.wikipedia.org/wiki/High-dynamic-range_imaging">Wikipedia page on HDR</a> says, "reduc[ing] the dynamic range, or contrast ratio, of an entire image while retaining localized contrast." Depending on the algorithms used, this process can create vivid alterations in color and saturation, and give the image an artificial look. Such extreme applications are fairly popular these days, and probably what most people think of when you say "HDR".<br />
+<br />
+But exposure fusion doesn't involve the creation of an HDR image with the subsequent tone-mapping, so it avoids the sometimes interesting effects you can find in some HDR photos. In fact the original paper on exposure fusion was called "Exposure Fusion: A Simple and Practical Alternative to High Dynamic Range Photography" <span class="citation">[@Mertens2009]</span>. That said, it is possible to use tone-mapping techniques that create images that look very similar to ones obtained from exposure fusion. The popular HDR mode on the iPhone seems to do this. (I haven't found a definitive statement on exactly what the iPhone does, but it's certainly taking multiple photos and combining them.) Here's <a href="http://masteringphoto.com/hdr-tone-mapping-vs-exposure-fusion-what%E2%80%99s-the-difference-and-does-it-matter/">a site</a> comparing the two techniques. When you look at the histogram for our final image above, you can see that this is really a <strong>low</strong>-dynamic-range process.<br />
+<h2 id="conclusion">
+	Conclusion
+</h2>
+So there you go. Next time you've got a scene with a very high dynamic range (which usually means some shadow on a sunny day) that you can't fix by other means, break out the tripod and your camera's bracketing mode and do some exposure fusion.<br />
+<br />
+There's also a lot of information out there about this and other post-processing techniques (like HDR) that can improve your photos. You'll find that similar fusion techniques can be used for combining series of images with other variants, like creating large depths of field. 

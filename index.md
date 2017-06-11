@@ -1,15 +1,10 @@
 ---
-layout: index
+layout: default
 date: Wednesday, 7 June 2017
+title: Welcome!
 ---
 
-<img src="http://www.users.drew.edu/jmuccigr/images/dig.jpg" alt="Vicus Martis" 
-     style="
-       width:1250x; 
-       height:125px; 
-       float:right;
-       border: solid 3px darkgray;
-       " />
+<img src="/images/dig.jpg" alt="Vicus Martis" id="headshot" />
 
 # John D. Muccigrosso
 
@@ -19,15 +14,11 @@ date: Wednesday, 7 June 2017
 
 - - -
 
-<!-- 
-### Welcome
- -->
-
 Welcome to my homepage! It’s perpetually out of date, and I’ve stopped promising to fix that.
 
--   Join our archaeological dig in [Umbria](http://www.users.drew.edu/jmuccigr/vicusadmartis/) !
+-   Join our archaeological dig in [Umbria](http://www.users.drew.edu/jmuccigr/vicusadmartis/)!
 -   Peruse my [CV](/CV/CV.html)
--   Read my [blog](https://de-vita-sua.blogspot.com/)
+-   Read my [blog](blog/)
 -   Send me e-mail at &lt;[jmuccigr@drew.edu](mailto:jmuccigr@drew.edu?subject=Sent%20from%20your%20website)&gt;
 -   Follow me on Twitter: [JD\_PhD](https://twitter.com/JD_PhD)
 -   See my work on [Academica.edu](https://drew.academia.edu/JohnMuccigrosso)

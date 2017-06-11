@@ -13,25 +13,28 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: John Muccigrosso's Home on the web
+title: John Muccigrosso on the web
 email: jmuccigr@drew.edu
-author: "Me"
+author: "John D. Muccigrosso"
+owner_name: "John D. Muccigrosso"
 description: > # this means to ignore newlines until "baseurl:"
-  My new website with jekyll and github pages. Working on it.
+  My new website via jekyll and github pages. I'm still working on it.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jmuccigr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jd_phd
 github_username:  jmuccigr
 
+blog_title: de vita sua
+
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
-  - CV.markdown
+  - /CV/CV.markdown
   - README.md
 
 defaults:
@@ -39,5 +42,11 @@ defaults:
       path: "/"
     values:
       layout: default
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
 
 permalink: /blog/:year/:month/:day/:title
+
+google_analytics: UA-100756610-1

@@ -4,7 +4,10 @@
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-  
+    {% if page.path contains '_posts' %}
+      <span style="float: right; font-weight: heavier;" class="site-title" id="specifier">&nbsp;The Blog</span>
+    {% endif %}
+
 <!-- 
     {% if page_paths %}
       <nav class="site-nav">

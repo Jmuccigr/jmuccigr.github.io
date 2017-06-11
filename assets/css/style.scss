@@ -1,0 +1,43 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header > h1 > a {
+  color: inherit;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+h2, h3, h4 {
+  margin-top:  10px;
+  margin-bottom: 10px;
+}
+
+blockquote {
+  margin: 10px 10px 10px 10px;
+  padding-left: 10px;
+}
+
+body {
+  color: #505050;
+}
+
+#headshot {
+  width: 125px; 
+  height: 125px; 
+  float: right;
+  border: solid 3px darkgray;
+}
+
+// Image-holding table
+table.tr-caption-container {
+  margin-top: 1em;
+  clear: both;
+}
+
+td.tr-caption {
+ width: 90%;
+}

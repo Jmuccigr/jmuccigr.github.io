@@ -1,0 +1,15 @@
+---
+type: posts
+title: List of undergrad Classics programs - more pandoc & github
+date: '2015-07-07T15:56:00.000-04:00'
+author: John D. Muccigrosso
+tags:
+- markdown
+- classics
+- pandoc
+modified_time: '2015-07-07T15:56:32.807-04:00'
+blogger_id: tag:blogger.com,1999:blog-1655741187746617571.post-8502824427194463638
+blogger_orig_url: http://de-vita-sua.blogspot.com/2015/07/list-of-undergrad-classics-programs.html
+---
+
+I've kept ("maintained" would be too strong a word) a list of undergraduate classics program for a while now. I first started it when I was the webmaster for the <a href="https://aclclassics.org/" target="_blank">American Classical League</a> back in grad school and early in my career, but then I just kept it around because it seemed like a shame not too.<br /><br />The other day I got a now rare update from someone on the list, and I thought this would be a good time to change the way I handle the whole thing.<br /><br />First I figured I'd switch over the basic form of this very simple page from html to the easier to manage&nbsp;<a href="http://daringfireball.net/projects/markdown/" target="_blank">markdown</a>, and then change my workflow to use <a href="http://daringfireball.net/projects/markdown/" target="_blank">pandoc</a> to generate the html from this markdown whenever necessary. This part was fairly simple, though there were a few complications. For example, pandoc doesn't like html name tags, so in order to keep a bunch of internal links I had, I needed to convert those anchors to spans with IDs that matched the names I was using. <a href="https://barebones.com/products/bbedit/" target="_blank">BBEdit</a> and its nice search-and-replace functionality to the rescue. I then did some minimal tweaks to the new pandoc-generated markdown file, so that pandoc could now generate some decent html from it.<br /><br />Step 2 was to put the new markdown and html up on GitHub, instead of in my institutional filespace. Not only does this give me some version control over the files, but I can let other people edit the markdown and send me pull requests, instead of emailing me updates that I then put into the file. I don't think I'll get a lot of these, but you never know.<br /><br />So I can now (1) make changes to the markdown myself, or accept pull requests with them in it, (2) sync my local github repo with the on-line version, (3) run pandoc on my local copy, and (4) sync it back to GitHub where I release a new tagged version. I then link to the files directly via <a href="http://rawgit.com/" target="_blank">rawgit</a>. (The tag in GitHub is needed to make rawgit grab the correct version instead of the one it caches.)<br /><br />The relevant links are here:<br /><br /><ul><li><a href="https://github.com/Jmuccigr/classics_programs" target="_blank">GitHub repository</a></li><li><a href="https://cdn.rawgit.com/Jmuccigr/classics_programs/latest/Undergrad_Classics.html" target="_blank">The list itself</a></li></ul><div><br /></div><div>Check out the list and let me know about any updates via a pull request!</div>
