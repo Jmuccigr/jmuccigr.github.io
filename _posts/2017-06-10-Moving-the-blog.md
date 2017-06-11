@@ -1,5 +1,4 @@
 ---
-published: false
 type: posts 
 title: Moving the blog
 date: 2017-06-10
