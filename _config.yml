@@ -47,6 +47,6 @@ defaults:
     values:
       layout: post
 
-permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title/
 
 google_analytics: UA-100756610-1
