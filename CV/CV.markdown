@@ -11,12 +11,11 @@ title: CV
 |left|right|
 |:---|----:|
 Professor of Classics|[Drew University](http://www.drew.edu/)|
-|<jmuccigr@drew.edu>|[214a Brothers College](http://www.drew.edu/map/)|
+|<jmuccigr@drew.edu>|[207 Brothers College](http://www.drew.edu/map/)|
 |<http://jmuccigr.github.io/>| Madison, NJ 07940 |
 |[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)|+1.973.408.3029|
 
 ### Education
-
 
 |date|item|
 |:--|:--|
@@ -40,6 +39,7 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 
 |date|item|
 |:--|:--|
+2017–present | Co-Director, Mellon Digital Humanities Grant
 2009–2014 | Associate Dean, [College of Liberal Arts](http://www.drew.edu/cla/cla-deans-office/)
 \ | *Budget & salary; retention; management of physical resources; scheduling; college IR; admissions outreach; special projects*
 2011–2014 | [Director of Institutional Research](http://www.drew.edu/InstitutionalResearch/)
@@ -223,5 +223,5 @@ SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classic
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Monday, 5 June 2017.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 25 August 2017.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
