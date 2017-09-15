@@ -21,7 +21,7 @@ Welcome to my homepage! It’s perpetually out of date, and I’ve stopped promi
 -   Read my [blog](blog/)
 -   Send me e-mail at &lt;[jmuccigr@drew.edu](mailto:jmuccigr@drew.edu?subject=Sent%20from%20your%20website)&gt;
 -   Follow me on Twitter: [JD\_PhD](https://twitter.com/JD_PhD)
--   See my work on [Academica.edu](https://drew.academia.edu/JohnMuccigrosso)
+-   See my work on [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)
 -   See my stuff on [GitHub](https://github.com/jmuccigr/)
 -   [ORCID](https://orcid.org/0000-0002-9877-1043), [VIAF](https://viaf.org/viaf/309849093/)
 -   Contact me in the office: Phone +1.973.408.3029 (Really, don’t contact me this way. Use some internet method.)
