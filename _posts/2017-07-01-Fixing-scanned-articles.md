@@ -6,7 +6,7 @@ author: John D. Muccigrosso
 tags:
   - technology
   - CLI
-published: true
+published: false
 ---
 
 I've got a lot of scanned articles in my files. Many of them come from my grad school days (very, very, very early internet) when the only way to have your own copy of an article was to make it with the departmental copy machine. (I got pretty good at that, btw. Add it to the list of skills with rapidly diminishing returns.) Over the past few years, I've taken a good run at converting these dead-tree copies to digital ones, mainly by using one of the spiffy scanners my employer has bought. They can output the scans into a number of formats, and I chose PDF most of the time, figuring I could use one of the many PDF readers on my computer or iPod and share the files via [Zotfile](http://github.com/zotfile/) and [Zotero](https://zotero.org/). Turns out that was maybe not my best move, but more in a bit.
