@@ -180,7 +180,8 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 |date|item|
 |:--|:--|
-2017 | "Rome Research Project: Students and Digital Faculty Research," OLC Collaborate with Emerging Learning Design, with Dr. Louis Hamilton
+2017 | Introduction to "Digital Approaches to Latin Vocabulary Learning," Classical Association of the Atlantic States, Fall meeting, organized session with Dr. Patrick Burns
+\  | "Rome Research Project: Students and Digital Faculty Research," OLC Collaborate with Emerging Learning Design, with Dr. Louis Hamilton
 \  | "[Developing an On-line Database of Roman Temples](https://doi.org/10.6084/m9.figshare.4765129),"  poster, CAA
 \  | "[A New On-line Database of Roman Temples](https://dx.doi.org/10.6084/m9.figshare.4536260),"  poster, AIA
 2016 | "A Database of Roman Temples," at the NYU Institute for the Study of the Ancient World's LAWDNY 2016 Digital Antiquity Research Workshop
@@ -223,5 +224,5 @@ SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classic
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 25 August 2017.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Saturday, 7 October 2017.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
