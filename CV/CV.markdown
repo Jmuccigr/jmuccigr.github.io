@@ -180,6 +180,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 |date|item|
 |:--|:--|
+2018 | "The Northern Roman-Period Burial Area at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey
 2017 | Introduction to "Digital Approaches to Latin Vocabulary Learning," Classical Association of the Atlantic States, Fall meeting, organized session with Dr. Patrick Burns
 \  | "Rome Research Project: Students and Digital Faculty Research," OLC Collaborate with Emerging Learning Design, with Dr. Louis Hamilton
 \  | "[Developing an On-line Database of Roman Temples](https://doi.org/10.6084/m9.figshare.4765129),"  poster, CAA
@@ -211,7 +212,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 ### Teaching
 
 <span class="item_standalone">
-*Archaeology of Greece and Rome*; *Introduction to Roman history*; *Ancient Sport & Spectacle*; *Space and Power in the ancient world*; *Science & technology in the ancient world*; *Introduction to ancient drama*; introductory Latin sequence; intermediate Greek; advanced Latin: *Catullus, Vergil, Livy;* First-year seminars: *The Hero, Dead Men Do Tell Tales;* as graduate assistant: *Virgil’s* Aeneid; *Sport and Daily Life in the Roman Empire*; introductory chemistry; organic chemistry laboratory
+*Classical Humanities*; *Archaeology of Greece and Rome*; *Introduction to Roman history*; *Ancient Sport & Spectacle*; *Space and Power in the ancient world*; *Science & technology in the ancient world*; *Introduction to ancient drama*; introductory Latin sequence; intermediate Greek; advanced Latin: *Catullus, Vergil, Livy;* First-year seminars: *The Hero, Dead Men Do Tell Tales;* as graduate assistant: *Virgil’s* Aeneid; *Sport and Daily Life in the Roman Empire*; introductory chemistry; organic chemistry laboratory
 
 ### Dissertation
 
@@ -224,5 +225,5 @@ SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classic
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Saturday, 7 October 2017.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Monday, 9 October 2017.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
