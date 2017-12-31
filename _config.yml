@@ -19,6 +19,11 @@ author: "John D. Muccigrosso"
 owner_name: "John D. Muccigrosso"
 description: > # this means to ignore newlines until "baseurl:"
   My new website via jekyll and github pages. I'm still working on it.
+blog_description_open:
+  <h2><em><a href="../../../../">
+blog_description_close:
+  </a></em></h2>
+  <p>a blog</p>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jmuccigr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jd_phd
@@ -29,8 +34,9 @@ blog_title: de vita sua
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
-gems:
+plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
