@@ -1,9 +1,11 @@
 <!doctype html>
-<html>
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name | default: site.author }}</title>
+	<title>{{ page.title | default: site.github.repository_name }} by {{ site.github.owner_name | default: site.author }}</title>
+
+{% seo %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
@@ -14,8 +16,12 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="/">{{ page.title | default: site.title }}</a></h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+	  {% if page.layout == "post" %}
+        {{ site.blog_description_open }}{{ site.blog_title}}{{ site.blog_description_close }}
+		  {% else %}
+            <h1><a href="/">{{ page.title | default: site.title }}</a></h1>
+			<p>{{ site.description | default: site.github.project_tagline }}
+	  {% endif %}
 
         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
