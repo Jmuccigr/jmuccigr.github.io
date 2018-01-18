@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 date: Wednesday, 7 June 2017
-title: Assignments
+title: Schedule
 ---
 
 # Topics
@@ -11,8 +11,9 @@ title: Assignments
 
 - Thursday, January 18
     - Introduction to the class
-    - Introduction to citation managers: [Zotero](https://www.zotero.org/)
     - The archaeological record and periodization of the ancient world
+        - Resource: [PeriodO](http://perio.do)
+    - Modern scholarship: Introduction to citation managers: [Zotero](https://www.zotero.org/)
 
 #### Week 2
 ### Cities and Urbanism
@@ -21,14 +22,13 @@ title: Assignments
 	- Assignments
 		- *AC*: ch. 12, p. 205-210; ch. 13, p. 226-227; ch. 14, p. 228-232, 237; ch. 16, 252-254, 264-268; ch. 17, p. 269-270, 273-278; ch. 18, p. 286-287, 289-305
 		- Learn about Markdown from Gruber's [original post](http://daringfireball.net/projects/markdown/) and a [GradHacker column](http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295) on how to use it.
-	- [Slideshow](notes/Markdown.html) from class.
 - Thursday, January 25
 	- Assignments
 		- *AC*: ch. 19, p. 301-322, ch. 20, p. 328-339, 346-347; ch. 22, 356-358, 367-368; ch. 24
 		- Markdown: take a short paper that you've written and convert it to markdown based on [Gruber's syntax](http://daringfireball.net/projects/markdown/syntax). Use this [handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) if you like. Make sure to use at least headings, lists, and emphasis (**bold** or *italic*). User TextEdit (Mac) or NotePad (Windows). Submit the file via email.
 		- Zotero
 			1. Create an account and email me your username.
-			1. Edit your profile to make your library public (in the *Privacy* tab). You can add whatever else you want, of course.
+			1. If you wish, edit your profile to make your library public (in the *Privacy* tab). You can add whatever else you want, of course.
 			1. [Download](https://www.zotero.org/download/) and install the standalone version of Zotero and the browser extension(s) you need.
 
 #### Week 3
@@ -66,7 +66,7 @@ title: Assignments
 
 - Thursday, February 8
 	- @Millett2012 In [PDF](../../readings/Millett - 2012 - What is classical archaeology Roman archaeology.pdf).
-	- Technology
+	- Modern Scholarship
 		- Read [ProfHacker on pandoc](http://chronicle.com/blogs/profhacker/pandoc-converts-all-your-text-documents/38700).
 		- Be aware of the [Pandoc User's Guide](http://pandoc.org/README.html) - don't worry about reading it all, as it works best as a reference guide, but at least have a look at the "Using pandoc" section. Also, bookmark it. 
 		- Refer to [UT's page](https://uknow.drew.edu/confluence/display/techdocs/MyFiles) on using MyFiles at Drew, so you can do the next assignment in the list. For direct access from your OS (Mac or Windows), the help page is [here](https://uknow.drew.edu/confluence/display/techdocs/Access+to+Files+and+Programs+When+Not+Joined+to+the+Drew+Network).
@@ -109,7 +109,7 @@ title: Assignments
     - *AC*: ch. 12, 211-212 "Cemeteries..."; ch. 17, 282-285 "Royal burials"; ch. 19, 314 "Paestum"; ch. 23, 390-392 "Imperial tombs".
     - *GAA*: ch. 4, 108-110 "Architecture", 116-123 "Pottery"; ch. 9, 326-331 "Vergina".
     - Necropoleis in Etruria *AC*: ch. 19, 323-327 "[Etruscan] Tombs"
-    - Technology
+    - Modern Scholarship
         - Follow these [instructions](notes/The_CLI,_Zotero,_and_Pandoc.html) to get Zotero to export your library and install it on the server so pandoc can access it.
 
 - Thursday, March 1
@@ -136,12 +136,15 @@ title: Assignments
 	- [@Wheeler1964] ch. 5 on theaters and amphitheaters. [In PDF](../../readings/Wheeler_RAA_ch5.pdf).
 	- Wikipedia "[list of Roman theatres](https://en.wikipedia.org/wiki/List_of_Roman_theatres)"
 	- [Reconstructions of the Theater of Pompey](http://pompey.cch.kcl.ac.uk/Burge.htm)
-	- Technology
+	- Modern Scholarship
 		- *Learn X in Y minutes* [on *json*](https://learnxinyminutes.com/docs/json/)
 
 - Thursday, March 22
 	-  *AC*: ch. 22, 360-361 "Amphitheater [of Pompeii]" ch 23, 385-387 "Flavian Amphitheater"
 	- Wikipedia "[list of Roman amphitheatres](https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres)"
+
+- Saturday, March 24
+    - Metropolitan Museum of Art (tentative)
 
 #### Week 10
 ### Stadia & Other commemorative monuments
