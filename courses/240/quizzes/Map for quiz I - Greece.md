@@ -1,7 +1,7 @@
 ---
 title: 'Map for Quiz I: Greece & Surroundings'
 author: 
-date: Spring 2018
+date: January 2018
 geometry: landscape
 ---
 

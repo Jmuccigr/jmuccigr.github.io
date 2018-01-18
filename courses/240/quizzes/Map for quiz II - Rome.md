@@ -1,7 +1,7 @@
 ---
 title: 'Map for Quiz II: Rome'
 author: 
-date: Spring 2018
+date: January 2018
 ---
 
 Memorize the locations on this map of the city of Rome.
