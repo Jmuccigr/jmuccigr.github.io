@@ -11,8 +11,7 @@ title: Schedule
 
 - Thursday, January 18
     - Introduction to the class
-    - The archaeological record and periodization of the ancient world
-        - Resource: [PeriodO](http://perio.do)
+    - The archaeological record
     - Modern scholarship: Introduction to citation managers: [Zotero](https://www.zotero.org/)
     - [Images](../lectures/01 Introduction.pdf)
 
@@ -21,7 +20,9 @@ title: Schedule
 
 - Tuesday, January 23
 	- Assignments
-		- *AC*: ch. 12, p. 205-210; ch. 13, p. 226-227; ch. 14, p. 228-232, 237; ch. 16, 252-254, 264-268; ch. 17, p. 269-270, 273-278; ch. 18, p. 286-287, 289-305
+		- Periodization of the ancient world
+            - Resource: [PeriodO](http://perio.do)
+        - *AC*: ch. 12, p. 205-210; ch. 13, p. 226-227; ch. 14, p. 228-232, 237; ch. 16, 252-254, 264-268; ch. 17, p. 269-270, 273-278; ch. 18, p. 286-287, 289-305
 		- Learn about Markdown from Gruber's [original post](http://daringfireball.net/projects/markdown/) and a [GradHacker column](http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295) on how to use it.
 - Thursday, January 25
 	- Assignments
