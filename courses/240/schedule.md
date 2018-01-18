@@ -14,6 +14,7 @@ title: Schedule
     - The archaeological record and periodization of the ancient world
         - Resource: [PeriodO](http://perio.do)
     - Modern scholarship: Introduction to citation managers: [Zotero](https://www.zotero.org/)
+    - [Images](../lectures/01 Introduction.pdf)
 
 #### Week 2
 ### Cities and Urbanism
