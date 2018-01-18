@@ -2,7 +2,10 @@
   <ul>
 	<li><a href="{{ site.url }}">My homepage</a></li>
 	{% if site.email %} 
+	<li> {% include icon-email.html username=site.email %} </li>
+<!-- 
 	<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+ -->
 	{% endif %} 
 	{% if site.github_username %} 
 	<li> {% include icon-github.html username=site.github_username %} </li>
