@@ -36,6 +36,10 @@ body {
   border: solid 3px darkgray;
 }
 
+li > ul {
+  margin: 0px;
+}
+
 // Image-holding table
 table.tr-caption-container {
   margin-top: 1em;
