@@ -145,9 +145,6 @@ title: Schedule
 	-  *AC*: ch. 22, 360-361 "Amphitheater [of Pompeii]" ch 23, 385-387 "Flavian Amphitheater"
 	- Wikipedia "[list of Roman amphitheatres](https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres)"
 
-- Saturday, March 24
-    - Metropolitan Museum of Art (tentative)
-
 #### Week 10
 ### Stadia & Other commemorative monuments
 
@@ -179,6 +176,9 @@ title: Schedule
 	- *GAA*: ch. 4, 112-118 "Pottery"; 115 "Burying the dead"; ch. 5, 121-131 "Pottery"; ch. 6, 189-205; ch. 7, 242-247; ch. 8, 281-287; ch. 9, 318-322; ch. 10, 382-385.
 
 - Thursday, April 12
+
+- Saturday, April 14
+    - Metropolitan Museum of Art (tentative)
 
 #### Week 13
 ### Pottery II
