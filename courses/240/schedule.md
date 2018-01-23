@@ -24,6 +24,7 @@ title: Schedule
 	- Assignments
         - *AC*: ch. 12, p. 205-210; ch. 13, p. 226-227; ch. 14, p. 228-232, 237; ch. 16, 252-254, 264-268; ch. 17, p. 269-270, 273-278; ch. 18, p. 286-287, 289-305
 		- Learn about Markdown from a [GradHacker column](http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295) on how to use it and John Gruber's [original post](http://daringfireball.net/projects/markdown/).
+    - [Images from class](../lectures/02 Urbanism.pdf)
 - Thursday, January 25
 	- Assignments
 		- *AC*: ch. 19, p. 301-322, ch. 20, p. 328-339, 346-347; ch. 22, 356-358, 367-368; ch. 24
@@ -37,7 +38,6 @@ title: Schedule
 			1. Create an account and email me your username.
 			1. If you wish, edit your profile to make your library public (in the *Privacy* tab). You can add whatever else you want, of course.
 			1. [Download](https://www.zotero.org/download/) and install the standalone version of Zotero and the browser extension(s) you need.
-    - [Images from class](../lectures/02 Urbanism.pdf)
 
 #### Week 3
 ### Cities and Urbanism, II
