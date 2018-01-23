@@ -27,11 +27,17 @@ title: Schedule
 - Thursday, January 25
 	- Assignments
 		- *AC*: ch. 19, p. 301-322, ch. 20, p. 328-339, 346-347; ch. 22, 356-358, 367-368; ch. 24
-		- Markdown: take a short paper that you've written and convert it to markdown based on [Gruber's syntax](http://daringfireball.net/projects/markdown/syntax). Use this [handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) if you like. Make sure to use at least headings, lists, and emphasis (**bold** or *italic*). User TextEdit (Mac) or NotePad (Windows). Submit the file via email.
+		- Markdown
+            1. Take a short paper that you've written and convert it to markdown based on [Gruber's syntax](http://daringfireball.net/projects/markdown/syntax). Use TextEdit (Mac) or NotePad (Windows) to edit it. Use this [handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) if you like. Make sure the document includes
+                1. headings
+                1. list
+                1. 	emphasis (**bold** or *italic*).
+            1. Submit the file via email.
 		- Zotero
 			1. Create an account and email me your username.
 			1. If you wish, edit your profile to make your library public (in the *Privacy* tab). You can add whatever else you want, of course.
 			1. [Download](https://www.zotero.org/download/) and install the standalone version of Zotero and the browser extension(s) you need.
+    - [Images from class](../lectures/02 Urbanism.pdf)
 
 #### Week 3
 ### Cities and Urbanism, II
@@ -166,7 +172,7 @@ title: Schedule
 	- *Kouroi* and *Korai*: *AC*: ch. 14, 234-237 "Sculpture"; *GAA*: ch. 6, 172-187 "Kouroi", "Korai"; 184 "The Getty Kouros".
 
 - Thursday, April 5
-	- Trip to the Metropolitan Museum of Art
+	- Trip to the [Metropolitan Museum of Art](https://metmuseum.org/)
 
 #### Week 12
 ### Pottery I

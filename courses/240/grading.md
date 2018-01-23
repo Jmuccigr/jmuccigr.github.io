@@ -12,8 +12,8 @@ Grades will be based on the following criteria
 	* [Map Quiz 2: Rome](../quizzes/Map for quiz II - Rome.pdf)
 * Public Scholarship 10%
 * Presentations
-	* Major archaeologist 10%
-	* Archaeological site 10%
+	* [Major archaeologist]({% link courses/240/archaeologists.md %}) 10%
+	* [Archaeological site]({% link courses/240/sites.md %}) 10%
 	* Final project 10%
 * Writing 10%
 	* Assignment (to follow)
