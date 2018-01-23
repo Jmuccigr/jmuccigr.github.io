@@ -32,12 +32,14 @@ title: Schedule
 			1. If you wish, edit your profile to make your library public (in the *Privacy* tab). You can add whatever else you want, of course.
 			1. [Download](https://www.zotero.org/download/) and install the standalone version of Zotero and the browser extension(s) you need.
 		- Learn about Markdown from a [GradHacker column](http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295) on how to use it and John Gruber's [original post](http://daringfireball.net/projects/markdown/).
-		- Submit via [email](mailto:jmuccigr@drew.edu?subject=CLAS 240 HW) the names of three archaeologists and three sites you might want to do a presentation on.
+		- Submit via [email](mailto:jmuccigr@drew.edu?subject=CLAS 240 HW) the names of three [archaeologists]({% link courses/240/archaeologists.md %}) and three [sites]({% link courses/240/sites.md %}) you might want to do a presentation on. Feel free to suggest your own favorite for either of these. If too many people choose the same topics, I reserve the right to assign some arbitrarily.
+		- Be prepared to discuss what makes a good and a bad presentation. (Look at these [search results](https://duckduckgo.com/?q=death+by+powerpoint&kn=1).)
 
 #### Week 3
 ### Cities and Urbanism, II
 
 - Tuesday, January 30
+    - Quiz 1: [Geography of Greece]({% link /courses/240/quizzes/Map for quiz I - Greece.pdf %} )
 	- Assignments:
 		- @Cahill2002 Ch. 1 in [PDF](../../readings/Cahill_01.pdf)
 		- @Snodgrass2012 in [PDF](../../reading/Snodgrass - 2012 - What is classical archaeology Greek archaeology.pdf).
