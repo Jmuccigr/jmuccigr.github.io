@@ -13,7 +13,7 @@ title: Schedule
     - Introduction to the class
     - The archaeological record
     - Modern scholarship: Introduction to citation managers: [Zotero](https://www.zotero.org/)
-    - [Images from class](../lectures/01 Introduction.pdf)
+    - [Images from class]({% link courses/240/lectures/01 Introduction.pdf %})
 
 #### Week 2
 ### Cities and Urbanism
@@ -24,7 +24,7 @@ title: Schedule
 	- Assignments
         - *AC*: ch. 12, p. 205-210; ch. 13, p. 226-227; ch. 14, p. 228-232, 237; ch. 16, 252-254, 264-268; ch. 17, p. 269-270, 273-278; ch. 18, p. 286-287, 289-305
 		- Learn about Markdown from a [GradHacker column](http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295) on how to use it and John Gruber's [original post](http://daringfireball.net/projects/markdown/).
-    - [Images from class](../lectures/02 Urbanism.pdf)
+    - [Images from class]({% link courses/240/lectures/02 Urbanism.pdf %})
 - Thursday, January 25
 	- Assignments
 		- *AC*: ch. 19, p. 301-322, ch. 20, p. 328-339, 346-347; ch. 22, 356-358, 367-368; ch. 24
