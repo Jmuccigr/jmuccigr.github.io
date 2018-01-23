@@ -20,4 +20,5 @@ layout: syllabus
 1. Anna Marguerite McCann (1933 – 2017): underwater archaeology
 1. Colin Renfrew (born 1937): Radiocarbon dating, Indo-Europeanist
 1. Rhys Jones (1941 – 2001): Australian archaeology
+1. William Rathje (1945 – 2012): Le Projet du Garbàge
 1. Israel Finkelstein (born 1949): Biblical history & the Levant

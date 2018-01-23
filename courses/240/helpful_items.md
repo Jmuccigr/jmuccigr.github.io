@@ -4,6 +4,7 @@ date: 1 January 2018
 title: Helpful Items
 ---
 
+- [American School of Classical Studies](http://agora.ascsa.net/research) - The Central American archaeological academic/research institution in Greece, with archives and publications.
 - [Beazley Archive](https://www.beazley.ox.ac.uk/pottery/default.htm) - This is a database of ancient Greek pottery housed at Oxford University in England. You can search it anonymously or as a registered user (for free). Registered users can save searches.
 - [*Lexicon Iconographicum Mythologiae Classicae*](http://www.limc-france.fr) (LIMC) - "Dictionary of the Iconography of Classical Myth": Good resource for how various characters and elements of myth were portrayed visually. The printed book is in the library's reference section: N7760 .L49. The website is in French, but can be set to show (most) text in English.
 - [Online Coins of the Roman Empire](http://numismatics.org/ocre/): a joint project of the American Numismatic Society and the Institute for the Study of the Ancient World at New York University. This is a tool designed to help in the identification, cataloging, and research of the rich and varied coinage of the Roman Empire
