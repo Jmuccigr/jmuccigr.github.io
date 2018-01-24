@@ -26,7 +26,7 @@ title: Schedule
     - [Images from class]({% link courses/240/lectures/02 Urbanism.pdf %})
 - Thursday, January 25
 	- Assignments
-		- *AC*: ch. 19, p. 301-322, ch. 20, p. 328-339, 346-347; ch. 22, 356-358, 367-368; ch. 24
+		- *AC*: ch. 19, p. 311-322, ch. 20, p. 328-339, 346-347; ch. 22, 356-358, 367-368; ch. 24
 		- Zotero
 			1. Create an account and email me your username.
 			1. If you wish, edit your profile to make your library public (in the *Privacy* tab). You can add whatever else you want, of course.
