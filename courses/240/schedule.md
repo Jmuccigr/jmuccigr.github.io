@@ -34,6 +34,8 @@ title: Schedule
 		- Learn about Markdown from a [GradHacker column](http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295) on how to use it and John Gruber's [original post](http://daringfireball.net/projects/markdown/).
 		- Submit via [email](mailto:jmuccigr@drew.edu?subject=CLAS 240 HW) the names of three [archaeologists]({% link courses/240/archaeologists.md %}) and three [sites]({% link courses/240/sites.md %}) you might want to do a presentation on. Feel free to suggest your own favorite for either of these. If too many people choose the same topics, I reserve the right to assign some arbitrarily.
 		- Be prepared to discuss what makes a good and a bad presentation. (Look at these [search results](https://duckduckgo.com/?q=death+by+powerpoint&kn=1).)
+        - [Images from class]({% link courses/240/lectures/03 Urbanism II.pdf %})
+
 
 #### Week 3
 ### Cities and Urbanism, II
