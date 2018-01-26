@@ -42,6 +42,7 @@ title: Schedule
 
 - Tuesday, January 30
     - Quiz 1: [Geography of Greece]({% link /courses/240/quizzes/Map for quiz I - Greece.pdf %} )
+        - [A blank version of the map]( {% link /courses/240/quizzes/Map for quiz I blank.png %} )
 	- Assignments:
 		- @Cahill2002 Ch. 1 in [PDF](../../readings/Cahill_01.pdf)
 		- @Snodgrass2012 in [PDF](../../reading/Snodgrass - 2012 - What is classical archaeology Greek archaeology.pdf).
