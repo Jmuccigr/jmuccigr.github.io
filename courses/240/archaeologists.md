@@ -10,7 +10,7 @@ layout: syllabus
 1. Roque Joaquín de Alcubierre (1702 – 1780): excavator at Pompeii and Herculaneum - *Ava Valentino*
 1. Giovanni Battista Belzoni (1778 – 1823) - *Katie Riso*
 1. Heinrich Schliemann (1822 – 1890): discoverer of Troy - *Chris Morville*
-1. Sir Arthur John Evans (1851 – 1941): excavator at Knossos - 2 *Kevin Yan*
+1. Sir Arthur John Evans (1851 – 1941): excavator at Knossos - *Kevin Yan*
 1. Flinders Petrie (1853 – 1942): Egyptologist
 1. Gertrude Bell, CBE (1868 – 1926): archaeologist, political officer in the Middle East - *Rae Brickey*
 1. Harriet Boyd Hawes (1871 – 1945): excavator at Gournia - *Jason Adamo*
