@@ -44,8 +44,8 @@ title: Schedule
     - Quiz 1: [Geography of Greece]({% link /courses/240/quizzes/Map for quiz I - Greece.pdf %} )
         - [A blank version of the map]( {% link /courses/240/quizzes/Map for quiz I blank.png %} )
 	- Assignments:
-		- @Cahill2002 Ch. 1 in [PDF](../../readings/Cahill_01.pdf)
-		- @Snodgrass2012 in [PDF](../../reading/Snodgrass - 2012 - What is classical archaeology Greek archaeology.pdf).
+		- Cahill, N. 2002. April 10. Household and City Organization at Olynthus. Yale University Press, Ch. 1 in [PDF](../readings/Cahill Greek City Planning Ch 1 of Household 2001.pdf)
+		- Snodgrass, A. 2012. “What is classical archaeology: Greek archaeology.” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 13–29, Blackwell Studies in Global Archaeology, Wiley-Blackwell, in [PDF](../readings/Snodgrass - 2012 - What is classical archaeology Greek archaeology.pdf).
 		- Markdown
             1. Take a short paper that you've written and convert it to markdown based on [Gruber's syntax](http://daringfireball.net/projects/markdown/syntax). Use TextEdit (Mac) or NotePad (Windows) to edit it. Use this [handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) if you like. Make sure the document includes
                 1. headings
