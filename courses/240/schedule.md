@@ -45,26 +45,20 @@ title: Schedule
         - [A blank version of the map]( {% link /courses/240/quizzes/Map for quiz I blank.png %} )
 	- Assignments:
 		- Cahill, N. 2002. April 10. Household and City Organization at Olynthus. Yale University Press, Ch. 1 in [PDF](../readings/Cahill Greek City Planning Ch 1 of Household 2001.pdf)
+
+- Thursday, February 1
+	- Assignments:
 		- Snodgrass, A. 2012. “What is classical archaeology: Greek archaeology.” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 13–29, Blackwell Studies in Global Archaeology, Wiley-Blackwell, in [PDF](../readings/Snodgrass - 2012 - What is classical archaeology Greek archaeology.pdf).
+		- Wikipedia
+			- Watch (slightly outdated) [video](https://en.wikipedia.org/wiki/File:The_State_of_Wikipedia_by_JESS3.ogv) on Wikipedia.
+			- Read the "[Editing Wikipedia](https://commons.wikimedia.org/wiki/File:Editing_Wikipedia_brochure_(Wiki_Education_Foundation).pdf)" document.
+			- Create an account on Wikipedia (if you don't have one), and [email me](mailto:jmuccigr@drew.edu) your account name.
 		- Markdown
             1. Take a short paper that you've written and convert it to markdown based on [Gruber's syntax](http://daringfireball.net/projects/markdown/syntax). Use TextEdit (Mac) or NotePad (Windows) to edit it. Use this [handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) if you like. Make sure the document includes
                 1. headings
                 1. list
                 1. 	emphasis (**bold** or *italic*).
             1. Submit the file via email.
-		- Wikipedia
-			- Watch (slightly outdated) [video](https://en.wikipedia.org/wiki/File:The_State_of_Wikipedia_by_JESS3.ogv) on Wikipedia.
-			- Read the "[Editing Wikipedia](https://commons.wikimedia.org/wiki/File:Editing_Wikipedia_brochure_(Wiki_Education_Foundation).pdf)" document.
-			- Create an account on Wikipedia (if you don't have one), and [email me](mailto:jmuccigr@drew.edu) your account name.
-
-- Thursday, February 1
-	- Introduction to GIS
-		- Assignments:
-			- @Bloch
-			- @Aguirre2014
-			- @Parcak2013
-			- Excerpts from @UnitedNationsStatisticalDivision2000 In [PDF](https://drive.google.com/folderview?id=0B6e15SBFY-V6SVg4MGFsZFhUY1E&usp=sharing).
-			- Excerpt from @Sutton2010 In [PDF](https://drive.google.com/folderview?id=0B6e15SBFY-V6SVg4MGFsZFhUY1E&usp=sharing).
 
 #### Week 4
 ### Cities & Sanctuaries (with Treasuries)
