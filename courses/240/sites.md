@@ -11,7 +11,7 @@ layout: syllabus
 1. Knossos - *Lynette Crews*
 1. Nuraghe Santu Antine - *Kass Mattingly*
 1. Osteria dell'Osa - *Serena Rosenblatt*
-1. Kerameikos -
+1. Kerameikos - *Tayyaba Shakeel*
 1. Olympia - *Kevin Yan*
 1. Murlo -
 1. Olynthos -
