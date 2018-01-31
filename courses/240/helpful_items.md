@@ -17,9 +17,11 @@ title: Helpful Items
 -----
 
 ## Tools
-- Markdown - Light-weight text-to-HTML conversion tool that lets you write reasonably formatted documents as very readable text. The [original incarnation](http://daringfireball.net/projects/markdown/) belongs to John Gruber, but it's been widely adopted and there are many competing versions today. Markdown editors include:
-    - [Text Wrangler](http://www.barebones.com/products/textwrangler/) - a free text editor with syntax highlighting
-    - [MacDown](https://macdown.uranusjr.com) (Macs) - offers rendered previews of the text as you write it
-    - [MarkDownPad](http://www.markdownpad.com) (Windows) - offers rendered previews of the text as you write it
+- Markdown - Light-weight text-to-HTML conversion tool that lets you write reasonably formatted documents as very readable text. The [original incarnation](http://daringfireball.net/projects/markdown/) belongs to John Gruber, but it's been widely adopted and there are many competing versions today.
+    - Markdown editors include:
+        - [Text Wrangler](http://www.barebones.com/products/textwrangler/) - a free text editor with syntax highlighting
+        - [MacDown](https://macdown.uranusjr.com) (Macs) - offers rendered previews of the text as you write it
+        - [MarkDownPad](http://www.markdownpad.com) (Windows) - offers rendered previews of the text as you write it
+    - [Markdown demo site](https://markdown-here.com/livedemo.html) - test your markdown live
 - pandoc - Command-line [software](http://pandoc.org/) that converts documents between many formats, including markdown.
 - Zotero - On-line [reference manager](https://zotero.org/). You'll be organizing your references this way throughout the semester and for your final paper.
