@@ -65,22 +65,17 @@ title: Schedule
 
 - Tuesday, February 6
 	- Pompeii
-		- Read section on Pompeii from @Stambaugh1988 In [PDF](../../reading/Stambaugh.pdf).
+		- Read [chapter on Pompeii](../readings/Stambaugh - 1988 - The ancient Roman city.pdf) from Stambaugh, J.E. 1988. *The ancient Roman city*. Baltimore: Johns Hopkins University Press.
 		- AC: Ch 22, p. 356-358 = first section on Pompeii through "Town Plan".
 	- Markdown
-		- Add image and web links to your existing Markdown document. Read the markdown documentation above for help, or see [this small example](./notes/Markdown_1.html) I made.
-	- Command-line Interface
-		- [Handout](./notes/The\ Command-Line\ Interface\ (CLI).html)
+		- Add image and web links to your existing Markdown document. Read the markdown documentation above for help, or see [this small example]( {% link courses/240/Markdown_images_demo.md %}) I made.
 
 - Thursday, February 8
-	- @Millett2012 In [PDF](../../readings/Millett - 2012 - What is classical archaeology Roman archaeology.pdf).
-	- Modern Scholarship
-		- Read [ProfHacker on pandoc](http://chronicle.com/blogs/profhacker/pandoc-converts-all-your-text-documents/38700).
-		- Be aware of the [Pandoc User's Guide](http://pandoc.org/README.html) - don't worry about reading it all, as it works best as a reference guide, but at least have a look at the "Using pandoc" section. Also, bookmark it. 
-		- Refer to [UT's page](https://uknow.drew.edu/confluence/display/techdocs/MyFiles) on using MyFiles at Drew, so you can do the next assignment in the list. For direct access from your OS (Mac or Windows), the help page is [here](https://uknow.drew.edu/confluence/display/techdocs/Access+to+Files+and+Programs+When+Not+Joined+to+the+Drew+Network).
-		- Save your markdown file in your directory within the class pandoc directory. You can use MyFiles or other access methods for this. (You don't need the CLI.)
+	- Millett, M. 2012. “[What is classical archaeology: Roman archaeology]({% link /courses/240/readings/Millett - 2012 - What is classical archaeology Roman archaeology.pdf %}).” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 30–50. Second. Blackwell Studies in Global Archaeology. Wiley-Blackwell.
 	- Sanctuaries
-		- *AC*: ch. 12, 214-216 "The Heraion on Samos"; ch. 15 "Greek Sanctuaries" (don't worry about the monuments or statuary); ch. 17, 270-272, Epidauros.
+    	- *AC*: ch. 12, 214-216 "The Heraion on Samos"; ch. 15 "Greek Sanctuaries" (don't worry about the monuments or statuary); ch. 17, 270-272, Epidauros.
+	- Modern Scholarship
+        - Create an account on [Hypothes.is](https://web.hypothes.is/start/).
 
 #### Week 5
 ### Agora/Forum
@@ -92,12 +87,12 @@ title: Schedule
 - Thursday, February 15
 	- Rome & Pompeii: *AC*: ch. 20, 339-343 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
 	- Wikipedia: make sure to have added at least five temples to the list
+	- Command-line Interface
 	- pandoc/Zotero
 		1. Save your latest markdown file, which should include at least one image, in your server folder.
 		1. Use pandoc to convert that file into five other versions, all in that same directory: html (one version with the "-s" option and another without it); pdf; docx; odt.
 		1. Make sure your Zotero library has at least 10 items in it.
 		1. Download and install the [Better BibTeX extension](https://zotplus.github.io/zotero-better-bibtex/) into your standalone Zotero. Restart Zotero. Then go to the Better BibTeX pane in the preferences and check the "Show citekey instead of 'extra' field..." box and close the preferences.
-	- **Map Quiz 1: Greece**
 
 #### Week 6
 ### Houses
@@ -160,7 +155,6 @@ title: Schedule
 
 - Thursday, March 29
 	- *AC*: ch. 23, 382-385 "Commemorative monuments [arches and Trajan's Column]"; ch. 25, 420-421 "Arch of Constantine".
-	- **Map Quiz 2: Rome**
 	- [Images from class](./notes/Arches etc.html)
 
 #### Week 11
@@ -172,7 +166,6 @@ title: Schedule
 	- *Kouroi* and *Korai*: *AC*: ch. 14, 234-237 "Sculpture"; *GAA*: ch. 6, 172-187 "Kouroi", "Korai"; 184 "The Getty Kouros".
 
 - Thursday, April 5
-	- Trip to the [Metropolitan Museum of Art](https://metmuseum.org/)
 
 #### Week 12
 ### Pottery I
@@ -192,6 +185,7 @@ title: Schedule
 - Tuesday, April 17
 	-  Italy
 	- Amphoras, red-slip, etc.
+
 - Thursday, April 19
 	- [@Vickers1985-1]
 	- @Gill1990 [In PDF](../../readings/Gill-1990.pdf).
