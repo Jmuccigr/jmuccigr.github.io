@@ -6,7 +6,7 @@ title: CV
 
 # John D. Muccigrosso
 
-[comment]: # (For the pdf generation, which isn't working now anyway, put the following in the table as the third line. It leaves behind the = in html:\hspace{2.5in} = \hspace{1.75in} \kill)
+[comment]: # (For the pdf generation, which isn't working now anyway, put the following in the table as the third line. It leaves behind the = in html:&nbsp;hspace{2.5in} = &nbsp;hspace{1.75in} &nbsp;kill)
 
 |left|right|
 |:---|----:|
@@ -41,9 +41,9 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 |:--|:--|
 2017–present | Co-Director, Mellon Digital Humanities Grant
 2009–2014 | Associate Dean, [College of Liberal Arts](http://www.drew.edu/cla/cla-deans-office/)
-\ | *Budget & salary; retention; management of physical resources; scheduling; college IR; admissions outreach; special projects*
+&nbsp; | *Budget & salary; retention; management of physical resources; scheduling; college IR; admissions outreach; special projects*
 2011–2014 | [Director of Institutional Research](http://www.drew.edu/InstitutionalResearch/)
-\ | *Internal & external reporting; survey administration; retention analysis; budget-preparation assistance*
+&nbsp; | *Internal & external reporting; survey administration; retention analysis; budget-preparation assistance*
 
 [comment]: # ( ### Responsibilities RETURN <span class="item_standalone">Director of Institutional Research: Internal & external reporting, survey administration, retention analysis, budget-preparation assistance RETURN <span class="item_standalone">Associate Dean: Budget & salary, retention, management of physical resources, scheduling, college IR, admissions outreach, special projects)
 
@@ -123,14 +123,14 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 2018 (exp.) | Fide non ficta: *Essays in honor of Paul B. Harvey, jr.*, co-edited with Celia Schultz, from a conference (April 2018) 
 2016 | "The Apsidal building of the Vicus Martis Tudertium (PG)," with Sarah Harvey, Elena Lorenzetti, Jill A. Rhodes, and Stefano Spiganti *FOLD&R* [**366**](http://www.fastionline.org/docs/FOLDER-it-2016-366.pdf)
 2015 | "The 2011 Excavation Season at the Site of the Vicus Martis Tudertium (PG)," with Rangar Cline, Sarah Harvey, Elena Lorenzetti, and Stefano Spiganti *FOLD&R* [**327**](http://www.fastionline.org/docs/FOLDER-it-2015-327.pdf)
-\ | "A Speculative Note on the Golden Calf," self-published, [2015-06-10](https://figshare.com/articles/A_Speculative_Note_on_the_Golden_Calf/1444441).
+&nbsp; | "A Speculative Note on the Golden Calf," self-published, [2015-06-10](https://figshare.com/articles/A_Speculative_Note_on_the_Golden_Calf/1444441).
 2014 | *Current Practice in Linked Open Data for the Ancient World*, issue ed., with Thomas Elliott and Sebastian Heath, *ISAW Papers* [**7**](http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/)
 2012 | "Re-Interpreting the Robinson Skyphos," *SHT* [**13**.A.1, 1–15](http://sht.ut.ee/index.php/sht/article/view/13.A.1)  
-\ | "Report on the Linked Ancient World Data Institute," with Thomas Elliott and Sebastian Heath, *ISQ* [**24**, 2–3](http://www.niso.org/apps/group_public/download.php/9404/CR_Elliott-etal_LAWDI_isqv24no2-3.pdf), Spring/Summer
+&nbsp; | "Report on the Linked Ancient World Data Institute," with Thomas Elliott and Sebastian Heath, *ISQ* [**24**, 2–3](http://www.niso.org/apps/group_public/download.php/9404/CR_Elliott-etal_LAWDI_isqv24no2-3.pdf), Spring/Summer
 2011 | "A New Archaic Dipinto from Poseidonia," with James Higginbotham, *ZPE* [**178**, 191–194](https://www.jstor.org/stable/41616766)  
-\ | "The 2010 Excavation Season at the Site of the Vicus ad Martis Tudertium (PG)," *FOLD&R* [**227**](http://www.fastionline.org/docs/FOLDER-it-2011-227.pdf)
+&nbsp; | "The 2010 Excavation Season at the Site of the Vicus ad Martis Tudertium (PG)," *FOLD&R* [**227**](http://www.fastionline.org/docs/FOLDER-it-2011-227.pdf)
 2010 | "Excavations along the Via Flaminia: the Vicus ad Martis Tudertium," *Etruscan News* [**13**, Winter](http://ancientstudies.fas.nyu.edu/docs/CP/963/EtruscanNews10_winter.pdf), p. 16  
-\ | "The 2008 and 2009 Excavation Seasons at the Site of the Vicus ad Martis Tudertium (PG)," *FOLD&R* [**185**](http://www.fastionline.org/docs/FOLDER-it-2010-185.pdf)
+&nbsp; | "The 2008 and 2009 Excavation Seasons at the Site of the Vicus ad Martis Tudertium (PG)," *FOLD&R* [**185**](http://www.fastionline.org/docs/FOLDER-it-2010-185.pdf)
 2009 | "Excavations at the Vicus ad Martis Tudertium," *Etruscan News* [**11**, Winter](http://ancientstudies.fas.nyu.edu/docs/CP/963/etruscannews_vol11_winter2009.pdf), p. 15
 2006 | "Religion and Politics: Did the Romans scruple about the placement of their temples?," *Religion in Roman Italy in the Mid- and Late Republican Eras ("Yale Classical Studies")*, 181–206, Cambridge University Press
 2004 | "Frequent vocabulary in Latin textbooks," *CW* [**97**(4), 409–433](https://www.jstor.org/stable/4352875)
@@ -149,17 +149,17 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 2013 | Michael L. Thomas, Gretchen E. Meyers, Ingrid E. M. Edlund-Berry, ed. *Monumentality in Etruscan and Early Roman Architecture: Ideology and Innovation*, *BMCR* [2013.03.11](http://bmcr.brynmawr.edu/2013/2013-03-11.html)
 2012 | Ramsey MacMullen, *The Earliest Romans: a character sketch*, *BMCR* [2012.02.10](http://bmcr.brynmawr.edu/2012/2012-02-10.html)
 2010 | Fik Meijer, *Chariot racing in the Roman Empire*, *BMCR* [2010.11.26](http://bmcr.brynmawr.edu/2010/2010-11-26.html)  
-\ | Nigel B. Crowther, *Sport in Ancient Times*, *CJ* [**106**(2), 242–243](https://www.jstor.org/stable/10.5184/classicalj.106.2.0242)
+&nbsp; | Nigel B. Crowther, *Sport in Ancient Times*, *CJ* [**106**(2), 242–243](https://www.jstor.org/stable/10.5184/classicalj.106.2.0242)
 2008 | Matthew Hartnett, *By Roman Hands: Inscriptions and Graffiti for Students of Latin*, *CB* **84**.2
 2007 | Keith Hopkins, Mary Beard *The Colosseum*, *Choice*
 2005 | Christopher S. Mackay, *Ancient Rome: A Military and political history*, *CO* 83.1  
-\ |Filippo Canali De Rossi, *Le relazioni diplomatiche di Roma, Vol. I: dall’età regia alla conquista del primato in Italia (753–265 a.C)*, *BMCR* [2005.02.19](http://bmcr.brynmawr.edu/2005/2005-02-19.html)
+&nbsp; |Filippo Canali De Rossi, *Le relazioni diplomatiche di Roma, Vol. I: dall’età regia alla conquista del primato in Italia (753–265 a.C)*, *BMCR* [2005.02.19](http://bmcr.brynmawr.edu/2005/2005-02-19.html)
 2004 | Nathan Rosenstein, *Rome at war: Farms, families, and death in the Middle Republic*, *BMCR* [2004.07.56](http://bmcr.brynmawr.edu/2004/2004-07-56.html)  
-\ | Thomas F. Scanlon, *Eros and Greek athletics*, *CO* **81**.2 (Winter)  
-\ | Peter J. Holliday, *Origins of pictorial representation in Roman art*, *NECJ* **31**.1 (February)
+&nbsp; | Thomas F. Scanlon, *Eros and Greek athletics*, *CO* **81**.2 (Winter)  
+&nbsp; | Peter J. Holliday, *Origins of pictorial representation in Roman art*, *NECJ* **31**.1 (February)
 2003 | Guy Bradley, *Ancient Umbria*, *CW* [**96**.2 (Winter), 228–229](https://www.jstor.org/stable/4352751)
 2002 | Serafina Cuomo, *Ancient Mathematics*, *CO* **80**.1 (Fall)  
-\ |Christer Bruun, *The Roman middle republic: Politics, religion, and historiography c. 400–133 B.C.*, *CW* [**95**.4 (Summer), 460–461](https://www.jstor.org/discover/10.2307/4352698)
+&nbsp; |Christer Bruun, *The Roman middle republic: Politics, religion, and historiography c. 400–133 B.C.*, *CW* [**95**.4 (Summer), 460–461](https://www.jstor.org/discover/10.2307/4352698)
 2000 | Richard C. Beacham, *Spectacle entertainments of early imperial Rome*, *CO* **78**.1 (Fall)
 
 ### Invited Talks
@@ -180,15 +180,16 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 |date|item|
 |:--|:--|
-2018 | "The Northern Roman-Period Burial Area at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey
+2018 | "[A New Database of Roman Temples](doi://10.6084/m9.figshare.5856519)," a lightning talk at NYCDH Week 2018
+&nbsp;  | "The Northern Roman-Period Burial Area at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey
 2017 | Introduction to "Digital Approaches to Latin Vocabulary Learning," Classical Association of the Atlantic States, Fall meeting, organized session with Dr. Patrick Burns
-\  | "Rome Research Project: Students and Digital Faculty Research," OLC Collaborate with Emerging Learning Design, with Dr. Louis Hamilton
-\  | "[Developing an On-line Database of Roman Temples](https://doi.org/10.6084/m9.figshare.4765129),"  poster, CAA
-\  | "[A New On-line Database of Roman Temples](https://dx.doi.org/10.6084/m9.figshare.4536260),"  poster, AIA
+&nbsp;  | "Rome Research Project: Students and Digital Faculty Research," OLC Collaborate with Emerging Learning Design, with Dr. Louis Hamilton
+&nbsp;  | "[Developing an On-line Database of Roman Temples](https://doi.org/10.6084/m9.figshare.4765129),"  poster, CAA
+&nbsp;  | "[A New On-line Database of Roman Temples](https://dx.doi.org/10.6084/m9.figshare.4536260),"  poster, AIA
 2016 | "A Database of Roman Temples," at the NYU Institute for the Study of the Ancient World's LAWDNY 2016 Digital Antiquity Research Workshop
-\ | "The Late Antique/Early Medieval Cemetery at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill A. Rhodes
+&nbsp; | "The Late Antique/Early Medieval Cemetery at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill A. Rhodes
 2015 | "Seventh Season of Excavation at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill A. Rhodes
-\ | "An Unusual Interment of Dismembered Legs and Hands: A Roman Umbria burial puzzle," poster, American Association of Physical Anthropologists Annual Meeting, with Dr. Jill A. Rhodes (presenter)
+&nbsp; | "An Unusual Interment of Dismembered Legs and Hands: A Roman Umbria burial puzzle," poster, American Association of Physical Anthropologists Annual Meeting, with Dr. Jill A. Rhodes (presenter)
 2014 | "Sixth Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA, with Dr. Sarah Harvey
 2013 | "Fifth Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA
 2012 | "Fourth Season of Excavation at the *Vicus Ad Martis Tudertium*," AIA
@@ -225,5 +226,5 @@ SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classic
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Monday, 9 October 2017.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Monday, 5 February 2018.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
