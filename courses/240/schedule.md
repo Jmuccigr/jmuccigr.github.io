@@ -47,6 +47,7 @@ title: Schedule
 		- Cahill, N. 2002. April 10. Household and City Organization at Olynthus. Yale University Press, Ch. 1 in [PDF](../readings/Cahill Greek City Planning Ch 1 of Household 2001.pdf)
 
 - Thursday, February 1
+    - Archaeologist: Roque Joaquín de Alcubierre (1702 – 1780) - Ava Valentino
 	- Assignments:
 		- Snodgrass, A. 2012. “What is classical archaeology: Greek archaeology.” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 13–29, Blackwell Studies in Global Archaeology, Wiley-Blackwell, in [PDF](../readings/Snodgrass - 2012 - What is classical archaeology Greek archaeology.pdf).
 		- Wikipedia
@@ -64,6 +65,7 @@ title: Schedule
 ### Cities & Sanctuaries (with Treasuries)
 
 - Tuesday, February 6
+    - Archaeologist: Giovanni Battista Belzoni (1778 – 1823) - Katie Riso
 	- Pompeii
 		- Read [chapter on Pompeii](../readings/Stambaugh - 1988 - The ancient Roman city.pdf) from Stambaugh, J.E. 1988. *The ancient Roman city*. Baltimore: Johns Hopkins University Press.
 		- AC: Ch 22, p. 356-358 = first section on Pompeii through "Town Plan".
@@ -71,6 +73,7 @@ title: Schedule
 		- Add image and web links to your existing Markdown document. Read the markdown documentation above for help, or see [this small example]( {% link courses/240/Markdown_images_demo.md %}) I made.
 
 - Thursday, February 8
+    - Archaeologist: Heinrich Schliemann (1822 – 1890) - Chris Morville
 	- Millett, M. 2012. “[What is classical archaeology: Roman archaeology]({% link /courses/240/readings/Millett - 2012 - What is classical archaeology Roman archaeology.pdf %}).” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 30–50. Second. Blackwell Studies in Global Archaeology. Wiley-Blackwell.
 	- Sanctuaries
     	- *AC*: ch. 12, 214-216 "The Heraion on Samos"; ch. 15 "Greek Sanctuaries" (don't worry about the monuments or statuary); ch. 17, 270-272, Epidauros.
@@ -81,10 +84,12 @@ title: Schedule
 ### Agora/Forum
 
 - Tuesday, February 13
+    - Archaeologist: Sir Arthur John Evans (1851 – 1941) - Kevin Yan
 	- Athens & Greek cities
 		- *AC*: 229-232 "Athens in the Archaic period"; 266-268 "The Agora".
 
 - Thursday, February 15
+    - Archaeologist: Flinders Petrie (1853 – 1942) - Tayyaba Shakeel
 	- Rome & Pompeii: *AC*: ch. 20, 339-343 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
 	- Wikipedia: make sure to have added at least five temples to the list
 	- Command-line Interface
@@ -98,10 +103,12 @@ title: Schedule
 ### Houses
 
 - Tuesday, February 20
+    - Archaeologist: Gertrude Bell, CBE (1868 – 1926) - Rae Brickey
 	- *AC*: ch. 16, 264-265 "The lower town [of Athens]"; ch. 17, 278-282 "Olynthos".
 	- *GAA*: ch. 10, 351-354 "Miletus".
 
 - Thursday, February 22
+    - Archaeologist: Harriet Boyd Hawes (1871 – 1945) - Jason Adamo
 	- Ch. 4, @Holloway1994 In [PDF](../../readings/Holloway ch 4 - Huts and Houses.pdf).
 	- *AC*: ch. 22, 362-367 Pompeii, 367-370 "Ostia"; ch. 23, 374-379 "Palaces"; ch. 25, 415-418 "Palaces"
 
@@ -109,6 +116,7 @@ title: Schedule
 ### Cemeteries & Tombs
 
 - Tuesday, February 27
+    - Archaeologist: Howard Carter (1874 – 1939) - Molly Thompson
     - *AC*: ch. 12, 211-212 "Cemeteries..."; ch. 17, 282-285 "Royal burials"; ch. 19, 314 "Paestum"; ch. 23, 390-392 "Imperial tombs".
     - *GAA*: ch. 4, 108-110 "Architecture", 116-123 "Pottery"; ch. 9, 326-331 "Vergina".
     - Necropoleis in Etruria *AC*: ch. 19, 323-327 "[Etruscan] Tombs"
@@ -116,6 +124,7 @@ title: Schedule
         - Follow these [instructions](notes/The_CLI,_Zotero,_and_Pandoc.html) to get Zotero to export your library and install it on the server so pandoc can access it.
 
 - Thursday, March 1
+    - Archaeologist: Massimo Pallottino (1909 – 1995) - John Hanna
 
 #### Spring Break
 
@@ -123,17 +132,20 @@ title: Schedule
 ### Temples
 
 - Tuesday, March 13
+    - Archaeologist: Wilhelmina Jashemski (1910 – 2007) - Olivia Darveau
 	- *AC*: ch. 13; ch 15, 246-249 "Temple of Zeus"; ch. 16, 254-263 "The Athenian Acropolis"; ch. 18, 287-289 "Didyma: Apollo"; ch. 19, 311-314 "Paestum".
 	- *GAA*: ch. 4, 105-110 "Architecture"; ch. 5, 131-139 "Architecture..."; ch. 6, 150-176; ch. 7, 213-229; ch. 8, 251-276; ch. 9, 293-305; ch. 10, 341-351.
 
 - Thursday, March 15
+    - Archaeologist: Kent Vaughn Flannery (born 1934) - Lynette Crews
 	- *AC*: ch. 19, 321-323 "Veii"; ch. 20, 330-331 "Early history [of Rome]"; ch. 23, 379-382 "Temples".
 	- Ch. 1, @Boatwright1987 In [PDF](../../readings/Boatwright.pdf).
 
 #### Week 9
 ### Theaters & Amphitheaters
 
-1. Monday
+- Tuesday, March 20
+    - Archaeologist: Anna Marguerite McCann (1933 – 2017) - Serena Rosenblatt
 	- *AC*: ch. 16, 263-264 "Theater of Dionysus"; ch. 17, 272-273 at Epidauros; ch. 18, 293 Pergamon; ch. 20, 345 "Theater of Pompey"; ch. 22, 360 "Theaters [of Pompeii]".
 	- *GAA*: ch. 9, 296 "Epidauros", 324 "Were women in the audience?"; ch. 10, 341 "Pergamon", 354 "Syracuse".
 	- [@Wheeler1964] ch. 5 on theaters and amphitheaters. [In PDF](../../readings/Wheeler_RAA_ch5.pdf).
@@ -143,6 +155,7 @@ title: Schedule
 		- *Learn X in Y minutes* [on *json*](https://learnxinyminutes.com/docs/json/)
 
 - Thursday, March 22
+    - Archaeologist: Colin Renfrew (born 1937) - Josh Friedland
 	-  *AC*: ch. 22, 360-361 "Amphitheater [of Pompeii]" ch 23, 385-387 "Flavian Amphitheater"
 	- Wikipedia "[list of Roman amphitheatres](https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres)"
 
@@ -150,10 +163,12 @@ title: Schedule
 ### Stadia & Other commemorative monuments
 
 - Tuesday, March 27
+    - Archaeologist: Rhys Jones (1941 – 2001) - Demi-Lee Pretorius
 	- Macedonia: *GAA*: ch. 9, 333-337 "Vergina"; Rome: *AC*: ch. 20, 345 "Circus Maximus"; ch. 21, 352-355 "Ara Pacis".
 	- Baths: ch. 22, 361-362 "The baths [of Pompeii]"; ch. 23, 388-390 "Baths of Trajan"
 
 - Thursday, March 29
+    - Archaeologist: Israel Finkelstein (born 1949) - Kass Mattingly
 	- *AC*: ch. 23, 382-385 "Commemorative monuments [arches and Trajan's Column]"; ch. 25, 420-421 "Arch of Constantine".
 	- [Images from class](./notes/Arches etc.html)
 
