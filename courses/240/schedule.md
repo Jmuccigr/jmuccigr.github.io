@@ -69,6 +69,7 @@ title: Schedule
 	- Pompeii
 		- Read [chapter on Pompeii](../readings/Stambaugh - 1988 - The ancient Roman city.pdf) from Stambaugh, J.E. 1988. *The ancient Roman city*. Baltimore: Johns Hopkins University Press.
 		- AC: Ch 22, p. 356-358 = first section on Pompeii through "Town Plan".
+		- [Pompeii Bibliography and Mapping Project](http://digitalhumanities.umass.edu/pbmp/?page_id=1258)
 	- Markdown
 		- Add image and web links to your existing Markdown document. Read the markdown documentation above for help, or see [this small example]( {% link courses/240/Markdown_images_demo.md %}) I made.
 
