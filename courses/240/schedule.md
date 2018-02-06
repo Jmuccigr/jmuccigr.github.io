@@ -47,7 +47,7 @@ title: Schedule
 		- Cahill, N. 2002. April 10. Household and City Organization at Olynthus. Yale University Press, Ch. 1 in [PDF](../readings/Cahill Greek City Planning Ch 1 of Household 2001.pdf)
 
 - Thursday, February 1
-    - Archaeologist: Roque Joaquín de Alcubierre (1702 – 1780) - Ava Valentino
+    - Archaeologist: [Roque Joaquín de Alcubierre (1702 – 1780)]({% link courses/240/presentations/Alcubierre.pptx %}) - Ava Valentino
 	- Assignments:
 		- Snodgrass, A. 2012. “What is classical archaeology: Greek archaeology.” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 13–29, Blackwell Studies in Global Archaeology, Wiley-Blackwell, in [PDF](../readings/Snodgrass - 2012 - What is classical archaeology Greek archaeology.pdf).
 		- Wikipedia
