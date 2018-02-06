@@ -65,7 +65,7 @@ title: Schedule
 ### Cities & Sanctuaries (with Treasuries)
 
 - Tuesday, February 6
-    - Archaeologist: Giovanni Battista Belzoni (1778 – 1823) - Katie Riso
+    - Archaeologist: [Giovanni Battista Belzoni (1778 – 1823)]({% link courses/240/presentations/Giovanni_Belzoni.pptx %}) - Katie Riso
 	- Pompeii
 		- Read [chapter on Pompeii](../readings/Stambaugh - 1988 - The ancient Roman city.pdf) from Stambaugh, J.E. 1988. *The ancient Roman city*. Baltimore: Johns Hopkins University Press.
 		- AC: Ch 22, p. 356-358 = first section on Pompeii through "Town Plan".
