@@ -86,11 +86,13 @@ title: Schedule
 
 - Tuesday, February 13
     - Archaeologist: Sir Arthur John Evans (1851 – 1941) - Kevin Yan
+    - Site: Nuraghe Santu Antine - Kass Mattingly
 	- Athens & Greek cities
 		- *AC*: 229-232 "Athens in the Archaic period"; 266-268 "The Agora".
 
 - Thursday, February 15
     - Archaeologist: Flinders Petrie (1853 – 1942) - Tayyaba Shakeel
+    - Site: Cosa - Demi-Lee Pretorius
 	- Rome & Pompeii: *AC*: ch. 20, 339-343 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
 	- Wikipedia: make sure to have added at least five temples to the list
 	- Command-line Interface
@@ -105,11 +107,13 @@ title: Schedule
 
 - Tuesday, February 20
     - Archaeologist: Gertrude Bell, CBE (1868 – 1926) - Rae Brickey
+    - Site: Herculaneum - Josh Friedland
 	- *AC*: ch. 16, 264-265 "The lower town [of Athens]"; ch. 17, 278-282 "Olynthos".
 	- *GAA*: ch. 10, 351-354 "Miletus".
 
 - Thursday, February 22
     - Archaeologist: Harriet Boyd Hawes (1871 – 1945) - Jason Adamo
+    - Site: Osteria dell’Osa - Serena Rosenblatt
 	- Ch. 4, @Holloway1994 In [PDF](../../readings/Holloway ch 4 - Huts and Houses.pdf).
 	- *AC*: ch. 22, 362-367 Pompeii, 367-370 "Ostia"; ch. 23, 374-379 "Palaces"; ch. 25, 415-418 "Palaces"
 
@@ -118,6 +122,7 @@ title: Schedule
 
 - Tuesday, February 27
     - Archaeologist: Howard Carter (1874 – 1939) - Molly Thompson
+    - Site: Knossos - Lynette Crews
     - *AC*: ch. 12, 211-212 "Cemeteries..."; ch. 17, 282-285 "Royal burials"; ch. 19, 314 "Paestum"; ch. 23, 390-392 "Imperial tombs".
     - *GAA*: ch. 4, 108-110 "Architecture", 116-123 "Pottery"; ch. 9, 326-331 "Vergina".
     - Necropoleis in Etruria *AC*: ch. 19, 323-327 "[Etruscan] Tombs"
@@ -126,6 +131,7 @@ title: Schedule
 
 - Thursday, March 1
     - Archaeologist: Massimo Pallottino (1909 – 1995) - John Hanna
+    - Site: Thonis - Ava Valentino
 
 #### Spring Break
 
@@ -134,11 +140,13 @@ title: Schedule
 
 - Tuesday, March 13
     - Archaeologist: Wilhelmina Jashemski (1910 – 2007) - Olivia Darveau
+    - Site: Petra - Katie Riso
 	- *AC*: ch. 13; ch 15, 246-249 "Temple of Zeus"; ch. 16, 254-263 "The Athenian Acropolis"; ch. 18, 287-289 "Didyma: Apollo"; ch. 19, 311-314 "Paestum".
 	- *GAA*: ch. 4, 105-110 "Architecture"; ch. 5, 131-139 "Architecture..."; ch. 6, 150-176; ch. 7, 213-229; ch. 8, 251-276; ch. 9, 293-305; ch. 10, 341-351.
 
 - Thursday, March 15
     - Archaeologist: Kent Vaughn Flannery (born 1934) - Lynette Crews
+    - Site: Black Sea Shipwreck Research Project - Rae Brickey
 	- *AC*: ch. 19, 321-323 "Veii"; ch. 20, 330-331 "Early history [of Rome]"; ch. 23, 379-382 "Temples".
 	- Ch. 1, @Boatwright1987 In [PDF](../../readings/Boatwright.pdf).
 
@@ -147,6 +155,7 @@ title: Schedule
 
 - Tuesday, March 20
     - Archaeologist: Anna Marguerite McCann (1933 – 2017) - Serena Rosenblatt
+    - Site: Vindolanda - Chris Morville
 	- *AC*: ch. 16, 263-264 "Theater of Dionysus"; ch. 17, 272-273 at Epidauros; ch. 18, 293 Pergamon; ch. 20, 345 "Theater of Pompey"; ch. 22, 360 "Theaters [of Pompeii]".
 	- *GAA*: ch. 9, 296 "Epidauros", 324 "Were women in the audience?"; ch. 10, 341 "Pergamon", 354 "Syracuse".
 	- [@Wheeler1964] ch. 5 on theaters and amphitheaters. [In PDF](../../readings/Wheeler_RAA_ch5.pdf).
@@ -157,6 +166,7 @@ title: Schedule
 
 - Thursday, March 22
     - Archaeologist: Colin Renfrew (born 1937) - Josh Friedland
+    - Site: Olympia - Kevin Yan
 	-  *AC*: ch. 22, 360-361 "Amphitheater [of Pompeii]" ch 23, 385-387 "Flavian Amphitheater"
 	- Wikipedia "[list of Roman amphitheatres](https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres)"
 
@@ -165,11 +175,13 @@ title: Schedule
 
 - Tuesday, March 27
     - Archaeologist: Rhys Jones (1941 – 2001) - Demi-Lee Pretorius
+    - Site: Kerameikos - Tayyaba Shakeel
 	- Macedonia: *GAA*: ch. 9, 333-337 "Vergina"; Rome: *AC*: ch. 20, 345 "Circus Maximus"; ch. 21, 352-355 "Ara Pacis".
 	- Baths: ch. 22, 361-362 "The baths [of Pompeii]"; ch. 23, 388-390 "Baths of Trajan"
 
 - Thursday, March 29
     - Archaeologist: Israel Finkelstein (born 1949) - Kass Mattingly
+    - Site: Troy - Jason Adamo
 	- *AC*: ch. 23, 382-385 "Commemorative monuments [arches and Trajan's Column]"; ch. 25, 420-421 "Arch of Constantine".
 	- [Images from class](./notes/Arches etc.html)
 
@@ -177,16 +189,19 @@ title: Schedule
 ### Sculpture & Statuary
 
 - Tuesday, April 3
+    - Site: Pompeii - Molly Thompson
 	- *GAA*: ch. 4, 110-110 "Sculpture"; ch. 5, 139-145; ch. 6, 171-172, 187-189; ch. 7, 229-241; ch. 8, 276-281; ch. 9, 305-318; ch. 10, 354-377.
 	- *AC*: ch. 15, 246 "Early Classical Style".
 	- *Kouroi* and *Korai*: *AC*: ch. 14, 234-237 "Sculpture"; *GAA*: ch. 6, 172-187 "Kouroi", "Korai"; 184 "The Getty Kouros".
 
 - Thursday, April 5
+    - Site: Murlo - John Hanna
 
 #### Week 12
 ### Pottery I
 
 - Tuesday, April 10
+    - Site: Caesarea Maritima (Israel) - Olivia Darveau
 	- *AC*: ch. 14, 232-234 "Attic black-figure and red-figure pottery".
 	- *GAA*: ch. 4, 112-118 "Pottery"; 115 "Burying the dead"; ch. 5, 121-131 "Pottery"; ch. 6, 189-205; ch. 7, 242-247; ch. 8, 281-287; ch. 9, 318-322; ch. 10, 382-385.
 
