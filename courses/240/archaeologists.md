@@ -15,7 +15,7 @@ layout: syllabus
 1. Gertrude Bell, CBE (1868 – 1926): archaeologist, political officer in the Middle East - *Rae Brickey*
 1. Harriet Boyd Hawes (1871 – 1945): excavator at Gournia - *Jason Adamo*
 1. Howard Carter (1874 – 1939): Egyptologist ("King Tut") - *Molly Thompson*
-1. Massimo Pallottino (1909 – 1995): Etruscologist - 
+1. Massimo Pallottino (1909 – 1995): Etruscologist - *John Hanna*
 1. Wilhelmina Jashemski (1910 – 2007): excavator at Pompeii - *Olivia Darveau*
 1. Kent Vaughn Flannery (born 1934): Mesoamerican archaeologist - *Lynette Crews*
 1. Anna Marguerite McCann (1933 – 2017): underwater archaeology - *Serena Rosenblatt*
