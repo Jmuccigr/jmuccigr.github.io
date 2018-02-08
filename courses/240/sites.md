@@ -13,7 +13,7 @@ layout: syllabus
 1. Osteria dell'Osa - *Serena Rosenblatt*
 1. Kerameikos - *Tayyaba Shakeel*
 1. Olympia - *Kevin Yan*
-1. Murlo -
+1. Murlo - *John Hanna*
 1. Olynthos -
 1. Cosa - *Demi-Lee Pretorius*
 1. Pompeii - *Molly Thompson*
