@@ -91,22 +91,16 @@ title: Schedule
 		- *AC*: 229-232 "Athens in the Archaic period"; 266-268 "The Agora".
 
 - Thursday, February 15
-    - Archaeologist: Flinders Petrie (1853 – 1942) - Tayyaba Shakeel
+    - Archaeologist: Gertrude Bell, CBE (1868 – 1926) - Rae Brickey
     - Site: Cosa - Demi-Lee Pretorius
 	- Rome & Pompeii: *AC*: ch. 20, 339-343 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
-	- Wikipedia: make sure to have added at least five temples to the list
-	- Command-line Interface
-	- pandoc/Zotero
-		1. Save your latest markdown file, which should include at least one image, in your server folder.
-		1. Use pandoc to convert that file into five other versions, all in that same directory: html (one version with the "-s" option and another without it); pdf; docx; odt.
-		1. Make sure your Zotero library has at least 10 items in it.
-		1. Download and install the [Better BibTeX extension](https://zotplus.github.io/zotero-better-bibtex/) into your standalone Zotero. Restart Zotero. Then go to the Better BibTeX pane in the preferences and check the "Show citekey instead of 'extra' field..." box and close the preferences.
+	- Wikipedia: look at the [WikiProject on Classical Greece and Rome](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Classical_Greece_and_Rome), especially the *Tasks* tab.
 
 #### Week 6
 ### Houses
 
 - Tuesday, February 20
-    - Archaeologist: Gertrude Bell, CBE (1868 – 1926) - Rae Brickey
+    - Archaeologist: Flinders Petrie (1853 – 1942) - Tayyaba Shakeel
     - Site: Herculaneum - Josh Friedland
 	- *AC*: ch. 16, 264-265 "The lower town [of Athens]"; ch. 17, 278-282 "Olynthos".
 	- *GAA*: ch. 10, 351-354 "Miletus".
@@ -132,6 +126,12 @@ title: Schedule
 - Thursday, March 1
     - Archaeologist: Massimo Pallottino (1909 – 1995) - John Hanna
     - Site: Thonis - Ava Valentino
+	- Command-line Interface
+	- pandoc/Zotero
+		1. Save your latest markdown file, which should include at least one image, in your server folder.
+		1. Use pandoc to convert that file into five other versions, all in that same directory: html (one version with the "-s" option and another without it); pdf; docx; odt.
+		1. Make sure your Zotero library has at least 10 items in it.
+		1. Download and install the [Better BibTeX extension](https://zotplus.github.io/zotero-better-bibtex/) into your standalone Zotero. Restart Zotero. Then go to the Better BibTeX pane in the preferences and check the "Show citekey instead of 'extra' field..." box and close the preferences.
 
 #### Spring Break
 
