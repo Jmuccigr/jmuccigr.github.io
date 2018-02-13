@@ -87,7 +87,7 @@ title: Schedule
 
 - Tuesday, February 13
     - Archaeologist: [Sir Arthur John Evans (1851 – 1941)]({% link courses/240/presentations/Arthur_Evans.pptx %}) - Kevin Yan
-    - Site: Nuraghe Santu Antine - Kass Mattingly
+    - Site: [Nuraghe Santu Antine]({% link courses/240/presentations/nuraghe.pptx %}) - Kass Mattingly
 	- Athens & Greek cities
 		- *AC*: 229-232 "Athens in the Archaic period"; 266-268 "The Agora".
     - [Images from class]({% link courses/240/lectures/08 Athens I.html %})
