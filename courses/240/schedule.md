@@ -90,12 +90,15 @@ title: Schedule
     - Site: Nuraghe Santu Antine - Kass Mattingly
 	- Athens & Greek cities
 		- *AC*: 229-232 "Athens in the Archaic period"; 266-268 "The Agora".
+    - [Images from class]({% link courses/240/lectures/08 Athens I.html %})
 
 - Thursday, February 15
     - Archaeologist: Gertrude Bell, CBE (1868 – 1926) - Rae Brickey
     - Site: Cosa - Demi-Lee Pretorius
 	- Rome & Pompeii: *AC*: ch. 20, 339-343 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
-	- Wikipedia: look at the [WikiProject on Classical Greece and Rome](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Classical_Greece_and_Rome), especially the *Tasks* tab.
+	- Wikipedia
+    	- look at the [WikiProject on Classical Greece and Rome](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Classical_Greece_and_Rome), especially the *Tasks* tab.
+    	- Identify three interesting pages you might contribute to on the stubs listings for [Greece](https://en.wikipedia.org/wiki/Category:Ancient_Greece_stubs) and [Rome](https://en.wikipedia.org/wiki/Category:Ancient_Rome_stubs).
 
 #### Week 6
 ### Houses
