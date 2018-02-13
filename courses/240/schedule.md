@@ -80,12 +80,13 @@ title: Schedule
     	- *AC*: ch. 12, 214-216 "The Heraion on Samos"; ch. 15 "Greek Sanctuaries" (don't worry about the monuments or statuary); ch. 17, 270-272, Epidauros.
 	- Modern Scholarship
         - Create an account on [Hypothes.is](https://web.hypothes.is/start/).
+    - [Images from class]({% link courses/240/lectures/07 Sanctuaries.html %})
 
 #### Week 5
 ### Agora/Forum
 
 - Tuesday, February 13
-    - Archaeologist: Sir Arthur John Evans (1851 – 1941) - Kevin Yan
+    - Archaeologist: [Sir Arthur John Evans (1851 – 1941)]({% link courses/240/presentations/Arthur_Evans.pptx %}) - Kevin Yan
     - Site: Nuraghe Santu Antine - Kass Mattingly
 	- Athens & Greek cities
 		- *AC*: 229-232 "Athens in the Archaic period"; 266-268 "The Agora".
