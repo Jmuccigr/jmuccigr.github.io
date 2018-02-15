@@ -95,7 +95,7 @@ title: Schedule
 - Thursday, February 15
     - [*Lupercalia*]({% link courses/240/lectures/Lupercalia.html %})
     - Archaeologist: [Gertrude Bell, CBE (1868 – 1926)]({% link courses/240/presentations/Gertrude_Bell.pptx %}) - Rae Brickey
-    - Site: Cosa - Demi-Lee Pretorius
+    - Site: [Cosa]({% link courses/240/presentations/Cosa.pptx %}) - Demi-Lee Pretorius
 	- Rome & Pompeii: *AC*: ch. 20, 339-342 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
 	- [digitales forum romanum](http://www.digitales-forum-romanum.de)
 	- Wikipedia
