@@ -95,7 +95,7 @@ title: Schedule
 - Thursday, February 15
     - Archaeologist: Gertrude Bell, CBE (1868 – 1926) - Rae Brickey
     - Site: Cosa - Demi-Lee Pretorius
-	- Rome & Pompeii: *AC*: ch. 20, 339-343 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
+	- Rome & Pompeii: *AC*: ch. 20, 339-342 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
 	- Wikipedia
     	- look at the [WikiProject on Classical Greece and Rome](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Classical_Greece_and_Rome), especially the *Tasks* tab.
         - Identify three interesting pages you might contribute to on the stubs listings for [Greece](https://en.wikipedia.org/wiki/Category:Ancient_Greece_stubs) and [Rome](https://en.wikipedia.org/wiki/Category:Ancient_Rome_stubs).
@@ -210,33 +210,35 @@ title: Schedule
 	- *GAA*: ch. 4, 112-118 "Pottery"; 115 "Burying the dead"; ch. 5, 121-131 "Pottery"; ch. 6, 189-205; ch. 7, 242-247; ch. 8, 281-287; ch. 9, 318-322; ch. 10, 382-385.
 
 - Thursday, April 12
+	- Italy
+	- Amphoras, red-slip, etc.
 
 - Saturday, April 14
     - Metropolitan Museum of Art (tentative)
 
 #### Week 13
-### Pottery II
+### Pottery II & other small things
 
 - Tuesday, April 17
-	-  Italy
-	- Amphoras, red-slip, etc.
-
-- Thursday, April 19
 	- [@Vickers1985-1]
 	- @Gill1990 [In PDF](../../readings/Gill-1990.pdf).
 
-#### Week 14
-### Coins & other small things
-
-- Tuesday, April 24
+- Thursday, April 19
 	- Votives: *AC*: ch. 12, 216-218 "Votive offerings..."
 	- Wall-painting: *GAA*: ch. 9, 322-337
 	- Mosaics: *AC*: ch. 17, 280-282 "Floor mosaics"
 
-- Thursday, April 26
+#### Week 14
+### Coins
+
+- Tuesday, April 24
 	- Coinage: *AC*: ch. 12, 217-218 "...coinage"; ch 16, 268 on the mint.
 	- [@Bursche2002]
 	- [@Buttrey1972]
+
+### Student Presentations
+
+- Thursday, April 26
 
 #### Week 15
 ### Student Presentations
