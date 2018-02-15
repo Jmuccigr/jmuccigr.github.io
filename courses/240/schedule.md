@@ -93,12 +93,15 @@ title: Schedule
     - [Images from class]({% link courses/240/lectures/08 Athens I.html %})
 
 - Thursday, February 15
-    - Archaeologist: Gertrude Bell, CBE (1868 – 1926) - Rae Brickey
+    - [*Lupercalia*]({% link courses/240/lectures/Lupercalia.html %})
+    - Archaeologist: [Gertrude Bell, CBE (1868 – 1926)]({% link courses/240/presentations/Gertrude_Bell.pptx %}) - Rae Brickey
     - Site: Cosa - Demi-Lee Pretorius
 	- Rome & Pompeii: *AC*: ch. 20, 339-342 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
+	- [digitales forum romanum](http://www.digitales-forum-romanum.de)
 	- Wikipedia
     	- look at the [WikiProject on Classical Greece and Rome](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Classical_Greece_and_Rome), especially the *Tasks* tab.
         - Identify three interesting pages you might contribute to on the stubs listings for [Greece](https://en.wikipedia.org/wiki/Category:Ancient_Greece_stubs) and [Rome](https://en.wikipedia.org/wiki/Category:Ancient_Rome_stubs).
+    - [Images from class]({% link courses/240/lectures/09 Fora.html %})
 
 #### Week 6
 ### Houses
