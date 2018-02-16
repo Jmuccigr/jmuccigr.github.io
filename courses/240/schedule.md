@@ -115,7 +115,7 @@ title: Schedule
 - Thursday, February 22
     - Archaeologist: Harriet Boyd Hawes (1871 – 1945) - Jason Adamo
     - Site: Osteria dell’Osa - Serena Rosenblatt
-	- Ch. 4, @Holloway1994 In [PDF](../../readings/Holloway ch 4 - Huts and Houses.pdf).
+	- [Holloway, R.R. 1994. The archaeology of early Rome and Latium. London; New York: Routledge, Ch. 4](../../readings/Holloway - 1994 - ch4.The archaeology of early Rome and Latium).
 	- *AC*: ch. 22, 362-367 Pompeii, 367-370 "Ostia"; ch. 23, 374-379 "Palaces"; ch. 25, 415-418 "Palaces"
 
 #### Week 7
