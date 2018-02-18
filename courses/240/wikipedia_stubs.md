@@ -11,6 +11,7 @@ Armeni | archaeological site of an ancient Minoan cemetery on Crete | Kass |
 Melpomene | initially the Muse of Chorus | Kass |
 Thalia (Grace) | one of the three Graces | Kass |
 |Ambrosian Iliad | a 5th-century illuminated manuscript| Katie |
+|Archaeological Society of Athens| an independent learned society | Demi-Lee |
 |Delphinia | a festival of Apollo Delphinius| Kevin |
 |Delphinion | a temple of Apollo Delphinios| Kevin |
 |Echea | a pot used to enhance the voices of performers | Katie |
@@ -21,7 +22,9 @@ Thalia (Grace) | one of the three Graces | Kass |
 |Krotos | son of Pan and Eupheme/excellent hunter/loved the art| Jason |
 |Navis Actuaria | navel ship used for transportation| Jason |
 |Paulus Catena | senior civil servant/4th century roman empire| Jason |
+|Pelasgic wall| a monument supposed to have been built by the Pelasgians on the Acropolis| Demi-Lee |
 |The Campus Agrippae| area within the boundaries of ancient Rome | Liv |
 |Treasuries at Olympia| small temple-shaped buildings | Liv |
 |Trier Amphitheater | a Roman Amphitheater in Trier, Germany | Ava |
+|Upper Macedonia| the upper/western of Macedonia | Demi-Lee |
 |Ythan Wells | site of a Roman military camp| Kevin |
