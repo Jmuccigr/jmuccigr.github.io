@@ -8,6 +8,8 @@ layout: syllabus
 | Topic | Description | Submitted by |
 |:---|:---|:---|
 |Ambrosian Iliad | a 5th-century illuminated manuscript| Katie |
+|Amores | Ovid's first completed book of poetry| Serena |
+|Ancient Greek Comedy | dramatic form in classical Greece| Serena |
 |Archaeological Society of Athens| an independent learned society | Demi-Lee |
 |Armeni | archaeological site of an ancient Minoan cemetery on Crete | Kass |
 |Delphinia | a festival of Apollo Delphinius| Kevin |
@@ -22,6 +24,10 @@ layout: syllabus
 |Navis Actuaria | navel ship used for transportation| Jason |
 |Paulus Catena | senior civil servant/4th century roman empire| Jason |
 |Pelasgic wall| a monument supposed to have been built by the Pelasgians on the Acropolis| Demi-Lee |
+|Pilae stacks | stacks of tiles used in underfloor heating | Molly
+|Roman Regal Period | period of monarchical government | Serena |
+|Sanctuary of Pandion | remains of a building on the Acropolis, Athens | Molly |
+|Temple of Venus Erycina | Temple on the Capitoline Hill, Rome | Molly
 |Thalia (Grace) | one of the three Graces | Kass |
 |The Campus Agrippae| area within the boundaries of ancient Rome | Liv |
 |Treasuries at Olympia| small temple-shaped buildings | Liv |
