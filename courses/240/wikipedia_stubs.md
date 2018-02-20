@@ -13,9 +13,11 @@ layout: syllabus
 |Archaeological Society of Athens| an independent learned society | Demi-Lee |
 |Armeni | archaeological site of an ancient Minoan cemetery on Crete | Kass |
 |Askos | a type of ancient Greek pot| Rae |
+|Coma, Egypt | a village near Heracleopolis Magna in Lower Egypt| Chris |
 |Delphinia | a festival of Apollo Delphinius| Kevin |
 |Delphinion | a temple of Apollo Delphinios| Kevin, Rae, Lynette |
 |Echea | a pot used to enhance the voices of performers | Katie |
+|Epigrams (Homer) | poems attributed to Homer in antiquity | Chris |
 |Flavius Romulus (consul) | a Roman statesman who served as Consul in AD 343| Ava |
 |Frigidarium| a large cold pool at the Roman baths| Liv |
 |Furrinalia | an annual festival to celebrate the goddess Furrina| Lynette |
@@ -24,11 +26,9 @@ layout: syllabus
 |Hermaea | ancient Greek festivals held annually in honour of Hermes| Lynette |
 |Hydria | a type of water-carrying vessel| Rae |
 |Krotos | son of Pan and Eupheme/excellent hunter/loved the art| Jason |
-|Krotos | son of Pan and Eupheme/excellent hunter/loved the art| Jason |
 |Melpomene | initially the Muse of Chorus | Kass |
 |Navis Actuaria | navel ship used for transportation| Jason |
-|Navis Actuaria | navel ship used for transportation| Jason |
-|Paulus Catena | senior civil servant/4th century roman empire| Jason |
+|Opsophagos | a type of ancient Greek person| Chris |
 |Paulus Catena | senior civil servant/4th century roman empire| Jason |
 |Pelasgic wall| a monument supposed to have been built by the Pelasgians on the Acropolis| Demi-Lee |
 |Pilae stacks | stacks of tiles used in underfloor heating | Molly
