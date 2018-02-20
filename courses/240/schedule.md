@@ -107,7 +107,7 @@ title: Schedule
 ### Houses
 
 - Tuesday, February 20
-    - Archaeologist: Flinders Petrie (1853 – 1942) - Tayyaba Shakeel
+    - Archaeologist: [Flinders Petrie (1853 – 1942)]({% link courses/240/presentations/Flinders_Petrie.pptx %}) - Tayyaba Shakeel
     - Site: Herculaneum - Josh Friedland
 	- *AC*: ch. 16, 264-265 "The lower town [of Athens]"; ch. 17, 278-282 "Olynthos".
 	- *GAA*: ch. 10, 351-354 "Miletus".
