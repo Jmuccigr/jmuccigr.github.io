@@ -25,3 +25,6 @@ title: Helpful Items
     - [Markdown demo site](https://markdown-here.com/livedemo.html) - test your markdown live
 - pandoc - Command-line [software](http://pandoc.org/) that converts documents between many formats, including markdown.
 - Zotero - On-line [reference manager](https://zotero.org/). You'll be organizing your references this way throughout the semester and for your final paper.
+- Beamer - format for PDF slide shows/presentations.
+    - [The technical stuff](https://ctan.org/pkg/beamer)
+    - A gallery of [Beamer themes](http://www.deic.uab.es/%7Eiblanes/beamer_gallery/index_by_theme_and_color.html)

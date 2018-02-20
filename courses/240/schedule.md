@@ -111,6 +111,8 @@ title: Schedule
     - Site: Herculaneum - Josh Friedland
 	- *AC*: ch. 16, 264-265 "The lower town [of Athens]"; ch. 17, 278-282 "Olynthos".
 	- *GAA*: ch. 10, 351-354 "Miletus".
+	- Modern scholarship
+    	- [Paperify](https://www.paperify.org/): turn your markdown into PDF
 
 - Thursday, February 22
     - Archaeologist: Harriet Boyd Hawes (1871 – 1945) - Jason Adamo

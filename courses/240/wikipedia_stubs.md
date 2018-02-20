@@ -22,8 +22,11 @@ layout: syllabus
 |Hermaea (festival) | ancient Greek festivals| Ava |
 |Hydria | a type of water-carrying vessel| Rae |
 |Krotos | son of Pan and Eupheme/excellent hunter/loved the art| Jason |
+|Krotos | son of Pan and Eupheme/excellent hunter/loved the art| Jason |
 |Melpomene | initially the Muse of Chorus | Kass |
 |Navis Actuaria | navel ship used for transportation| Jason |
+|Navis Actuaria | navel ship used for transportation| Jason |
+|Paulus Catena | senior civil servant/4th century roman empire| Jason |
 |Paulus Catena | senior civil servant/4th century roman empire| Jason |
 |Pelasgic wall| a monument supposed to have been built by the Pelasgians on the Acropolis| Demi-Lee |
 |Pilae stacks | stacks of tiles used in underfloor heating | Molly
