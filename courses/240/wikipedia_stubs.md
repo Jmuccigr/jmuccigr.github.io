@@ -12,13 +12,15 @@ layout: syllabus
 |Ancient Greek Comedy | dramatic form in classical Greece| Serena |
 |Archaeological Society of Athens| an independent learned society | Demi-Lee |
 |Armeni | archaeological site of an ancient Minoan cemetery on Crete | Kass |
+|Askos | a type of ancient Greek pot| Rae |
 |Delphinia | a festival of Apollo Delphinius| Kevin |
-|Delphinion | a temple of Apollo Delphinios| Kevin |
+|Delphinion | a temple of Apollo Delphinios| Kevin, Rae |
 |Echea | a pot used to enhance the voices of performers | Katie |
 |Flavius Romulus (consul) | a Roman statesman who served as Consul in AD 343| Ava |
 |Frigidarium| a large cold pool at the Roman baths| Liv |
 |Gladiator Mosaic | a famous mosaic of gladiators| Katie |
 |Hermaea (festival) | ancient Greek festivals| Ava |
+|Hydria | a type of water-carrying vessel| Rae |
 |Krotos | son of Pan and Eupheme/excellent hunter/loved the art| Jason |
 |Melpomene | initially the Muse of Chorus | Kass |
 |Navis Actuaria | navel ship used for transportation| Jason |
