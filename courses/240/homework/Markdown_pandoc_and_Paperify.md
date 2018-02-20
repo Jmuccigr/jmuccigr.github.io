@@ -8,7 +8,7 @@ layout: syllabus
 **At any stage, ask if you have questions**
 
 1. Go to the [Paperify site](https://paperify.com/) and paste in your latest markdown document with images and links.
-1. At the top of your document, add in YAML with your title, author, and date information. NB no caps, a colon and space after each key, like this:
+1. At the top of your document, add in YAML with your title, author, and date information. NB no capital letter on the key, and a colon and space after each key, like this:
 
     ```
     ---
