@@ -108,7 +108,7 @@ title: Schedule
 
 - Tuesday, February 20
     - Archaeologist: [Flinders Petrie (1853 – 1942)]({% link courses/240/presentations/Flinders_Petrie.pptx %}) - Tayyaba Shakeel
-    - Site: Herculaneum - Josh Friedland
+    - Site: [Herculaneum]({% link courses/240/presentations/Herculaneum.pptx %}) - Josh Friedland
     - Forum/Agora presentations
         - [Roman Forum]({% link courses/240/presentations/Roman_Forum.pptx %})
         - [Temples in the Forum](https://docs.google.com/presentation/d/1aHPROTZyJCt0JitDJrtDUxJsq8cXDA97ym_vgh3fzbk/edit?usp=sharing_eip&ts=5a8c4728)
