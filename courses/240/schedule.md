@@ -118,6 +118,7 @@ title: Schedule
         - [YAML]({% link courses/240/lectures/Basic_YAML.html %})
         - [Paperify](https://www.paperify.org/): turn your markdown into PDF
         - [Pandoc](https://pandoc.org/MANUAL.html): a utility for converting from one markup format to another
+    - [Olynthos]({% link courses/240/lectures/Olynthos.html %})
 
 - Thursday, February 22
     - Archaeologist: Harriet Boyd Hawes (1871 – 1945) - Jason Adamo
