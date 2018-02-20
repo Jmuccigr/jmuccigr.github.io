@@ -14,12 +14,14 @@ layout: syllabus
 |Armeni | archaeological site of an ancient Minoan cemetery on Crete | Kass |
 |Askos | a type of ancient Greek pot| Rae |
 |Delphinia | a festival of Apollo Delphinius| Kevin |
-|Delphinion | a temple of Apollo Delphinios| Kevin, Rae |
+|Delphinion | a temple of Apollo Delphinios| Kevin, Rae, Lynette |
 |Echea | a pot used to enhance the voices of performers | Katie |
 |Flavius Romulus (consul) | a Roman statesman who served as Consul in AD 343| Ava |
 |Frigidarium| a large cold pool at the Roman baths| Liv |
+|Furrinalia | an annual festival to celebrate the goddess Furrina| Lynette |
 |Gladiator Mosaic | a famous mosaic of gladiators| Katie |
 |Hermaea (festival) | ancient Greek festivals| Ava |
+|Hermaea | ancient Greek festivals held annually in honour of Hermes| Lynette |
 |Hydria | a type of water-carrying vessel| Rae |
 |Krotos | son of Pan and Eupheme/excellent hunter/loved the art| Jason |
 |Krotos | son of Pan and Eupheme/excellent hunter/loved the art| Jason |

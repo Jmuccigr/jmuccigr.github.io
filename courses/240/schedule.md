@@ -115,6 +115,7 @@ title: Schedule
 	- *GAA*: ch. 10, 351-354 "Miletus".
 	- Modern scholarship
     	- [Paperify](https://www.paperify.org/): turn your markdown into PDF
+    	- [Pandoc](https://pandoc.org/MANUAL.html): a utility for converting from one markup format to another
 
 - Thursday, February 22
     - Archaeologist: Harriet Boyd Hawes (1871 – 1945) - Jason Adamo
