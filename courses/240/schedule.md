@@ -111,6 +111,7 @@ title: Schedule
     - Site: Herculaneum - Josh Friedland
     - Forum/Agora presentations
         - [Roman Forum]({% link courses/240/presentations/Roman_Forum.pptx %})
+        - [Temples in the Forum](https://docs.google.com/presentation/d/1aHPROTZyJCt0JitDJrtDUxJsq8cXDA97ym_vgh3fzbk/edit?usp=sharing_eip&ts=5a8c4728)
 	- *AC*: ch. 16, 264-265 "The lower town [of Athens]"; ch. 17, 278-282 "Olynthos".
 	- *GAA*: ch. 10, 351-354 "Miletus".
 	- Modern scholarship
