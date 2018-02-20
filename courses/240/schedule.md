@@ -115,9 +115,9 @@ title: Schedule
 	- *AC*: ch. 16, 264-265 "The lower town [of Athens]"; ch. 17, 278-282 "Olynthos".
 	- *GAA*: ch. 10, 351-354 "Miletus".
 	- Modern scholarship
-    	- [YAML]({% link courses/240/lectures/Basic_YAML.html %})
-    	- [Paperify](https://www.paperify.org/): turn your markdown into PDF
-    	- [Pandoc](https://pandoc.org/MANUAL.html): a utility for converting from one markup format to another
+        - [YAML]({% link courses/240/lectures/Basic_YAML.html %})
+        - [Paperify](https://www.paperify.org/): turn your markdown into PDF
+        - [Pandoc](https://pandoc.org/MANUAL.html): a utility for converting from one markup format to another
 
 - Thursday, February 22
     - Archaeologist: Harriet Boyd Hawes (1871 – 1945) - Jason Adamo
