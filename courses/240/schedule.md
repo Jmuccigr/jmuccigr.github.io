@@ -118,7 +118,6 @@ title: Schedule
         - [YAML]({% link courses/240/lectures/Basic_YAML.html %})
         - [Paperify](https://www.paperify.org/): turn your markdown into PDF
         - [Pandoc](https://pandoc.org/MANUAL.html): a utility for converting from one markup format to another
-    - [Olynthos]({% link courses/240/lectures/Olynthos.html %})
 
 - Thursday, February 22
     - Archaeologist: Harriet Boyd Hawes (1871 – 1945) - Jason Adamo
@@ -127,6 +126,7 @@ title: Schedule
 	- *AC*: ch. 22, 362-367 Pompeii, 367-370 "Ostia"; ch. 23, 374-379 "Palaces"; ch. 25, 415-418 "Palaces"
 	- Modern scholarship
     	- [Submit a nice PDF]({% link courses/240/homework/Markdown_pandoc_and_Paperify.md %}) of your markdown on [Moodle](https://moodle.drew.edu/3/course/view.php?id=1211) by using the Paperify site.
+    - [Lecture images]({% link courses/240/lectures/11 Houses.html %})
 
 #### Week 7
 ### Cemeteries & Tombs
