@@ -125,8 +125,12 @@ title: Schedule
 	- [Holloway, R.R. 1994. The archaeology of early Rome and Latium. London; New York: Routledge, Ch. 4]({% link /courses/240/readings/Holloway - 1994 - ch4.The archaeology of early Rome and Latium.pdf %}).
 	- *AC*: ch. 22, 362-367 Pompeii, 367-370 "Ostia"; ch. 23, 374-379 "Palaces"; ch. 25, 415-418 "Palaces"
 	- Modern scholarship
-    	- [Submit a nice PDF]({% link courses/240/homework/Markdown_pandoc_and_Paperify.md %}) of your markdown on [Moodle](https://moodle.drew.edu/3/course/view.php?id=1211) by using the Paperify site.
-    - [Lecture images]({% link courses/240/lectures/11 Houses.html %})
+        - [Submit a nice PDF]({% link courses/240/homework/Markdown_pandoc_and_Paperify.md %}) of your markdown on [Moodle](https://moodle.drew.edu/3/course/view.php?id=1211) by using the Paperify site.
+        - Beamer presentations
+            - [Theme gallery](http://www.deic.uab.es/%7Eiblanes/beamer_gallery/index_by_theme_and_color.html)
+            - Beamer lecture ([default]({% link courses/240/lectures/beamer_plain.pdf %}) or [Madrid theme]({% link courses/240/lectures/beamer_madrid.pdf %}))
+	- [Murlo database](http://www.poggiocivitate.org)
+	- [Lecture images]({% link courses/240/lectures/11 Houses.html %})
 
 #### Week 7
 ### Cemeteries & Tombs
@@ -137,18 +141,9 @@ title: Schedule
     - *AC*: ch. 12, 211-212 "Cemeteries..."; ch. 17, 282-285 "Royal burials"; ch. 19, 314 "Paestum"; ch. 23, 390-392 "Imperial tombs".
     - *GAA*: ch. 4, 108-110 "Architecture", 116-123 "Pottery"; ch. 9, 326-331 "Vergina".
     - Necropoleis in Etruria *AC*: ch. 19, 323-327 "[Etruscan] Tombs"
-    - Modern Scholarship
-        - Follow these [instructions](notes/The_CLI,_Zotero,_and_Pandoc.html) to get Zotero to export your library and install it on the server so pandoc can access it.
 
 - Thursday, March 1
-    - Archaeologist: Massimo Pallottino (1909 – 1995) - John Hanna
     - Site: Thonis - Ava Valentino
-	- Command-line Interface
-	- pandoc/Zotero
-		1. Save your latest markdown file, which should include at least one image, in your server folder.
-		1. Use pandoc to convert that file into five other versions, all in that same directory: html (one version with the "-s" option and another without it); pdf; docx; odt.
-		1. Make sure your Zotero library has at least 10 items in it.
-		1. Download and install the [Better BibTeX extension](https://zotplus.github.io/zotero-better-bibtex/) into your standalone Zotero. Restart Zotero. Then go to the Better BibTeX pane in the preferences and check the "Show citekey instead of 'extra' field..." box and close the preferences.
 
 #### Spring Break
 
@@ -166,6 +161,14 @@ title: Schedule
     - Site: Black Sea Shipwreck Research Project - Rae Brickey
 	- *AC*: ch. 19, 321-323 "Veii"; ch. 20, 330-331 "Early history [of Rome]"; ch. 23, 379-382 "Temples".
 	- Ch. 1, @Boatwright1987 In [PDF](../../readings/Boatwright.pdf).
+    - Modern Scholarship
+        - Follow these [instructions](notes/The_CLI,_Zotero,_and_Pandoc.html) to get Zotero to export your library and install it on the server so pandoc can access it.
+	- Command-line Interface
+	- pandoc/Zotero
+		1. Save your latest markdown file, which should include at least one image, in your server folder.
+		1. Use pandoc to convert that file into five other versions, all in that same directory: html (one version with the "-s" option and another without it); pdf; docx; odt.
+		1. Make sure your Zotero library has at least 10 items in it.
+		1. Download and install the [Better BibTeX extension](https://zotplus.github.io/zotero-better-bibtex/) into your standalone Zotero. Restart Zotero. Then go to the Better BibTeX pane in the preferences and check the "Show citekey instead of 'extra' field..." box and close the preferences.
 
 #### Week 9
 ### Theaters & Amphitheaters
