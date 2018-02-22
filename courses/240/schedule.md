@@ -120,7 +120,7 @@ title: Schedule
         - [Pandoc](https://pandoc.org/MANUAL.html): a utility for converting from one markup format to another
 
 - Thursday, February 22
-    - Archaeologist: Harriet Boyd Hawes (1871 – 1945) - Jason Adamo
+    - Archaeologist: [Harriet Boyd Hawes (1871 – 1945)](https://docs.google.com/presentation/d/1golI4o-1zHsYkMgz83UX3SMWoe29ut8fSZnl39BSARI/edit#slide=id.p) - Jason Adamo
     - Site: Osteria dell’Osa - Serena Rosenblatt
 	- [Holloway, R.R. 1994. The archaeology of early Rome and Latium. London; New York: Routledge, Ch. 4]({% link /courses/240/readings/Holloway - 1994 - ch4.The archaeology of early Rome and Latium.pdf %}).
 	- *AC*: ch. 22, 362-367 Pompeii, 367-370 "Ostia"; ch. 23, 374-379 "Palaces"; ch. 25, 415-418 "Palaces"
