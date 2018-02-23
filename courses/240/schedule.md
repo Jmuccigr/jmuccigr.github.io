@@ -126,9 +126,6 @@ title: Schedule
 	- *AC*: ch. 22, 362-367 Pompeii, 367-370 "Ostia"; ch. 23, 374-379 "Palaces"; ch. 25, 415-418 "Palaces"
 	- Modern scholarship
         - [Submit a nice PDF]({% link courses/240/homework/Markdown_pandoc_and_Paperify.md %}) of your markdown on [Moodle](https://moodle.drew.edu/3/course/view.php?id=1211) by using the Paperify site.
-        - Beamer presentations
-            - [Theme gallery](http://www.deic.uab.es/%7Eiblanes/beamer_gallery/index_by_theme_and_color.html)
-            - Beamer lecture ([default]({% link courses/240/lectures/beamer_plain.pdf %}) or [Madrid theme]({% link courses/240/lectures/beamer_madrid.pdf %}))
 	- [Murlo database](http://www.poggiocivitate.org)
 	- [Lecture images]({% link courses/240/lectures/11 Houses.html %})
 
@@ -144,6 +141,9 @@ title: Schedule
 
 - Thursday, March 1
     - Site: Thonis - Ava Valentino
+    - Beamer presentations
+        - [Theme gallery](http://www.deic.uab.es/%7Eiblanes/beamer_gallery/index_by_theme_and_color.html)
+        - Beamer lecture ([default]({% link courses/240/lectures/beamer_plain.pdf %}) or [Madrid theme]({% link courses/240/lectures/beamer_madrid.pdf %}))
 
 #### Spring Break
 
