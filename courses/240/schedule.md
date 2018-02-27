@@ -138,6 +138,7 @@ title: Schedule
     - *AC*: ch. 12, 211-212 "Cemeteries..."; ch. 17, 282-285 "Royal burials"; ch. 19, 314 "Paestum"; ch. 23, 390-392 "Imperial tombs".
     - *GAA*: ch. 4, 108-110 "Architecture", 116-123 "Pottery"; ch. 9, 326-331 "Vergina".
     - Necropoleis in Etruria *AC*: ch. 19, 323-327 "[Etruscan] Tombs"
+	- [Lecture images]({% link courses/240/lectures/12 Cemeteries.html %})
 
 - Thursday, March 1
     - Site: Thonis - Ava Valentino
