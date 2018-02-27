@@ -133,7 +133,7 @@ title: Schedule
 ### Cemeteries & Tombs
 
 - Tuesday, February 27
-    - Archaeologist: Howard Carter (1874 – 1939) - Molly Thompson
+    - Archaeologist: [Howard Carter (1874 – 1939)](https://docs.google.com/presentation/d/1MS6UY1JRq4RKF-eck5EdRIjW0DspsHGGHUa5UKY3oXw/edit?usp=sharing_eip&ts=5a957c86) - Molly Thompson
     - Site: Knossos - Lynette Crews
     - *AC*: ch. 12, 211-212 "Cemeteries..."; ch. 17, 282-285 "Royal burials"; ch. 19, 314 "Paestum"; ch. 23, 390-392 "Imperial tombs".
     - *GAA*: ch. 4, 108-110 "Architecture", 116-123 "Pottery"; ch. 9, 326-331 "Vergina".
