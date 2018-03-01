@@ -141,7 +141,7 @@ title: Schedule
 	- [Lecture images]({% link courses/240/lectures/12 Cemeteries.html %})
 
 - Thursday, March 1
-    - Site: Thonis - Ava Valentino
+    - Site: [Thonis]({% link courses/240/presentations/thonis.pptx %}) - Ava Valentino
     - Beamer presentations
         - [Theme gallery](http://www.deic.uab.es/%7Eiblanes/beamer_gallery/index_by_theme_and_color.html)
         - Beamer lecture ([default]({% link courses/240/lectures/beamer_plain.pdf %}) or [Madrid theme]({% link courses/240/lectures/beamer_madrid.pdf %}))
