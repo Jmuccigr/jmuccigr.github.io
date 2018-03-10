@@ -134,7 +134,7 @@ title: Schedule
 
 - Tuesday, February 27
     - Archaeologist: [Howard Carter (1874 – 1939)](https://docs.google.com/presentation/d/1MS6UY1JRq4RKF-eck5EdRIjW0DspsHGGHUa5UKY3oXw/edit?usp=sharing_eip&ts=5a957c86) - Molly Thompson
-    - Site: Knossos - Lynette Crews
+    - Site: [Knossos]({% link courses/240/presentations/knossos.pptx %}) - Lynette Crews
     - *AC*: ch. 12, 211-212 "Cemeteries..."; ch. 17, 282-285 "Royal burials"; ch. 19, 314 "Paestum"; ch. 23, 390-392 "Imperial tombs".
     - *GAA*: ch. 4, 108-110 "Architecture", 116-123 "Pottery"; ch. 9, 326-331 "Vergina".
     - Necropoleis in Etruria *AC*: ch. 19, 323-327 "[Etruscan] Tombs"
@@ -161,15 +161,7 @@ title: Schedule
     - Archaeologist: Kent Vaughn Flannery (born 1934) - Lynette Crews
     - Site: Black Sea Shipwreck Research Project - Rae Brickey
 	- *AC*: ch. 19, 321-323 "Veii"; ch. 20, 330-331 "Early history [of Rome]"; ch. 23, 379-382 "Temples".
-	- Ch. 1, @Boatwright1987 In [PDF](../../readings/Boatwright.pdf).
-    - Modern Scholarship
-        - Follow these [instructions](notes/The_CLI,_Zotero,_and_Pandoc.html) to get Zotero to export your library and install it on the server so pandoc can access it.
-	- Command-line Interface
-	- pandoc/Zotero
-		1. Save your latest markdown file, which should include at least one image, in your server folder.
-		1. Use pandoc to convert that file into five other versions, all in that same directory: html (one version with the "-s" option and another without it); pdf; docx; odt.
-		1. Make sure your Zotero library has at least 10 items in it.
-		1. Download and install the [Better BibTeX extension](https://zotplus.github.io/zotero-better-bibtex/) into your standalone Zotero. Restart Zotero. Then go to the Better BibTeX pane in the preferences and check the "Show citekey instead of 'extra' field..." box and close the preferences.
+	- Ch. 1, [Boatwright, M.T. 1987. *Hadrian and the city of Rome*. Princeton, N.J.: Princeton University Press.]({% link courses/240/readings/Boatwright_Hadrian_ch1.pdf %}).
 
 #### Week 9
 ### Theaters & Amphitheaters
@@ -261,3 +253,13 @@ title: Schedule
 ### Student Presentations
 
 - Tuesday, May 1
+
+<!--    - Modern Scholarship
+        - Follow these [instructions](notes/The_CLI,_Zotero,_and_Pandoc.html) to get Zotero to export your library and install it on the server so pandoc can access it.
+	- Command-line Interface
+	- pandoc/Zotero
+		1. Save your latest markdown file, which should include at least one image, in your server folder.
+		1. Use pandoc to convert that file into five other versions, all in that same directory: html (one version with the "-s" option and another without it); pdf; docx; odt.
+		1. Make sure your Zotero library has at least 10 items in it.
+		1. Download and install the [Better BibTeX extension](https://zotplus.github.io/zotero-better-bibtex/) into your standalone Zotero. Restart Zotero. Then go to the Better BibTeX pane in the preferences and check the "Show citekey instead of 'extra' field..." box and close the preferences.
+-->
