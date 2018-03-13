@@ -169,6 +169,7 @@ title: Schedule
 ### Theaters & Amphitheaters
 
 - Tuesday, March 20
+    - Quiz 1: [Geography of Rome]({% link /courses/240/quizzes/Map for quiz II - Rome.pdf %} )
     - Archaeologist: Anna Marguerite McCann (1933 – 2017) - Serena Rosenblatt
     - Site: Vindolanda - Chris Morville
 	- *AC*: ch. 16, 263-264 "Theater of Dionysus"; ch. 17, 272-273 at Epidauros; ch. 18, 293 Pergamon; ch. 20, 345 "Theater of Pompey"; ch. 22, 360 "Theaters [of Pompeii]".
@@ -176,8 +177,8 @@ title: Schedule
 	- [@Wheeler1964] ch. 5 on theaters and amphitheaters. [In PDF](../../readings/Wheeler_RAA_ch5.pdf).
 	- Wikipedia "[list of Roman theatres](https://en.wikipedia.org/wiki/List_of_Roman_theatres)"
 	- [Reconstructions of the Theater of Pompey](http://pompey.cch.kcl.ac.uk/Burge.htm)
-	- Modern Scholarship
-		- *Learn X in Y minutes* [on *json*](https://learnxinyminutes.com/docs/json/)
+	- Final Project
+    	- Description due as PDF from [Paperify](https://Paperify.org/) of no more than 2 pages. Submit on [Moodle](https://moodle.drew.edu/3/mod/assign/view.php?id=45125).
 
 - Thursday, March 22
     - Archaeologist: Colin Renfrew (born 1937) - Josh Friedland
@@ -264,4 +265,6 @@ title: Schedule
 		1. Use pandoc to convert that file into five other versions, all in that same directory: html (one version with the "-s" option and another without it); pdf; docx; odt.
 		1. Make sure your Zotero library has at least 10 items in it.
 		1. Download and install the [Better BibTeX extension](https://zotplus.github.io/zotero-better-bibtex/) into your standalone Zotero. Restart Zotero. Then go to the Better BibTeX pane in the preferences and check the "Show citekey instead of 'extra' field..." box and close the preferences.
+	- Modern Scholarship
+		- *Learn X in Y minutes* [on *json*](https://learnxinyminutes.com/docs/json/)
 -->
