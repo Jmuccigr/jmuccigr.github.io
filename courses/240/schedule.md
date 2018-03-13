@@ -157,6 +157,7 @@ title: Schedule
 	- *AC*: ch. 13; ch 15, 246-249 "Temple of Zeus"; ch. 16, 254-263 "The Athenian Acropolis"; ch. 18, 287-289 "Didyma: Apollo"; ch. 19, 311-314 "Paestum".
 	- *GAA*: ch. 4, 105-110 "Architecture"; ch. 5, 131-139 "Architecture..."; ch. 6, 150-176; ch. 7, 213-229; ch. 8, 251-276; ch. 9, 293-305; ch. 10, 341-351.
 	- [Dolphin Tank]({% link courses/240/lectures/Dolphin_Tank.html %})
+	- [Lecture Images]({% link courses/240/lectures/13_Temples.html %})
 
 - Thursday, March 15
     - Archaeologist: Kent Vaughn Flannery (born 1934) - Lynette Crews
