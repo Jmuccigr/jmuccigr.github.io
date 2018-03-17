@@ -170,8 +170,7 @@ title: Schedule
 ### Theaters & Amphitheaters
 
 - Tuesday, March 20
-    - Quiz 1: [Geography of Rome]({% link /courses/240/quizzes/Map for quiz II - Rome.pdf %} )
-    - Archaeologist: Anna Marguerite McCann (1933 – 2017) - Serena Rosenblatt
+   - Archaeologist: Anna Marguerite McCann (1933 – 2017) - Serena Rosenblatt
     - Site: Vindolanda - Chris Morville
 	- *AC*: ch. 16, 263-264 "Theater of Dionysus"; ch. 17, 272-273 at Epidauros; ch. 18, 293 Pergamon; ch. 20, 345 "Theater of Pompey"; ch. 22, 360 "Theaters [of Pompeii]".
 	- *GAA*: ch. 9, 296 "Epidauros", 324 "Were women in the audience?"; ch. 10, 341 "Pergamon", 354 "Syracuse".
@@ -182,6 +181,7 @@ title: Schedule
     	- Description due as PDF from [Paperify](https://Paperify.org/) of no more than 2 pages. Submit on [Moodle](https://moodle.drew.edu/3/mod/assign/view.php?id=45125).
 
 - Thursday, March 22
+    - Quiz 2: [Geography of Rome]({% link /courses/240/quizzes/Map for quiz II - Rome.pdf %} )
     - Archaeologist: Colin Renfrew (born 1937) - Josh Friedland
     - Site: Olympia - Kevin Yan
 	-  *AC*: ch. 22, 360-361 "Amphitheater [of Pompeii]" ch 23, 385-387 "Flavian Amphitheater"
