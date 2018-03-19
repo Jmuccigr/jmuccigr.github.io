@@ -170,13 +170,14 @@ title: Schedule
 ### Theaters & Amphitheaters
 
 - Tuesday, March 20
-   - Archaeologist: Anna Marguerite McCann (1933 – 2017) - Serena Rosenblatt
+   - Archaeologist: [Anna Marguerite McCann (1933 – 2017)](https://docs.google.com/presentation/d/1hZayfxgzWDZNyvt0J1KJDStESJv8idtzM4Op9YbdDGs/edit?usp=sharing_eip&ts=5aaffd52) - Serena Rosenblatt
     - Site: Vindolanda - Chris Morville
 	- *AC*: ch. 16, 263-264 "Theater of Dionysus"; ch. 17, 272-273 at Epidauros; ch. 18, 293 Pergamon; ch. 20, 345 "Theater of Pompey"; ch. 22, 360 "Theaters [of Pompeii]".
 	- *GAA*: ch. 9, 296 "Epidauros", 324 "Were women in the audience?"; ch. 10, 341 "Pergamon", 354 "Syracuse".
-	- [@Wheeler1964] ch. 5 on theaters and amphitheaters. [In PDF](../../readings/Wheeler_RAA_ch5.pdf).
+	- Wheeler, M. 1964. *Roman art and architecture*. New York: F.A. Praeger.
+ ch. 5 on theaters and amphitheaters. [In PDF](../../readings/Wheeler_RAA_ch5.pdf).
 	- Wikipedia "[list of Roman theatres](https://en.wikipedia.org/wiki/List_of_Roman_theatres)"
-	- [Reconstructions of the Theater of Pompey](http://pompey.cch.kcl.ac.uk/Burge.htm)
+	- [Reconstructions of the Theater of Pompey](http://www.pompey.cch.kcl.ac.uk/Burge.htm)
 	- Final Project
     	- Description due as PDF from [Paperify](https://Paperify.org/) of no more than 2 pages. Submit on [Moodle](https://moodle.drew.edu/3/mod/assign/view.php?id=45125).
 
