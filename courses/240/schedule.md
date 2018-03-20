@@ -174,8 +174,8 @@ title: Schedule
     - Site: Vindolanda - Chris Morville
 	- *AC*: ch. 16, 263-264 "Theater of Dionysus"; ch. 17, 272-273 at Epidauros; ch. 18, 293 Pergamon; ch. 20, 345 "Theater of Pompey"; ch. 22, 360 "Theaters [of Pompeii]".
 	- *GAA*: ch. 9, 296 "Epidauros", 324 "Were women in the audience?"; ch. 10, 341 "Pergamon", 354 "Syracuse".
-	- Wheeler, M. 1964. *Roman art and architecture*. New York: F.A. Praeger.
- ch. 5 on theaters and amphitheaters. [In PDF](../../readings/Wheeler_RAA_ch5.pdf).
+	- [Wheeler, M. 1964. *Roman art and architecture*. New York: F.A. Praeger.
+ ch. 5 on theaters and amphitheaters.](../../readings/Wheeler_RAA_ch5.pdf).
 	- Wikipedia "[list of Roman theatres](https://en.wikipedia.org/wiki/List_of_Roman_theatres)"
 	- [Reconstructions of the Theater of Pompey](http://www.pompey.cch.kcl.ac.uk/Burge.htm)
 	- Final Project
@@ -183,6 +183,7 @@ title: Schedule
 
 - Thursday, March 22
     - Quiz 2: [Geography of Rome]({% link /courses/240/quizzes/Map for quiz II - Rome.pdf %} )
+        - [A blank version of the map]( {% link /courses/240/quizzes/Map for quiz II blank.png %} )
     - Archaeologist: Colin Renfrew (born 1937) - Josh Friedland
     - Site: Olympia - Kevin Yan
 	-  *AC*: ch. 22, 360-361 "Amphitheater [of Pompeii]" ch 23, 385-387 "Flavian Amphitheater"
