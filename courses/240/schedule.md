@@ -171,7 +171,7 @@ title: Schedule
 
 - Tuesday, March 20
    - Archaeologist: [Anna Marguerite McCann (1933 – 2017)](https://docs.google.com/presentation/d/1hZayfxgzWDZNyvt0J1KJDStESJv8idtzM4Op9YbdDGs/edit?usp=sharing_eip&ts=5aaffd52) - Serena Rosenblatt
-    - Site: Vindolanda - Chris Morville
+    - Site: [Vindolanda]({% link courses/240/presentations/Vindolanda.pptx %}) - Chris Morville
 	- *AC*: ch. 16, 263-264 "Theater of Dionysus"; ch. 17, 272-273 at Epidauros; ch. 18, 293 Pergamon; ch. 20, 345 "Theater of Pompey"; ch. 22, 360 "Theaters [of Pompeii]".
 	- *GAA*: ch. 9, 296 "Epidauros", 324 "Were women in the audience?"; ch. 10, 341 "Pergamon", 354 "Syracuse".
 	- [Wheeler, M. 1964. *Roman art and architecture*. New York: F.A. Praeger.
