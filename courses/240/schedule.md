@@ -180,12 +180,13 @@ title: Schedule
 	- [Reconstructions of the Theater of Pompey](http://www.pompey.cch.kcl.ac.uk/Burge.htm)
 	- Final Project
     	- Description due as PDF from [Paperify](https://Paperify.org/) of no more than 2 pages. Submit on [Moodle](https://moodle.drew.edu/3/mod/assign/view.php?id=45125).
+	- [Lecture Images]({% link courses/240/lectures/14_Theaters.html %})
 
 - Thursday, March 22
     - Quiz 2: [Geography of Rome]({% link /courses/240/quizzes/Map for quiz II - Rome.pdf %} )
         - [A blank version of the map]( {% link /courses/240/quizzes/Map for quiz II blank.png %} )
     - Archaeologist: Colin Renfrew (born 1937) - Josh Friedland
-    - Site: Olympia - Kevin Yan
+    - Site: [Olympia]({% link courses/240/presentations/Olympia.pptx %}) - Kevin Yan
 	-  *AC*: ch. 22, 360-361 "Amphitheater [of Pompeii]" ch 23, 385-387 "Flavian Amphitheater"
 	- Wikipedia "[list of Roman amphitheatres](https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres)"
 
