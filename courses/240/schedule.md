@@ -165,6 +165,7 @@ title: Schedule
     - Site: [Black Sea Shipwreck Research Project]({% link courses/240/presentations/BlackSea.pptx %}) - Rae Brickey
 	- *AC*: ch. 19, 321-323 "Veii"; ch. 20, 330-331 "Early history [of Rome]"; ch. 23, 379-382 "Temples".
 	- Ch. 1, [Boatwright, M.T. 1987. *Hadrian and the city of Rome*. Princeton, N.J.: Princeton University Press.]({% link courses/240/readings/Boatwright_Hadrian_ch1.pdf %}).
+	- [Digital Humanities Summer Institute]({% link courses/240/lectures/Digital Humanities Summer Institute.html %})
 
 #### Week 9
 ### Theaters & Amphitheaters
