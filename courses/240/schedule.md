@@ -217,7 +217,6 @@ title: Schedule
 	- *Kouroi* and *Korai*: *AC*: ch. 14, 234-237 "Sculpture"; *GAA*: ch. 6, 172-187 "Kouroi", "Korai"; 184 "The Getty Kouros".
 
 - Thursday, April 5
-    - Site: Murlo - John Hanna
 
 #### Week 12
 ### Pottery I
