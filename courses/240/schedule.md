@@ -186,7 +186,7 @@ title: Schedule
 - Thursday, March 22
     - Quiz 2: [Geography of Rome]({% link /courses/240/quizzes/Map for quiz II - Rome.pdf %} )
         - [A blank version of the map]( {% link /courses/240/quizzes/Map for quiz II blank.png %} )
-    - Archaeologist: Colin Renfrew (born 1937) - Josh Friedland
+    - Archaeologist: [Colin Renfrew (born 1937)](https://docs.google.com/presentation/d/e/2PACX-1vQSvCV-98xvMera779yHnLulLk-g5Xoq2G4btDNhWTcTneKJrWXAdD_bxGwMfJVBged13VwdIMt2-po/pub?start=false&loop=false&delayms=3000&slide=id.p) - Josh Friedland
     - Site: [Olympia]({% link courses/240/presentations/Olympia.pptx %}) - Kevin Yan
 	-  *AC*: ch. 22, 360-361 "Amphitheater [of Pompeii]" ch 23, 385-387 "Flavian Amphitheater"
 	- Wikipedia "[list of Roman amphitheatres](https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres)"
