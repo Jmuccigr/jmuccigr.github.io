@@ -196,7 +196,7 @@ title: Schedule
 ### Stadia & Other commemorative monuments
 
 - Tuesday, March 27
-    - Archaeologist: Rhys Jones (1941 – 2001) - Demi-Lee Pretorius
+    - Archaeologist: [Rhys Jones (1941 – 2001)]({% link courses/240/presentations/Jones.pptx %}) - Demi-Lee Pretorius
     - Site: [Kerameikos](https://docs.google.com/presentation/d/1g2D2TTpV72fLsNjxk4LfygH7JCn6PmNtUAylf5NB8WY/edit?ts=5ab9ce06#slide=id.p3) - Tayyaba Shakeel
 	- Macedonia: *GAA*: ch. 9, 333-337 "Vergina"; Rome: *AC*: ch. 20, 345 "Circus Maximus"; ch. 21, 352-355 "Ara Pacis".
 	- Baths: ch. 22, 361-362 "The baths [of Pompeii]"; ch. 23, 388-390 "Baths of Trajan"
