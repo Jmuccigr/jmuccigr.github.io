@@ -205,7 +205,9 @@ title: Schedule
     - Archaeologist: Israel Finkelstein (born 1949) - Kass Mattingly
     - Site: Troy - Jason Adamo
 	- *AC*: ch. 23, 382-385 "Commemorative monuments [arches and Trajan's Column]"; ch. 25, 420-421 "Arch of Constantine".
-	- [Images from class](./notes/Arches etc.html)
+	- Wikipedia Stubs: [the final list]({% link courses/240/wikipedia_stubs_final.md %})
+<!--	- [Lecture images](./notes/Arches etc.html)
+-->
 
 #### Week 11
 ### Sculpture & Statuary
@@ -217,6 +219,7 @@ title: Schedule
 	- *Kouroi* and *Korai*: *AC*: ch. 14, 234-237 "Sculpture"; *GAA*: ch. 6, 172-187 "Kouroi", "Korai"; 184 "The Getty Kouros".
 
 - Thursday, April 5
+    - Wikipedia session in Library
 
 #### Week 12
 ### Pottery I
