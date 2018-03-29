@@ -190,6 +190,9 @@ title: Schedule
     - Site: [Olympia]({% link courses/240/presentations/Olympia.pptx %}) - Kevin Yan
 	-  *AC*: ch. 22, 360-361 "Amphitheater [of Pompeii]" ch 23, 385-387 "Flavian Amphitheater"
 	- Wikipedia "[list of Roman amphitheatres](https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres)"
+	- *Gladiator* scenes:
+    	- [Tiger fight](https://youtu.be/fAf1w_ruXeY)
+    	- [Arrival in Rome](https://youtu.be/gp46l7jfUzo)
 	- [Lecture Images]({% link courses/240/lectures/15_Amphitheaters.html %})
 
 #### Week 10
@@ -202,8 +205,8 @@ title: Schedule
 	- Baths: *AC* ch. 22, 361-362 "The baths [of Pompeii]"; ch. 23, 388-390 "Baths of Trajan"
 
 - Thursday, March 29
-    - Archaeologist: Israel Finkelstein (born 1949) - Kass Mattingly
-    - Site: Troy - Jason Adamo
+    - Archaeologist: [Israel Finkelstein (born 1949)]({% link courses/240/presentations/Finkelstein.pptx %}) - Kass Mattingly
+    - Site: [Troy](https://docs.google.com/a/drew.edu/presentation/d/1l8yxijeB5-_ChhPGGwKh5IJ1mlrJbuAwjhX1Wkf8uUg/edit?usp=drive_web) - Jason Adamo
 	- *AC*: ch. 23, 382-385 "Commemorative monuments [arches and Trajan's Column]"; ch. 25, 420-421 "Arch of Constantine".
 	- Wikipedia Stubs: [the final list]({% link courses/240/wikipedia_stubs_final.md %})
 	- [Lecture images]({% link courses/240/lectures/16_Baths.html %})
