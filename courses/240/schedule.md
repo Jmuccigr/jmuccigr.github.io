@@ -199,15 +199,15 @@ title: Schedule
     - Archaeologist: [Rhys Jones (1941 – 2001)]({% link courses/240/presentations/Jones.pptx %}) - Demi-Lee Pretorius
     - Site: [Kerameikos](https://docs.google.com/presentation/d/1g2D2TTpV72fLsNjxk4LfygH7JCn6PmNtUAylf5NB8WY/edit?ts=5ab9ce06#slide=id.p3) - Tayyaba Shakeel
 	- Macedonia: *GAA*: ch. 9, 333-337 "Vergina"; Rome: *AC*: ch. 20, 345 "Circus Maximus"; ch. 21, 352-355 "Ara Pacis".
-	- Baths: ch. 22, 361-362 "The baths [of Pompeii]"; ch. 23, 388-390 "Baths of Trajan"
+	- Baths: *AC* ch. 22, 361-362 "The baths [of Pompeii]"; ch. 23, 388-390 "Baths of Trajan"
 
 - Thursday, March 29
     - Archaeologist: Israel Finkelstein (born 1949) - Kass Mattingly
     - Site: Troy - Jason Adamo
 	- *AC*: ch. 23, 382-385 "Commemorative monuments [arches and Trajan's Column]"; ch. 25, 420-421 "Arch of Constantine".
 	- Wikipedia Stubs: [the final list]({% link courses/240/wikipedia_stubs_final.md %})
-<!--	- [Lecture images](./notes/Arches etc.html)
--->
+	- [Lecture images]({% link courses/240/lectures/16_Baths.html %})
+	- [Lecture images]({% link courses/240/lectures/17_Athletics.html %})
 
 #### Week 11
 ### Sculpture & Statuary
