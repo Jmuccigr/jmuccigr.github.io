@@ -216,7 +216,7 @@ title: Schedule
 ### Sculpture & Statuary
 
 - Tuesday, April 3
-    - Site: Pompeii - Molly Thompson
+    - Site: [Pompeii](https://docs.google.com/presentation/d/1PvnSgolcv921qbOETmfLrEYU9e1ByBIr4zpHcllPdVM/edit?ts=5ac2ce05#slide=id.p) - Molly Thompson
 	- *GAA*: ch. 4, 110-110 "Sculpture"; ch. 5, 139-145; ch. 6, 171-172, 187-189; ch. 7, 229-241; ch. 8, 276-281; ch. 9, 305-318; ch. 10, 354-377.
 	- *AC*: ch. 15, 246 "Early Classical Style".
 	- *Kouroi* and *Korai*: *AC*: ch. 14, 234-237 "Sculpture"; *GAA*: ch. 6, 172-187 "Kouroi", "Korai"; 184 "The Getty Kouros".
