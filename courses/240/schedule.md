@@ -223,6 +223,7 @@ title: Schedule
 
 - Thursday, April 5
     - Wikipedia session in Library
+    - [Groups]({% link courses/240/Wikipedia_Groups.md %})
 
 #### Week 12
 ### Pottery I
