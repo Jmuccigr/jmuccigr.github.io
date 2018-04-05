@@ -17,7 +17,7 @@ layout: syllabus
 |Gladiator Mosaic | a famous mosaic of gladiators|
 |Trier Amphitheater | a Roman Amphitheater in Trier, Germany |
 |Circus of Carthage | a Roman circus in Carthage |
-|Pelasgic wall| a monument supposed to have been built by the Pelasgians on the Acropolis|
+|Pelasgic wall | a monument supposed to have been built by the Pelasgians on the Acropolis|
 |Temple of Divus Augustus, Nola | a temple commemorating the deified Roman emperor, Augustus|
 |Treasuries at Olympia| small temple-shaped buildings |
 |Hydria | a type of water-carrying vessel|
