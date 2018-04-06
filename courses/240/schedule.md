@@ -236,6 +236,8 @@ title: Schedule
 - Thursday, April 12
 	- Italy
 	- Amphoras, red-slip, etc.
+	- Vickers, M.J. 1985. [“Artful crafts: The influence of metalwork on Athenian painted pottery.”](http://www.jstor.org/stable/631525) *Journal of Hellenic Studies* 105: 108–128.
+
 
 - Saturday, April 14
     - Metropolitan Museum of Art (tentative)
