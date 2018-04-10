@@ -152,7 +152,7 @@ title: Schedule
 ### Temples
 
 - Tuesday, March 13
-    - Archaeologist: [Wilhelmina Jashemski (1910 – 2007)]({% link courses/240/presentations/Jashemski.pptx %}) - Olivia Darveau
+    - Archaeologist: [Wilhelmina Jashemski (1910 – 2007)]({% link courses/240/presentations/Jashemski.pptx %}) - Liv Darveau
     - Site: [Petra]({% link courses/240/presentations/PETRA.pptx %}) - Katie Riso
 	- *AC*: ch. 13; ch 15, 246-249 "Temple of Zeus"; ch. 16, 254-263 "The Athenian Acropolis"; ch. 18, 287-289 "Didyma: Apollo"; ch. 19, 311-314 "Paestum".
 	- *GAA*: ch. 4, 105-110 "Architecture"; ch. 5, 131-139 "Architecture..."; ch. 6, 150-176; ch. 7, 213-229; ch. 8, 251-276; ch. 9, 293-305; ch. 10, 341-351.
@@ -203,14 +203,15 @@ title: Schedule
     - Site: [Kerameikos](https://docs.google.com/presentation/d/1g2D2TTpV72fLsNjxk4LfygH7JCn6PmNtUAylf5NB8WY/edit?ts=5ab9ce06#slide=id.p3) - Tayyaba Shakeel
 	- Macedonia: *GAA*: ch. 9, 333-337 "Vergina"; Rome: *AC*: ch. 20, 345 "Circus Maximus"; ch. 21, 352-355 "Ara Pacis".
 	- Baths: *AC* ch. 22, 361-362 "The baths [of Pompeii]"; ch. 23, 388-390 "Baths of Trajan"
+	- [Lecture images]({% link courses/240/lectures/16_Baths.html %})
+	- [Lecture images]({% link courses/240/lectures/17_Athletics.html %})
 
 - Thursday, March 29
     - Archaeologist: [Israel Finkelstein (born 1949)]({% link courses/240/presentations/Finkelstein.pptx %}) - Kass Mattingly
     - Site: [Troy](https://docs.google.com/a/drew.edu/presentation/d/1l8yxijeB5-_ChhPGGwKh5IJ1mlrJbuAwjhX1Wkf8uUg/edit?usp=drive_web) - Jason Adamo
 	- *AC*: ch. 23, 382-385 "Commemorative monuments [arches and Trajan's Column]"; ch. 25, 420-421 "Arch of Constantine".
 	- Wikipedia Stubs: [the final list]({% link courses/240/wikipedia_stubs_final.md %})
-	- [Lecture images]({% link courses/240/lectures/16_Baths.html %})
-	- [Lecture images]({% link courses/240/lectures/17_Athletics.html %})
+	- [Lecture images]({% link courses/240/lectures/18_Commemorative_Monuments.html %})
 
 #### Week 11
 ### Sculpture & Statuary
@@ -229,7 +230,7 @@ title: Schedule
 ### Pottery I
 
 - Tuesday, April 10
-    - Site: [Caesarea Maritima (Israel)]({% link courses/240/presentations/Caesarea_Maritima.pptx %}) - Olivia Darveau
+    - Site: [Caesarea Maritima (Israel)]({% link courses/240/presentations/Caesarea_Maritima.pptx %}) - Liv Darveau
 	- *AC*: ch. 14, 232-234 "Attic black-figure and red-figure pottery".
 	- *GAA*: ch. 4, 112-118 "Pottery"; 115 "Burying the dead"; ch. 5, 121-131 "Pottery"; ch. 6, 189-205; ch. 7, 242-247; ch. 8, 281-287; ch. 9, 318-322; ch. 10, 382-385.
 
@@ -237,18 +238,16 @@ title: Schedule
 	- Italy
 	- Amphoras, red-slip, etc.
 	- Vickers, M.J. 1985. [“Artful crafts: The influence of metalwork on Athenian painted pottery.”](http://www.jstor.org/stable/631525) *Journal of Hellenic Studies* 105: 108–128.
-
+	- Gill, D.W.J., and M.J. Vickers. 1990. “Reflected glory: Pottery and precious metal in Classical Greece.” *Jahrbuch des Deutschen Archäologischen Instituts* 105: 1–30.
 
 - Saturday, April 14
-    - Metropolitan Museum of Art (tentative)
+    - ~~Metropolitan Museum of Art~~
 
 #### Week 13
 ### Pottery II & other small things
 
 - Tuesday, April 17
-	- [@Vickers1985-1]
-	- @Gill1990 [In PDF](../../readings/Gill-1990.pdf).
-
+    - Catch-up
 - Thursday, April 19
 	- Votives: *AC*: ch. 12, 216-218 "Votive offerings..."
 	- Wall-painting: *GAA*: ch. 9, 322-337
@@ -259,8 +258,9 @@ title: Schedule
 
 - Tuesday, April 24
 	- Coinage: *AC*: ch. 12, 217-218 "...coinage"; ch 16, 268 on the mint.
-	- [@Bursche2002]
-	- [@Buttrey1972]
+	- Bursche, A. 2002. December 15. “Circulation of Roman Coinage in Northern Europe in Late Antiquity.” *Histoire & mesure* XVII 3/4 (December 15): 121–141. [doi:10.4000/histoiremesure.886](https://doi.org/10.4000/histoiremesure.886).
+	- Buttrey, T.V. 1972. “[Halved coins, the Augustan reform, and Horace, Odes I.3.](http://www.jstor.org/stable/503609)” *American Journal of Archaeology* 76 1: 31–48.
+
 
 ### Student Presentations
 
