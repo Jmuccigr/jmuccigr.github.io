@@ -229,7 +229,7 @@ title: Schedule
 ### Pottery I
 
 - Tuesday, April 10
-    - Site: Caesarea Maritima (Israel) - Olivia Darveau
+    - Site: [Caesarea Maritima (Israel)]({% link courses/240/presentations/Caesarea_Maritima.pptx %}) - Olivia Darveau
 	- *AC*: ch. 14, 232-234 "Attic black-figure and red-figure pottery".
 	- *GAA*: ch. 4, 112-118 "Pottery"; 115 "Burying the dead"; ch. 5, 121-131 "Pottery"; ch. 6, 189-205; ch. 7, 242-247; ch. 8, 281-287; ch. 9, 318-322; ch. 10, 382-385.
 
