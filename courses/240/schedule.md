@@ -234,7 +234,7 @@ title: Schedule
     - Site: [Caesarea Maritima (Israel)]({% link courses/240/presentations/Caesarea_Maritima.pptx %}) - Liv Darveau
 	- *AC*: ch. 14, 232-234 "Attic black-figure and red-figure pottery".
 	- *GAA*: ch. 4, 112-118 "Pottery"; 115 "Burying the dead"; ch. 5, 121-131 "Pottery"; ch. 6, 189-205; ch. 7, 242-247; ch. 8, 281-287; ch. 9, 318-322; ch. 10, 382-385.
-
+	- [Lecture images]({% link courses/240/lectures/20_Pottery.html %})
 - Thursday, April 12
 	- Italy
 	- Amphoras, red-slip, etc.
@@ -253,6 +253,7 @@ title: Schedule
 	- Votives: *AC*: ch. 12, 216-218 "Votive offerings..."
 	- Wall-painting: *GAA*: ch. 9, 322-337
 	- Mosaics: *AC*: ch. 17, 280-282 "Floor mosaics"
+	- [Seriation](https://www.thoughtco.com/seriation-scientific-dating-before-radiocarbon-170607)
 
 #### Week 14
 ### Coins
