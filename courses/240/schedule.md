@@ -262,11 +262,13 @@ title: Schedule
 	- Coinage: *AC*: ch. 12, 217-218 "...coinage"; ch 16, 268 on the mint.
 	- Bursche, A. 2002. December 15. “Circulation of Roman Coinage in Northern Europe in Late Antiquity.” *Histoire & mesure* XVII 3/4 (December 15): 121–141. [doi:10.4000/histoiremesure.886](https://doi.org/10.4000/histoiremesure.886).
 	- Buttrey, T.V. 1972. “[Halved coins, the Augustan reform, and Horace, Odes I.3.](http://www.jstor.org/stable/503609)” *American Journal of Archaeology* 76 1: 31–48.
-
+	- [Lecture images]({% link courses/240/lectures/20_Coinage.html %})
+	- [Lecture images]({% link courses/240/lectures/21_Walls_and_Floors.html %})
 
 ### Student Presentations
 
 - Thursday, April 26
+    - Serena
 
 #### Week 15
 ### Student Presentations
