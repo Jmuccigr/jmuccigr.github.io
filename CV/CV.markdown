@@ -164,7 +164,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 |date|item|
 |:--|:--|
-2018 | "*Populus* as 'army' and the preservation of Roman legal language," AIA lecture program, Pennsylvania State University, April 14
+2018 | "*Populus* as 'army' and the preservation of Roman legal language," Pennsylvania State University, April 14
 2016 | "Recent work along the Flaminian Way," AIA lecture program, University of Alberta, March 10
 2012 | "Excavations at the *Vicus ad Martis* in Umbria," NJ Classical Association, October 13
 2010 | "New Excavations on the Flaminian Way: A Field School at the *Vicus ad Martis*," Fairfield College, March 17
