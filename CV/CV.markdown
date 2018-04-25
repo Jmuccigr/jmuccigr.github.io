@@ -1,7 +1,5 @@
 ---
-author: John Muccigrosso
 css: /Users/john_muccigrosso/Documents/github/local/css/clean_CV.css
-title: CV
 ...
 
 # John D. Muccigrosso
@@ -166,6 +164,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 |date|item|
 |:--|:--|
+2018 | "*Populus* as 'army' and the preservation of Roman legal language," AIA lecture program, Pennsylvania State University, April 14
 2016 | "Recent work along the Flaminian Way," AIA lecture program, University of Alberta, March 10
 2012 | "Excavations at the *Vicus ad Martis* in Umbria," NJ Classical Association, October 13
 2010 | "New Excavations on the Flaminian Way: A Field School at the *Vicus ad Martis*," Fairfield College, March 17
@@ -226,5 +225,5 @@ SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classic
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Monday, 5 February 2018.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Wednesday, 25 April 2018.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
