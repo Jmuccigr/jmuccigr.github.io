@@ -269,6 +269,14 @@ title: Schedule
 
 - Thursday, April 26
     - Serena
+    - Rae
+    - Molly
+    - Liv
+    - Katie
+    - Kass
+    - Josh
+    - Jason
+
 
 #### Week 15
 ### Student Presentations
