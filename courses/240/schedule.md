@@ -268,20 +268,25 @@ title: Schedule
 ### Student Presentations
 
 - Thursday, April 26
-    - Serena
-    - [Rae]({% link courses/240/presentations/Rae_coins.pptx %})
-    - Molly
-    - [Liv]({% link courses/240/presentations/Liv_Polychromy.pptx %})
-    - [Katie]({% link courses/240/presentations/Katie_cameo.pptx %})
-    - [Kass]({% link courses/240/presentations/Kass_GIS.pptx %})
-    - [Josh](https://docs.google.com/presentation/d/e/2PACX-1vTA6wAP5wbNfs3E92d_vID4wMsyOKZYNRzZ9wQDNxBxh5fPFPJntttinMsX5iRkdNr04_AKJMyZmPQi/pub?start=true&loop=true&delayms=60000&slide=id.p)
     - [Jason](https://docs.google.com/a/drew.edu/presentation/d/1ajhq4qhj03Su6Rrprg_KnM_YlZHR_5F7k3M8BXOX6Dc/edit?usp=drive_web)
+    - [Josh](https://docs.google.com/presentation/d/e/2PACX-1vTA6wAP5wbNfs3E92d_vID4wMsyOKZYNRzZ9wQDNxBxh5fPFPJntttinMsX5iRkdNr04_AKJMyZmPQi/pub?start=true&loop=true&delayms=60000&slide=id.p)
+    - [Kass]({% link courses/240/presentations/Kass_GIS.pptx %})
+    - [Katie]({% link courses/240/presentations/Katie_cameo.pptx %})
+    - [Liv]({% link courses/240/presentations/Liv_Polychromy.pptx %})
+    - [Rae]({% link courses/240/presentations/Rae_coins.pptx %})
+    - [Serena](https://docs.google.com/presentation/d/1X5e6INYd4K5sB-_DYp1CDts9Uw54oCO2iAktAHGg8J8/edit?usp=sharing_eip&ts=5ae223d6)
 
 
 #### Week 15
 ### Student Presentations
 
 - Tuesday, May 1
+    - Ava
+    - Chris
+    - Demi-Lee
+    - Lynette
+    - Molly
+    - Tayyaba
 
 <!--    - Modern Scholarship
         - Follow these [instructions](notes/The_CLI,_Zotero,_and_Pandoc.html) to get Zotero to export your library and install it on the server so pandoc can access it.
