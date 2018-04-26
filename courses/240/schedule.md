@@ -273,9 +273,9 @@ title: Schedule
     - Molly
     - [Liv]({% link courses/240/presentations/Liv_Polychromy.pptx %})
     - [Katie]({% link courses/240/presentations/Katie_cameo.pptx %})
-    - Kass
+    - [Kass]({% link courses/240/presentations/Kass_GIS.pptx %})
     - [Josh](https://docs.google.com/presentation/d/e/2PACX-1vTA6wAP5wbNfs3E92d_vID4wMsyOKZYNRzZ9wQDNxBxh5fPFPJntttinMsX5iRkdNr04_AKJMyZmPQi/pub?start=true&loop=true&delayms=60000&slide=id.p)
-    - Jason
+    - [Jason](https://docs.google.com/a/drew.edu/presentation/d/1ajhq4qhj03Su6Rrprg_KnM_YlZHR_5F7k3M8BXOX6Dc/edit?usp=drive_web)
 
 
 #### Week 15
