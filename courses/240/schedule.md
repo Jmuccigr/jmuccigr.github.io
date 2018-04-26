@@ -269,12 +269,12 @@ title: Schedule
 
 - Thursday, April 26
     - Serena
-    - Rae
+    - [Rae]({% link courses/240/presentations/Rae_coins.pptx %})
     - Molly
-    - Liv
-    - Katie
+    - [Liv]({% link courses/240/presentations/Liv_Polychromy.pptx %})
+    - [Katie]({% link courses/240/presentations/Katie_cameo.pptx %})
     - Kass
-    - Josh
+    - [Josh](https://docs.google.com/presentation/d/e/2PACX-1vTA6wAP5wbNfs3E92d_vID4wMsyOKZYNRzZ9wQDNxBxh5fPFPJntttinMsX5iRkdNr04_AKJMyZmPQi/pub?start=true&loop=true&delayms=60000&slide=id.p)
     - Jason
 
 
