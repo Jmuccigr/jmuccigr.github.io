@@ -283,10 +283,12 @@ title: Schedule
 - Tuesday, May 1
     - Ava
     - Chris
-    - Demi-Lee
+    - [Demi-Lee]({% link courses/240/presentations/Maritime.pptm %})
+    - [Kass]({% link courses/240/presentations/gis.pptx %})
+    - [Kevin]({% link courses/240/presentations/landscape_arch.pptx %})
     - Lynette
-    - Molly
-    - Tayyaba
+    - [Molly](https://docs.google.com/presentation/d/16u69kMHXiRbrqNOPAvLyF7eqj3EtzFTFO0HV2hzWtsU/edit?usp=sharing_eip&ts=5ae7ce5e)
+    - [Tayyaba](https://drive.google.com/file/d/1i30W4w8U-j-wrL_j9wBr78zpLpCJuS5h/view?usp=sharing_eip&ts=5ae87b86)
 
 <!--    - Modern Scholarship
         - Follow these [instructions](notes/The_CLI,_Zotero,_and_Pandoc.html) to get Zotero to export your library and install it on the server so pandoc can access it.
