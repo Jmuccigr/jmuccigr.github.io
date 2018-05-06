@@ -16,7 +16,7 @@ title: Welcome!
 
 Welcome to my homepage! It’s perpetually out of date, and I’ve stopped promising to fix that.
 
--   Join our archaeological dig in [Umbria](http://www.users.drew.edu/jmuccigr/vicusadmartis/)!
+-   See some of the publications from our archaeological dig in [Umbria](http://www.fastionline.org/excavation/micro_view.php?item_key=fst_cd&fst_cd=AIAC_1936)
 -   Peruse my [CV](/CV/CV.html)
 -   Read my [blog](blog/)
 -   Send me e-mail at &lt;[jmuccigr@drew.edu](mailto:jmuccigr@drew.edu?subject=Sent%20from%20your%20website)&gt;
@@ -48,7 +48,8 @@ Currently in the works:
 
 ## Computing
 
--   I am currently involved in a bunch of Digital Humanities stuff. Most of the software-type stuff lives on [GitHub](https://github.com/Jmuccigr), but not all:
+-   I am currently involved in a bunch of Digital Humanities stuff. Most of the software-type stuff lives on [GitHub](https://github.com/Jmuccigr/), but not all:
+    -   [Scripts](https://github.com/Jmuccigr/scripts/) (mostly for cleaning up old scans with ImageMagick)
     -   Some Mac OS X Services
         -   I made up a few Classics-related services. Install them in the Library/Services folder and then find them under the Services submenu in the currently running application’s menu:
             1.  [Convert diaereses](http://www.users.drew.edu/jmuccigr/services/ConverttoMacrons.service) into macrons (Unicode)
@@ -74,5 +75,5 @@ Currently in the works:
 
 ## Hobbies
 
--   Sunday & Monday Night Softball
+-   Sunday & Monday/Friday-Night Softball
 -   Workouts
