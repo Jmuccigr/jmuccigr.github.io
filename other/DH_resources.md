@@ -7,6 +7,7 @@ title: DH Resources
 
 - [Leaflet](https://leafletjs.com/) - a javascript mapping library
 - [geojson.io](http://geojson.io/) - map or edit geojson files
+- 
 
 ## Classics
 
@@ -21,3 +22,8 @@ title: DH Resources
 ## How-to
 
 - [Programming Historian](http://programminghistorian.org/) - novice-friendly, peer-reviewed tutorials
+
+## Scholarly things
+
+- [Orcid](https://orcid.org/)
+- [Zenodo](https://zenodo.org/)
