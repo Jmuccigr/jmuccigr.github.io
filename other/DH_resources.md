@@ -7,7 +7,7 @@ title: DH Resources
 
 - [Leaflet](https://leafletjs.com/) - a javascript mapping library
 - [geojson.io](http://geojson.io/) - map or edit geojson files
-- 
+- [Map Warper](https://mapwarper.net/)
 
 ## Classics
 
@@ -27,3 +27,4 @@ title: DH Resources
 
 - [Orcid](https://orcid.org/)
 - [Zenodo](https://zenodo.org/)
+- [Zotero](https://zotero.org/)
