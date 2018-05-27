@@ -2,7 +2,7 @@
 type: posts 
 title: Lead pollution in the ancient world
 author: John D. Muccigrosso
-date: Monday, 21 May 2018
+date: Sunday, 27 May 2018
 tags:
   - technology
   - archaeometry
