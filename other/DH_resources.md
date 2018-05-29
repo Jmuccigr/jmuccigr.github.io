@@ -25,6 +25,7 @@ title: DH Resources
 
 ### Rome and its empire
 
+- Luigi Canina's [1847 map of Rome](https://www.davidrumsey.com/luna/servlet/view/search/when/1847?q=canina&sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No) from Stanford
 - Images of Rome: [The Rodolfo Lanciani Digital Archive](https://exhibits.stanford.edu/lanciani#)
 - [Maps](http://awmc.unc.edu/wordpress/free-maps/the-romans-from-village-to-empire-2nd-edition-2011/) from the Ancient World Mapping Center
 
