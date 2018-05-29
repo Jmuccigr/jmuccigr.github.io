@@ -44,4 +44,7 @@ title: DH Resources
 
 ## Contributors
 
-Genesis Guedes
+- Genesis Guedes
+- Molly Thompson
+- Rae Brickey
+- Andrew Katapodis 
