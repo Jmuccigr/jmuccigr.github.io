@@ -44,5 +44,6 @@ title: DH Resources
 
 ## Contributors
 
-Rae Brickey
-Andrew Katapodis 
+- Molly Thompson
+- Rae Brickey
+- Andrew Katapodis 
