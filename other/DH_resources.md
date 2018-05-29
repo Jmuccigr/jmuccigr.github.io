@@ -45,3 +45,5 @@ title: DH Resources
 ## Contributors
 
 - Molly Thompson
+- Rae Brickey
+- Andrew Katapodis 
