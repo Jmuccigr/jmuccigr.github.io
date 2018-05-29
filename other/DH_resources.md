@@ -14,6 +14,10 @@ title: DH Resources
 - [Leaflet](https://leafletjs.com/) - a javascript mapping library
 - [Map Warper](https://mapwarper.net/)
 
+## Text Resources 
+
+- [Livy Book 1](http://mcadams.posc.mu.edu/txt/ah/Livy/Livy01.html)
+
 ## Classics
 
 - [Pleiades](http://pleiades.stoa.org) - Gazetteer of ancient places
