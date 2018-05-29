@@ -43,4 +43,6 @@ title: DH Resources
 - [Zotero](https://zotero.org/)
 
 ## Contributors
+
+Rae Brickey
 Andrew Katapodis 
