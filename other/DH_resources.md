@@ -43,3 +43,5 @@ title: DH Resources
 - [Zotero](https://zotero.org/)
 
 ## Contributors
+
+- Molly Thompson
