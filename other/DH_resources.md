@@ -43,3 +43,4 @@ title: DH Resources
 - [Zotero](https://zotero.org/)
 
 ## Contributors
+Andrew Katapodis 
