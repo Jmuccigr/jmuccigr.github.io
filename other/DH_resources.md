@@ -27,6 +27,7 @@ title: DH Resources
 ## How-to
 
 - [Programming Historian](http://programminghistorian.org/) - novice-friendly, peer-reviewed tutorials
+- (GitHub needed)
 
 ## Foundational stuff
 
