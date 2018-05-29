@@ -23,6 +23,10 @@ title: DH Resources
 - [Pleiades](http://pleiades.stoa.org) - Gazetteer of ancient places
 - [Rome Research Group](http://romeresearchgroup.org/database-of-temples/) - temple database
 
+### Rome
+
+- Images of Rome: [The Rodolfo Lanciani Digital Archive](https://exhibits.stanford.edu/lanciani#)
+
 ## Annotation
 
 - [Recogito](https://recogito.pelagios.org) - named-entity identification in texts
