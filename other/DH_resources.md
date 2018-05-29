@@ -41,3 +41,5 @@ title: DH Resources
 - [Orcid](https://orcid.org/)
 - [Zenodo](https://zenodo.org/)
 - [Zotero](https://zotero.org/)
+
+## Contributors
