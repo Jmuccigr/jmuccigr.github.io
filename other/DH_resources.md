@@ -23,9 +23,10 @@ title: DH Resources
 - [Pleiades](http://pleiades.stoa.org) - Gazetteer of ancient places
 - [Rome Research Group](http://romeresearchgroup.org/database-of-temples/) - temple database
 
-### Rome
+### Rome and its empire
 
 - Images of Rome: [The Rodolfo Lanciani Digital Archive](https://exhibits.stanford.edu/lanciani#)
+- [Maps](http://awmc.unc.edu/wordpress/free-maps/the-romans-from-village-to-empire-2nd-edition-2011/) from the Ancient World Mapping Center
 
 ## Annotation
 
