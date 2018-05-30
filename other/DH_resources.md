@@ -18,6 +18,10 @@ title: DH Resources
 
 - [Livy Book 1](http://mcadams.posc.mu.edu/txt/ah/Livy/Livy01.html)
 
+## Data cleaning
+
+- [OpenRefine](http://openrefine.org)
+
 ## Classics
 
 - [Pleiades](http://pleiades.stoa.org) - Gazetteer of ancient places
