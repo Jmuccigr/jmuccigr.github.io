@@ -17,7 +17,9 @@ title: DH Resources
 ## Text Resources 
 
 - [Livy Book 1](http://mcadams.posc.mu.edu/txt/ah/Livy/Livy01.html)
-- [Dionysius](http://scans.library.utoronto.ca/pdf/4/26/romanantiquities03dionuoft/romanantiquities03dionuoft.pdf)
+- Dionysius of Halicarnassus
+    - [PDF](http://scans.library.utoronto.ca/pdf/4/26/romanantiquities03dionuoft/romanantiquities03dionuoft.pdf)
+    - [text](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/home.html)
 
 ## Data cleaning
 
