@@ -13,6 +13,9 @@ title: DH Resources
     - [geojson.io](http://geojson.io/) - map or edit geojson files
 - [Leaflet](https://leafletjs.com/) - a javascript mapping library
 - [Map Warper](https://mapwarper.net/)
+- Presentation tools
+    - [Story Maps](https://storymaps.arcgis.com)
+    - [Timelines](https://schoolofdata.org/handbook/courses/timeline-tools/)
 
 ## Text Resources 
 
