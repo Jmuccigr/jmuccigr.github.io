@@ -11,6 +11,7 @@ title: DH Resources
     - A [video introduction](https://www.youtube.com/watch?v=8RPfrhzRw2s) (Details start at 5:20 or so.)
    - [More than you ever wanted to know about GeoJSON](https://macwright.org/2015/03/23/geojson-second-bite.html)
     - [geojson.io](http://geojson.io/) - map or edit geojson files
+        - [geojson.net](http://geojson.net/) - newer version
 - [Leaflet](https://leafletjs.com/) - a javascript mapping library
 - [Map Warper](https://mapwarper.net/)
 - Presentation tools
