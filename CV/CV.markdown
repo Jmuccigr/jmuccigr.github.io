@@ -8,10 +8,10 @@ css: /Users/john_muccigrosso/Documents/github/local/css/clean_CV.css
 
 |left|right|
 |:---|----:|
-Professor of Classics|[Drew University](http://www.drew.edu/)|
-|<jmuccigr@drew.edu>|[207 Brothers College](http://www.drew.edu/map/)|
-|<http://jmuccigr.github.io/>| Madison, NJ 07940 |
-|[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)|+1.973.408.3029|
+Provost, Vice President for Academic Affairs|[Holy Names University](http://www.hnu.edu/)|
+|<muccigrosso@hnu.edu>|8 Hester Administration Building|
+|<http://jmuccigr.github.io/>| Oakland, CA 94602 |
+|[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)|+1.510.436.1004|
 
 ### Education
 
@@ -25,19 +25,33 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 1986 (Spring) | [Intercollegiate Center for Classical Studies](https://globaled.duke.edu/Programs/Semester/ICCS_Rome), Rome
 1983 | [Regis High School](https://www.regis.org/)
 
-### Academic Employment, Drew University
+### Academic Employment
+
+#### Holy Names University
 
 |date|item|
 |:--|:--|
-1998–present | Chair, [Department of Classics](http://www.drew.edu/classics/?)  
+2018-2019 | Provost and Vice President of Academic Affairs
 
-- Fall 2015–present, 2005–2008 Chair
+#### Intercollegiate Center for Classical Studies
+
+|date|item|
+|:--|:--|
+2019-2020 | Professor in Charge
+
+#### Drew University
+
+|date|item|
+|:--|:--|
+1998–present | [Department of Classics](http://www.drew.edu/classics/?)  
+
+- Fall 2015–2018, 2005–2008 Chair
 - Fall 2000 Acting Chair
 - 2013 Full, 2004 Associate, 1998 Assistant
 
 |date|item|
 |:--|:--|
-2017–present | Co-Director, Mellon Digital Humanities Grant
+2017–2018 | Co-Director, Mellon Digital Humanities Grant
 2009–2014 | Associate Dean, [College of Liberal Arts](http://www.drew.edu/cla/cla-deans-office/)
 &nbsp; | *Budget & salary; retention; management of physical resources; scheduling; college IR; admissions outreach; special projects*
 2011–2014 | [Director of Institutional Research](http://www.drew.edu/InstitutionalResearch/)
@@ -49,10 +63,10 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 
 |date|item|
 |:--|:--|
-2016–present | Faculty Associate, Brown First-Year Residence Hall
-2016–present | Digital Humanities Working Group
-2015–present | Super-advisor to incoming students
-2015–present | Baldwin Honors Committee
+2016–2018 | Digital Humanities Working Group
+2015–2018 | Super-advisor to incoming students
+2016–2017 | Faculty Associate, Brown First-Year Residence Hall
+2015–2017 | Baldwin Honors Committee
 2006–2008 | Chair, Committee on Academic Policy and Curriculum
 2004–2005 | Mellon Foreign-Language Grant steering committee
 2000–2006 | College Space Committee (chair from 2004)
@@ -87,6 +101,7 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 
 |date|item|
 |:--|:--|
+2018 | Drew Digital Humanities Summer Institute faculty grant
 2011–2013 | NEH Institute for Advanced Topics in the Digital Humanities: Linked Ancient World Data Institute, Co-Principal Investigator
 2013, ‘07, ‘06, ‘04 | Summer Faculty Research/Development Grant
 2006 | Presidential Initiative Fund Grant
@@ -105,7 +120,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 ### Archaeological Experience
 
-<span class="item_standalone">Director: *Vicus Martis Tudertium* [Field School](http://users.drew.edu/jmuccigr/vicusadmartis/) (2008–present)
+<span class="item_standalone">Director: *Vicus Martis Tudertium* [Field School](http://users.drew.edu/jmuccigr/vicusadmartis/) (2008–2017)
 
 <span class="item_standalone">Supervisor:  [Paestum](http://pleiades.stoa.org/places/442733) (Italy, 1995, ‘97, ‘99)
 
@@ -118,7 +133,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 |date|item|
 |:--|:--|
-2018 (exp.) | Fide non ficta: *Essays in honor of Paul B. Harvey, jr.*, co-edited with Celia Schultz, from a conference (April 2018) 
+2019 (exp.) | Fide non ficta: *Essays in honor of Paul B. Harvey, jr.*, co-edited with Celia Schultz, from a conference (April 2018) 
 2016 | "The Apsidal building of the Vicus Martis Tudertium (PG)," with Sarah Harvey, Elena Lorenzetti, Jill A. Rhodes, and Stefano Spiganti *FOLD&R* [**366**](http://www.fastionline.org/docs/FOLDER-it-2016-366.pdf)
 2015 | "The 2011 Excavation Season at the Site of the Vicus Martis Tudertium (PG)," with Rangar Cline, Sarah Harvey, Elena Lorenzetti, and Stefano Spiganti *FOLD&R* [**327**](http://www.fastionline.org/docs/FOLDER-it-2015-327.pdf)
 &nbsp; | "A Speculative Note on the Golden Calf," self-published, [2015-06-10](https://figshare.com/articles/A_Speculative_Note_on_the_Golden_Calf/1444441).
@@ -225,5 +240,5 @@ SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classic
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Wednesday, 25 April 2018.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Thursday, 5 July 2018.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
