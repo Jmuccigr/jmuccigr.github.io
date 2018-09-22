@@ -160,7 +160,7 @@ As noted, I don't see either plague producing a major effect relative to their r
 
 ### Later
 
-> 18\. The first major recovery in lead emissions after the Antonine plague occurred ~750 CE, with resumption of early medieval mining in France, notably the Merovingian mine and mint at Melle, and in Britain around Wirksworth in Derbyshire. (p. 3, col. 1-2)
+> 19\. The first major recovery in lead emissions after the Antonine plague occurred ~750 CE, with resumption of early medieval mining in France, notably the Merovingian mine and mint at Melle, and in Britain around Wirksworth in Derbyshire. (p. 3, col. 1-2)
 
 It seems that "major recovery" excludes the sharp peak in the later 7th c. which goes not only unexplained, but uncommented on. (That neither of these sets of mines and mints is in Spain gets to a methodological issue...for next time.)
 
