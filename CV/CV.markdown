@@ -31,7 +31,7 @@ Provost, Vice President for Academic Affairs|[Holy Names University](http://www.
 
 |date|item|
 |:--|:--|
-2018-2019 | Provost and Vice President of Academic Affairs
+2018-2019 | Provost and Vice President of Academic Affairs (interim)
 
 #### Intercollegiate Center for Classical Studies
 
@@ -236,9 +236,9 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 ### Technology-Related Experience
 <span class="item_standalone">
-SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Web sites (now defunct): Papyrology, Ancient-Mediterranean list archives; computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998); Courseware developer, University of Michigan Classical Civilization program (1995)
+Leaflet; SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Web sites (now defunct): Papyrology, Ancient-Mediterranean list archives; computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998); Courseware developer, University of Michigan Classical Civilization program (1995)
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Thursday, 5 July 2018.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Sunday, 24 February 2019.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
