@@ -33,6 +33,9 @@ Provost, Vice President for Academic Affairs|[Holy Names University](http://www.
 |:--|:--|
 2018-2019 | Provost and Vice President of Academic Affairs (interim)
 
+- Direct reports: School Deans, Library, Registrar, Institutional Research, Center for Excellence in Teaching and Learning, Raskob Day School
+- Committees: Cabinet, Institutional Planning, Rank and Tenure, Faculty Development, Admissions, Data Governance, Board Committee on Academic Affairs
+
 #### Intercollegiate Center for Classical Studies
 
 |date|item|
@@ -43,7 +46,7 @@ Provost, Vice President for Academic Affairs|[Holy Names University](http://www.
 
 |date|item|
 |:--|:--|
-1998–present | [Department of Classics](http://www.drew.edu/classics/?)  
+1998–present | [Department of Classics](http://www.drew.edu/classics/?) (on leave)
 
 - Fall 2015–2018, 2005–2008 Chair
 - Fall 2000 Acting Chair
@@ -240,5 +243,5 @@ Leaflet; SQL queries of Ellucian's Banner database; Greek-Arch list manager; Dre
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Sunday, 24 February 2019.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 1 March 2019.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
