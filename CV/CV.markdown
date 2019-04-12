@@ -182,7 +182,8 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 |date|item|
 |:--|:--|
-2018 | "*Populus* as 'army' and the preservation of Roman legal language," Pennsylvania State University, April 14
+2018 | Keynote at opening ceremony of the Digital Liberal Arts Collaboratory, William Patterson University, December 6
+&nbsp; | "*Populus* as 'army' and the preservation of Roman legal language," Pennsylvania State University, April 14
 2016 | "Recent work along the Flaminian Way," AIA lecture program, University of Alberta, March 10
 2012 | "Excavations at the *Vicus ad Martis* in Umbria," NJ Classical Association, October 13
 2010 | "New Excavations on the Flaminian Way: A Field School at the *Vicus ad Martis*," Fairfield College, March 17
@@ -198,11 +199,11 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 |date|item|
 |:--|:--|
 2018 | "[A New Database of Roman Temples](doi://10.6084/m9.figshare.5856519)," a lightning talk at NYCDH Week 2018
-&nbsp;  | "The Northern Roman-Period Burial Area at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey
+&nbsp; | "The Northern Roman-Period Burial Area at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey
 2017 | Introduction to "Digital Approaches to Latin Vocabulary Learning," Classical Association of the Atlantic States, Fall meeting, organized session with Dr. Patrick Burns
-&nbsp;  | "Rome Research Project: Students and Digital Faculty Research," OLC Collaborate with Emerging Learning Design, with Dr. Louis Hamilton
-&nbsp;  | "[Developing an On-line Database of Roman Temples](https://doi.org/10.6084/m9.figshare.4765129),"  poster, CAA
-&nbsp;  | "[A New On-line Database of Roman Temples](https://dx.doi.org/10.6084/m9.figshare.4536260),"  poster, AIA
+&nbsp; | "Rome Research Project: Students and Digital Faculty Research," OLC Collaborate with Emerging Learning Design, with Dr. Louis Hamilton
+&nbsp; | "[Developing an On-line Database of Roman Temples](https://doi.org/10.6084/m9.figshare.4765129),"  poster, CAA
+&nbsp; | "[A New On-line Database of Roman Temples](https://dx.doi.org/10.6084/m9.figshare.4536260),"  poster, AIA
 2016 | "A Database of Roman Temples," at the NYU Institute for the Study of the Ancient World's LAWDNY 2016 Digital Antiquity Research Workshop
 &nbsp; | "The Late Antique/Early Medieval Cemetery at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill A. Rhodes
 2015 | "Seventh Season of Excavation at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey and Dr. Jill A. Rhodes
