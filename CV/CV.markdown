@@ -22,7 +22,7 @@ Provost, Vice President for Academic Affairs|[Holy Names University](http://www.
 1990–1993 | University of Minnesota, Center for Ancient Studies
 1990 | [Massachusetts Institute of Technology](http://chemistry.mit.edu/), M.S., chemistry
 1987 | [Amherst College](https://www.amherst.edu/), B.A., ΦΒΚ, [classics](https://www.amherst.edu/academiclife/departments/classics/) and [chemistry](https://www.amherst.edu/academiclife/departments/chemistry/)
-1986 (Spring) | [Intercollegiate Center for Classical Studies](https://globaled.duke.edu/Programs/Semester/ICCS_Rome), Rome
+1986 (Spring) | [Intercollegiate Center for Classical Studies](http://iccsnews.com/), Rome
 1983 | [Regis High School](https://www.regis.org/)
 
 ### Academic Employment
