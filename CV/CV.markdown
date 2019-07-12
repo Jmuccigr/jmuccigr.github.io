@@ -8,10 +8,10 @@ css: /Users/john_muccigrosso/Documents/github/local/css/clean_CV.css
 
 |left|right|
 |:---|----:|
-Provost, Vice President for Academic Affairs|[Holy Names University](http://www.hnu.edu/)|
-|<muccigrosso@hnu.edu>|8 Hester Administration Building|
-|<http://jmuccigr.github.io/>| Oakland, CA 94602 |
-|[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)|+1.510.436.1004|
+Professor of Classics|[Drew University](http://www.drew.edu/)|
+|<jmuccigr@drew.edu>|[207 Brothers College](http://www.drew.edu/map/)|
+|<http://jmuccigr.github.io/>| Madison, NJ 07940 |
+|[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)|+1.973.408.3029|
 
 ### Education
 
@@ -27,6 +27,12 @@ Provost, Vice President for Academic Affairs|[Holy Names University](http://www.
 
 ### Academic Employment
 
+#### Intercollegiate Center for Classical Studies
+
+|date|item|
+|:--|:--|
+2019-2020 | [Professor in Charge](https://globaled.duke.edu/programs/rome_ICCS)
+
 #### Holy Names University
 
 |date|item|
@@ -35,12 +41,6 @@ Provost, Vice President for Academic Affairs|[Holy Names University](http://www.
 
 - Direct reports: School Deans, Library, Registrar, Institutional Research, Center for Excellence in Teaching and Learning, Raskob Day School
 - Committees: Cabinet, Institutional Planning, Rank and Tenure, Faculty Development, Admissions, Data Governance, Board Committee on Academic Affairs
-
-#### Intercollegiate Center for Classical Studies
-
-|date|item|
-|:--|:--|
-2019-2020 | Professor in Charge
 
 #### Drew University
 
@@ -160,7 +160,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 |date|item|
 |:--|:--|
-2015 | Filippo Canali De Rossi *Le relazioni diplomatiche di Roma, Volume IV. Dalla 'liberazione della Grecia' alla pace infida con Antioco III (201–194 a. C.).*, *BMCR* [2015.03.47](http://bmcr.brynmawr.edu/2015/2015-03-47.html)
+2015 | Filippo Canali De Rossi *Le relazioni diplomatiche di Roma, Volume IV. Dalla 'liberazione della Grecia' alla pace infida con Antioco III (201–194 a. C.)*, *BMCR* [2015.03.47](http://bmcr.brynmawr.edu/2015/2015-03-47.html)
 2014 | Massimiliano Di Fazio *Feronia: spazi e tempi di una dea dell'Italia centrale antica*, *BMCR* [2014.10.25](http://bmcr.brynmawr.edu/2014/2014-10-25.html)
 2013 | Michael L. Thomas, Gretchen E. Meyers, Ingrid E. M. Edlund-Berry, ed. *Monumentality in Etruscan and Early Roman Architecture: Ideology and Innovation*, *BMCR* [2013.03.11](http://bmcr.brynmawr.edu/2013/2013-03-11.html)
 2012 | Ramsey MacMullen, *The Earliest Romans: a character sketch*, *BMCR* [2012.02.10](http://bmcr.brynmawr.edu/2012/2012-02-10.html)
@@ -244,5 +244,5 @@ Leaflet; SQL queries of Ellucian's Banner database; Greek-Arch list manager; Dre
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 12 April 2019.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 12 July 2019.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
