@@ -1,14 +1,14 @@
 ---
-type: posts 
-title: Exposure Fusion for better on-site photos 
-date: '2016-06-29T16:49:00.003-04:00' 
-author: John D. Muccigrosso 
+type: posts
+title: Exposure Fusion for better on-site photos
+date: '2016-06-29T16:49:00.003-04:00'
+author: John D. Muccigrosso
 tags:
 - archaeology
-- technology 
-modified_time: '2016-06-29T16:50:24.463-04:00' 
-thumbnail: /images/100_5084.JPG 
-blogger_id: 
+- technology
+modified_time: '2016-06-29T16:50:24.463-04:00'
+thumbnail: /images/100_5084.JPG
+blogger_id:
 tag:blogger.com,1999:blog-1655741187746617571.post-1872560984768356572 blogger_orig_url: http://de-vita-sua.blogspot.com/2016/06/exposure-fusion-for-better-on-site.html
 ---
 
@@ -162,7 +162,7 @@ You can see the the darkest image now has no pixels anywhere near the maximum br
 <h3 id="fusing-the-images">
 	Fusing the images
 </h3>
-Now that I have the images, they need to be combined. There are some commercial and free software applications out there that can do this for you. I use a free one, <a href="http://hugin.sourceforge.net/">Hugin</a>. (I've written about using Hugin <a href="{{ site.baseurl }}{% post_url 2014-07-30-photo-fun-using-hugin %}" target="_blank">before</a>.) Hugin is designed to be a panorama maker, but making those requires a number of steps, including ones that do what we want here. While you can actually load up your photos into Hugin and use its graphical interface to do this (<a href="https://sites.google.com/site/alistargazing/home/image-processing/hugin-tutorial-enfuse-only">here's a tutorial</a>), I'm going to break out the command line and directly access the underlying software goodness.<br />
+Now that I have the images, they need to be combined. There are some commercial and free software applications out there that can do this for you. I use a free one, <a href="http://hugin.sourceforge.net/">Hugin</a>. (I've written about using Hugin <a href="{% post_url 2014-07-30-photo-fun-using-hugin %}" target="_blank">before</a>.) Hugin is designed to be a panorama maker, but making those requires a number of steps, including ones that do what we want here. While you can actually load up your photos into Hugin and use its graphical interface to do this (<a href="https://sites.google.com/site/alistargazing/home/image-processing/hugin-tutorial-enfuse-only">here's a tutorial</a>), I'm going to break out the command line and directly access the underlying software goodness.<br />
 <br />
 There are two applications to use from the command line. The first aligns the images and the second does the exposure fusion. Since I used a tripod, that first app really shouldn't have much to do, but I want to make sure that there are no problems with alignment, so I'm going to run it anyway. The app is rather straightforwardly called <code>align_image_stack</code>, and I use it with the <code>-a</code> option that tells it to align the images and save them to a series of similarly named tiff files. Once that's done, I use <code>enfuse</code> to do the fusing. Normally both processes take only a few minutes on my aging laptop. (As usual both applications can accept other parameters that modify how they work; I'm just keeping it simple here. RTFM for those details: <a href="http://wiki.panotools.org/Enfuse">enfuse</a> and <a href="http://wiki.panotools.org/Align_image_stack">align_image_stack</a>.) The exact commands (on my Mac) are (and ignore the leading numbers):<br />
 <br />
@@ -223,4 +223,4 @@ But exposure fusion doesn't involve the creation of an HDR image with the subseq
 </h2>
 So there you go. Next time you've got a scene with a very high dynamic range (which usually means some shadow on a sunny day) that you can't fix by other means, break out the tripod and your camera's bracketing mode and do some exposure fusion.<br />
 <br />
-There's also a lot of information out there about this and other post-processing techniques (like HDR) that can improve your photos. You'll find that similar fusion techniques can be used for combining series of images with other variants, like creating large depths of field. 
+There's also a lot of information out there about this and other post-processing techniques (like HDR) that can improve your photos. You'll find that similar fusion techniques can be used for combining series of images with other variants, like creating large depths of field.
