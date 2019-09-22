@@ -156,7 +156,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 1989 | "Benzylhydrazine as a pseudo-substrate of bovine serum amine oxidase," with L. Morpurgo *et al*, [*Biochem. J.* **260**, 19–25](http://www.biochemj.org/bj/260/bj2600019.htm)
 1988 | "Amine oxidases as biological regulators," with E. Agostinelli, *et al.*,  in *Perspectives in polyamine research*, p. 11-15, A. Perin, *et al.*, ed., Wichtig Editore, Milan
 
-#### Reviews
+#### Reviews {.page-break}
 
 |date|item|
 |:--|:--|

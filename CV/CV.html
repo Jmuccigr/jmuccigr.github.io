@@ -195,9 +195,12 @@ margin-top: 25pt;
 text-align: center;
 color: red;
 }
-@media print
-{
+@media print {
 
+.page-break {
+display: block;
+page-break-before: always;
+}
 h1 {
 margin-top: 0cm;
 }
@@ -205,10 +208,11 @@ h3 {
 break-after: avoid;
 }
 h4 {
-break-before: avoid;
+break-after: avoid;
 }
 tr {
-page-break-inside: avoid; }
+page-break-inside: avoid;
+}
 table:last-of-type {
 
 display: none;
@@ -226,11 +230,11 @@ body {
 background-color: white;
 
 font-size: 115%;
-display:table;
-table-layout:fixed;
+display: table;
+table-layout: fixed;
 padding-top: 0;
 padding-bottom: 0;
-height:auto;
+height: auto;
 }
 }</style>
   <!--[if lt IE 9]>
@@ -663,7 +667,7 @@ height:auto;
 </tr>
 </tbody>
 </table>
-<h4 id="reviews">Reviews</h4>
+<h4 id="reviews" class="page-break">Reviews</h4>
 <table>
 <thead>
 <tr class="header">
