@@ -20,7 +20,7 @@ Welcome to my homepage! It’s perpetually out of date, and I’ve stopped promi
 -   Peruse my [CV](/CV/CV.html)
 -   Read my [blog](blog/)
 -   Send me e-mail at &lt;[jmuccigr@drew.edu](mailto:jmuccigr@drew.edu?subject=Sent%20from%20your%20website)&gt;
--   Follow me on Twitter: [JD\_PhD](https://twitter.com/JD_PhD)
+-   Follow me on Twitter: [jdmuccigrosso](https://twitter.com/jdmuccigrosso)
 -   See my work on [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)
 -   See my stuff on [GitHub](https://github.com/jmuccigr/)
 -   [ORCID](https://orcid.org/0000-0002-9877-1043), [VIAF](https://viaf.org/viaf/309849093/)
