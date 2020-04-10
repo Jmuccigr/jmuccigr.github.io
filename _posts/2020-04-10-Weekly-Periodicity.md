@@ -14,7 +14,7 @@ Some have noticed that several nations' data show a strong dependence on the day
 
 > [@crick247](https://twitter.com/Crick247/status/1247193242279559174): Two mondays in a row that death numbers drop by over 30% (perhaps due to registry office closed for weekend). Usual seen a sharp spike in numbers on Tuesdays. Is there one coming tomorrow? ![](https://pbs.twimg.com/media/EU7rpD2WAAAUb2i?format=jpg&name=small)
 
-Then John Burn Murdoch (who's doing some great COVID-19 graphics for the Financial Times) [noted it](https://twitter.com/jburnmurdoch/status/1247681939575910402) for the US, and that's where I picked it up. Later that night as I was looking at the latest Italy data, it occurred to me that the same thing, the "Tuesday Effect" is happening here.
+Then John Burn Murdoch (who's doing some great COVID-19 graphics for the Financial Times) [noted it](https://twitter.com/jburnmurdoch/status/1247681939575910402) for the US, and that's where I picked it up. Later that night as I was looking at the latest Italy data, it occurred to me that the same thing, the "Tuesday Effect," is happening here.
 
 ## Italy
 
@@ -22,19 +22,19 @@ The overall trend in COVID-19 here seems to be in decline, but we've had a coupl
 
 ![1. New daily cases in Italy](../../../../../images/Italy_daily_cases.png)
 
-Lots of ups and downs, but the smoothing function seems reasonable: we're over the hump. But looking at those humps with the "Tuesday Effect" in mind, they looked fairly regular, occurring over at least the past 4 weeks. Here's the same data with nice orange lines every Tuesday (and no distracting smoothing curve):
+Lots of ups and downs, but the smoothing function seems reasonable: we're over the hump. But looking at those little bumps with the "Tuesday Effect" in mind, they looked fairly regular, occurring over at least the past 4 weeks. Here's the same data with nice orange lines every Tuesday (and no distracting smoothing curve):
 
 ![2. New daily cases in Italy](../../../../../images/Italy_daily_cases_tuesday.png)
 
 That's looks pretty periodic to me. Not perfect, but lows coming early in the week on Tuesday and Wednesday, followed by highs on the weekends. So, why? Well, I'm not sure exactly, but like @crick247, I suspected it had something to do with work schedules or avoidance/difficulty of Sunday visits to the hospital. Add in a reporting delay, and you get early-week lows and late-week highs. But it occurred to me that of course you can't find any new cases if you don't test for them, so how do tests look? Are they periodic as well?
 
-Italy has been testing at a fairly reasonable rate, hitting about 30k people a day for a while, or about 500 people per million. That's no South Korea, but it's a lot better than the US,[^US_data] which is finally getting to about 80% of that, though Italy has recently upped their daily testing to over 40k. (Italy's cumulative tests are at 1.4% of their population; US at about half that.) Here's the same kind of chart as above for daily testing counts.
+Italy has been testing at a fairly reasonable rate, hitting about 30k a day for a while, or about 500 per million people. That's no South Korea, but it's a lot better than the US,[^US_data] which is finally getting to about 80% of that, though Italy has recently upped their daily testing to over 40k. (Italy's cumulative tests are at 1.4% of their population; US at about half that.) Here's the same kind of chart as above for daily testing counts.
 
-[^US_data]: I'm using the [COVID-19 Tracking project](https://covidtracking.com) for my US data. The New York Times has their own dataset and CNN releases figures, too. They all differ by a bit.
+[^US_data]: I'm using the [COVID-19 Tracking project](https://covidtracking.com) for my US data. The New York Times has [their own dataset](https://github.com/nytimes/covid-19-data) and CNN releases figures, too. They all differ by a bit.
 
 ![3. New daily cases in Italy](../../../../../images/Italy_daily_tests_tuesday.png)
 
-Once again those humps look pretty periodic, spiking late in the week and bottoming out early, Monday more than Tuesday. So it's seem reasonable to think that the swings in testing are leading to the swings in cases and the whole "Tuesday Effect" in Italy.
+Once again those little bumps look pretty periodic, spiking late in the week and bottoming out early, Monday more than Tuesday. So it's seem reasonable to think that the swings in testing are leading to the swings in cases and the whole "Tuesday Effect" in Italy.
 
 One more chart.
 
@@ -44,7 +44,7 @@ I tried to subtract a baseline for each of the curves above, so that the effect 
 
 Three things to note:
 
-- For the case data, the two weeks furthest off the main peak now have Tuesdays at their weekly minima, so it looks like the effect goes back five weeks and "Tuesday Effect" is a good name. :-) (I'd argue that you can even see the late-week rise in the week starting 25 Feb.)
+- For the case data, two more weeks off the main peak now have Tuesdays at their weekly minima, so it looks like the effect goes back five weeks and "Tuesday Effect" is a good name. :-) (I'd argue that you can even see the late-week rise in the week starting 25 Feb.)
 - There's better correspondence between the test and the case data. It's far from a linear relationship, as Italy has been ramping up tests as the virus has continued to spread and the various measures have dampened its growth. So the test curve is basically rising steadily, while the case curve has—thankfully—peaked and is descending now.
 - In the US & UK, the Tuesday effect results in **higher** numbers, but in Italy the numbers are lower. ("Reverse Tuesday Effect"?)
 - The original observation was made about the number of deaths, but deaths in Italy don't seem to show much periodicity. There's maybe a tendency lately to have a weekly increase on Friday or Saturday, but it hasn't been present throughout. Here's the un-adjusted chart. You can see that it's very variable and shows no strong periodicity.
@@ -62,3 +62,5 @@ I don't want to get into the prediction game here, and this isn't the kind of an
 - Italy is a big country and the situation in Lombardy is very different from that in Lazio and other more southern regions. This analysis has ignored those differences, but something more in-depth shouldn't (though I'll note that you get many fewer data points that way, too). I suspect the testing reliance on day of the week doesn't vary on region, but behavior may and it is already clear that the national trend is dominated by those northern regions that have so many more cases than the rest.
 
 If I get adventurous, I may put something down on "paper" about the woeful state of US testing, but for now, "basta cosi."
+
+> April 10, 2020: I've made minor changes to the language of this post and added a link to the NYT database on GitHub.
