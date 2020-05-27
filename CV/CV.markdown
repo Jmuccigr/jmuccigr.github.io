@@ -136,10 +136,11 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 |date|item|
 |:--|:--|
-2019 (exp.) | Fide non ficta: *Essays in honor of Paul B. Harvey, jr.*, co-edited with Celia Schultz, from a conference (April 2018) 
+2020 | Fide non ficta. *Essays in honor of Paul B. Harvey, jr.*, co-edited with Celia Schultz, from a conference (April 2018)
+&nbsp; | "*Populus* as army and the preservation of Roman legal language," in Fide non ficta. *Essays in Honor of Paul B. Harvey, Jr.*, 13–32. Spirito: Casa Editrice Edipuglia
 2016 | "The Apsidal building of the Vicus Martis Tudertium (PG)," with Sarah Harvey, Elena Lorenzetti, Jill A. Rhodes, and Stefano Spiganti *FOLD&R* [**366**](http://www.fastionline.org/docs/FOLDER-it-2016-366.pdf)
 2015 | "The 2011 Excavation Season at the Site of the Vicus Martis Tudertium (PG)," with Rangar Cline, Sarah Harvey, Elena Lorenzetti, and Stefano Spiganti *FOLD&R* [**327**](http://www.fastionline.org/docs/FOLDER-it-2015-327.pdf)
-&nbsp; | "A Speculative Note on the Golden Calf," self-published, [2015-06-10](https://figshare.com/articles/A_Speculative_Note_on_the_Golden_Calf/1444441).
+&nbsp; | "A Speculative Note on the Golden Calf," self-published, [2015-06-10](https://figshare.com/articles/A_Speculative_Note_on_the_Golden_Calf/1444441)
 2014 | *Current Practice in Linked Open Data for the Ancient World*, issue ed., with Thomas Elliott and Sebastian Heath, *ISAW Papers* [**7**](http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/)
 2012 | "Re-Interpreting the Robinson Skyphos," *SHT* [**13**.A.1, 1–15](http://sht.ut.ee/index.php/sht/article/view/13.A.1)  
 &nbsp; | "Report on the Linked Ancient World Data Institute," with Thomas Elliott and Sebastian Heath, *ISQ* [**24**, 2–3](http://www.niso.org/apps/group_public/download.php/9404/CR_Elliott-etal_LAWDI_isqv24no2-3.pdf), Spring/Summer
@@ -239,6 +240,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 "[Factional Competition and Monumental Construction in Mid-Republican Rome](https://dx.doi.org/10.6084/m9.figshare.763319)," D. S. Potter, advisor
 
 ### Technology-Related Experience
+
 <span class="item_standalone">
 Leaflet; SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Web sites (now defunct): Papyrology, Ancient-Mediterranean list archives; computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998); Courseware developer, University of Michigan Classical Civilization program (1995)
 
