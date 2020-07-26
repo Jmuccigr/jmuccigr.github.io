@@ -8,7 +8,7 @@ css: /Users/john_muccigrosso/Documents/github/local/css/clean_CV.css
 
 |left|right|
 |:---|----:|
-Professor of Classics|[Drew University](http://www.drew.edu/)|
+Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.drew.edu/)|
 |<jmuccigr@drew.edu>|[207 Brothers College](http://www.drew.edu/map/)|
 |<http://jmuccigr.github.io/>| Madison, NJ 07940 |
 |[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)|+1.973.408.3029|
@@ -27,7 +27,28 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 
 ### Academic Employment
 
-#### Intercollegiate Center for Classical Studies
+#### Drew University
+
+|date|item|
+|:--|:--|
+1998–present | [Department of Classics](http://www.drew.edu/classics/?) (on leave)
+
+- Fall 2015–2018, 2005–2008 Chair
+- Fall 2000 Acting Chair
+- 2013 Full, 2004 Associate, 1998 Assistant
+
+|date|item|
+|:--|:--|
+2020-present | Director of Baldwin Honors
+2017–2018 | Co-Director, Mellon Digital Humanities Grant
+2009–2014 | Associate Dean, [College of Liberal Arts](http://www.drew.edu/cla/cla-deans-office/)
+&nbsp; | *Budget & salary; retention; management of physical resources; scheduling; college IR; admissions outreach; special projects*
+2011–2014 | [Director of Institutional Research](http://www.drew.edu/InstitutionalResearch/)
+&nbsp; | *Internal & external reporting; survey administration; retention analysis; budget-preparation assistance*
+
+[comment]: # ( ### Responsibilities RETURN <span class="item_standalone">Director of Institutional Research: Internal & external reporting, survey administration, retention analysis, budget-preparation assistance RETURN <span class="item_standalone">Associate Dean: Budget & salary, retention, management of physical resources, scheduling, college IR, admissions outreach, special projects)
+
+#### Intercollegiate Center for Classical Studies, Rome
 
 |date|item|
 |:--|:--|
@@ -41,26 +62,6 @@ Professor of Classics|[Drew University](http://www.drew.edu/)|
 
 - Direct reports: School Deans, Library, Registrar, Institutional Research, Center for Excellence in Teaching and Learning, Raskob Day School
 - Committees: Cabinet, Institutional Planning, Rank and Tenure, Faculty Development, Admissions, Data Governance, Board Committee on Academic Affairs
-
-#### Drew University
-
-|date|item|
-|:--|:--|
-1998–present | [Department of Classics](http://www.drew.edu/classics/?) (on leave)
-
-- Fall 2015–2018, 2005–2008 Chair
-- Fall 2000 Acting Chair
-- 2013 Full, 2004 Associate, 1998 Assistant
-
-|date|item|
-|:--|:--|
-2017–2018 | Co-Director, Mellon Digital Humanities Grant
-2009–2014 | Associate Dean, [College of Liberal Arts](http://www.drew.edu/cla/cla-deans-office/)
-&nbsp; | *Budget & salary; retention; management of physical resources; scheduling; college IR; admissions outreach; special projects*
-2011–2014 | [Director of Institutional Research](http://www.drew.edu/InstitutionalResearch/)
-&nbsp; | *Internal & external reporting; survey administration; retention analysis; budget-preparation assistance*
-
-[comment]: # ( ### Responsibilities RETURN <span class="item_standalone">Director of Institutional Research: Internal & external reporting, survey administration, retention analysis, budget-preparation assistance RETURN <span class="item_standalone">Associate Dean: Budget & salary, retention, management of physical resources, scheduling, college IR, admissions outreach, special projects)
 
 ### Faculty Service
 
