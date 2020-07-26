@@ -31,7 +31,7 @@ Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.
 
 |date|item|
 |:--|:--|
-1998–present | [Department of Classics](http://www.drew.edu/classics/?) (on leave)
+1998–present | [Department of Classics](http://www.drew.edu/classics/?)
 
 - Fall 2015–2018, 2005–2008 Chair
 - Fall 2000 Acting Chair
