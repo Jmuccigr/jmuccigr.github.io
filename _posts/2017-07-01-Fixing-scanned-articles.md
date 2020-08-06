@@ -5,7 +5,7 @@ date: 2017-12-03
 author: John D. Muccigrosso 
 tags:
   - technology
-  - CLI
+  - cli
 published: true
 ---
 
