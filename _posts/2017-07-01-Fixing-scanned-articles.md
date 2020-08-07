@@ -6,6 +6,10 @@ author: John D. Muccigrosso
 tags:
   - technology
   - cli
+  - pdf
+  - poppler
+  - pdftk
+  - scanning
 published: true
 ---
 
