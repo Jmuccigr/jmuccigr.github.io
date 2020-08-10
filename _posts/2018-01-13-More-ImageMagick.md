@@ -28,7 +28,7 @@ The shift scripts also have a second mode, activated by holding down the option 
 
 I've updated the zip file of a folder containing the scripts as applications.
 
-![Contents of the zip file.](../../../../../images/trim_apps_2.png)
+![Contents of the zip file.](/images/trim_apps_2.png)
 
 ## The Future
 

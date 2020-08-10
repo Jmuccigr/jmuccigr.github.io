@@ -110,13 +110,13 @@ Here's a demonstration with imagemagick's built-in image of a rose:
 magick rose: rose: rose: -append toptobottomroses.png
 ```
 
-![top to bottom roses](../../../../../images/toptobottomroses.png)
+![top to bottom roses](/images/toptobottomroses.png)
 
 ```
 magick piece-*.png +append lefttorightroses.png
 ```
 
-![left to right roses](../../../../../images/lefttorightroses.png)
+![left to right roses](/images/lefttorightroses.png)
 
 You're likely going to need to edit the resulting image because it will be the entire page, not just the image you want.
 

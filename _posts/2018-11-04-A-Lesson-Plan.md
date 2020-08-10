@@ -36,7 +36,7 @@ The database can be viewed on [a lovely map](http://romeresearchgroup.org/mappin
 
 Next we want to view the locations of the temples using markers with different colors to indicate the different kinds of deities the temples were dedicated to (using "deity" somewhat flexibly here). Use the drop-down menu at the upper left to select "type of deity". That should get you a map with a bunch of prettily colored markers, like the one in the figure.
 
-![Temples in Rome, colored by type of deity](../../../../../images/temples_in_Rome.jpg)
+![Temples in Rome, colored by type of deity](/images/temples_in_Rome.jpg)
 
 Finally use the menus at the bottom of the screen to look at the data one century at a time. To do this, choose "century" in the first menu, then put numbers into the related text box, starting with -6 (for 6th c. BCE) and ending with some small positive number.
 

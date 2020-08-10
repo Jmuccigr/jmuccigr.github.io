@@ -25,6 +25,6 @@ The scripts still have that second mode that makes them more aggressive, activat
 
 I've updated the zip file of a folder containing the scripts as applications. It still looks the same.
 
-![Contents of the zip file.](../../../../../images/trim_apps_2.png)
+![Contents of the zip file.](/images/trim_apps_2.png)
 
 Naturally let me know if something's not working.
