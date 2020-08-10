@@ -8,7 +8,7 @@ title: Tags
     {{ tag[0] }}
   {% endfor %}
 {% endcapture %}
-{% assign sortedtags = tags | split:' ' | sort %}
+{% assign sortedtags = tags | split:' ' | sort_natural %}
 
 {% for tag in sortedtags %}
   <h3 id="{{ tag }}">{{ tag }}</h3>
