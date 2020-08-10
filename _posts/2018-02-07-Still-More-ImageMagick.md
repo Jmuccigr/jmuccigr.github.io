@@ -5,10 +5,11 @@ author: John D. Muccigrosso
 date: 7 February 2018
 published: true
 tags:
-  - technology
+  - AppleScript
+  - cli
   - imagemagick
   - scanning
-  - cli
+  - technology
 ---
 
 Following up on [my previous follow-up]({% post_url 2018-01-13-More-ImageMagick %}), I've tweaked the ImageMagick applescripts that shift images so that they can **erase** a strip. As usual these are all posted in [my github repository](https://github.com/Jmuccigr/AppleScripts/tree/master/ImageMagick).

@@ -5,11 +5,12 @@ author: John D. Muccigrosso
 date: 16 October 2017
 published: true
 tags:
-  - technology
-  - imagemagick
-  - scanning
-  - pdf
+  - AppleScript
   - cli
+  - imagemagick
+  - pdf
+  - scanning
+  - technology
 ---
 
 I've been playing a lot (OK, too much) with [ImageMagick](https://imagemagick.org/) lately. It's a powerful command-line utility for manipulating pixel-based images. There are also libraries for your favorite programming language (like Python), too.

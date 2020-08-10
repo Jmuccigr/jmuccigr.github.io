@@ -3,13 +3,16 @@ title: Getting images out of PDF files
 author: John D. Muccigrosso
 date: Friday, 7 August 2020
 tags: 
-    - pdf
-    - imagemagick
+    - AppleScript
     - cli
+    - imagemagick
+    - pdf
     - poppler
     - scanning
     - technology
 ---
+
+> Note: This now has a companion piece on [getting images out of Office docs]({% link _posts/2020-08-10-image-from-Office.md %}).
 
 I spent a lot of time this past academic year getting scanned images out of other people's PDF files. So much so that I wrote a few scripts to do it with a minimum of active intervention on my part. This post describes PDFs and a few of those scripts I wrote. It uses the command line a bit.
 

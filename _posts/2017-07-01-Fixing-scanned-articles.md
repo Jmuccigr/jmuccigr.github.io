@@ -4,6 +4,7 @@ title: Fixing scanned articles
 date: 2017-12-03
 author: John D. Muccigrosso 
 tags:
+  - AppleScript
   - technology
   - cli
   - pdf

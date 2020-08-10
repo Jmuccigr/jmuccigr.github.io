@@ -5,10 +5,11 @@ author: John D. Muccigrosso
 date: 13 January 2018
 published: true
 tags:
-  - technology
+  - AppleScript
+  - cli
   - imagemagick
   - scanning
-  - cli
+  - technology
 ---
 
 Following up on [my previous post]({% post_url 2017-10-16-ImageMagick %}) I've tweaked my existing ImageMagick applescripts and also added some new ones. As usual these are all posted in [my github repository](https://github.com/Jmuccigr/AppleScripts/tree/master/ImageMagick).
