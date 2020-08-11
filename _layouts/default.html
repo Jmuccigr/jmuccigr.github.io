@@ -40,7 +40,6 @@
   <body onload="setModifiedDate(); setAccessedDate();">
     <div class="wrapper">
       <header>
-<div id="last-modified"></div>
 	  {% if page.layout == "post" %}
         {{ site.blog_description_open }}{{ site.blog_title}}{{ site.blog_description_close }}
 		  {% else %}
@@ -74,7 +73,8 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>
+        <div id="last-modified"></div></small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
