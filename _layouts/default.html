@@ -13,6 +13,14 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 <script>
+    function setAccessedDate() {
+      if (document.getElementById('accessed-on')) {
+        var now = new Date();
+        var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+        var formattedDate = now.getDate().padStart(2,'0')+" "+months[now.getMonth()]+" "+now.getFullYear();
+        document.getElementById('accessed-on').textContent = " (accessed " + formattedDate + ")";
+      }
+    }
     function setModifiedDate() {
       if (document.getElementById('last-modified')) {
         fetch("https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path={{ page.path }}")
@@ -29,9 +37,10 @@
     }
 </script>
   </head>
-  <body>
+  <body onload="setModifiedDate(); setAccessedDate();">
     <div class="wrapper">
       <header>
+<div id="last-modified"></div>
 	  {% if page.layout == "post" %}
         {{ site.blog_description_open }}{{ site.blog_title}}{{ site.blog_description_close }}
 		  {% else %}
