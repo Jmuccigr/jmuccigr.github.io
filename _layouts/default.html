@@ -30,7 +30,8 @@
           .then((commits) => {
             var modified = commits[0]['commit']['committer']['date'].slice(0,10);
             if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
-              var newmodified = modified.getDate() + ' ' + modified.toLocaleString('default', { month: 'short' }) + ' ' + modified.getFullYear();
+              var d = new Date(modified);
+              var newmodified = d.getDate() + ' ' + d.toLocaleString('default', { month: 'short' }) + ' ' + d.getFullYear();
               document.getElementById('last-modified').textContent = "Page last modified: " + newmodified;
             }
           });
