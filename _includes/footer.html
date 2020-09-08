@@ -1,17 +1,18 @@
 <small>
   <ul>
 	<li><a href="{{ site.url }}">My homepage</a></li>
-	{% if site.email %} 
+	<li><a href="{% link blog/tags.md %}">Blog tags</a>
+	{% if site.email %}
 	<li> {% include icon-email.html username=site.email %} </li>
-<!-- 
+<!--
 	<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
- -->
-	{% endif %} 
-	{% if site.github_username %} 
+-->
+	{% endif %}
+	{% if site.github_username %}
 	<li> {% include icon-github.html username=site.github_username %} </li>
-	{% endif %} 
-	{% if site.twitter_username %} 
+	{% endif %}
+	{% if site.twitter_username %}
 	<li> {% include icon-twitter.html username=site.twitter_username %} </li>
-	{% endif %} 
+	{% endif %}
   </ul>
 </small>
