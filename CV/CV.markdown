@@ -162,8 +162,9 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 
 |date|item|
 |:--|:--|
-2015 | Filippo Canali De Rossi *Le relazioni diplomatiche di Roma, Volume IV. Dalla 'liberazione della Grecia' alla pace infida con Antioco III (201–194 a. C.)*, *BMCR* [2015.03.47](http://bmcr.brynmawr.edu/2015/2015-03-47.html)
-2014 | Massimiliano Di Fazio *Feronia: spazi e tempi di una dea dell'Italia centrale antica*, *BMCR* [2014.10.25](http://bmcr.brynmawr.edu/2014/2014-10-25.html)
+2020 | Giovanna Battaglini, ed., *Fregellae: il tempio del Foro e il tempio suburbano sulla via Latina*. Monumenti antichi. Serie miscellanea, Volume 23, *BMCR* [2020.09.03](https://bmcr.brynmawr.edu/2020/2020.09.03/)
+2015 | Filippo Canali De Rossi, *Le relazioni diplomatiche di Roma, Volume IV. Dalla 'liberazione della Grecia' alla pace infida con Antioco III (201–194 a. C.)*, *BMCR* [2015.03.47](http://bmcr.brynmawr.edu/2015/2015-03-47.html)
+2014 | Massimiliano Di Fazio, *Feronia: spazi e tempi di una dea dell'Italia centrale antica*, *BMCR* [2014.10.25](http://bmcr.brynmawr.edu/2014/2014-10-25.html)
 2013 | Michael L. Thomas, Gretchen E. Meyers, Ingrid E. M. Edlund-Berry, ed. *Monumentality in Etruscan and Early Roman Architecture: Ideology and Innovation*, *BMCR* [2013.03.11](http://bmcr.brynmawr.edu/2013/2013-03-11.html)
 2012 | Ramsey MacMullen, *The Earliest Romans: a character sketch*, *BMCR* [2012.02.10](http://bmcr.brynmawr.edu/2012/2012-02-10.html)
 2010 | Fik Meijer, *Chariot racing in the Roman Empire*, *BMCR* [2010.11.26](http://bmcr.brynmawr.edu/2010/2010-11-26.html)  
@@ -247,5 +248,5 @@ Leaflet; SQL queries of Ellucian's Banner database; Greek-Arch list manager; Dre
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 12 July 2019.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Tuesday, 8 September 2020.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
