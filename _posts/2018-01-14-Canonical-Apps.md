@@ -3,7 +3,7 @@ title: My Canonical Apps
 author: John D. Muccigrosso
 date: 14 January 2018
 tags: 
-  - Mac
+  - mac
 ---
 
 I was intending to write a reply to this Profhacker post by [Ryan Cordell](https://twitter.com/ryancordell), *[Organize Your Mac’s Windows on the Fly with Magnet](https://www.chronicle.com/blogs/profhacker/organize-your-macs-windows-on-the-fly-with-magnet/64664)*, **before** break, but then my laptop starting acting wonky and I got a loaner while it was being checked out. Turns out I needed a new laptop completely (after 6 great years with the last one), and of course the shipment arrived the first day of winter break, so I had to wait a while. As a result though, I got to live with a new (to me) machine for a few weeks and was forced to do some installations in order to have it work the way I like.
