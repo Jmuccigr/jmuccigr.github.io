@@ -1,12 +1,11 @@
 ---
 css: /Users/john_muccigrosso/Documents/github/local/css/clean_CV.css
+title: John D. Muccigrosso
 ...
 
-# John D. Muccigrosso
+[comment1]: # (For the pdf generation, which isn't working now anyway, put the following in the table as the third line. It leaves behind the = in html:&nbsp;hspace{2.5in} = &nbsp;hspace{1.75in} &nbsp;kill)
 
-[comment]: # (For the pdf generation, which isn't working now anyway, put the following in the table as the third line. It leaves behind the = in html:&nbsp;hspace{2.5in} = &nbsp;hspace{1.75in} &nbsp;kill)
-
-[comment]: # ({.page-break} seems to work when printing the html version)
+[comment2]: # ({.page-break} seems to work when printing the html version)
 
 
 |left|right|
@@ -49,7 +48,7 @@ Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.
 2011–2014 | [Director of Institutional Research](http://www.drew.edu/InstitutionalResearch/)
 &nbsp; | *Internal & external reporting; survey administration; retention analysis; budget-preparation assistance*
 
-[comment]: # ( ### Responsibilities RETURN <span class="item_standalone">Director of Institutional Research: Internal & external reporting, survey administration, retention analysis, budget-preparation assistance RETURN <span class="item_standalone">Associate Dean: Budget & salary, retention, management of physical resources, scheduling, college IR, admissions outreach, special projects)
+[comment3]: # ( ### Responsibilities RETURN <span class="item_standalone">Director of Institutional Research: Internal & external reporting, survey administration, retention analysis, budget-preparation assistance RETURN <span class="item_standalone">Associate Dean: Budget & salary, retention, management of physical resources, scheduling, college IR, admissions outreach, special projects)
 
 #### Intercollegiate Center for Classical Studies, Rome
 
