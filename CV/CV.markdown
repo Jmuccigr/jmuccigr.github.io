@@ -6,12 +6,15 @@ css: /Users/john_muccigrosso/Documents/github/local/css/clean_CV.css
 
 [comment]: # (For the pdf generation, which isn't working now anyway, put the following in the table as the third line. It leaves behind the = in html:&nbsp;hspace{2.5in} = &nbsp;hspace{1.75in} &nbsp;kill)
 
+[comment]: # ({.page-break} seems to work when printing the html version)
+
+
 |left|right|
 |:---|----:|
 Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.drew.edu/)|
 |<jmuccigr@drew.edu>|[207 Brothers College](http://www.drew.edu/map/)|
 |<http://jmuccigr.github.io/>| Madison, NJ 07940 |
-|[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)|+1.973.408.3029|
+|<span class="dontprint">[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)</span>|+1.973.408.3029|
 
 ### Education
 
@@ -120,7 +123,7 @@ Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.
 ### Academic Interests
 
 <span class="item_standalone">
-Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
+Italian archaeology, Roman history, Digital Humanities, Latin paedagogy
 
 ### Archaeological Experience
 
@@ -158,7 +161,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 1989 | "Benzylhydrazine as a pseudo-substrate of bovine serum amine oxidase," with L. Morpurgo *et al*, [*Biochem. J.* **260**, 19–25](http://www.biochemj.org/bj/260/bj2600019.htm)
 1988 | "Amine oxidases as biological regulators," with E. Agostinelli, *et al.*,  in *Perspectives in polyamine research*, p. 11-15, A. Perin, *et al.*, ed., Wichtig Editore, Milan
 
-#### Reviews {.page-break}
+#### Reviews
 
 |date|item|
 |:--|:--|
@@ -244,7 +247,7 @@ Italian archaeology, Roman history, Latin paedagogy, Digital Humanities
 ### Technology-Related Experience
 
 <span class="item_standalone">
-Leaflet; SQL queries of Ellucian's Banner database; Greek-Arch list manager; Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Web sites (now defunct): Papyrology, Ancient-Mediterranean list archives; computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998); Courseware developer, University of Michigan Classical Civilization program (1995)
+Leaflet; SQL; Greek-Arch list manager; Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Web sites (now defunct): Papyrology, Ancient-Mediterranean list archives; computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998); Courseware developer, University of Michigan Classical Civilization program (1995)
 
 |left|center|right|
 |:---|:----:|----:|
