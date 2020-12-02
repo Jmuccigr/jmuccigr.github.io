@@ -47,7 +47,7 @@ title: Schedule
 		- Cahill, N. 2002. April 10. Household and City Organization at Olynthus. Yale University Press, Ch. 1 in [PDF](../readings/Cahill Greek City Planning Ch 1 of Household 2001.pdf)
 
 - Thursday, February 1
-    - Archaeologist: [Roque Joaquín de Alcubierre (1702 – 1780)]({% link courses/240/presentations/Alcubierre.pptx %}) - Ava Valentino
+    - Archaeologist: [Roque Joaquín de Alcubierre (1702 – 1780)]({% link courses/240/schedule.md %}) - Ava Valentino
 	- Assignments:
 		- Snodgrass, A. 2012. “What is classical archaeology: Greek archaeology.” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 13–29, Blackwell Studies in Global Archaeology, Wiley-Blackwell, in [PDF](../readings/Snodgrass - 2012 - What is classical archaeology Greek archaeology.pdf).
 		- Wikipedia
@@ -65,7 +65,7 @@ title: Schedule
 ### Cities & Sanctuaries (with Treasuries)
 
 - Tuesday, February 6
-    - Archaeologist: [Giovanni Battista Belzoni (1778 – 1823)]({% link courses/240/presentations/Giovanni_Belzoni.pptx %}) - Katie Riso
+    - Archaeologist: [Giovanni Battista Belzoni (1778 – 1823)]({% link courses/240/schedule.md %}) - Katie Riso
 	- Pompeii
 		- Read [chapter on Pompeii](../readings/Stambaugh - 1988 - The ancient Roman city.pdf) from Stambaugh, J.E. 1988. *The ancient Roman city*. Baltimore: Johns Hopkins University Press.
 		- AC: Ch 22, p. 356-358 = first section on Pompeii through "Town Plan".
@@ -86,16 +86,16 @@ title: Schedule
 ### Agora/Forum
 
 - Tuesday, February 13
-    - Archaeologist: [Sir Arthur John Evans (1851 – 1941)]({% link courses/240/presentations/Arthur_Evans.pptx %}) - Kevin Yan
-    - Site: [Nuraghe Santu Antine]({% link courses/240/presentations/nuraghe.pptx %}) - Kass Mattingly
+    - Archaeologist: [Sir Arthur John Evans (1851 – 1941)]({% link courses/240/schedule.md %}) - Kevin Yan
+    - Site: [Nuraghe Santu Antine]({% link courses/240/schedule.md %}) - Kass Mattingly
 	- Athens & Greek cities
 		- *AC*: 229-232 "Athens in the Archaic period"; 266-268 "The Agora".
     - [Images from class]({% link courses/240/lectures/08 Athens I.html %})
 
 - Thursday, February 15
     - [*Lupercalia*]({% link courses/240/lectures/Lupercalia.html %})
-    - Archaeologist: [Gertrude Bell, CBE (1868 – 1926)]({% link courses/240/presentations/Gertrude_Bell.pptx %}) - Rae Brickey
-    - Site: [Cosa]({% link courses/240/presentations/Cosa.pptx %}) - Demi-Lee Pretorius
+    - Archaeologist: [Gertrude Bell, CBE (1868 – 1926)]({% link courses/240/schedule.md %}) - Rae Brickey
+    - Site: [Cosa]({% link courses/240/schedule.md %}) - Demi-Lee Pretorius
 	- Rome & Pompeii: *AC*: ch. 20, 339-342 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
 	- [digitales forum romanum](http://www.digitales-forum-romanum.de)
 	- Wikipedia
@@ -107,10 +107,10 @@ title: Schedule
 ### Houses
 
 - Tuesday, February 20
-    - Archaeologist: [Flinders Petrie (1853 – 1942)]({% link courses/240/presentations/Flinders_Petrie.pptx %}) - Tayyaba Shakeel
-    - Site: [Herculaneum]({% link courses/240/presentations/Herculaneum.pptx %}) - Josh Friedland
+    - Archaeologist: [Flinders Petrie (1853 – 1942)]({% link courses/240/schedule.md  %}) - Tayyaba Shakeel
+    - Site: [Herculaneum]({% link courses/240/schedule.md %}) - Josh Friedland
     - Forum/Agora presentations
-        - [Roman Forum]({% link courses/240/presentations/Roman_Forum.pptx %})
+        - [Roman Forum]({% link courses/240/schedule.md %})
         - [Temples in the Forum](https://docs.google.com/presentation/d/1aHPROTZyJCt0JitDJrtDUxJsq8cXDA97ym_vgh3fzbk/edit?usp=sharing_eip&ts=5a8c4728)
 	- *AC*: ch. 16, 264-265 "The lower town [of Athens]"; ch. 17, 278-282 "Olynthos".
 	- *GAA*: ch. 10, 351-354 "Miletus".
@@ -121,7 +121,7 @@ title: Schedule
 
 - Thursday, February 22
     - Archaeologist: [Harriet Boyd Hawes (1871 – 1945)](https://docs.google.com/presentation/d/1golI4o-1zHsYkMgz83UX3SMWoe29ut8fSZnl39BSARI/edit#slide=id.p) - Jason Adamo
-    - Site: [Osteria dell’Osa]({% link courses/240/presentations/Osteria_dell'Osa.key %}) - Serena Rosenblatt
+    - Site: [Osteria dell’Osa]({% link courses/240/schedule.md %}) - Serena Rosenblatt
 	- [Holloway, R.R. 1994. The archaeology of early Rome and Latium. London; New York: Routledge, Ch. 4]({% link /courses/240/readings/Holloway - 1994 - ch4.The archaeology of early Rome and Latium.pdf %}).
 	- *AC*: ch. 22, 362-367 Pompeii, 367-370 "Ostia"; ch. 23, 374-379 "Palaces"; ch. 25, 415-418 "Palaces"
 	- Modern scholarship
@@ -134,14 +134,14 @@ title: Schedule
 
 - Tuesday, February 27
     - Archaeologist: [Howard Carter (1874 – 1939)](https://docs.google.com/presentation/d/1MS6UY1JRq4RKF-eck5EdRIjW0DspsHGGHUa5UKY3oXw/edit?usp=sharing_eip&ts=5a957c86) - Molly Thompson
-    - Site: [Knossos]({% link courses/240/presentations/knossos.pptx %}) - Lynette Crews
+    - Site: [Knossos]({% link courses/240/schedule.md %}) - Lynette Crews
     - *AC*: ch. 12, 211-212 "Cemeteries..."; ch. 17, 282-285 "Royal burials"; ch. 19, 314 "Paestum"; ch. 23, 390-392 "Imperial tombs".
     - *GAA*: ch. 4, 108-110 "Architecture", 116-123 "Pottery"; ch. 9, 326-331 "Vergina".
     - Necropoleis in Etruria *AC*: ch. 19, 323-327 "[Etruscan] Tombs"
 	- [Lecture images]({% link courses/240/lectures/12 Cemeteries.html %})
 
 - Thursday, March 1
-    - Site: [Thonis]({% link courses/240/presentations/thonis.pptx %}) - Ava Valentino
+    - Site: [Thonis]({% link courses/240/schedule.md %}) - Ava Valentino
     - Beamer presentations
         - [Theme gallery](http://www.deic.uab.es/%7Eiblanes/beamer_gallery/index_by_theme_and_color.html)
         - Beamer lecture ([default]({% link courses/240/lectures/beamer_plain.pdf %}) or [Madrid theme]({% link courses/240/lectures/beamer_madrid.pdf %}))
@@ -152,8 +152,8 @@ title: Schedule
 ### Temples
 
 - Tuesday, March 13
-    - Archaeologist: [Wilhelmina Jashemski (1910 – 2007)]({% link courses/240/presentations/Jashemski.pptx %}) - Liv Darveau
-    - Site: [Petra]({% link courses/240/presentations/PETRA.pptx %}) - Katie Riso
+    - Archaeologist: [Wilhelmina Jashemski (1910 – 2007)]({% link courses/240/schedule.md %}) - Liv Darveau
+    - Site: [Petra]({% link courses/240/schedule.md %}) - Katie Riso
 	- *AC*: ch. 13; ch 15, 246-249 "Temple of Zeus"; ch. 16, 254-263 "The Athenian Acropolis"; ch. 18, 287-289 "Didyma: Apollo"; ch. 19, 311-314 "Paestum".
 	- *GAA*: ch. 4, 105-110 "Architecture"; ch. 5, 131-139 "Architecture..."; ch. 6, 150-176; ch. 7, 213-229; ch. 8, 251-276; ch. 9, 293-305; ch. 10, 341-351.
 	- [Dolphin Tank]({% link courses/240/lectures/Dolphin_Tank.html %})
@@ -161,8 +161,8 @@ title: Schedule
 
 - Thursday, March 15
 	- [The Ides of March]({% link courses/240/lectures/Ides.html %})
-    - Archaeologist: [Kent Vaughn Flannery (born 1934)]({% link courses/240/presentations/Kent_Flannery.pptx %}) - Lynette Crews
-    - Site: [Black Sea Shipwreck Research Project]({% link courses/240/presentations/BlackSea.pptx %}) - Rae Brickey
+    - Archaeologist: [Kent Vaughn Flannery (born 1934)]({% link courses/240/schedule.md %}) - Lynette Crews
+    - Site: [Black Sea Shipwreck Research Project]({% link courses/240/schedule.md %}) - Rae Brickey
 	- *AC*: ch. 19, 321-323 "Veii"; ch. 20, 330-331 "Early history [of Rome]"; ch. 23, 379-382 "Temples".
 	- Ch. 1, [Boatwright, M.T. 1987. *Hadrian and the city of Rome*. Princeton, N.J.: Princeton University Press.]({% link courses/240/readings/Boatwright_Hadrian_ch1.pdf %}).
 	- [Digital Humanities Summer Institute]({% link courses/240/lectures/Digital Humanities Summer Institute.html %})
@@ -172,7 +172,7 @@ title: Schedule
 
 - Tuesday, March 20
    - Archaeologist: [Anna Marguerite McCann (1933 – 2017)](https://docs.google.com/presentation/d/1hZayfxgzWDZNyvt0J1KJDStESJv8idtzM4Op9YbdDGs/edit?usp=sharing_eip&ts=5aaffd52) - Serena Rosenblatt
-    - Site: [Vindolanda]({% link courses/240/presentations/Vindolanda.pptx %}) - Chris Morville
+    - Site: [Vindolanda]({% link courses/240/schedule.md %}) - Chris Morville
 	- *AC*: ch. 16, 263-264 "Theater of Dionysus"; ch. 17, 272-273 at Epidauros; ch. 18, 293 Pergamon; ch. 20, 345 "Theater of Pompey"; ch. 22, 360 "Theaters [of Pompeii]".
 	- *GAA*: ch. 9, 296 "Epidauros", 324 "Were women in the audience?"; ch. 10, 341 "Pergamon", 354 "Syracuse".
 	- [Wheeler, M. 1964. *Roman art and architecture*. New York: F.A. Praeger.
@@ -187,7 +187,7 @@ title: Schedule
     - Quiz 2: [Geography of Rome]({% link /courses/240/quizzes/Map for quiz II - Rome.pdf %} )
         - [A blank version of the map]( {% link /courses/240/quizzes/Map for quiz II blank.png %} )
     - Archaeologist: [Colin Renfrew (born 1937)](https://docs.google.com/presentation/d/e/2PACX-1vQSvCV-98xvMera779yHnLulLk-g5Xoq2G4btDNhWTcTneKJrWXAdD_bxGwMfJVBged13VwdIMt2-po/pub?start=false&loop=false&delayms=3000&slide=id.p) - Josh Friedland
-    - Site: [Olympia]({% link courses/240/presentations/Olympia.pptx %}) - Kevin Yan
+    - Site: [Olympia]({% link courses/240/schedule.md %}) - Kevin Yan
 	-  *AC*: ch. 22, 360-361 "Amphitheater [of Pompeii]" ch 23, 385-387 "Flavian Amphitheater"
 	- Wikipedia "[list of Roman amphitheatres](https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres)"
 	- *Gladiator* scenes:
@@ -199,7 +199,7 @@ title: Schedule
 ### Stadia & Other commemorative monuments
 
 - Tuesday, March 27
-    - Archaeologist: [Rhys Jones (1941 – 2001)]({% link courses/240/presentations/Jones.pptx %}) - Demi-Lee Pretorius
+    - Archaeologist: [Rhys Jones (1941 – 2001)]({% link courses/240/schedule.md %}) - Demi-Lee Pretorius
     - Site: [Kerameikos](https://docs.google.com/presentation/d/1g2D2TTpV72fLsNjxk4LfygH7JCn6PmNtUAylf5NB8WY/edit?ts=5ab9ce06#slide=id.p3) - Tayyaba Shakeel
 	- Macedonia: *GAA*: ch. 9, 333-337 "Vergina"; Rome: *AC*: ch. 20, 345 "Circus Maximus"; ch. 21, 352-355 "Ara Pacis".
 	- Baths: *AC* ch. 22, 361-362 "The baths [of Pompeii]"; ch. 23, 388-390 "Baths of Trajan"
@@ -207,7 +207,7 @@ title: Schedule
 	- [Lecture images]({% link courses/240/lectures/17_Athletics.html %})
 
 - Thursday, March 29
-    - Archaeologist: [Israel Finkelstein (born 1949)]({% link courses/240/presentations/Finkelstein.pptx %}) - Kass Mattingly
+    - Archaeologist: [Israel Finkelstein (born 1949)]({% link courses/240/schedule.md %}) - Kass Mattingly
     - Site: [Troy](https://docs.google.com/a/drew.edu/presentation/d/1l8yxijeB5-_ChhPGGwKh5IJ1mlrJbuAwjhX1Wkf8uUg/edit?usp=drive_web) - Jason Adamo
 	- *AC*: ch. 23, 382-385 "Commemorative monuments [arches and Trajan's Column]"; ch. 25, 420-421 "Arch of Constantine".
 	- Wikipedia Stubs: [the final list]({% link courses/240/wikipedia_stubs_final.md %})
@@ -231,7 +231,7 @@ title: Schedule
 ### Pottery I
 
 - Tuesday, April 10
-    - Site: [Caesarea Maritima (Israel)]({% link courses/240/presentations/Caesarea_Maritima.pptx %}) - Liv Darveau
+    - Site: [Caesarea Maritima (Israel)]({% link courses/240/schedule.md %}) - Liv Darveau
 	- *AC*: ch. 14, 232-234 "Attic black-figure and red-figure pottery".
 	- *GAA*: ch. 4, 112-118 "Pottery"; 115 "Burying the dead"; ch. 5, 121-131 "Pottery"; ch. 6, 189-205; ch. 7, 242-247; ch. 8, 281-287; ch. 9, 318-322; ch. 10, 382-385.
 	- [Lecture images]({% link courses/240/lectures/20_Pottery.html %})
@@ -270,10 +270,10 @@ title: Schedule
 - Thursday, April 26
     - [Jason](https://docs.google.com/a/drew.edu/presentation/d/1ajhq4qhj03Su6Rrprg_KnM_YlZHR_5F7k3M8BXOX6Dc/edit?usp=drive_web)
     - [Josh](https://docs.google.com/presentation/d/e/2PACX-1vTA6wAP5wbNfs3E92d_vID4wMsyOKZYNRzZ9wQDNxBxh5fPFPJntttinMsX5iRkdNr04_AKJMyZmPQi/pub?start=true&loop=true&delayms=60000&slide=id.p)
-    - [Kass]({% link courses/240/presentations/Kass_GIS.pptx %})
-    - [Katie]({% link courses/240/presentations/Katie_cameo.pptx %}), [final video]({% link courses/240/presentations/Cameo.m4v %})
-    - [Liv]({% link courses/240/presentations/Liv_Polychromy.pptx %})
-    - [Rae]({% link courses/240/presentations/Rae_coins.pptx %})
+    - [Kass]({% link courses/240/schedule.md %})
+    - [Katie]({% link courses/240/schedule.md %}), [final video]({% link courses/240/schedule.md %})
+    - [Liv]({% link courses/240/schedule.md %})
+    - [Rae]({% link courses/240/schedule.md %})
     - [Serena](https://docs.google.com/presentation/d/1X5e6INYd4K5sB-_DYp1CDts9Uw54oCO2iAktAHGg8J8/edit?usp=sharing_eip&ts=5ae223d6)
 
 
@@ -282,10 +282,10 @@ title: Schedule
 
 - Tuesday, May 1
     - Ava
-    - [Chris]({% link courses/240/presentations/Plimpton_332.m4v %})
-    - [Demi-Lee]({% link courses/240/presentations/Maritime.pptm %})
-    - [Kass]({% link courses/240/presentations/gis.pptx %})
-    - [Kevin]({% link courses/240/presentations/landscape_arch.pptx %})
+    - [Chris]({% link courses/240/schedule.md %})
+    - [Demi-Lee]({% link courses/240/schedule.md %})
+    - [Kass]({% link courses/240/schedule.md %})
+    - [Kevin]({% link courses/240/schedule.md %})
     - Lynette
     - [Molly](https://docs.google.com/presentation/d/16u69kMHXiRbrqNOPAvLyF7eqj3EtzFTFO0HV2hzWtsU/edit?usp=sharing_eip&ts=5ae7ce5e)
     - [Tayyaba](https://drive.google.com/file/d/1i30W4w8U-j-wrL_j9wBr78zpLpCJuS5h/view?usp=sharing_eip&ts=5ae87b86)
