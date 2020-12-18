@@ -33,7 +33,7 @@ Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.
 
 |date|item|
 |:--|:--|
-1998–present | [Department of Classics](http://www.drew.edu/classics/?)
+1998–present | [Department of Classics](http://www.drew.edu/classics-department/)
 
 - Fall 2015–2018, 2005–2008 Chair
 - Fall 2000 Acting Chair
@@ -43,9 +43,9 @@ Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.
 |:--|:--|
 2020-present | Director of Baldwin Honors
 2017–2018 | Co-Director, Mellon Digital Humanities Grant
-2009–2014 | Associate Dean, [College of Liberal Arts](http://www.drew.edu/cla/cla-deans-office/)
+2009–2014 | Associate Dean, [College of Liberal Arts](http://www.drew.edu/cla-dean/)
 &nbsp; | *Budget & salary; retention; management of physical resources; scheduling; college IR; admissions outreach; special projects*
-2011–2014 | [Director of Institutional Research](http://www.drew.edu/InstitutionalResearch/)
+2011–2014 | [Director of Institutional Research](http://www.drew.edu/about/institutional-research/)
 &nbsp; | *Internal & external reporting; survey administration; retention analysis; budget-preparation assistance*
 
 [comment3]: # ( ### Responsibilities RETURN <span class="item_standalone">Director of Institutional Research: Internal & external reporting, survey administration, retention analysis, budget-preparation assistance RETURN <span class="item_standalone">Associate Dean: Budget & salary, retention, management of physical resources, scheduling, college IR, admissions outreach, special projects)
@@ -85,7 +85,7 @@ Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.
 
 |date|item|
 |:--|:--|
-2012–present | [*Bryn Mawr Classical Review*](http://bmcr.brynmawr.edu/), editorial board
+2012–present | [*Bryn Mawr Classical Review*](https://bmcr.brynmawr.edu/), editorial board
 1995–present | Owner of *Greekarch*, an e-mail list for Greek archaeology
 2007–2010 | APA Committee on the Status of Women and Minority Groups
 
@@ -126,14 +126,21 @@ Italian archaeology, Roman history, Digital Humanities, Latin paedagogy
 
 ### Archaeological Experience
 
-<span class="item_standalone">Director: *Vicus Martis Tudertium* [Field School](http://users.drew.edu/jmuccigr/vicusadmartis/) (2008–2017)
+<span class="item_standalone">Director: *Vicus Martis Tudertium* Field School (2008–2017)
 
-<span class="item_standalone">Supervisor:  [Paestum](http://pleiades.stoa.org/places/442733) (Italy, 1995, ‘97, ‘99)
+<span class="item_standalone">Supervisor:  [Paestum](https://pleiades.stoa.org/places/442733) (Italy, 1995, ‘97, ‘99)
 
 <span class="item_standalone">Participant: Duos Nuraghes (Sardinia, Italy, 1992); Roman Forum
 (Rome, Italy, 1991); Son Mas Sanctuary (Mallorca, Spain, 1990); [Poggio Civitate](http://www.poggiocivitate.org/) (Murlo, Italy, 1987–88)
 
-### Publications
+### Languages
+
+<span class="item_standalone">
+Native: English  
+Full professional Proficiency: Italian  
+Reading ability: Latin, Ancient Greek, French, German
+
+### Publications {.page-break}
 
 #### Books, Papers & Chapters
 
@@ -250,5 +257,5 @@ Leaflet; SQL; Greek-Arch list manager; Drew Classics-Department Image Database, 
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Thursday, 15 October 2020.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 18 December 2020.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
