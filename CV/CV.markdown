@@ -1,6 +1,7 @@
 ---
 css: /Users/john_muccigrosso/Documents/github/local/css/clean_CV.css
 title: John D. Muccigrosso
+description: "John D. Muccigrosso's CV"
 ...
 
 [comment1]: # (For the pdf generation, which isn't working now anyway, put the following in the table as the third line. It leaves behind the = in html:&nbsp;hspace{2.5in} = &nbsp;hspace{1.75in} &nbsp;kill)
