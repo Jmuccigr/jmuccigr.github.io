@@ -2,6 +2,7 @@
 title: More fun with markdown
 author: John D. Muccigrosso
 date: 1 February 2018
+course_number: 240
 layout: syllabus
 ---
 

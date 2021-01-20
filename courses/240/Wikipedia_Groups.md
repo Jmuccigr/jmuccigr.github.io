@@ -2,6 +2,7 @@
 title: Wikipedia Groups
 author: John D. Muccigrosso
 date: Thursday, 5 April 2018
+course_number: 240
 layout: syllabus
 ---
 

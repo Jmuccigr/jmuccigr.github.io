@@ -1,25 +1,25 @@
 ---
 title: List of sites
 author: John D. Muccigrosso
-date: 22 January 2018
+date: Friday, 15 January 2021
+course_number: 240
 layout: syllabus
 ---
 
 ## Potential sites for presentation
 
-1. Troy - *Jason Adamo*
-1. Knossos - *Lynette Crews*
-1. Nuraghe Santu Antine - *Kass Mattingly*
-1. Osteria dell'Osa - *Serena Rosenblatt*
-1. Kerameikos - *Tayyaba Shakeel*
-1. Olympia - *Kevin Yan*
-1. Murlo - *John Hanna*
-1. Olynthos -
-1. Cosa - *Demi-Lee Pretorius*
-1. Pompeii - *Molly Thompson*
-1. Herculaneum - *Josh Friedland*
-1. Caesarea Maritima (Israel) - *Olivia Darveau*
-1. Vindolanda - *Chris Morville*
-1. Black Sea Shipwreck Research Project - *Rae Brickey*
-1. Petra - *Katie Riso*
-1. Thonis - *Ava Valentino*
+1. Troy
+1. Knossos
+1. Nuraghe Santu Antine
+1. Osteria dell'Osa
+1. Olympia
+1. Murlo/Poggio Civitate
+1. Kerameikos
+1. Olynthos
+1. Cosa
+1. Pompeii
+1. Herculaneum
+1. Caesarea Maritima (Israel)
+1. Vindolanda
+1. Petra
+1. Black Sea Shipwreck Research Project

@@ -1,4 +1,5 @@
 ---
+course_number: 240
 layout: syllabus
 date: Wednesday, 7 June 2017
 title: Grading policy

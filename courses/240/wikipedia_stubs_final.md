@@ -2,6 +2,7 @@
 title: Most Popular Wikipedia Stubs
 author: ANTH 232 - CLAS 240 Class
 date: March 2018
+course_number: 240
 layout: syllabus
 ---
 

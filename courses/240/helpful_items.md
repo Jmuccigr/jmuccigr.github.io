@@ -1,7 +1,8 @@
 ---
 layout: syllabus
-date: 1 January 2018
+date: Friday, 15 January 2021
 title: Helpful Items
+course_number: 240
 ---
 
 - [American School of Classical Studies](http://agora.ascsa.net/research) - The Central American archaeological academic/research institution in Greece, with archives and publications.
@@ -18,14 +19,5 @@ title: Helpful Items
 -----
 
 ## Tools
-- Markdown - Light-weight text-to-HTML conversion tool that lets you write reasonably formatted documents as very readable text. The [original incarnation](http://daringfireball.net/projects/markdown/) belongs to John Gruber, but it's been widely adopted and there are many competing versions today.
-    - Markdown editors include:
-        - [BBEdit](http://www.barebones.com/products/bbedit/download.html) - a free text editor with syntax highlighting
-        - [MacDown](https://macdown.uranusjr.com) (Macs) - offers rendered previews of the text as you write it
-        - [MarkDownPad](http://www.markdownpad.com) (Windows) - offers rendered previews of the text as you write it
-    - [Markdown demo site](https://markdown-here.com/livedemo.html) - test your markdown live
-- pandoc - Command-line [software](http://pandoc.org/) that converts documents between many formats, including markdown.
+
 - Zotero - On-line [reference manager](https://zotero.org/). You'll be organizing your references this way throughout the semester and for your final paper.
-- Beamer - format for PDF slide shows/presentations.
-    - [The technical stuff](https://ctan.org/pkg/beamer)
-    - A gallery of [Beamer themes](http://www.deic.uab.es/%7Eiblanes/beamer_gallery/index_by_theme_and_color.html)
