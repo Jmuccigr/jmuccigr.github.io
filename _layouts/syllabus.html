@@ -1,6 +1,5 @@
 ---
-title: CLAS-240 / ANTH-232
-base: 240
+title: Course Syllabus
 ---
 
 <!doctype html>
@@ -28,7 +27,7 @@ body::after {
 }
 	</style>
 
-	<title>CLAS-240</title>
+	<title>CLAS-{{ page.course_number }}</title>
 
 {% seo %}
 
@@ -38,16 +37,16 @@ body::after {
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
   </head>
-  <body>
+<body>
     <div class="wrapper">
       <header>
-            <h3>{{ layout.title | default: "oops" }}</h3>
-			<h2><a href="/courses/{{ layout.base }}/">Information</a></h2>
-			<h2><a href="/courses/{{ layout.base }}/helpful_items">Helpful items</a></h2>
-			<h2><a href="/courses/{{ layout.base }}/grading">Grading</a></h2>
-			<h2><a href="/courses/{{ layout.base }}/policies">Policies</a></h2>
-			<h2><a href="/courses/{{ layout.base }}/schedule">Schedule</a></h2>
-			<p>Jump to week: <a href="{% link courses/240/schedule.md %}#week-1">1</a>-<a href="{% link courses/240/schedule.md %}#week-2">2</a>-<a href="{% link courses/240/schedule.md %}#week-3">3</a>-<a href="{% link courses/240/schedule.md %}#week-4">4</a>-<a href="{% link courses/240/schedule.md %}#week-5">5</a>-<a href="{% link courses/240/schedule.md %}#week-6">6</a>-<a href="{% link courses/240/schedule.md %}#week-7">7</a>-<a href="{% link courses/240/schedule.md %}#week-8">8</a>-<a href="{% link courses/240/schedule.md %}#week-9">9</a>-<a href="{% link courses/240/schedule.md %}#week-10">10</a>-<a href="{% link courses/240/schedule.md %}#week-11">11</a>-<a href="{% link courses/240/schedule.md %}#week-12">12</a>-<a href="{% link courses/240/schedule.md %}#week-13">13</a>-<a href="{% link courses/240/schedule.md %}#week-14">14</a>-<a href="{% link courses/240/schedule.md %}#week-15">15</a></p>
+           <h3>CLAS - {{ page.course_number }}</h3>
+			<h2><a href="/courses/{{ page.course_number }}/">Information</a></h2>
+			<h2><a href="/courses/{{ page.course_number }}/helpful_items">Helpful items</a></h2>
+			<h2><a href="/courses/{{ page.course_number }}/grading">Grading</a></h2>
+			<h2><a href="/courses/{{ page.course_number }}/policies">Policies</a></h2>
+			<h2><a href="/courses/{{ page.course_number }}/schedule">Schedule</a></h2>
+			<p>Jump to week: <a href="/courses/{{ page.course_number }}/schedule#week-1">1</a>-<a href="/courses/{{ page.course_number }}/schedule#week-2">2</a>-<a href="/courses/{{ page.course_number }}/schedule#week-3">3</a>-<a href="/courses/{{ page.course_number }}/schedule#week-4">4</a>-<a href="/courses/{{ page.course_number }}/schedule#week-5">5</a>-<a href="/courses/{{ page.course_number }}/schedule#week-6">6</a>-<a href="/courses/{{ page.course_number }}/schedule#week-7">7</a>-<a href="/courses/{{ page.course_number }}/schedule#week-8">8</a>-<a href="/courses/{{ page.course_number }}/schedule#week-9">9</a>-<a href="/courses/{{ page.course_number }}/schedule#week-10">10</a>-<a href="/courses/{{ page.course_number }}/schedule#week-11">11</a>-<a href="/courses/{{ page.course_number }}/schedule#week-12">12</a>-<a href="/courses/{{ page.course_number }}/schedule#week-13">13</a>-<a href="/courses/{{ page.course_number }}/schedule#week-14">14</a>-<a href="/courses/{{ page.course_number }}/schedule#week-15">15</a></p>
       </header>
       <section>
 <h1>{{ page.title }}</h1>
