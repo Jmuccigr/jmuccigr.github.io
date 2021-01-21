@@ -14,7 +14,7 @@ course_number: 240
     - Introduction to the class
     - The archaeological record
     - Modern scholarship: Introduction to citation managers: [Zotero](https://www.zotero.org/)
-    - [Images from class]({% link blank.md%})
+    - [Images from class]({% link courses/240/lectures/CLAS-240 01 Intro to Classical Archaeology.html%})
 
 #### Week 2
 ### Cities and Urbanism

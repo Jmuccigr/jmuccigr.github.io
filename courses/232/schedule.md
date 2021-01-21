@@ -13,7 +13,7 @@ course_number: 232
 - Wednesday, January 20
     - Introduction to the class
     - The nature of the evidence
-<!--    - [Images from class]({% link courses/232/lectures/01 Introduction.pdf %})-->
+    - [Images from class]({% link courses/232/lectures/CLAS 232-01 Rome Intro.html%})
 
 ### Earliest Rome
 
