@@ -7,7 +7,7 @@ title: Grading policy
 
 Grades will be based on the following criteria
 
-* In-class participation 20%
+* In-class participation 15%
 * Quizzes 10%
 	* [Map Quiz 1: Greece](../quizzes/Map for quiz I - Greece.pdf)
 	* [Map Quiz 2: Rome](../quizzes/Map for quiz II - Rome.pdf)
@@ -15,10 +15,12 @@ Grades will be based on the following criteria
     * Wikipedia stubs
         * [List]({% link courses/240/wikipedia_stubs.md %})
         * [Rank](https://goo.gl/forms/4djFDCAEfaeGp2lZ2)
-* Presentations
+* Presentations 30%
 	* [Major archaeologist]({% link courses/240/archaeologists.md %}) 10%
 	* [Archaeological site]({% link courses/240/sites.md %}) 10%
 	* Final project 10%
-* Writing 10%
-	* Assignment (to follow)
+* Writing Assignments 15%
+	* Assignments to follow
 * Final project 20%
+    * Presentation 10%
+    * Submitted work 10%

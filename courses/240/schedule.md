@@ -14,7 +14,7 @@ course_number: 240
     - Introduction to the class
     - The archaeological record
     - Modern scholarship: Introduction to citation managers: [Zotero](https://www.zotero.org/)
-    - [Images from class]({% link courses/240/lectures/01 Introduction.pdf %})
+    - [Images from class]({% link blank.md%})
 
 #### Week 2
 ### Cities and Urbanism
@@ -24,18 +24,18 @@ course_number: 240
         - Resource: [PeriodO](http://perio.do)
 	- Assignments
         - *AC*: ch. 12, p. 205-210; ch. 13, p. 226-227; ch. 14, p. 228-232, 237; ch. 16, 252-254, 264-268; ch. 17, p. 269-270, 273-278; ch. 18, p. 286-287, 289-305
-    - [Images from class]({% link courses/240/lectures/02 Urbanism.pdf %})
+    - [Images from class]({% link blank.md%})
 
 - Thursday, January 28
 	- Assignments
 		- *AC*: ch. 19, p. 311-322, ch. 20, p. 328-339, 346-347; ch. 22, 356-358, 367-368; ch. 24
 		- Zotero
-			1. Create an account and email me your username.
+			1. Create an account and [email me](mailto:jmuccigr@drew.edu?subject=CLAS 240 HW) your username.
 			1. If you wish, edit your profile to make your library public (in the *Privacy* tab). You can add whatever else you want, of course.
 			1. [Download](https://www.zotero.org/download/) and install the standalone version of Zotero and the browser extension(s) you need.
 		- Submit via [email](mailto:jmuccigr@drew.edu?subject=CLAS 240 HW) the names of three [archaeologists]({% link courses/240/archaeologists.md %}) and three [sites]({% link courses/240/sites.md %}) you might want to do a presentation on. Feel free to suggest your own favorite for either of these. If too many people choose the same topics, I reserve the right to assign some arbitrarily.
 		- Be prepared to discuss what makes a good and a bad presentation. (Look at these [search results](https://duckduckgo.com/?q=death+by+powerpoint&kn=1).)
-        - [Images from class]({% link courses/240/lectures/03 Urbanism II.pdf %})
+        - [Images from class]({% link blank.md%})
 
 
 #### Week 3
@@ -57,7 +57,7 @@ course_number: 240
 		- Wikipedia
 			- Watch (slightly outdated) [video](https://en.wikipedia.org/wiki/File:The_State_of_Wikipedia_by_JESS3.ogv) on Wikipedia.
 			- Read the "[Editing Wikipedia](https://commons.wikimedia.org/wiki/File:Editing_Wikipedia_brochure_(Wiki_Education_Foundation).pdf)" document.
-			- Create an account on Wikipedia (if you don't have one), and [email me](mailto:jmuccigr@drew.edu) your account name.
+			- Create an account on Wikipedia (if you don't have one), and [email me](mailto:jmuccigr@drew.edu?subject=CLAS 240 HW) your account name.
 
 #### Week 4
 ### Cities & Sanctuaries (with Treasuries)
@@ -78,7 +78,7 @@ course_number: 240
     	- *AC*: ch. 12, 214-216 "The Heraion on Samos"; ch. 15 "Greek Sanctuaries" (don't worry about the monuments or statuary); ch. 17, 270-272, Epidauros.
 	- Modern Scholarship
         - Create an account on [Hypothes.is](https://web.hypothes.is/start/).
-    - [Images from class]({% link courses/240/lectures/07 Sanctuaries.html %})
+    - [Images from class]({% link blank.md%})
 
 #### Week 5
 ### Agora/Forum
@@ -89,7 +89,7 @@ course_number: 240
     - [*Lupercalia*]({% link courses/240/lectures/Lupercalia.html %})
 	- Athens & Greek cities
 		- *AC*: 229-232 "Athens in the Archaic period"; 266-268 "The Agora".
-    - [Images from class]({% link courses/240/lectures/08 Athens I.html %})
+    - [Images from class]({% link blank.md%})
 
 - Thursday, February 18
     - Archaeologist: 
@@ -99,7 +99,7 @@ course_number: 240
 	- Wikipedia
     	- look at the [WikiProject on Classical Greece and Rome](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Classical_Greece_and_Rome), especially the *Tasks* tab.
         - Identify three interesting pages you might contribute to on the stubs listings for [Greece](https://en.wikipedia.org/wiki/Category:Ancient_Greece_stubs) and [Rome](https://en.wikipedia.org/wiki/Category:Ancient_Rome_stubs).
-    - [Images from class]({% link courses/240/lectures/09 Fora.html %})
+    - [Images from class]({% link blank.md%})
 
 #### Week 6
 ### Houses
@@ -119,7 +119,7 @@ course_number: 240
 	- [Holloway, R.R. 1994. The archaeology of early Rome and Latium. London; New York: Routledge, Ch. 4]({% link /courses/240/readings/Holloway - 1994 - ch4.The archaeology of early Rome and Latium.pdf %}).
 	- *AC*: ch. 22, 362-367 Pompeii, 367-370 "Ostia"; ch. 23, 374-379 "Palaces"; ch. 25, 415-418 "Palaces"
 	- [Murlo database](http://www.poggiocivitate.org)
-	- [Lecture images]({% link courses/240/lectures/11 Houses.html %})
+	- [Lecture images]({% link blank.md%})
 
 #### Week 7
 ### Cemeteries & Tombs
@@ -130,7 +130,7 @@ course_number: 240
     - *AC*: ch. 12, 211-212 "Cemeteries..."; ch. 17, 282-285 "Royal burials"; ch. 19, 314 "Paestum"; ch. 23, 390-392 "Imperial tombs".
     - *GAA*: ch. 4, 108-110 "Architecture", 116-123 "Pottery"; ch. 9, 326-331 "Vergina".
     - Necropoleis in Etruria *AC*: ch. 19, 323-327 "[Etruscan] Tombs"
-	- [Lecture images]({% link courses/240/lectures/12 Cemeteries.html %})
+	- [Lecture images]({% link blank.md%})
 
 - Thursday, March 4
     - Archaeologist: 
@@ -145,7 +145,7 @@ course_number: 240
 	- *AC*: ch. 13; ch 15, 246-249 "Temple of Zeus"; ch. 16, 254-263 "The Athenian Acropolis"; ch. 18, 287-289 "Didyma: Apollo"; ch. 19, 311-314 "Paestum".
 	- *GAA*: ch. 4, 105-110 "Architecture"; ch. 5, 131-139 "Architecture..."; ch. 6, 150-176; ch. 7, 213-229; ch. 8, 251-276; ch. 9, 293-305; ch. 10, 341-351.
 	- [Dolphin Tank]({% link courses/240/lectures/Dolphin_Tank.html %})
-	- [Lecture Images]({% link courses/240/lectures/13_Temples.html %})
+	- [Lecture Images]({% link blank.md%})
 
 - *Thursday, March 11 - Holiday*
 
@@ -171,7 +171,7 @@ course_number: 240
 	- [Reconstructions of the Theater of Pompey](http://www.pompey.cch.kcl.ac.uk/Burge.htm)
 	- Final Project
     	- Description due as PDF from [Paperify](https://Paperify.org/) of no more than 2 pages. Submit on [Moodle](https://moodle.drew.edu/3/mod/assign/view.php?id=45125).
-	- [Lecture Images]({% link courses/240/lectures/14_Theaters.html %})
+	- [Lecture Images]({% link blank.md%})
 
 #### Week 10
 ### Theaters & Amphitheaters
@@ -186,15 +186,15 @@ course_number: 240
 	- *Gladiator* scenes:
     	- [Tiger fight](https://youtu.be/fAf1w_ruXeY)
     	- [Arrival in Rome](https://youtu.be/gp46l7jfUzo)
-	- [Lecture Images]({% link courses/240/lectures/15_Amphitheaters.html %})
+	- [Lecture Images]({% link blank.md%})
 
 - Thursday, March 25
     - Archaeologist: 
     - Site: 
 	- Macedonia: *GAA*: ch. 9, 333-337 "Vergina"; Rome: *AC*: ch. 20, 345 "Circus Maximus"; ch. 21, 352-355 "Ara Pacis".
 	- Baths: *AC* ch. 22, 361-362 "The baths [of Pompeii]"; ch. 23, 388-390 "Baths of Trajan"
-	- [Lecture images]({% link courses/240/lectures/16_Baths.html %})
-	- [Lecture images]({% link courses/240/lectures/17_Athletics.html %})
+	- [Lecture images]({% link blank.md%})
+	- [Lecture images]({% link blank.md%})
 
 #### Week 11
 ### Stadia & Other commemorative monuments
@@ -204,7 +204,7 @@ course_number: 240
     - Site: 
 	- *AC*: ch. 23, 382-385 "Commemorative monuments [arches and Trajan's Column]"; ch. 25, 420-421 "Arch of Constantine".
 	- Wikipedia Stubs: [the final list]({% link courses/240/wikipedia_stubs_final.md %})
-	- [Lecture images]({% link courses/240/lectures/18_Commemorative_Monuments.html %})
+	- [Lecture images]({% link blank.md%})
 
 - Thursday, April 1
     - Archaeologist: 
@@ -212,7 +212,7 @@ course_number: 240
 	- *GAA*: ch. 4, 110-110 "Sculpture"; ch. 5, 139-145; ch. 6, 171-172, 187-189; ch. 7, 229-241; ch. 8, 276-281; ch. 9, 305-318; ch. 10, 354-377.
 	- *AC*: ch. 15, 246 "Early Classical Style".
 	- *Kouroi* and *Korai*: *AC*: ch. 14, 234-237 "Sculpture"; *GAA*: ch. 6, 172-187 "Kouroi", "Korai"; 184 "The Getty Kouros".
-	- [Lecture images]({% link courses/240/lectures/19_Sculpture.html %})
+	- [Lecture images]({% link blank.md%})
 
 #### Week 12
 ### Sculpture & Statuary
@@ -228,7 +228,7 @@ course_number: 240
     - Site: 
 	- *AC*: ch. 14, 232-234 "Attic black-figure and red-figure pottery".
 	- *GAA*: ch. 4, 112-118 "Pottery"; 115 "Burying the dead"; ch. 5, 121-131 "Pottery"; ch. 6, 189-205; ch. 7, 242-247; ch. 8, 281-287; ch. 9, 318-322; ch. 10, 382-385.
-	- [Lecture images]({% link courses/240/lectures/20_Pottery.html %})
+	- [Lecture images]({% link blank.md%})
 
 #### Week 13
 ### Pottery I
@@ -261,8 +261,8 @@ course_number: 240
 	- Coinage: *AC*: ch. 12, 217-218 "...coinage"; ch 16, 268 on the mint.
 	- Bursche, A. 2002. December 15. “Circulation of Roman Coinage in Northern Europe in Late Antiquity.” *Histoire & mesure* XVII 3/4 (December 15): 121–141. [doi:10.4000/histoiremesure.886](https://doi.org/10.4000/histoiremesure.886).
 	- Buttrey, T.V. 1972. “[Halved coins, the Augustan reform, and Horace, Odes I.3.](http://www.jstor.org/stable/503609)” *American Journal of Archaeology* 76 1: 31–48.
-	- [Lecture images]({% link courses/240/lectures/20_Coinage.html %})
-	- [Lecture images]({% link courses/240/lectures/21_Walls_and_Floors.html %})
+	- [Lecture images]({% link blank.md%})
+	- [Lecture images]({% link blank.md%})
 
 #### Week 16
 ### Student Presentations

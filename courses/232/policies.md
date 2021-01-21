@@ -16,7 +16,7 @@ Office of Campus Life and Student Affairs: 973-408-3390; <stuaff@drew.edu>
 
 ### Attendance
 
-This course requires participation. *This is your most important responsibility.* What counts in the course is what we do every day; your grade is weighted to reflect that. Come prepared, having done the reading each day, and engage in the class with informed participation. The more you participate in class, and show that you are prepared and engaged, the better. Absences will hurt your grade.
+This course requires participation. *This is your most important responsibility.* What counts in the course is what we do every day; your grade is weighted to reflect that. Come prepared, having done the reading each day, and engage in the class with informed participation. The more you participate in class, and show that you are prepared and engaged, the better. Because life happens, everyone gets a single excused absence with no explanation necessary. Further absences will hurt your grade.
 
 Feel free to speak to me any time outside of class about the material. Email anytime (though I may not get back to you right away)!
 
