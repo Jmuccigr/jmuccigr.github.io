@@ -13,12 +13,15 @@ course_number: 232
 - Wednesday, January 20
     - Introduction to the class
     - The nature of the evidence
-    - [Images from class]({% link courses/232/lectures/CLAS 232-01 Rome Intro.html%})
+    - [Class video](https://drew.zoom.us/rec/share/IwHSXvMTZBGsblFMOi3BVDqtaSNXJkiClYdDOJkvPwf5jSnz3j6VxsGHWHHpaFND.wlv3m2q1pa0O9cub)
+    - [Images from class]({% link courses/232/lectures/CLAS 232-01 Rome Intro.html %})
 
 ### Earliest Rome
 
 - Friday, January 22
-	- Our Sources: Livy
+    - Our Sources: Livy
+    - [Class video](https://drew.zoom.us/rec/share/ZQd0igNLoGStA4npcITZes6jLpfuUo-tmgwzZn-S9k5P5oZNxD_DhJyz7cpdfkp6.C_G3RVfA1kPA7Btm)
+    - [Images from class]({% link courses/232/lectures/CLAS 232-02 Early Rome & kings.html %})
     - Assignments:
         - *HoRP* ch. 1 & 2 up to The Etruscans
         - [OCD entry](https://www-oxfordreference-com.ezproxy.drew.edu/view/10.1093/acref/9780199545568.001.0001/acref-9780199545568-e-3744?rskey=eiTVzL&result=3801){:target="_blank"} for Livy; his [Preface](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0026%3Abook%3D1%3Achapter%3Dpr){:target="_blank"} and [Book 1.4-8](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0026%3Abook%3D1%3Achapter%3D4){:target="_blank"}
