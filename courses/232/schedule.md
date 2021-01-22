@@ -25,7 +25,7 @@ course_number: 232
         - Wikipedia
             - Watch (slightly outdated) [video](https://en.wikipedia.org/wiki/File:The_State_of_Wikipedia_by_JESS3.ogv) on Wikipedia.
             - Read the "[Editing Wikipedia](https://commons.wikimedia.org/wiki/File:Editing_Wikipedia_brochure_(Wiki_Education_Foundation).pdf)" document.
-            - Create an account on Wikipedia (if you don't have one), and [email me](mailto:jmuccigr@drew.edu) your account name.
+            - Create an account on Wikipedia (if you don't have one), and [email me](mailto:jmuccigr@drew.edu?subject=CLAS 232 Wikipedia username) your account name.
 
 #### Week 2
 ### Regal Rome
@@ -151,7 +151,7 @@ course_number: 232
 
 - Wednesday, March 24
     - Map Quiz II: [Geography of the Empire]({% link /courses/232/quizzes/Map for quiz II - Empire.pdf %} )
-        - [A blank version of the map]( {% link /courses/232/quizzes/Map for quiz II blank.png %} )
+        - [A blank version of the map]( {% link /courses/232/quizzes/Map for quiz II blank.pdf %} )
 	- Claudius & Nero
     - Assignments:
     	- *HoRP* ch. 23

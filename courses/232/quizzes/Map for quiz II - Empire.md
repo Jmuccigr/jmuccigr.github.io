@@ -1,11 +1,19 @@
 ---
-title: 'Map for Quiz I: Greece & Surroundings'
-author: 
-date: January 2018
-geometry: landscape
+title: 'Map for Quiz II: The Roman Empire'
+date: March 2021
+header-includes: \renewcommand{\caption}[1]{}
 ---
 
 
-Memorize the locations on this map of the area of ancient Greece.
+Memorize the below listed locations on this map of the area of the Roman empire.
 
-![Map of Greece](/Users/john_muccigrosso/Documents/Academic/Drew/courses/CLAS 240/2016/Quizzes/Map for quiz 1.png)
+![](Map for quiz II - Empire.png)
+
+| Regions (ALL CAPS) |  |  |  |
+|:------|:------|:------|:------|
+|- Africa Proconsularis     | - Cyrene     | - Iudaea     | - Numidia|
+|- Arabia     | - Dacia     | - Macedonia     | - Pannonia|
+|- Armenia     | - Dalmatia     | - Mauretania     | - Scythia|
+|- Asia     | - Gallia     | - Mesopotamia     | - Syria|
+|- Brittania     | - Hispania     | - Noricum     | - Thracia|
+

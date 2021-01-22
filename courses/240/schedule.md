@@ -24,6 +24,12 @@ course_number: 240
         - Resource: [PeriodO](http://perio.do)
 	- Assignments
         - *AC*: ch. 12, p. 205-210; ch. 13, p. 226-227; ch. 14, p. 228-232, 237; ch. 16, 252-254, 264-268; ch. 17, p. 269-270, 273-278; ch. 18, p. 286-287, 289-305
+        - Periodo: [Motivation](https://perio.do/motivation/)
+        - Wikipedia
+            - Watch (slightly outdated) [video](https://en.wikipedia.org/wiki/File:The_State_of_Wikipedia_by_JESS3.ogv) on Wikipedia.
+            - Read the "[Editing Wikipedia](https://commons.wikimedia.org/wiki/File:Editing_Wikipedia_brochure_(Wiki_Education_Foundation).pdf)" document.
+            - Create an account on Wikipedia (if you don't have one), and [email me](mailto:jmuccigr@drew.edu?subject=Wikipedia username ) your account name.
+
     - [Images from class]({% link blank.md%})
 
 - Thursday, January 28
@@ -261,7 +267,6 @@ course_number: 240
 	- Coinage: *AC*: ch. 12, 217-218 "...coinage"; ch 16, 268 on the mint.
 	- Bursche, A. 2002. December 15. “Circulation of Roman Coinage in Northern Europe in Late Antiquity.” *Histoire & mesure* XVII 3/4 (December 15): 121–141. [doi:10.4000/histoiremesure.886](https://doi.org/10.4000/histoiremesure.886).
 	- Buttrey, T.V. 1972. “[Halved coins, the Augustan reform, and Horace, Odes I.3.](http://www.jstor.org/stable/503609)” *American Journal of Archaeology* 76 1: 31–48.
-	- [Lecture images]({% link blank.md%})
 	- [Lecture images]({% link blank.md%})
 
 #### Week 16
