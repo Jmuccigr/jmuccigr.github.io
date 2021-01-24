@@ -147,7 +147,7 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |date|item|
 |:--|:--|
-2020 | Fide non ficta. *Essays in honor of Paul B. Harvey, jr.*, co-edited with Celia Schultz, from a conference (April 2018)
+2020 | Fide non ficta. *Essays in honor of Paul B. Harvey, jr.*, co-edited with Celia Schultz, Spirito: Casa Editrice Edipuglia
 &nbsp; | "*Populus* as army and the preservation of Roman legal language," in Fide non ficta. *Essays in Honor of Paul B. Harvey, Jr.*, 13–32. Spirito: Casa Editrice Edipuglia
 2016 | "The Apsidal building of the Vicus Martis Tudertium (PG)," with Sarah Harvey, Elena Lorenzetti, Jill A. Rhodes, and Stefano Spiganti *FOLD&R* [**366**](http://www.fastionline.org/docs/FOLDER-it-2016-366.pdf)
 2015 | "The 2011 Excavation Season at the Site of the Vicus Martis Tudertium (PG)," with Rangar Cline, Sarah Harvey, Elena Lorenzetti, and Stefano Spiganti *FOLD&R* [**327**](http://www.fastionline.org/docs/FOLDER-it-2015-327.pdf)
@@ -258,5 +258,5 @@ Leaflet; SQL; Greek-Arch list manager; Drew Classics-Department Image Database, 
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 18 December 2020.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Saturday, 23 January 2021.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
