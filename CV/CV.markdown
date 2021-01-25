@@ -70,6 +70,7 @@ Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.
 
 |date|item|
 |:--|:--|
+2021– | Digital Humanities Advisory Committee
 2016–2018 | Digital Humanities Working Group
 2015–2018 | Super-advisor to incoming students
 2016–2017 | Faculty Associate, Brown First-Year Residence Hall
@@ -258,5 +259,5 @@ Leaflet; SQL; Greek-Arch list manager; Drew Classics-Department Image Database, 
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Saturday, 23 January 2021.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Monday, 25 January 2021.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
