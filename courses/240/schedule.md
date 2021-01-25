@@ -25,11 +25,11 @@ course_number: 240
 	- Assignments
         - *AC*: ch. 12, p. 205-210; ch. 13, p. 226-227; ch. 14, p. 228-232, 237; ch. 16, 252-254, 264-268; ch. 17, p. 269-270, 273-278; ch. 18, p. 286-287, 289-305
         - Periodo: [Motivation](https://perio.do/motivation/)
+            - [The chronology of AC](http://n2t.net/ark:/99152/p083p5r)
         - Wikipedia
             - Watch (slightly outdated) [video](https://en.wikipedia.org/wiki/File:The_State_of_Wikipedia_by_JESS3.ogv) on Wikipedia.
             - Read the "[Editing Wikipedia](https://commons.wikimedia.org/wiki/File:Editing_Wikipedia_brochure_(Wiki_Education_Foundation).pdf)" document.
             - Create an account on Wikipedia (if you don't have one), and [email me](mailto:jmuccigr@drew.edu?subject=CLAS 240 Wikipedia username ) your account name.
-
     - [Images from class]({% link blank.md%})
 
 - Thursday, January 28
@@ -39,7 +39,7 @@ course_number: 240
 			1. Create an account and [email me](mailto:jmuccigr@drew.edu?subject=CLAS 240 HW) your username.
 			1. If you wish, edit your profile to make your library public (in the *Privacy* tab). You can add whatever else you want, of course.
 			1. [Download](https://www.zotero.org/download/) and install the standalone version of Zotero and the browser extension(s) you need.
-		- Submit via [email](mailto:jmuccigr@drew.edu?subject=CLAS 240 HW) the names of three [archaeologists]({% link courses/240/archaeologists.md %}) and three [sites]({% link courses/240/sites.md %}) you might want to do a presentation on. Feel free to suggest your own favorite for either of these. If too many people choose the same topics, I reserve the right to assign some arbitrarily.
+		- Submit via [this survey](https://forms.gle/2MPNyMdLBTZ9y7qMA) the names of three [archaeologists]({% link courses/240/archaeologists.md %}) and three [sites]({% link courses/240/sites.md %}) you might want to do a presentation on. If too many people choose the same topics, I reserve the right to assign some arbitrarily.
 		- Be prepared to discuss what makes a good and a bad presentation. (Look at these [search results](https://duckduckgo.com/?q=death+by+powerpoint&kn=1).)
         - [Images from class]({% link blank.md%})
 
