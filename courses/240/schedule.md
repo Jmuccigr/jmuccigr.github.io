@@ -30,11 +30,12 @@ course_number: 240
             - Watch (slightly outdated) [video](https://en.wikipedia.org/wiki/File:The_State_of_Wikipedia_by_JESS3.ogv) on Wikipedia.
             - Read the "[Editing Wikipedia](https://commons.wikimedia.org/wiki/File:Editing_Wikipedia_brochure_(Wiki_Education_Foundation).pdf)" document.
             - Create an account on Wikipedia (if you don't have one), and [email me](mailto:jmuccigr@drew.edu?subject=CLAS 240 Wikipedia username ) your account name.
-    - [Images from class]({% link blank.md%})
+    - [Images from class]({% link courses/240/lectures/CLAS-240 02 Urbanism.html %})
 
 - Thursday, January 28
 	- Assignments
 		- *AC*: ch. 19, p. 311-322, ch. 20, p. 328-339, 346-347; ch. 22, 356-358, 367-368; ch. 24
+		- Wikipedia: Read [my user page](https://en.wikipedia.org/w/index.php?title=User:Eponymous-Archon/Drew_Archaeology) for details on our use of Wikipedia. Note especially the *Warm-up Assignment* section.
 		- Zotero
 			1. Create an account and [email me](mailto:jmuccigr@drew.edu?subject=CLAS 240 HW) your username.
 			1. If you wish, edit your profile to make your library public (in the *Privacy* tab). You can add whatever else you want, of course.
