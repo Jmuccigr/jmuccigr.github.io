@@ -33,6 +33,7 @@ course_number: 240
     - [Images from class]({% link courses/240/lectures/CLAS-240 02 Urbanism.html %})
 
 - Thursday, January 28
+	- [Colonial timeline](https://users.drew.edu/jmuccigr/colonies/)
 	- Assignments
 		- *AC*: ch. 19, p. 311-322, ch. 20, p. 328-339, 346-347; ch. 22, 356-358, 367-368; ch. 24
 		- Wikipedia: Read [my user page](https://en.wikipedia.org/w/index.php?title=User:Eponymous-Archon/Drew_Archaeology) for details on our use of Wikipedia. Note especially the *Warm-up Assignment* section.
@@ -62,9 +63,6 @@ course_number: 240
     - Assignments:
 		- Snodgrass, A. 2012. “What is classical archaeology: Greek archaeology.” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 13–29, Blackwell Studies in Global Archaeology, Wiley-Blackwell, in [PDF](../readings/Snodgrass - 2012 - What is classical archaeology Greek archaeology.pdf).
 		- Wikipedia
-			- Watch (slightly outdated) [video](https://en.wikipedia.org/wiki/File:The_State_of_Wikipedia_by_JESS3.ogv) on Wikipedia.
-			- Read the "[Editing Wikipedia](https://commons.wikimedia.org/wiki/File:Editing_Wikipedia_brochure_(Wiki_Education_Foundation).pdf)" document.
-			- Create an account on Wikipedia (if you don't have one), and [email me](mailto:jmuccigr@drew.edu?subject=CLAS 240 HW) your account name.
 
 #### Week 4
 ### Cities & Sanctuaries (with Treasuries)

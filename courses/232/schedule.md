@@ -34,10 +34,12 @@ course_number: 232
 ### Regal Rome
 
 - Wednesday, January 27
+    - [Class video](https://drew.zoom.us/rec/share/b5EehR2C5thc75DzUoUpRspx9awyslQL5ro213ZDDERCnkroN1Tgz-t1-8LYoPcc.DcjLqtniPlbIlmc7)
 	- Assignments
         - *HoRP* ch. 3
         - Be prepared to discuss what makes a good and a bad presentation. (Look at these [search results](https://duckduckgo.com/?q=death+by+powerpoint&kn=1).)
     - [Images from class]({% link courses/232/lectures/CLAS 232-02 Early Rome & kings.html %})
+    - 
 
 - Friday, January 29
     - The End of the Regal Period
