@@ -39,8 +39,7 @@ course_number: 232
         - *HoRP* ch. 3
         - Be prepared to discuss what makes a good and a bad presentation. (Look at these [search results](https://duckduckgo.com/?q=death+by+powerpoint&kn=1).)
     - [Images from class]({% link courses/232/lectures/CLAS 232-02 Early Rome & kings.html %})
-    - 
-
++
 - Friday, January 29
     - The End of the Regal Period
     - Map Quiz I: [Geography of Rome]({% link /courses/232/quizzes/Map for quiz I - Rome.pdf %} )
@@ -55,6 +54,7 @@ course_number: 232
 - Wednesday, February 3
     - The nature of Republican institutions; Decline
     - Assignments:
+        - Livy, [1.57-end](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0026%3Abook%3D1%3Achapter%3D57), the story of the end of the kings
         - [The Twelve Tables](https://sourcebooks.fordham.edu/ancient/12tables.asp){:target="_blank"}
         - *HoRP* ch. 5
 
