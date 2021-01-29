@@ -41,6 +41,7 @@ course_number: 232
     - [Images from class]({% link courses/232/lectures/CLAS 232-02 Early Rome & kings.html %})
 +
 - Friday, January 29
+    - [Class video](https://drew.zoom.us/rec/share/M0e2v48eZfvpPzb4IMjoFKaplAT2XIGxMMWj6WzJP_hBlqZ3LkdsN3MvPeybwYKm.mz2sulTFkRU4DDjc)
     - The End of the Regal Period
     - Map Quiz I: [Geography of Rome]({% link /courses/232/quizzes/Map for quiz I - Rome.pdf %} )
         - [A blank version of the map for practice]( {% link /courses/232/quizzes/Map for quiz I blank.png %} )
