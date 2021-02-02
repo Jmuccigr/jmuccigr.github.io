@@ -48,6 +48,7 @@ course_number: 232
 	- Assignments:
         - *HoRP* ch. 4
         - Polybius on the first treaty between Rome & Carthage: [Book 3, chapter 22](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/3*.html){:target="_blank"}
+    - [Images from class]({% link courses/232/lectures/CLAS-232 03 The End of Kingship at Rome.html %})
 
 #### Week 3
 ### The Early Republic
@@ -58,6 +59,7 @@ course_number: 232
         - Livy, [1.57-end](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0026%3Abook%3D1%3Achapter%3D57), the story of the end of the kings
         - [The Twelve Tables](https://sourcebooks.fordham.edu/ancient/12tables.asp){:target="_blank"}
         - *HoRP* ch. 5
+    - [Images from class]({% link courses/232/lectures/CLAS-232 04 The Early Republic.html %})
 
 - Friday, February 5
 	- Decemvirate & Restoration; Patricians vs Plebeians; Veii & the Gauls
