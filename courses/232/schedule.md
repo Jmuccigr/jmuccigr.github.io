@@ -39,7 +39,7 @@ course_number: 232
         - *HoRP* ch. 3
         - Be prepared to discuss what makes a good and a bad presentation. (Look at these [search results](https://duckduckgo.com/?q=death+by+powerpoint&kn=1).)
     - [Images from class]({% link courses/232/lectures/CLAS 232-02 Early Rome & kings.html %})
-+
+
 - Friday, January 29
     - [Class video](https://drew.zoom.us/rec/share/M0e2v48eZfvpPzb4IMjoFKaplAT2XIGxMMWj6WzJP_hBlqZ3LkdsN3MvPeybwYKm.mz2sulTFkRU4DDjc)
     - The End of the Regal Period
@@ -57,7 +57,6 @@ course_number: 232
     - The nature of Republican institutions; Decline
     - Assignments:
         - Livy, [1.57-end](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0026%3Abook%3D1%3Achapter%3D57), the story of the end of the kings
-        - [The Twelve Tables](https://sourcebooks.fordham.edu/ancient/12tables.asp){:target="_blank"}
         - *HoRP* ch. 5
     - [Images from class]({% link courses/232/lectures/CLAS-232 04 The Early Republic.html %})
 
@@ -65,7 +64,9 @@ course_number: 232
 	- Decemvirate & Restoration; Patricians vs Plebeians; Veii & the Gauls
     - Assignments:
         - *HoRP* ch. 6
+        - [The Twelve Tables](https://sourcebooks.fordham.edu/ancient/12tables.asp){:target="_blank"}
         - [Dionysius on patrons & clients](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/2A*.html#9.2)
+    - [Images from class]({% link courses/232/lectures/CLAS-232 05 Rome in the 5-4th c..html %})
 
 #### Week 4
 ### The Middle Republic
@@ -80,7 +81,7 @@ course_number: 232
     - Our Sources: Fabius Pictor
     - Assignments:
         - *HoRP* ch. 8 & 9
-        - [OCD entry](https://www-oxfordreference-com.ezproxy.drew.edu/view/10.1093/acref/9780199545568.001.0001/acref-9780199545568-e-2618?rskey=RP4TXE&result=2) on Fabius Pictor{:target="_blank"}
+        - [OCD entry](https://www-oxfordreference-com.ezproxy.drew.edu/view/10.1093/acref/9780199545568.001.0001/acref-9780199545568-e-2618?rskey=RP4TXE&result=2){:target="_blank"} on Fabius Pictor
 
 #### Week 5
 ### Wealth & Expansion
