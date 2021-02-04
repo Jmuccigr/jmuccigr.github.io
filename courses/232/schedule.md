@@ -54,6 +54,7 @@ course_number: 232
 ### The Early Republic
 
 - Wednesday, February 3
+    - [Class video](https://drew.zoom.us/rec/share/QWTexDCcvQSX5xoLHA77brHO0gGrF5WiCbDWQ7PI31kdwg_w1Y0tk8O5CD4SJcc.JtgKYMn2k6jhawJJ)
     - The nature of Republican institutions; Decline
     - Assignments:
         - Livy, [1.57-end](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0026%3Abook%3D1%3Achapter%3D57), the story of the end of the kings

@@ -56,10 +56,11 @@ course_number: 240
 
 - Thursday, February 4
     - Archaeologist: Giovanni Battista Belzoni (1778 – 1823) - Spencer Hall
-    - Site: Troy, Turkey - Katie
+    - Site: [Troy, Turkey - Katie](https://docs.google.com/presentation/d/1gScCVjNLWqtvanyOQ5Ox_rqxZv1GI8-bnllHTg3GBig/edit?ts=601c0d96)
     - Assignments:
 		- Snodgrass, A. 2012. “What is classical archaeology: Greek archaeology.” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 13–29, Blackwell Studies in Global Archaeology, Wiley-Blackwell, in [PDF](../readings/Snodgrass - 2012 - What is classical archaeology Greek archaeology.pdf).
 		- Wikipedia
+    - [Images from class]({% link courses/240/lectures/CLAS-240 03 Urbanism.html %})
 
 #### Week 4
 ### Cities & Sanctuaries (with Treasuries)
@@ -72,12 +73,10 @@ course_number: 240
 
 - Thursday, February 11
     - Archaeologist: Heinrich Schliemann (1822 – 1890) - Spencer Harrington
-    - Site: Knossos, Crete - Spencer Harrington
+    - Site: Osteria dell’Osa, Italy - Sophia
 	- Millett, M. 2012. “[What is classical archaeology: Roman archaeology]({% link /courses/240/readings/Millett - 2012 - What is classical archaeology Roman archaeology.pdf %}).” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 30–50. Second. Blackwell Studies in Global Archaeology. Wiley-Blackwell.
 	- Sanctuaries
     	- *AC*: ch. 12, 214-216 "The Heraion on Samos"; ch. 15 "Greek Sanctuaries" (don't worry about the monuments or statuary); ch. 17, 270-272, Epidauros.
-	- Modern Scholarship
-        - Create an account on [Hypothes.is](https://web.hypothes.is/start/).
     - [Images from class]({% link blank.md%})
 
 #### Week 5
@@ -91,7 +90,7 @@ course_number: 240
 
 - Thursday, February 18
     - Archaeologist: Flinders Petrie (1853 – 1942) - Mike
-    - Site: Osteria dell’Osa, Italy - Sophia
+    - Site: Knossos, Crete - Spencer Harrington
 	- Rome & Pompeii: *AC*: ch. 20, 339-342 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
 	- [digitales forum romanum](http://www.digitales-forum-romanum.de)
 	- Wikipedia
