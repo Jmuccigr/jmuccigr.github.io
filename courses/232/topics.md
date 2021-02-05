@@ -8,17 +8,17 @@ layout: syllabus
 
 ## Special topics for presentations
 
-1. Law codes
-1. War elephants
+1. Law codes - Luke
+1. War elephants - Ethan
 1. Antonine Plague - Pat
-1. Marriage
-1. How elections work
-1. Funerary inscriptions
-1. *Lex de imperio Vespasiani* (law on the *imperium* of Vespasian)
-1. Vestal Virgins
-1. Life expectancy
-1. Silver mining
-1. The Aurelian Wall
-1. Armor
-1. Travel
-1. Minting coins
+1. Marriage - Darius
+1. How elections work - GJ
+1. Funerary inscriptions - Rose
+1. *Lex de imperio Vespasiani* (law on the *imperium* of Vespasian) - Shuang
+1. Vestal Virgins - Mary Kate
+1. Life expectancy - Daniel
+1. Silver mining - Joe
+1. The Aurelian Wall - Maria
+1. Armor - Tristan
+1. Travel - Shunuan
+1. Minting coins - Danny
