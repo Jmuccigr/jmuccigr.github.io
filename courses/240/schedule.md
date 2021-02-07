@@ -55,7 +55,7 @@ course_number: 240
 		- "Greek City Planning in Theory and Practice" in Cahill, N. 2002. April 10. Household and City Organization at Olynthus. Yale University Press, Ch. 1 in [PDF](../readings/Cahill Greek City Planning Ch 1 of Household 2001.pdf)
 
 - Thursday, February 4
-    - Archaeologist: Giovanni Battista Belzoni (1778 – 1823) - Spencer Hall
+    - Archaeologist: [Giovanni Battista Belzoni (1778 – 1823) - Spencer Hall](https://docs.google.com/presentation/d/1BZgRTYuZV85bo7-B_KX9ykpUViB1XXX8CQ36OtthXeQ/edit?usp=sharing)
     - Site: [Troy, Turkey - Katie](https://docs.google.com/presentation/d/1gScCVjNLWqtvanyOQ5Ox_rqxZv1GI8-bnllHTg3GBig/edit?ts=601c0d96)
     - Assignments:
 		- Snodgrass, A. 2012. “What is classical archaeology: Greek archaeology.” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 13–29, Blackwell Studies in Global Archaeology, Wiley-Blackwell, in [PDF](../readings/Snodgrass - 2012 - What is classical archaeology Greek archaeology.pdf).

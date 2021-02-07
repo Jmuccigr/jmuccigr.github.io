@@ -62,6 +62,7 @@ course_number: 232
     - [Images from class]({% link courses/232/lectures/CLAS-232 04 The Early Republic.html %})
 
 - Friday, February 5
+    - [Class video](https://drew.zoom.us/rec/share/i2g98krPB3eydRX0cwJBEwYO_w5L99bf9mcboPTmXXsi9nNmDJP7cZtC1ANeKRdz.-en-4QF53Q-DBLRg)
     - Decemvirate & Restoration; Patricians vs Plebeians; Veii & the Gauls
     - Assignments:
         - *HoRP* ch. 6
