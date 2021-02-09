@@ -69,12 +69,18 @@ course_number: 240
     - Pompeii
 		- Read [chapter on Pompeii](../readings/Stambaugh - 1988 - The ancient Roman city.pdf) from Stambaugh, J.E. 1988. *The ancient Roman city*. Baltimore: Johns Hopkins University Press.
 		- AC: Ch 22, p. 356-358 = first section on Pompeii through "Town Plan".
+		- Bonus: Sigurdsson, H., S. Cashdollar, and S.R.J. Sparks. 1982. January 1. “[The Eruption of Vesuvius in A. D. 79: Reconstruction from Historical and Volcanological Evidence]({% link /courses/240/readings/Sigurdsson et al. - 1982 - The Eruption of Vesuvius in A. D. 79 Reconstructi.pdf %}).” American Journal of Archaeology 86 1 (January 1): 39–51. [doi:10.2307/504292](https://doi.org/10.2307/504292).
 		- [Pompeii Bibliography and Mapping Project](http://digitalhumanities.umass.edu/pbmp/?page_id=1258)
+    - [Images from class]({% link courses/240/lectures/CLAS-240 04 Pompeii, the city.html %})
+    - [Wikipedia work]({% link images/maps.gif %})
+
 
 - Thursday, February 11
     - Archaeologist: Heinrich Schliemann (1822 – 1890) - Spencer Harrington
     - Site: Osteria dell’Osa, Italy - Sophia
-	- Millett, M. 2012. “[What is classical archaeology: Roman archaeology]({% link /courses/240/readings/Millett - 2012 - What is classical archaeology Roman archaeology.pdf %}).” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 30–50. Second. Blackwell Studies in Global Archaeology. Wiley-Blackwell.
+    - Assignments
+        - Millett, M. 2012. “[What is classical archaeology: Roman archaeology]({% link /courses/240/readings/Millett - 2012 - What is classical archaeology Roman archaeology.pdf %}).” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 30–50. Second. Blackwell Studies in Global Archaeology. Wiley-Blackwell.
+        - Killgrove, K. 2018. October 16. “[New Pompeii Graffiti May Rewrite History In A Major Way]({% link /courses/240/readings/Killgrove - 2018 - New Pompeii Graffiti May Rewrite History In A Majo.pdf %}).” Forbes. October 16. <https://www.forbes.com/sites/kristinakillgrove/2018/10/16/new-pompeii-graffiti-may-rewrite-history-in-a-major-way/>.
 	- Sanctuaries
     	- *AC*: ch. 12, 214-216 "The Heraion on Samos"; ch. 15 "Greek Sanctuaries" (don't worry about the monuments or statuary); ch. 17, 270-272, Epidauros.
     - [Images from class]({% link blank.md%})
