@@ -77,6 +77,7 @@ course_number: 232
     - Pyrhhus, Carthage & Ascendancy in the peninsula
     - Assignments:
         - *HoRP* ch. 7
+    - [Images from class]({% link courses/232/lectures/CLAS-232 07 Internal Devo in 4th c. Rome.html'  %})
 
 - Friday, February 12
     - Historian: Edward Gibbon (1737–1794) - Zachary
@@ -86,6 +87,7 @@ course_number: 232
     - Assignments:
         - *HoRP* ch. 8 & 9
         - [OCD entry](https://www-oxfordreference-com.ezproxy.drew.edu/view/10.1093/acref/9780199545568.001.0001/acref-9780199545568-e-2618?rskey=RP4TXE&result=2){:target="_blank"} on Fabius Pictor
+    - [Images from class]({% link courses/232/lectures/CLAS-232 08 Personal Glory.html %})
 
 #### Week 5
 ### Wealth & Expansion
