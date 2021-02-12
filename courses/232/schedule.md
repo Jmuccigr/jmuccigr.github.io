@@ -77,7 +77,7 @@ course_number: 232
     - Pyrhhus, Carthage & Ascendancy in the peninsula
     - Assignments:
         - *HoRP* ch. 7
-    - [Images from class]({% link courses/232/lectures/CLAS-232 07 Internal Devo in 4th c. Rome.html'  %})
+    - [Images from class]({% link courses/232/lectures/CLAS-232 07 Internal Devo in 4th c. Rome.html  %})
 
 - Friday, February 12
     - Historian: Edward Gibbon (1737–1794) - Zachary
