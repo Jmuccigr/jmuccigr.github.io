@@ -62,7 +62,7 @@ course_number: 232
     - [Images from class]({% link courses/232/lectures/CLAS-232 04 The Early Republic.html %})
 
 - Friday, February 5
-    - [Class video](https://drew.zoom.us/rec/share/i2g98krPB3eydRX0cwJBEwYO_w5L99bf9mcboPTmXXsi9nNmDJP7cZtC1ANeKRdz.-en-4QF53Q-DBLRg)
+    - [Class video](https://drew.zoom.us/rec/share/2u4WbtjXvDe1vN78FQ-papG_0JhvVbuMsGrVtFNp36Gu22jgZBzqPkai8AHbn1qB.-uU3oz4YQJ9jSsmj?startTime=1612543525000)
     - Decemvirate & Restoration; Patricians vs Plebeians; Veii & the Gauls
     - Assignments:
         - *HoRP* ch. 6
@@ -84,7 +84,7 @@ course_number: 232
 
     - [Class video](https://drew.zoom.us/rec/share/Pq3duwdPxY7qYYbSdUvBN5gTQvFXslUHNLl8Vh_yqYWE-ULUyhPltQQ4L-lXN5Fo.SOcEeRtrSeQkuQll)
     - Historian: [Edward Gibbon (1737–1794) - Zachary](https://docs.google.com/presentation/d/1pH4MHcX2qHV76wt7hTCAnDPJwxXPOrg4FWBdq-08CPc/edit?usp=sharing)
-    - Topic: Law codes - Luke
+    - Topic: [Law codes - Luke]({% link courses/232/presentations/Law Codes.pptx  %})
     - Greek cities
     - Our Sources: Fabius Pictor
     - Assignments:
