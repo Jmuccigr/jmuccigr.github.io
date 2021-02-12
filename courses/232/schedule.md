@@ -74,13 +74,16 @@ course_number: 232
 ### The Middle Republic
 
 - Wednesday, February 10
+    - [Class video](https://drew.zoom.us/rec/share/P_WMdwMBVG1eOP1dg3gdltURgJ2Zdiu22u8ljZFy4KESDALFqspcnL7RaaixoVlc.2vLsfp7NHBf4gfQk)
     - Pyrhhus, Carthage & Ascendancy in the peninsula
     - Assignments:
         - *HoRP* ch. 7
     - [Images from class]({% link courses/232/lectures/CLAS-232 07 Internal Devo in 4th c. Rome.html  %})
 
 - Friday, February 12
-    - Historian: Edward Gibbon (1737–1794) - Zachary
+
+    - [Class video](https://drew.zoom.us/rec/share/Pq3duwdPxY7qYYbSdUvBN5gTQvFXslUHNLl8Vh_yqYWE-ULUyhPltQQ4L-lXN5Fo.SOcEeRtrSeQkuQll)
+    - Historian: [Edward Gibbon (1737–1794) - Zachary](https://docs.google.com/presentation/d/1pH4MHcX2qHV76wt7hTCAnDPJwxXPOrg4FWBdq-08CPc/edit?usp=sharing)
     - Topic: Law codes - Luke
     - Greek cities
     - Our Sources: Fabius Pictor
@@ -93,7 +96,7 @@ course_number: 232
 ### Wealth & Expansion
 
 - Wednesday, February 17
-    - [*Lupercalia*]({% link courses/232/lectures/Lupercalia.html %})
+    - [*Lupercalia* images]({% link courses/232/lectures/Lupercalia.html %})
     - Mediterranean growth
     - Our Sources: Polybius
     - Wikipedia

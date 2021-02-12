@@ -89,7 +89,7 @@ course_number: 240
 ### Agora/Forum
 
 - Tuesday, February 16
-    - [*Lupercalia*]({% link courses/240/lectures/Lupercalia.html %})
+    - [*Lupercalia* images]({% link courses/240/lectures/Lupercalia.html %})
 	- Athens & Greek cities
 		- *AC*: 229-232 "Athens in the Archaic period"; 266-268 "The Agora".
     - [Images from class]({% link blank.md%})
