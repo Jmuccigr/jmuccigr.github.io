@@ -92,6 +92,10 @@ course_number: 240
     - [*Lupercalia* images]({% link courses/240/lectures/Lupercalia.html %})
 	- Athens & Greek cities
 		- *AC*: 229-232 "Athens in the Archaic period"; 266-268 "The Agora".
+		- Thompson, H.A., and R.E. Wycherley. 1972. [*The Agora of Athens: The History, Shape and Uses of an Ancient City Center*]({% link courses/240/readings/Thompson and Wycherley - 1972.pdf%}). Vol. 14, p. 1-24.
+		- Camp, J.McK. 2003. [*The Athenian Agora: a short guide*]({% link courses/240/readings/Camp - 2003 - The Athenian Agora a short guide.pdf %}). Rev. ed. Excavations of the Athenian Agora Picture book 16. Princeton, NJ.: American School of Classical Studies at Athens, p. 1-5. (Have a look at the rest of it.)
+
+
     - [Images from class]({% link blank.md%})
 
 - Thursday, February 18
