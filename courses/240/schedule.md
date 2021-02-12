@@ -76,14 +76,14 @@ course_number: 240
 
 
 - Thursday, February 11
-    - Archaeologist: Heinrich Schliemann (1822 – 1890) - Spencer Harrington
-    - Site: Osteria dell’Osa, Italy - Sophia
+    - Archaeologist: [Heinrich Schliemann (1822 – 1890) - Spencer Harrington]({% link courses/240/presentations/schliemann Presentation .pptx %})
+    - Site: [Osteria dell’Osa, Italy - Sophia](https://docs.google.com/presentation/d/1D5_h0zAFrOkngVMnJHq_7lVHwrIkNhVaKN9xdfoTsUY/edit?usp=sharing_eip&ts=60255675)
     - Assignments
         - Millett, M. 2012. “[What is classical archaeology: Roman archaeology]({% link /courses/240/readings/Millett - 2012 - What is classical archaeology Roman archaeology.pdf %}).” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 30–50. Second. Blackwell Studies in Global Archaeology. Wiley-Blackwell.
         - Killgrove, K. 2018. October 16. “[New Pompeii Graffiti May Rewrite History In A Major Way]({% link /courses/240/readings/Killgrove - 2018 - New Pompeii Graffiti May Rewrite History In A Majo.pdf %}).” Forbes. October 16. <https://www.forbes.com/sites/kristinakillgrove/2018/10/16/new-pompeii-graffiti-may-rewrite-history-in-a-major-way/>.
 	- Sanctuaries
     	- *AC*: ch. 12, 214-216 "The Heraion on Samos"; ch. 15 "Greek Sanctuaries" (don't worry about the monuments or statuary); ch. 17, 270-272, Epidauros.
-    - [Images from class]({% link blank.md%})
+    - [Images from class]({% link courses/240/lectures/07 Sanctuaries.html %})
 
 #### Week 5
 ### Agora/Forum
