@@ -94,14 +94,15 @@ course_number: 240
 		- *AC*: 229-232 "Athens in the Archaic period"; 266-268 "The Agora".
 		- Thompson, H.A., and R.E. Wycherley. 1972. [*The Agora of Athens: The History, Shape and Uses of an Ancient City Center*]({% link courses/240/readings/Thompson and Wycherley - 1972.pdf%}). Vol. 14, p. 1-24.
 		- Camp, J.McK. 2003. [*The Athenian Agora: a short guide*]({% link courses/240/readings/Camp - 2003 - The Athenian Agora a short guide.pdf %}). Rev. ed. Excavations of the Athenian Agora Picture book 16. Princeton, NJ.: American School of Classical Studies at Athens, p. 1-5. (Have a look at the rest of it.)
-
+    - [Images from class]({% link courses/240/lectures/CLAS-240 06 Athenian Agora.html %})
 
     - [Images from class]({% link blank.md%})
 
 - Thursday, February 18
     - Archaeologist: Flinders Petrie (1853 – 1942) - Mike
     - Site: Knossos, Crete - Spencer Harrington
-	- Rome & Pompeii: *AC*: ch. 20, 339-342 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
+	- Rome & Pompeii
+    	- *AC*: ch. 20, 339-342 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
 	- [digitales forum romanum](http://www.digitales-forum-romanum.de)
 	- Wikipedia
     	- look at the [WikiProject on Classical Greece and Rome](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Classical_Greece_and_Rome), especially the *Tasks* tab.
@@ -169,7 +170,7 @@ course_number: 240
 	- Wikipedia "[list of Roman theatres](https://en.wikipedia.org/wiki/List_of_Roman_theatres)"
 	- [Reconstructions of the Theater of Pompey](http://www.pompey.cch.kcl.ac.uk/Burge.htm)
 	- Final Project
-    	- Description due as PDF from [Paperify](https://Paperify.org/) of no more than 2 pages. Submit on [Moodle](https://moodle.drew.edu/3/mod/assign/view.php?id=45125).
+    	- Description due via [email](mailto:jmuccigr@drew.edu?subject=Final project proposal)
 	- [Lecture Images]({% link blank.md%})
 
 #### Week 10
