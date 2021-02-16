@@ -83,7 +83,7 @@ course_number: 240
         - Killgrove, K. 2018. October 16. “[New Pompeii Graffiti May Rewrite History In A Major Way]({% link /courses/240/readings/Killgrove - 2018 - New Pompeii Graffiti May Rewrite History In A Majo.pdf %}).” Forbes. October 16. <https://www.forbes.com/sites/kristinakillgrove/2018/10/16/new-pompeii-graffiti-may-rewrite-history-in-a-major-way/>.
 	- Sanctuaries
     	- *AC*: ch. 12, 214-216 "The Heraion on Samos"; ch. 15 "Greek Sanctuaries" (don't worry about the monuments or statuary); ch. 17, 270-272, Epidauros.
-    - [Images from class]({% link courses/240/lectures/07 Sanctuaries.html %})
+    - [Images from class]({% link courses/240/lectures/CLAS-240 05 Sanctuaries.html %})
 
 #### Week 5
 ### Agora/Forum
