@@ -13,6 +13,7 @@ course_number: 232
 | **Contact**      | <jmuccigr@drew.edu>, BC 207, x3029    |
 | **Zoom advising**| <https://drew.zoom.us/my/muccigrosso> |
 | **Day and time** | Wednesday & Friday 11:50am-1:05pm     |
+| **Student Hrs.** | Tuesday & Friday 1:15pm-2:30pm        |
 | **Room**         | <https://drew.zoom.us/j/95113258147>  |
 | **Textbook**     | Schultz, C.E., and A.M. Ward. 2019. A history of the Roman people. Seventh edition. New York: Routledge, Taylor & Francis Group. (ISBN 978-1-315-19231-4) |
 |                  |  |
