@@ -101,7 +101,8 @@ course_number: 232
     - Our Sources: Polybius
     - Wikipedia
         - look at the [WikiProject on Classical Greece and Rome](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Classical_Greece_and_Rome), especially the *Tasks* tab.
-        - Identify three interesting pages you might contribute to on the stubs listings for [Greece](https://en.wikipedia.org/wiki/Category:Ancient_Greece_stubs) and [Rome](https://en.wikipedia.org/wiki/Category:Ancient_Rome_stubs).
+        - Identify three interesting pages you might contribute to on the stubs listings for [Rome](https://en.wikipedia.org/wiki/Category:Ancient_Rome_stubs).
+            - List them [here](https://docs.google.com/spreadsheets/d/1m4KG0YrlBK10lwDbJUFbGWcseGMWLaXvB9hGq4u1Luk/edit?usp=sharing).
     - Assignments:
         - *HoRP* ch. 10 & 11
         - [OCD entry](https://www-oxfordreference-com.ezproxy.drew.edu/view/10.1093/acref/9780199545568.001.0001/acref-9780199545568-e-5172?rskey=Kn4vCS&result=7){:target="_blank"} on Polybius
