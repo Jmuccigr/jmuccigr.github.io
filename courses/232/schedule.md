@@ -105,11 +105,13 @@ course_number: 232
     - Assignments:
         - *HoRP* ch. 10 & 11
         - [OCD entry](https://www-oxfordreference-com.ezproxy.drew.edu/view/10.1093/acref/9780199545568.001.0001/acref-9780199545568-e-5172?rskey=Kn4vCS&result=7){:target="_blank"} on Polybius
+    - [Images from class]({% link courses/232/lectures/CLAS-232 09 Wars of the 3rd c. BC.html %})
 
 - Friday, February 19
     - Historian: Barthold Georg Niebuhr (1776–1831) - Kristina
     - Topic: War elephants - Ethan
     - Suppressing the worshippers of Bacchus
+        - Read [Livy's text](https://sourcebooks.fordham.edu/ancient/livy39.asp) of the episode (29.8-19) along with the text of the decree (on the bottom of the same page)
     - The Gracchi & The Big Men
     - Modern scholarship
     - Assignments:
