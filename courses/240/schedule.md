@@ -96,8 +96,6 @@ course_number: 240
 		- Camp, J.McK. 2003. [*The Athenian Agora: a short guide*]({% link courses/240/readings/Camp - 2003 - The Athenian Agora a short guide.pdf %}). Rev. ed. Excavations of the Athenian Agora Picture book 16. Princeton, NJ.: American School of Classical Studies at Athens, p. 1-5. (Have a look at the rest of it.)
     - [Images from class]({% link courses/240/lectures/CLAS-240 06 Athenian Agora.html %})
 
-    - [Images from class]({% link blank.md%})
-
 - Thursday, February 18
     - Archaeologist: Flinders Petrie (1853 – 1942) - Mike
     - Site: Knossos, Crete - Spencer Harrington
