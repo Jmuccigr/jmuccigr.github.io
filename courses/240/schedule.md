@@ -97,8 +97,8 @@ course_number: 240
     - [Images from class]({% link courses/240/lectures/CLAS-240 06 Athenian Agora.html %})
 
 - Thursday, February 18
-    - Archaeologist: Flinders Petrie (1853 – 1942) - Mike
-    - Site: Knossos, Crete - Spencer Harrington
+    - Archaeologist: [Flinders Petrie (1853 – 1942) - Mike]({% link courses/240/presentations/Flinders Petrie.pptx %})
+    - Site: [Knossos, Crete - Spencer Harrington]({% link courses/240/presentations/Knossos, Crete Powerpoint .pptx %})
 	- Rome & Pompeii
     	- *AC*: ch. 20, 339-342 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
 	- [digitales forum romanum](http://www.digitales-forum-romanum.de)
