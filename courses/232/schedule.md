@@ -271,7 +271,7 @@ course_number: 232
 
 - Friday, April 30
     - Historian: Mary Beard (1955-) - Brandon
-    - Topic: Life expectancy - Daniel
+    - Topic: Travel - Shunuan
     - Then what happened?
     - Assignments:
         - *HoRP* ch. 33 & 34
