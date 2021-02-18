@@ -96,6 +96,7 @@ course_number: 232
 ### Wealth & Expansion
 
 - Wednesday, February 17
+    - [Class video](https://drew.zoom.us/rec/share/PHsvEAyaK2kkuza8P8yxPmIQ5GESvUez1cGPSZDAPKGidkI_5z_o-3YWWf5O1Peo.mtFmHXKXbbwcTvJI)
     - [*Lupercalia* images]({% link courses/232/lectures/Lupercalia.html %})
     - Mediterranean growth
     - Our Sources: Polybius

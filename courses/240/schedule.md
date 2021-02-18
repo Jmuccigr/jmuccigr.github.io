@@ -105,6 +105,7 @@ course_number: 240
 	- Wikipedia
     	- look at the [WikiProject on Classical Greece and Rome](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Classical_Greece_and_Rome), especially the *Tasks* tab.
         - Identify three interesting pages you might contribute to on the stubs listings for [Greece](https://en.wikipedia.org/wiki/Category:Ancient_Greece_stubs) and [Rome](https://en.wikipedia.org/wiki/Category:Ancient_Rome_stubs).
+            - Save them [here](https://docs.google.com/spreadsheets/d/1ZabaxmzLE6SNaummu1KTssyvTKWyujUVFyYEH2-2OpM/edit?usp=sharing)
     - [Images from class]({% link blank.md%})
 
 #### Week 6
