@@ -110,14 +110,16 @@ course_number: 232
     - [Images from class]({% link courses/232/lectures/CLAS-232 09 Wars of the 3rd c. BC.html %})
 
 - Friday, February 19
-    - Historian: Barthold Georg Niebuhr (1776–1831) - Kristina
-    - Topic: War elephants - Ethan
+    - [Class video](https://drew.zoom.us/rec/share/N9S--19yG1Nfotz8Pxcb5nqGywPn7nqB1VQo4kG-gIRrn2XBpi2LOXvgfDhVIwHs.GUTDx7F3ZSz4W2CW)
+    - Historian: [Barthold Georg Niebuhr (1776–1831) - Kristina](https://docs.google.com/presentation/d/14zoCFsCly7iLNEaWLjcKYm-ba9-KwippEIM-cXixpOc/edit?usp=sharing_eip&ts=602ffe60)
+    - Topic: [War elephants - Ethan](https://docs.google.com/presentation/d/1CycSK5ye9sXXDprunTjHOTr-DLBBghW1tAXhvF6kA74/edit?usp=sharing_eip&ts=602ff058)
     - Suppressing the worshippers of Bacchus
         - Read [Livy's text](https://sourcebooks.fordham.edu/ancient/livy39.asp) of the episode (29.8-19) along with the text of the decree (on the bottom of the same page)
     - The Gracchi & The Big Men
     - Modern scholarship
     - Assignments:
         - *HoRP* ch. 12 & 13
+    - [Images from class]({% link courses/232/lectures/CLAS-232 07 Internal Devo in 4th c. Rome.html %})
 
 #### Week 6
 
