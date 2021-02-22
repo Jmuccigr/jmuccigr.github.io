@@ -82,7 +82,7 @@ course_number: 240
         - Millett, M. 2012. “[What is classical archaeology: Roman archaeology]({% link /courses/240/readings/Millett - 2012 - What is classical archaeology Roman archaeology.pdf %}).” In *Classical archaeology*, edited by Susan E. Alcock and Robin Osborne, 30–50. Second. Blackwell Studies in Global Archaeology. Wiley-Blackwell.
         - Killgrove, K. 2018. October 16. “[New Pompeii Graffiti May Rewrite History In A Major Way]({% link /courses/240/readings/Killgrove - 2018 - New Pompeii Graffiti May Rewrite History In A Majo.pdf %}).” Forbes. October 16. <https://www.forbes.com/sites/kristinakillgrove/2018/10/16/new-pompeii-graffiti-may-rewrite-history-in-a-major-way/>.
 	- Sanctuaries
-    	- *AC*: ch. 12, 214-216 "The Heraion on Samos"; ch. 15 "Greek Sanctuaries" (don't worry about the monuments or statuary); ch. 17, 270-272, Epidauros.
+        - *AC*: ch. 12, 214-216 "The Heraion on Samos"; ch. 15 "Greek Sanctuaries" (don't worry about the monuments or statuary); ch. 17, 270-272, Epidauros.
     - [Images from class]({% link courses/240/lectures/CLAS-240 05 Sanctuaries.html %})
 
 #### Week 5
@@ -100,10 +100,10 @@ course_number: 240
     - Archaeologist: [Flinders Petrie (1853 – 1942) - Mike]({% link courses/240/presentations/Flinders Petrie.pptx %})
     - Site: [Knossos, Crete - Spencer Harrington]({% link courses/240/presentations/Knossos, Crete Powerpoint .pptx %})
 	- Rome & Pompeii
-    	- *AC*: ch. 20, 339-342 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
+        - *AC*: ch. 20, 339-342 "The Roman Forum"; ch 21, 350-352 "Imperial fora"; ch. 23, 388 "Trajan's Forum"; ch. 22, 358-359 Pompeii.
 	- [digitales forum romanum](http://www.digitales-forum-romanum.de)
 	- Wikipedia
-    	- look at the [WikiProject on Classical Greece and Rome](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Classical_Greece_and_Rome), especially the *Tasks* tab.
+        - look at the [WikiProject on Classical Greece and Rome](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Classical_Greece_and_Rome), especially the *Tasks* tab.
         - Identify three interesting pages you might contribute to on the stubs listings for [Greece](https://en.wikipedia.org/wiki/Category:Ancient_Greece_stubs) and [Rome](https://en.wikipedia.org/wiki/Category:Ancient_Rome_stubs).
             - Save them [here](https://docs.google.com/spreadsheets/d/1ZabaxmzLE6SNaummu1KTssyvTKWyujUVFyYEH2-2OpM/edit?usp=sharing)
     - [Images from class]({% link blank.md%})
@@ -112,19 +112,25 @@ course_number: 240
 ### Houses
 
 - Tuesday, February 23
-    - Forum/Agora presentations
-        - [Roman Forum]({% link courses/240/schedule.md %})
-        - [Temples in the Forum](https://docs.google.com/presentation/d/1aHPROTZyJCt0JitDJrtDUxJsq8cXDA97ym_vgh3fzbk/edit?usp=sharing_eip&ts=5a8c4728)
-	- *AC*: ch. 16, 264-265 "The lower town [of Athens]"; ch. 17, 278-282 "Olynthos".
-	- *GAA*: ch. 10, 351-354 "Miletus".
+    - Readings
+        - *AC*: ch. 16, 264-265 "The lower town [of Athens]"; ch. 17, 278-282 "Olynthos".
+        - *GAA*: ch. 10, 351-354 "Miletus".
+        - [Holloway, R.R. 1994. The archaeology of early Rome and Latium. London; New York: Routledge, Ch. 4]({% link /courses/240/readings/Holloway - 1994 - ch4.The archaeology of early Rome and Latium.pdf %}).
+        - Nielsen, E.O. 1997. [“An atrium house of the 6th century BC at Rosselle.”]({% link courses/240/readings/Nielsen - 1997 - An atrium house of the 6th century BC at Rosselle.pdf %}) Journal of Roman Archaeology 10: 323–326.
+	- [Lecture images]({% link blank.md%})
 
 - Thursday, February 25
     - Archaeologist: Harriet Boyd Hawes (1871 – 1945) - Adaline
     - Site: Olympia, Greece - Mike
-	- [Holloway, R.R. 1994. The archaeology of early Rome and Latium. London; New York: Routledge, Ch. 4]({% link /courses/240/readings/Holloway - 1994 - ch4.The archaeology of early Rome and Latium.pdf %}).
-	- *AC*: ch. 22, 362-367 Pompeii, 367-370 "Ostia"; ch. 23, 374-379 "Palaces"; ch. 25, 415-418 "Palaces"
-	- [Murlo database](http://www.poggiocivitate.org)
-	- [Lecture images]({% link blank.md%})
+    - Forum/Agora presentations
+        - [Roman Forum]({% link courses/240/schedule.md %})
+        - [Temples in the Forum](https://docs.google.com/presentation/d/1aHPROTZyJCt0JitDJrtDUxJsq8cXDA97ym_vgh3fzbk/edit?usp=sharing_eip&ts=5a8c4728)
+    - Readings
+        - *AC*: ch. 22, 362-367 Pompeii, 367-370 "Ostia"; ch. 23, 374-379 "Palaces"; ch. 25, 415-418 "Palaces"
+        - Clarke, J.R. 1991. The houses of Roman Italy, 100 B.C.-A.D. 250: ritual, space, and decoration. Ch. 1, ["Space and ritual in domus, villa,and insula, 100 B.C.—A.D. 250."]({% link courses/240/readings/Clarke - 1991 - The houses of Roman Italy, 100 B.C.-A.D. 250 ritu.pdf %})
+        - Berry, J. 1997. November. [“The conditions of domestic life in Pompeii in AD 79: a case-study of Houses 11 and 12, Insula 9, Region I.”]({% link courses/240/readings/Berry - 1997 - The conditions of domestic life in Pompeii in AD 7.pdf %}) Papers of the British School at Rome 65 (November): 103–125. doi:10.1017/S0068246200010606.
+    - [Murlo database](http://www.poggiocivitate.org)
+    - [Lecture images]({% link blank.md%})
 
 #### Week 7
 ### Cemeteries & Tombs
@@ -169,7 +175,7 @@ course_number: 240
 	- Wikipedia "[list of Roman theatres](https://en.wikipedia.org/wiki/List_of_Roman_theatres)"
 	- [Reconstructions of the Theater of Pompey](http://www.pompey.cch.kcl.ac.uk/Burge.htm)
 	- Final Project
-    	- Description due via [email](mailto:jmuccigr@drew.edu?subject=Final project proposal)
+        - Description due via [email](mailto:jmuccigr@drew.edu?subject=Final project proposal)
 	- [Lecture Images]({% link blank.md%})
 
 #### Week 10
@@ -181,8 +187,8 @@ course_number: 240
 	-  *AC*: ch. 22, 360-361 "Amphitheater [of Pompeii]" ch 23, 385-387 "Flavian Amphitheater"
 	- Wikipedia "[list of Roman amphitheatres](https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres)"
 	- *Gladiator* scenes:
-    	- [Tiger fight](https://youtu.be/fAf1w_ruXeY)
-    	- [Arrival in Rome](https://youtu.be/gp46l7jfUzo)
+        - [Tiger fight](https://youtu.be/fAf1w_ruXeY)
+        - [Arrival in Rome](https://youtu.be/gp46l7jfUzo)
 	- [Lecture Images]({% link blank.md%})
 
 - Thursday, March 25
