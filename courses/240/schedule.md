@@ -113,7 +113,7 @@ course_number: 240
 
 - Tuesday, February 23
     - Readings
-        - *AC*: ch. 16, 264-265 "The lower town [of Athens]"; ch. 17, 278-282 "Olynthos".
+        - *AC*: ch. 16, 264-265 "The lower town [of Athens]"; ch. 17, 272-278 "Priene", 278-282 "Olynthos".
         - *GAA*: ch. 10, 351-354 "Miletus".
         - [Holloway, R.R. 1994. The archaeology of early Rome and Latium. London; New York: Routledge, Ch. 4]({% link /courses/240/readings/Holloway - 1994 - ch4.The archaeology of early Rome and Latium.pdf %}).
         - Nielsen, E.O. 1997. [“An atrium house of the 6th century BC at Rosselle.”]({% link courses/240/readings/Nielsen - 1997 - An atrium house of the 6th century BC at Rosselle.pdf %}) Journal of Roman Archaeology 10: 323–326.
