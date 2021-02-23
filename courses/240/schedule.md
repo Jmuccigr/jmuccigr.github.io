@@ -152,6 +152,7 @@ course_number: 240
 - Tuesday, March 9
 	- *AC*: ch. 13; ch 15, 246-249 "Temple of Zeus"; ch. 16, 254-263 "The Athenian Acropolis"; ch. 18, 287-289 "Didyma: Apollo"; ch. 19, 311-314 "Paestum".
 	- *GAA*: ch. 4, 105-110 "Architecture"; ch. 5, 131-139 "Architecture..."; ch. 6, 150-176; ch. 7, 213-229; ch. 8, 251-276; ch. 9, 293-305; ch. 10, 341-351.
+	- Marconi, C. 2016. August 8. [“The Greek West: Temples and their Decoration.”]({% link courses/240/readings/Marconi - 2016 - The Greek West Temples and their Decoration.pdf %}) In A Companion to Greek Architecture, edited by Margaret M. Miles, 75–91. Hoboken, NJ, USA: John Wiley & Sons, Inc., August 8. doi:10.1002/9781118327586. http://doi.wiley.com/10.1002/9781118327586.
 	- [Dolphin Tank]({% link courses/240/lectures/Dolphin_Tank.html %})
 	- [Lecture Images]({% link blank.md%})
 
