@@ -117,7 +117,8 @@ course_number: 240
         - *GAA*: ch. 10, 351-354 "Miletus".
         - [Holloway, R.R. 1994. The archaeology of early Rome and Latium. London; New York: Routledge, Ch. 4]({% link /courses/240/readings/Holloway - 1994 - ch4.The archaeology of early Rome and Latium.pdf %}).
         - Nielsen, E.O. 1997. [“An atrium house of the 6th century BC at Rosselle.”]({% link courses/240/readings/Nielsen - 1997 - An atrium house of the 6th century BC at Rosselle.pdf %}) Journal of Roman Archaeology 10: 323–326.
-	- [Lecture images]({% link blank.md%})
+        - Bonus: Brocato, P., and N. Terrenato, eds. 2016. Nuovi studi sulla Regia di Roma. Paesaggi antichi 2. Cosenza - Italy: Luigi Pellegrini editore.
+	- [Lecture images]({% link courses/240/lectures/CLAS-240 11 Huts & Houses.html%})
 
 - Thursday, February 25
     - Archaeologist: Harriet Boyd Hawes (1871 – 1945) - Adaline
