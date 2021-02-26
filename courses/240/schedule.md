@@ -121,10 +121,10 @@ course_number: 240
 	- [Lecture images]({% link courses/240/lectures/CLAS-240 11 Huts & Houses.html%})
 
 - Thursday, February 25
-    - Archaeologist: Harriet Boyd Hawes (1871 – 1945) - Adaline
+    - Archaeologist: [Harriet Boyd Hawes (1871 – 1945) - Adaline](https://docs.google.com/presentation/d/1CoKlenslW2o0TWLjLibDkvh57A-CRdAxdCWZcdpI_3w/edit?usp=sharing)
     - Site: [Olympia, Greece - Mike]({% link courses/240/presentations/Olympia.pptx %})
     - Forum/Agora presentations
-        - [Roman Forum]({% link courses/240/schedule.md %})
+        - [Roman Forum](https://docs.google.com/presentation/d/1rTXX9sXyG5kicohUe_7cO-AW0Ek-i8FLpPNG1rdfd9E/edit?usp=sharing)
         - [Agora](https://docs.google.com/presentation/d/1yhEVthAOjcSm6UnH1wqUHkklToAkPgtpnwLunbtgAsQ/edit?usp=sharing_eip&ts=6037dc09)
     - Readings
         - *AC*: ch. 22, 362-367 Pompeii, 367-370 "Ostia"; ch. 23, 374-379 "Palaces"; ch. 25, 415-418 "Palaces"
