@@ -122,10 +122,10 @@ course_number: 240
 
 - Thursday, February 25
     - Archaeologist: Harriet Boyd Hawes (1871 – 1945) - Adaline
-    - Site: Olympia, Greece - Mike
+    - Site: [Olympia, Greece - Mike]({% link courses/240/presentations/Olympia.pptx %})
     - Forum/Agora presentations
         - [Roman Forum]({% link courses/240/schedule.md %})
-        - [Temples in the Forum](https://docs.google.com/presentation/d/1aHPROTZyJCt0JitDJrtDUxJsq8cXDA97ym_vgh3fzbk/edit?usp=sharing_eip&ts=5a8c4728)
+        - [Agora](https://docs.google.com/presentation/d/1yhEVthAOjcSm6UnH1wqUHkklToAkPgtpnwLunbtgAsQ/edit?usp=sharing_eip&ts=6037dc09)
     - Readings
         - *AC*: ch. 22, 362-367 Pompeii, 367-370 "Ostia"; ch. 23, 374-379 "Palaces"; ch. 25, 415-418 "Palaces"
         - Clarke, J.R. 1991. The houses of Roman Italy, 100 B.C.-A.D. 250: ritual, space, and decoration. Ch. 1, ["Space and ritual in domus, villa,and insula, 100 B.C.—A.D. 250."]({% link courses/240/readings/Clarke - 1991 - The houses of Roman Italy, 100 B.C.-A.D. 250 ritu.pdf %})

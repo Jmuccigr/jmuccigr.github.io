@@ -128,6 +128,7 @@ course_number: 232
 - Friday, February 26
     - Historian: Theodor Mommsen (1817–1903) - Angela
     - Topic: Silver mining - Joe
+    - [Mid-Term Info](/courses/232/Mid-Term info)
     - Sulla's reforms
     - Assignments:
         - *HoRP* ch. 14 & 15
