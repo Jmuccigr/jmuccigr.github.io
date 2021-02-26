@@ -9,19 +9,11 @@ course_number: 232
 
 ### Part I: Image ID
 
-Identify three images from among those shown in lecture and posted on
-the course web page. Complete identification includes—where
-applicable—name, date, location and relevance to the class. Images will
-be shown for only a limited time. Check the course website for the list
-of eligible images. The info given below each image on the webpage is
-not necessarily sufficient for the exam, and is meant as a quick guide
-only. (5% each)
+Identify three images from among those shown in lecture and [seen here]({% link /courses/232/midterm.pdf %}). Complete identification includes—where applicable—name, date, location and relevance to the class. Images will be shown for only a limited time. The info given below each image on the webpage is not necessarily sufficient for the exam, and is meant as a quick guide only. (5% each)
 
 ### Part II: Written ID
 
-Identify five places or events from among those discussed in lecture and
-listed below. Complete identification includes—where applicable—date,
-location and relevance to the class. (5% each)
+Identify five places or events from among those discussed in lecture and listed below. Complete identification includes—where applicable—date, location and relevance to the class. (5% each)
 
 {:class="table table-bordered"}
 |   |   |   | | |
@@ -33,34 +25,20 @@ location and relevance to the class. (5% each)
 
 ### Part III: People
 
-Identify several of the *major* people discussed in lecture. This
-section will be multiple-choice or matching. (15%)
+Identify several of the *major* people discussed in lecture. This section will be multiple-choice or matching. (15%)
 
 ### Part IIII: Sources
 
-Identify several of the historians (ancient and modern) discussed in
-lecture or homework. This section will be multiple-choice or matching.
-(15%)
+Identify several of the historians (ancient and modern) discussed in lecture or homework. This section will be multiple-choice or matching. (15%)
 
 ### Part V: Essay
 
 Write an essay (30%). One question will be chosen from the following
 two:
 
-1.  Much of Rome's early history can be seen a struggle for those
-    excluded from political power to gain a share of it, the so-called
-    Conflict of the Orders. Trace the development of this struggle
-    during the early Republic, from its beginnings until the legislative
-    efforts of the early 3rd century, being sure to include major
-    legislation from throughout the period.
+1. Much of Rome's early history can be seen a struggle for those excluded from political power to gain a share of it, the so-called Conflict of the Orders. Trace the development of this struggle during the early Republic, from its beginnings until the legislative efforts of the early 3rd century, being sure to include major legislation from throughout the period.
 
-1.  In the 3<sup>rd</sup> and 2<sup>nd</sup>
-    centuries BC, Rome grew from a peninsular to a Mediterranean-wide
-    power. Discuss the important elements in Rome's involvement *beyond*
-    the Italian peninsula, being sure to comment on evidence of
-    senatorial reluctance for this evolution. Feel free to discuss any
-    internal political and governmental changes that you think are
-    relevant.
+1.  In the 3<sup>rd</sup> and 2<sup>nd</sup> centuries BC, Rome grew from a peninsular to a Mediterranean-wide power. Discuss the important elements in Rome's involvement *beyond* the Italian peninsula, being sure to comment on evidence of senatorial reluctance for this evolution. Feel free to discuss any internal political and governmental changes that you think are relevant.
 
 -----
 
