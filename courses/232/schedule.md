@@ -126,7 +126,7 @@ course_number: 232
 - *Wednesday, February 24 - Holiday*
 
 - Friday, February 26
-    - Historian: Theodor Mommsen (1817–1903) - Angela
+    - Historian: [Theodor Mommsen (1817–1903) - Angela]({% link courses/232/presentations/Mommsen.pptx %})
     - Topic: Silver mining - Joe
     - [Mid-Term Info](/courses/232/Mid-Term info)
     - Sulla's reforms
