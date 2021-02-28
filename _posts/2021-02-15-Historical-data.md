@@ -13,7 +13,7 @@ I'm teaching Roman history this spring after a bit of time away from it. I'm als
 
 I'm using R to do the charting and I'll include the code I used to make them in the repo. Lately I've been using ggplot, which I find powerful, but finicky, so that's taking most of my time. I'm doing the charts in four different color schemes: two black and white (with the bars in each color), one grayscale, and the fourth in color, using [Viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html), a scheme that should be readable by those with colorblindness.
 
-I'm also trying something new by using pandoc to create [an ePub](https://github.com/Jmuccigr/history_data/) of the charts with some explanatory text and an appendix with the code and the data to the extent practicable.
+I'm also trying something new by using pandoc to create [an ePub](https://raw.githubusercontent.com/Jmuccigr/history_data/book.epub) of the charts with some explanatory text and an appendix with the code and the data to the extent practicable.
 
 #### So far
 
