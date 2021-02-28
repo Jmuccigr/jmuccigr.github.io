@@ -53,9 +53,17 @@ I'm using fairly simple R plots to make my charts (the code for which is also on
 
 In order to show that I'm using the right data set, here's my version of their figure 3, to which they consistently refer. I've tried to scale it to look like their chart. You can look, for example, at the location and relative sizes of the big peaks to see how the charts compare. (Images get re-sized to fit into the blog format, so if you find them too small, just use the contextual menu to view them alone and they'll be plenty big.)
 
-![Nearly entire data set](/images/lead/all_years.png)
+{% include image.html 
+    src="lead/all_years.png"
+    caption="Nearly entire data set"
+    alt="Nearly entire data set" 
+%}
 
-![Figure 3 from the article](/images/lead/figure_3.png)
+{% include image.html 
+    src="lead/figure_3.png"
+    caption="Figure 3 from the article"
+    alt="Figure 3 from the article" 
+%}
 
 Looking at the overall data set, I see a lot of spikes (that is, sudden and short-lived increases in output). You might be able to explain that historically, but it makes me a bit suspicious. I said I wouldn't get into the methodology here, but for this to be convincing it has to be explained—for example—how there's an increase in silver/lead smelting just after 800 BCE that results in a three- or four-fold spike over the baseline, lasting less than 10 years, especially at a time when, to take one activity used to explain a lot of later activity, nobody is minting coins. If you've got a pre-coinage spike, why not assume that there are other, non-coin-related effects later?
 
@@ -65,7 +73,11 @@ Second, while I'm not a numismatist, when I look at the bullion data in their fi
 
 Just for reference, here's what one might call the traditional span of Roman rule, 753 BCE - 476 CE.
 
-![Roman Rule](/images/lead/rome.png)
+{% include image.html 
+    src="lead/rome.png"
+    caption="Roman Rule"
+    alt="Roman Rule" 
+%}
 
 ### The early period
 
@@ -73,7 +85,11 @@ Let's start with the comment about the early periods in the data series, the ear
 
 > 1\. Sustained increases in lead emissions began ∼1000 BCE, coincident with Phoenician expansion into the western Mediterranean. (p. 2, col. 2)
 
-![Early period data](/images/lead/early_period.png)
+{% include image.html 
+    src="lead/early_period.png"
+    caption="Early period data"
+    alt="Early period data" 
+%}
 
 I guess I can see a gradual rise after 1000 BCE or so, but it's not very pronounced or impressive. I'd be more likely to place its beginning somewhere much closer to 900, but that would depend on how you want to treat the mid-10th-century peak. In fact there are so many decent-sized peaks—not to mention that relatively big one in the mid-12th c.—that it's hard for me to decide that there's much of a baseline anywhere. And again, what's going on right after 800 BCE? OK, we lack detailed historical records for this period in most of the Mediterranean, but this seems like a big event. I'll go along with their overall description, but not wholeheartedly.
 
@@ -88,7 +104,11 @@ Note that we're pretty much skipping the entirety of the fifth and fourth centur
 
 Here are the data, with the two periods in question framed by red and blue vertical lines.
 
-![Early period data](/images/lead/punic_wars.png)
+{% include image.html 
+    src="lead/punic_wars.png"
+    caption="Early-period data"
+    alt="Early-period data" 
+%}
 
 I don't see any change worth noting over the entire period of the first war. If anything, there's a drop *after* the war is over, but that's possibly on trend from mid-war. In any case it certainly doesn't "pick up" at any point during or after the war. It takes until mid-way through the second war for that to happen. As for the second war, I suppose you could interpret that brief dip as a decline, though it resumes right away before rising quickly.
 
@@ -98,7 +118,11 @@ As for the historical explanation, it surprises me a little that Rome would not 
 
 We then have a series of fairly specific remarks concerning what's usually called the Late Republic, a period that saw a number of mostly internal crises afflicting the Roman state. Here's the chart:
 
-![The Late Republic](/images/lead/end_of_republic.png)
+{% include image.html 
+    src="lead/end_of_republic.png"
+    caption="The Late Republic"
+    alt="The Late Republic" 
+%}
 
 And here are the statements:
 
@@ -119,7 +143,11 @@ In light of the foregoing and of the absence of data on mining output by region,
 
 ### The Empire: The first century
 
-![First century under the empire with 64 CE in red](/images/lead/first_century.png)
+{% include image.html 
+    src="lead/first_century.png"
+    caption="First century under the empire with 64 CE in red"
+    alt="First century under the empire with 64 CE in red" 
+%}
 
 > 11\. Following a rapid rise in emissions starting in 17 BCE, emissions remained high until the 160s, again with short-term fluctuations. (p. 2, col. 2)  
 > 12\. The decline from the highest first-century CE peak occurred in 9 CE, coincident with Roman abandonment of territory to the east of the Rhine, including the Sauerland mines, after three legions were annihilated in the Teutoburg forest. (p. 3, col. 1)  
@@ -129,7 +157,11 @@ The description here isn't bad, but it's not great either. There are some short-
 
 ### The Second century and the Antonine Plague
 
-![Second century, with least-squares line in red](/images/lead/second_century.png)
+{% include image.html 
+    src="lead/second_century.png"
+    caption="Second century, with least-squares line in red"
+    alt="Second century, with least-squares line in red" 
+%}
 
 > 14\. ...a short-lived peak in the early second-century CE coincided with a brief period of new metal use again (103–107 CE) (p. 3, col. 2)
 
@@ -143,7 +175,11 @@ Trends in the data here also don't seem to reflect the historical record: they s
 
 ### The Third-Century Revival
 
-![Thirdcentury](/images/lead/third_century.png)
+{% include image.html 
+    src="lead/third_century.png"
+    caption="Third century"
+    alt="Third century" 
+%}
 
 > 16\. ...lowest emissions at any time after 900 BCE coincided with the third century Imperial Crisis from 235 to 284 CE, and in particular with the severe pandemic known as the Plague of Cyprian (249–270 CE). (p. 3, col. 1)  
 > 17\. The final debasement of the denarius in the third-century CE to a silver content of under 4% coincided with the absolute nadir in lead emissions in our record after 900 BCE (p. 3, col. 2)
