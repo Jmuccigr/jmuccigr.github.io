@@ -29,7 +29,11 @@ is just bunch of boxes surrounding the letters of those 8 words and the software
 
 Given all this it's not surprising that you sometimes find PDFs that come with decent enough images, but crappy OCR text (which I'm must going to lazily call "OCR" here). Maybe the OCR leaps across two columns of text, ignoring the break between them. Maybe the OCR runs off the right side of the column towards the edge of the page (looking at you, JSTOR). Maybe you just can't seem to highlight the text you want as the cursor makes sudden jumps of two or three words at a time, even across to the next line. (See the image for an example of the first two problems in the same document.) In these cases I don't want to work up the images; I just want new OCR.
 
-![JSTOR scan showing two typical OCR problems](/images/jstor_ocr.jpg)
+{% include image.html 
+    src="jstor_ocr.jpg"
+    caption="JSTOR scan showing two typical OCR problems"
+    alt="JSTOR scan showing two typical OCR problems" 
+%}
 
 So I wrote a fairly straightforward script for that, which works fairly simply in outline:
 

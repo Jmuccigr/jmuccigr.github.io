@@ -21,8 +21,16 @@ A popular image format is [TIFF](https://en.wikipedia.org/wiki/tiff) ("Tagged Im
 
 Here's an image of a page I took with my iPhone, cropped and saved as a png. The text looks pretty smooth at normal viewing size. The next image is a zoomed-in version, where you can see that there are a fair number of pixels per letter (the "r" is about 36 pixels high). (Let's ignore the crappy contrast from the off-white paper and less-than-ideal photography conditions.)
 
-![Original text](/images/original_text.png)
-![Original text zoomed in](/images/original_text_zoom.png)
+{% include image.html 
+    src="original_text.png"
+    caption="Original text"
+    alt="Original text" 
+%}
+{% include image.html 
+    src="original_text_zoom.png"
+    caption="Original text zoomed in"
+    alt="Original text zoomed in" 
+%}
 
 ImageMagick's `identify` function tells me this about the original:
 
@@ -45,8 +53,16 @@ fax_text.tiff 2191x3815 72x72 Group4 2 DirectClass Gray  76402
 
 Everything is the same except that the file has been compressed with Group4 (again = fax), has 2 colors, is Gray (not color, so those colors are black and white) and only 76k in size. How does it look?
 
-![Fax-compressed version of the text](/images/fax_text.tiff)
-![Fax-compressed text zoomed in](/images/fax_text_zoom.png)
+{% include image.html 
+    src="fax_text.tiff"
+    caption="Fax-compressed version of the text"
+    alt="Fax-compressed version of the text" 
+%}
+{% include image.html 
+    src="fax_text_zoom.png"
+    caption="Fax-compressed text zoomed in"
+    alt="Fax-compressed text zoomed in" 
+%}
 
 It's not perfect. There are some white pixels in the middle of the letters from my heavy-handed thresholding, for example, but it is pretty easy to read. OCR works well on it. Here's the quick output from tesseract:
 
@@ -73,8 +89,18 @@ It's not perfect. There are some white pixels in the middle of the letters from 
 
 It runs into some trouble at the end where the curvature of the book confuses it, but again that's due to my sloppy photography. Turns out we can even make the file smaller and the OCR is still good. A half-sized copy (done with a simple `-resize 50%` in imagemagick) yields the same text with few exceptions (it actually handles the curve better). Here's what that looks like:
 
-![Fax-compressed version of the text at 50%](/images/fax_text_small.tiff)
-![Fax-compressed text zoomed in at 50%](/images/fax_small_zoom.png)
+
+{% include image.html 
+    src="fax_text_small.tiff"
+    caption="Fax-compressed version of the text at 50%"
+    alt="Fax-compressed version of the text at 50%" 
+%}
+
+{% include image.html 
+    src="fax_small_zoom.png"
+    caption="Fax-compressed text zoomed in at 50%"
+    alt="Fax-compressed text zoomed in at 50%" 
+%}
 
 It's not quite as good, but certainly a lot more legible than some scans I have in my library. If we'd actually scanned it at 250 dpi to start with, it would look even better.
 

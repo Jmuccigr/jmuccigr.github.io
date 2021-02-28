@@ -113,13 +113,21 @@ Here's a demonstration with imagemagick's built-in image of a rose:
 magick rose: rose: rose: -append toptobottomroses.png
 ```
 
-![top to bottom roses](/images/toptobottomroses.png)
+{% include image.html 
+    src="toptobottomroses.png"
+    caption="top to bottom roses"
+    alt="top to bottom roses" 
+%}
 
 ```
 magick piece-*.png +append lefttorightroses.png
 ```
 
-![left to right roses](/images/lefttorightroses.png)
+{% include image.html 
+    src="lefttorightroses.png"
+    caption="left to right roses"
+    alt="left to right roses" 
+%}
 
 You're likely going to need to edit the resulting image because it will be the entire page, not just the image you want.
 

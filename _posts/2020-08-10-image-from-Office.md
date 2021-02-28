@@ -23,7 +23,11 @@ You might think that you could simply use Word (or PowerPoint) to extract that i
 
 Instead we'll rely on that fact that recent Office files are actually zipped folders that contain the text, media, and other things that go to make them. This is easy to see: just manually change the extension on one of these files to "zip" and then double-click on it to have your default un-zipping app uncompress it into a folder. (You might have to assign this app, if you don't usually use zip files.) Here's a screenshot of a file I made for this demo along with a copy that I renamed and then unzipped.
 
-![Folder with unzipped Word file](/images/unzipped_Word.png)
+{% include image.html 
+    src="unzipped_Word.png"
+    caption="Folder with unzipped Word file"
+    alt="Folder with unzipped Word file" 
+%}
 
 In there you can see four top-level items:
 
