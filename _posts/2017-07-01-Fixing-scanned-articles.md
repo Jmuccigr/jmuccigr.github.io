@@ -59,8 +59,11 @@ The best tool for this is poppler's `pdfimages` which will take each page of the
 
 If you do have a PDF that contains pages with multiple images (and `pdfimages -list` will show you that; see the screenshot in the figure), you can use ImageMagick to generate images from the PDF: `convert -density 300 -alpha off input.PDF output_%03d.png`. This does modify the images that may already be in the PDF, but you don't have a lot of choice at this point. Fortunately I find that very few of my files fall into this category.
 
-![pdfimage -list output](/images/pdfimages.png)
-**`pdfimages -list` output. Note that all these images are on page 1 (first column).**
+{% include image.html 
+    src="pdfimages.png"
+    caption="`pdfimages -list` output. Note that all these images are on page 1 (first column)"
+    alt="`pdfimages -list` output. Note that all these images are on page 1 (first column)" 
+%}
 
 ### 2. Split the pages
 
