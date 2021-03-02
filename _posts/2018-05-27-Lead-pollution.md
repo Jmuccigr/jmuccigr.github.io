@@ -43,7 +43,7 @@ This ended up being a bit longer than I anticipated, so here are some conclusion
 
 1. The article's descriptions of trends in the data are sometimes inaccurate.
 1. Historical explanations of those trends that do exist sometimes seem cherry-picked: there are places where strong features in the data are ignored or not explained in the same detail as other places which *do* have fairly satisfying historical explanations.
-1. Rome is a regional player in the Mediterranean until the third century BCE (depending on how you want to define regional). They don't even mint their own coinage until then. While the article starts off discussing the Phoenicians and continues for a bit with the Carthaginians, their role and the potential role of other peoples in what would become the Roman Empire is undervalued.
+1. Rome is a not regional player in the Mediterranean until the third century BCE (depending on how you want to define regional). They don't even mint their own coinage until then. While the article starts off discussing the Phoenicians and continues for a bit with the Carthaginians, their role and the potential role of other peoples in what would become the Roman Empire is undervalued.
 
 In sum, even if I assume the data are accurate, they don't seem to connect very well to known historical events, at least at the kind of single-year resolution the authors would like.
 
