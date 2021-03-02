@@ -140,11 +140,16 @@ course_number: 240
     - *AC*: ch. 12, 211-212 "Cemeteries..."; ch. 17, 282-285 "Royal burials"; ch. 19, 314 "Paestum"; ch. 23, 390-392 "Imperial tombs".
     - *GAA*: ch. 4, 108-110 "Architecture", 116-123 "Pottery"; ch. 9, 326-331 "Vergina".
     - Necropoleis in Etruria *AC*: ch. 19, 323-327 "[Etruscan] Tombs"
-	- [Lecture images]({% link blank.md%})
+	- [Lecture images]({% link courses/240/lectures/CLAS-240 12 Cemeteries.html %})
 
 - Thursday, March 4
     - Archaeologist: Howard Carter (1874 – 1939) - Emma
     - Site: Pompeii, Italy - Veronica
+    - Milella, M., V. Mariotti, M.G. Belcastro, and C.J. Knüsel. 2015. June 26. “Patterns of Irregular Burials in Western Europe (1st-5th Century A.D.).” . Ed. Siân E. Halcrow. PLOS ONE 10 6 (June 26): 1–16. [doi:10.1371/journal.pone.0130616](doi:10.1371/journal.pone.0130616).
+    - Holloway, R.R. 2004. “[Basilicas, Baptistry, and Burial]({% link courses/240/readings/Holloway - 2004 - Basilicas, Baptistry, and Burial.pdf %}).” In Constantine and Rome, 57–119. Yale University Press. <https://www.jstor.org/stable/j.ctt1nps21.8>.
+    - Bonus: Toynbee, J.M.C. 1971. Death and burial in the Roman world. Ithaca, N.Y.: Cornell University Press. Ch. 3: [Funeral rites and the cult of the dead.]({% link courses/240/readings/Toynbee - 1971 - Death and burial in the Roman world.pdf %})
+
+
 
 #### Week 8
 ### Temples
@@ -152,7 +157,8 @@ course_number: 240
 - Tuesday, March 9
 	- *AC*: ch. 13; ch 15, 246-249 "Temple of Zeus"; ch. 16, 254-263 "The Athenian Acropolis"; ch. 18, 287-289 "Didyma: Apollo"; ch. 19, 311-314 "Paestum".
 	- *GAA*: ch. 4, 105-110 "Architecture"; ch. 5, 131-139 "Architecture..."; ch. 6, 150-176; ch. 7, 213-229; ch. 8, 251-276; ch. 9, 293-305; ch. 10, 341-351.
-	- Marconi, C. 2016. August 8. [“The Greek West: Temples and their Decoration.”]({% link courses/240/readings/Marconi - 2016 - The Greek West Temples and their Decoration.pdf %}) In A Companion to Greek Architecture, edited by Margaret M. Miles, 75–91. Hoboken, NJ, USA: John Wiley & Sons, Inc., August 8. doi:10.1002/9781118327586. http://doi.wiley.com/10.1002/9781118327586.
+	- Mazarakis Ainian, A. 2016. July 18. “[Early Greek Temples]({% link courses/240/readings/Mazarakis Ainian - 2016 - Early Greek Temples.pdf %}).” In A Companion to Greek Architecture, edited by Margaret M. Miles, 15–30. Hoboken, NJ, USA: John Wiley & Sons, Inc., July 18. doi:10.1002/9781118327586.ch2.
+	- Marconi, C. 2016. August 8. [“The Greek West: Temples and their Decoration.”]({% link courses/240/readings/Marconi - 2016 - The Greek West Temples and their Decoration.pdf %}) In A Companion to Greek Architecture, edited by Margaret M. Miles, 75–91. Hoboken, NJ, USA: John Wiley & Sons, Inc., August 8. [doi:10.1002/9781118327586](doi:10.1002/9781118327586).
 	- [Dolphin Tank]({% link courses/240/lectures/Dolphin_Tank.html %})
 	- [Lecture Images]({% link blank.md%})
 
