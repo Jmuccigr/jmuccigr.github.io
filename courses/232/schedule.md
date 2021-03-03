@@ -120,6 +120,7 @@ course_number: 232
     - Assignments:
         - *HoRP* ch. 12 & 13
     - [Images from class]({% link courses/232/lectures/CLAS-232 07 Internal Devo in 4th c. Rome.html %})
+    - [Images from class]({% link courses/232/lectures/CLAS-232 10 The Gracchi.html %})
 
 #### Week 6
 
