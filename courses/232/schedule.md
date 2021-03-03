@@ -129,7 +129,7 @@ course_number: 232
 - Friday, February 26
     - [Class video](https://drew.zoom.us/rec/share/zbpRVW9u-r5G-_tpOhEqBcCD3ihC-aALZCIA0SCm9FFVXFBV7401Js1BopqYLQyb.KLagCCwR0fUSxTfc)
     - Historian: [Theodor Mommsen (1817–1903) - Angela]({% link courses/232/presentations/Mommsen.pptx %})
-    - Topic: Silver mining - Joe
+    - Topic: [Silver mining - Joe](% link courses/232/presentations/Silver Mining.pptx %})
     - [Mid-Term Info](/courses/232/Mid-term_info)
     - Sulla's reforms
     - Assignments:
@@ -139,6 +139,7 @@ course_number: 232
 ### The End of the Republic
 
 - Wednesday, March 3
+    - [Class video](https://drew.zoom.us/rec/share/FoxY6-Gve8GzrvtTFH53MmR3m0u-P4a-rK_Dc0cfHwtFf0kMuqfLSuXMIpFfJ9H6.5ZT4qleCL4zmdnNm)
     - Historian: Lily Ross Taylor (1886-1969) - Kayla
     - Topic: Minting coins - Danny
     - More Big Men: Pompey & Caesar
