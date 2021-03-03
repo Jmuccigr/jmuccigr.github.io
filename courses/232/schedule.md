@@ -138,9 +138,6 @@ course_number: 232
 ### The End of the Republic
 
 - Wednesday, March 3
-    - **Mid-term**
-
-- Friday, March 5
     - Historian: Lily Ross Taylor (1886-1969) - Kayla
     - Topic: Minting coins - Danny
     - More Big Men: Pompey & Caesar
@@ -148,6 +145,9 @@ course_number: 232
     - Assignments:
         - *HoRP* ch. 16 & 18
         - [OCD entry](https://www-oxfordreference-com.ezproxy.drew.edu/view/10.1093/acref/9780199545568.001.0001/acref-9780199545568-e-5674?rskey=4ENxBb&result=1){:target="_blank"} on Sallust
+
+- Friday, March 5
+    - **Mid-term**
 
 #### Week 8
 ### The Principate
