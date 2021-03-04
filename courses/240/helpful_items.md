@@ -16,6 +16,10 @@ course_number: 240
 - [PeriodO](http://perio.do){:target="_blank"}: A gazetteer of period definitions for linking and visualizing data
 - [Perseus](http://www.perseus.tufts.edu){:target="_blank"}: A resource mainly for texts, but also for some images, Perseus provides excellent search capabilities in the original languages and in English translation. Of use will be their [Artifact Browser](http://www.perseus.tufts.edu/hopper/artifactBrowser) (Perseus provides more than Classical-world resources, so be careful to limit your searches.)
 - [Pleiades](http://pleiades.stoa.org){:target="_blank"}: "a community-built gazetteer and graph of ancient places," Pleiades provides information about the location of ancient places of various kinds.
+- Pompeii
+    - [Pompeii in Pictures](https://pompeiiinpictures.com)
+    - [Pompeii Bibliography and Mapping Project](http://digitalhumanities.umass.edu/pbmp/?page_id=1258)
+    - [Ancient Graffiti Project](http://ancientgraffiti.org/Graffiti/)
 - Princeton Encyclopedia of Classical Sites: a print and on-line resource for, as the title says, Classical sites. Access [on-line via Perseus](http://www.perseus.tufts.edu/hopper/search?doc=Perseus%3atext%3a1999.04.0006){:target="_blank"}.
 
 -----

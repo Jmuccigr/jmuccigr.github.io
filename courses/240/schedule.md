@@ -143,7 +143,7 @@ course_number: 240
 	- [Lecture images]({% link courses/240/lectures/CLAS-240 12 Cemeteries.html %})
 
 - Thursday, March 4
-    - Archaeologist: Howard Carter (1874 – 1939) - Emma
+    - Archaeologist: [Howard Carter (1874 – 1939) - Emma]({% link courses/240/presentations/Howard Carter.pdf %})
     - Site: [Pompeii, Italy - Veronica](https://docs.google.com/presentation/d/1ynpox9u2m2HK4gXvpWKUI7y8Du06pkpvYvJVpkEc60o/edit?usp=sharing)
     - Milella, M., V. Mariotti, M.G. Belcastro, and C.J. Knüsel. 2015. June 26. “Patterns of Irregular Burials in Western Europe (1st-5th Century A.D.).” . Ed. Siân E. Halcrow. PLOS ONE 10 6 (June 26): 1–16. [doi:10.1371/journal.pone.0130616](doi:10.1371/journal.pone.0130616).
     - Holloway, R.R. 2004. “[Basilicas, Baptistry, and Burial]({% link courses/240/readings/Holloway - 2004 - Basilicas, Baptistry, and Burial.pdf %}).” In Constantine and Rome, 57–119. Yale University Press. <https://www.jstor.org/stable/j.ctt1nps21.8>.
