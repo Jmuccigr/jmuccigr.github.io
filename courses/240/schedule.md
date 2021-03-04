@@ -165,7 +165,7 @@ course_number: 240
 - *Thursday, March 11 - Holiday*
 
 #### Week 9
-### ???
+### Theaters & Amphitheaters
 
 - Tuesday, March 16
 	- [The Ides of March]({% link courses/240/lectures/Ides.html %})
@@ -187,7 +187,7 @@ course_number: 240
 	- [Lecture Images]({% link blank.md%})
 
 #### Week 10
-### Theaters & Amphitheaters
+### More on entertainment
 
 - Tuesday, March 23
     - Quiz 2: [Geography of Rome]({% link /courses/240/quizzes/Map for quiz II - Rome.pdf %} )
@@ -266,7 +266,7 @@ course_number: 240
 	- Buttrey, T.V. 1972. “[Halved coins, the Augustan reform, and Horace, Odes I.3.](http://www.jstor.org/stable/503609)” *American Journal of Archaeology* 76 1: 31–48.
 	- [Lecture images]({% link blank.md%})
 
-#### Week 16
+#### Week 15
 ### Student Presentations
 
 - Tuesday, April 27
