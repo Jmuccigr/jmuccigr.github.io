@@ -24,3 +24,23 @@ Grades will be based on the following criteria
 * Final project 20%
     * Presentation 10%
     * Submitted work 10%
+    * Topics
+        - Spencer Hall
+            - Doric temples in the database
+        - Spencer Harrison
+            - Bioarchaeology of the Roman
+        - Sophia Patti
+            - Greek Pottery
+        - Adaline
+            - Pottery in ancient Greece (religious significance)
+        - Veronica
+            - Greek tombs & funerary practice
+        - Mike
+            - Olympia and Olympic rituals
+        - Emma
+            - Hellenistic tombs and burials
+        - Katie
+            - Panhellenic sanctuaries & temples
+        - Chelsea 
+            - Roman altars
+
