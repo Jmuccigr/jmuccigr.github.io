@@ -140,7 +140,6 @@ course_number: 232
 
 - Wednesday, March 3
     - [Class video](https://drew.zoom.us/rec/share/FoxY6-Gve8GzrvtTFH53MmR3m0u-P4a-rK_Dc0cfHwtFf0kMuqfLSuXMIpFfJ9H6.5ZT4qleCL4zmdnNm)
-    - Historian: Lily Ross Taylor (1886-1969) - Kayla
     - Topic: Minting coins - Danny
     - More Big Men: Pompey & Caesar
     - Our Sources: Sallust
@@ -155,6 +154,7 @@ course_number: 232
 ### The Principate
 
 - Wednesday, March 10
+    - Historian: Lily Ross Taylor (1886-1969) - Kayla
     - Octavian & the Second Triumvirate
     - Assignments:
         - *HoRP* ch. 17 & 19
