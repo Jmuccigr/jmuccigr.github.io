@@ -140,7 +140,6 @@ course_number: 232
 
 - Wednesday, March 3
     - [Class video](https://drew.zoom.us/rec/share/FoxY6-Gve8GzrvtTFH53MmR3m0u-P4a-rK_Dc0cfHwtFf0kMuqfLSuXMIpFfJ9H6.5ZT4qleCL4zmdnNm)
-    - Topic: Minting coins - Danny
     - More Big Men: Pompey & Caesar
     - Our Sources: Sallust
     - Assignments:
@@ -154,7 +153,8 @@ course_number: 232
 ### The Principate
 
 - Wednesday, March 10
-    - Historian: Lily Ross Taylor (1886-1969) - Kayla
+    - [Class video](https://drew.zoom.us/rec/share/0s94wqfZJVVknTkWsEEcoSlvSb7r0NHT_pdgC1RRi3C5Rp8yu9WFMsKwevwuz9T3.u27e9KjiWMGRq7H1)
+    - Historian: [Lily Ross Taylor (1886-1969) - Kayla]({% link courses/232/presentations/Lily Ross Taylor.pdf %})
     - Octavian & the Second Triumvirate
     - Assignments:
         - *HoRP* ch. 17 & 19
@@ -171,6 +171,7 @@ course_number: 232
 
 - Wednesday, March 17
     - Quiz on the Big Men
+    - Topic: Minting coins - Danny
     - Augustus, pt II
     - Assignments:
         - *HoRP* ch. 21
