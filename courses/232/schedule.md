@@ -141,7 +141,7 @@ course_number: 232
 - Wednesday, March 3
     - [Class video](https://drew.zoom.us/rec/share/FoxY6-Gve8GzrvtTFH53MmR3m0u-P4a-rK_Dc0cfHwtFf0kMuqfLSuXMIpFfJ9H6.5ZT4qleCL4zmdnNm)
     - More Big Men: Pompey & Caesar
-    - Our Sources: Sallust
+    - Our Sources: [Sallust]({% link courses/232/lectures/CLAS-232 Sallust (and others).html %})
     - Assignments:
         - *HoRP* ch. 16 & 18
         - [OCD entry](https://www-oxfordreference-com.ezproxy.drew.edu/view/10.1093/acref/9780199545568.001.0001/acref-9780199545568-e-5674?rskey=4ENxBb&result=1){:target="_blank"} on Sallust
@@ -170,7 +170,6 @@ course_number: 232
 ### The Julio-Claudians
 
 - Wednesday, March 17
-    - Quiz on the Big Men
     - Topic: Minting coins - Danny
     - Augustus, pt II
     - Assignments:
@@ -179,6 +178,7 @@ course_number: 232
         - [Website](https://www.kalkriese-varusschlacht.de/en/) for the archaeological site of the Battle of the Teutoburg Forest
 
 - Friday, March 19
+    - Quiz on the Big Men
     - Historian: Ronald Syme (1903–1989) - Hana
     - Topic: Vestal Virgins - Mary Kate
     - Tiberius & Caligula
