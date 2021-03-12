@@ -160,8 +160,9 @@ course_number: 232
         - *HoRP* ch. 17 & 19
 
 - Friday, March 12
-    - Historian: T. Robert Broughton (1900-1993) - Alex
-    - Topic: How elections work - GJ
+    - [Class video](https://drew.zoom.us/rec/share/IkvYA8T7j2DeGeUBQzUhebqYIifc9JNCDEX-5TIDQOlZt4zJCJYhE0yl368_X95V.SOdGVuRQJ-Fw55WO)
+    - Historian: [T. Robert Broughton (1900-1993) - Alex](https://docs.google.com/presentation/d/1UZ7x5imUJPlUSzkqMVis7D602RQoiE54HLfZTLaXqU8/edit?usp=sharing_eip&ts=604b9447)
+    - Topic: [How elections work - GJ](https://docs.google.com/presentation/d/1FBb01atvshUVdQxMbZaJd1boc4bNpR9Xe_VmnGGdz40/edit?usp=sharing_eip&ts=604b9da9)
     - Augustus, pt I
     - Assignments:
         - *HoRP* ch. 20
