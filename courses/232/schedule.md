@@ -179,7 +179,6 @@ course_number: 232
         - [Website](https://www.kalkriese-varusschlacht.de/en/) for the archaeological site of the Battle of the Teutoburg Forest
 
 - Friday, March 19
-    - Quiz on the Big Men
     - Historian: Ronald Syme (1903–1989) - Hana
     - Topic: Vestal Virgins - Mary Kate
     - Tiberius & Caligula
@@ -191,7 +190,7 @@ course_number: 232
 ### Chaos, pt. I
 
 - Wednesday, March 24
-    - Map Quiz II: [Geography of the Empire]({% link /courses/232/quizzes/Map for quiz II - Empire.pdf %} )
+    - Quiz on the Big Men
         - [A blank version of the map]( {% link /courses/232/quizzes/Map for quiz II blank.pdf %} )
     - Claudius & Nero
     - Assignments:
@@ -209,6 +208,7 @@ course_number: 232
 ### The Good Emperors
 
 - Wednesday, March 31
+    - Map Quiz II: [Geography of the Empire]({% link /courses/232/quizzes/Map for quiz II - Empire.pdf %} )
     - Topic: Life expectancy - Daniel
     - Flavians
     - Assignments:
