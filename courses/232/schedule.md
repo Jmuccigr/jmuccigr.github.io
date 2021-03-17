@@ -171,7 +171,8 @@ course_number: 232
 ### The Julio-Claudians
 
 - Wednesday, March 17
-    - Topic: Minting coins - Danny
+    - [Class video](https://drew.zoom.us/rec/share/ASuyIQeRWdDpEbaMKzLifFWuceTppcbz8bYVWYuIxkPmv-CIcAWYIP5gYr9BaH5D.2bL0Ws0uycwx_NMI)
+    - Topic: [Minting coins - Danny](https://www.emaze.com/@AOTFWFWWW/gallery)
     - Augustus, pt II
     - Assignments:
         - *HoRP* ch. 21
