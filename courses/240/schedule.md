@@ -160,7 +160,7 @@ course_number: 240
 	- Mazarakis Ainian, A. 2016. July 18. “[Early Greek Temples]({% link courses/240/readings/Mazarakis Ainian - 2016 - Early Greek Temples.pdf %}).” In A Companion to Greek Architecture, edited by Margaret M. Miles, 15–30. Hoboken, NJ, USA: John Wiley & Sons, Inc., July 18. doi:10.1002/9781118327586.ch2.
 	- Marconi, C. 2016. August 8. [“The Greek West: Temples and their Decoration.”]({% link courses/240/readings/Marconi - 2016 - The Greek West Temples and their Decoration.pdf %}) In A Companion to Greek Architecture, edited by Margaret M. Miles, 75–91. Hoboken, NJ, USA: John Wiley & Sons, Inc., August 8. [doi:10.1002/9781118327586](doi:10.1002/9781118327586).
 	- [Dolphin Tank]({% link courses/240/lectures/Dolphin_Tank.html %})
-	- [Lecture Images]({% link blank.md%})
+	- [Lecture Images]({% link courses/240/lectures/CLAS-240 Temples.html%})
 
 - *Thursday, March 11 - Holiday*
 
