@@ -182,15 +182,12 @@ course_number: 240
  ch. 5 on theaters and amphitheaters.](../../readings/Wheeler_RAA_ch5.pdf).
 	- Wikipedia "[list of Roman theatres](https://en.wikipedia.org/wiki/List_of_Roman_theatres)"
 	- [Reconstructions of the Theater of Pompey](http://www.pompey.cch.kcl.ac.uk/Burge.htm)
-	- Final Project
-        - Description due via [email](mailto:jmuccigr@drew.edu?subject=Final project proposal)
 	- [Lecture Images]({% link blank.md%})
 
 #### Week 10
 ### More on entertainment
 
 - Tuesday, March 23
-    - Quiz 2: [Geography of Rome]({% link /courses/240/quizzes/Map for quiz II - Rome.pdf %} )
         - [A blank version of the map]( {% link /courses/240/quizzes/Map for quiz II blank.png %} )
 	-  *AC*: ch. 22, 360-361 "Amphitheater [of Pompeii]" ch 23, 385-387 "Flavian Amphitheater"
 	- Wikipedia "[list of Roman amphitheatres](https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres)"
@@ -204,6 +201,8 @@ course_number: 240
     - Site: Caesarea Maritima, Israel - Chelsea
 	- Macedonia: *GAA*: ch. 9, 333-337 "Vergina"; Rome: *AC*: ch. 20, 345 "Circus Maximus"; ch. 21, 352-355 "Ara Pacis".
 	- Baths: *AC* ch. 22, 361-362 "The baths [of Pompeii]"; ch. 23, 388-390 "Baths of Trajan"
+	- Final Project
+        - Description due via [email](mailto:jmuccigr@drew.edu?subject=Final project proposal)
 	- [Lecture images]({% link blank.md%})
 	- [Lecture images]({% link blank.md%})
 
@@ -211,6 +210,7 @@ course_number: 240
 ### Stadia & Other commemorative monuments
 
 - Tuesday, March 30
+    - Quiz 2: [Geography of Rome]({% link /courses/240/quizzes/Map for quiz II - Rome.pdf %} )
 	- *AC*: ch. 23, 382-385 "Commemorative monuments [arches and Trajan's Column]"; ch. 25, 420-421 "Arch of Constantine".
 	- Wikipedia Stubs: [the final list]({% link courses/240/wikipedia_stubs_final.md %})
 	- [Lecture images]({% link blank.md%})
