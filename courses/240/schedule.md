@@ -174,7 +174,7 @@ course_number: 240
 	- [Digital Humanities Summer Institute]({% link courses/240/lectures/Digital Humanities Summer Institute.html %})
 
 - Thursday, March 18
-    - Archaeologist: Massimo Pallottino (1909 – 1995) - Katie
+    - Archaeologist: [Massimo Pallottino (1909 – 1995) - Katie](https://docs.google.com/presentation/d/1orHVS4pDWSOrTJz5YQa1LuDESYjyFBF72xnzai9J7iw/edit?usp=sharing)
     - Site: [Herculaneum, Italy - Spencer Hall](https://docs.google.com/presentation/d/1uHH94EHwop9JaiHW6msUKdj6gpKPdqhTpCS1sISIKs8/edit?usp=sharing)
 	- *AC*: ch. 16, 263-264 "Theater of Dionysus"; ch. 17, 272-273 at Epidauros; ch. 18, 293 Pergamon; ch. 20, 345 "Theater of Pompey"; ch. 22, 360 "Theaters [of Pompeii]".
 	- *GAA*: ch. 9, 296 "Epidauros", 324 "Were women in the audience?"; ch. 10, 341 "Pergamon", 354 "Syracuse".

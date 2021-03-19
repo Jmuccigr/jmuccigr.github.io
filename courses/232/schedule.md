@@ -158,6 +158,7 @@ course_number: 232
     - Octavian & the Second Triumvirate
     - Assignments:
         - *HoRP* ch. 17 & 19
+    - [Images from class]({% link courses/232/lectures/CLAS-232 11 Men of 1st c. BC.html %})
 
 - Friday, March 12
     - [Class video](https://drew.zoom.us/rec/share/IkvYA8T7j2DeGeUBQzUhebqYIifc9JNCDEX-5TIDQOlZt4zJCJYhE0yl368_X95V.SOdGVuRQJ-Fw55WO)
@@ -192,7 +193,6 @@ course_number: 232
 
 - Wednesday, March 24
     - Quiz on the Big Men
-        - [A blank version of the map]( {% link /courses/232/quizzes/Map for quiz II blank.pdf %} )
     - Claudius & Nero
     - Assignments:
         - *HoRP* ch. 23
@@ -210,6 +210,7 @@ course_number: 232
 
 - Wednesday, March 31
     - Map Quiz II: [Geography of the Empire]({% link /courses/232/quizzes/Map for quiz II - Empire.pdf %} )
+        - [A blank version of the map]( {% link /courses/232/quizzes/Map for quiz II blank.pdf %} )
     - Topic: Life expectancy - Daniel
     - Flavians
     - Assignments:
