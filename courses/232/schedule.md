@@ -181,8 +181,9 @@ course_number: 232
         - [Website](https://www.kalkriese-varusschlacht.de/en/) for the archaeological site of the Battle of the Teutoburg Forest
 
 - Friday, March 19
-    - Historian: Ronald Syme (1903–1989) - Hana
-    - Topic: Vestal Virgins - Mary Kate
+    - [Class video](https://drew.zoom.us/rec/share/7KTwICFfHFbIzPOAnUfYVMSqPW_iWXFAgzlKcevijTFCqsYDFxxtYhmtydtlXZHy.XQi7ZyT9Dpmn6vjL)
+   - Historian: [Ronald Syme (1903–1989) - Hana](https://docs.google.com/presentation/d/1hFwKdb_ONC9E2ccafZ4OmJHtASCHq7ruY2XZCrUZRAg/edit?usp=sharing_eip&ts=6054c574)
+    - Topic: [Vestal Virgins - Mary Kate](https://docs.google.com/presentation/d/19oLU6-jdUc1Pbaav7mGb0zYWDHvIOCh8OFODEXT69PY/edit?usp=sharing_eip&ts=6054ca26)
     - Tiberius & Caligula
     - Wikipedia "[list of Roman theatres](https://en.wikipedia.org/wiki/List_of_Roman_theatres)"
     - Assignments:
