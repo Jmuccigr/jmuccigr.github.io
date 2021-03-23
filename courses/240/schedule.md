@@ -186,7 +186,7 @@ course_number: 240
  ch. 5 on theaters and amphitheaters.](../../readings/Wheeler_RAA_ch5.pdf).
 	- Wikipedia "[list of Roman theatres](https://en.wikipedia.org/wiki/List_of_Roman_theatres)"
 	- [Reconstructions of the Theater of Pompey](http://www.pompey.cch.kcl.ac.uk/Burge.htm)
-	- [Lecture Images]({% link blank.md%})
+	- [Lecture Images]({% link courses/240/lectures/CLAS-240 Theaters.html%})
 
 #### Week 10
 ### More on entertainment
