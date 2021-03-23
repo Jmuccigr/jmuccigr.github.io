@@ -166,13 +166,16 @@ course_number: 240
 - *Thursday, March 11 - Holiday*
 
 #### Week 9
-### Theaters & Amphitheaters
 
 - Tuesday, March 16
 	- [The Ides of March]({% link courses/240/lectures/Ides.html %})
 	- *AC*: ch. 19, 321-323 "Veii"; ch. 20, 330-331 "Early history [of Rome]"; ch. 23, 379-382 "Temples".
+	- Vitruvius on the [Tuscan temple](http://www.vitruvius.be/boek4h7.htm)
+	- [Digital Pantheon](http://repository.edition-topoi.org/collection/BDPP/search)
 	- Ch. 1, [Boatwright, M.T. 1987. *Hadrian and the city of Rome*. Princeton, N.J.: Princeton University Press.]({% link courses/240/readings/Boatwright_Hadrian_ch1.pdf %}).
 	- [Digital Humanities Summer Institute]({% link courses/240/lectures/Digital Humanities Summer Institute.html %})
+
+### Theaters & Amphitheaters
 
 - Thursday, March 18
     - Archaeologist: [Massimo Pallottino (1909 – 1995) - Katie](https://docs.google.com/presentation/d/1orHVS4pDWSOrTJz5YQa1LuDESYjyFBF72xnzai9J7iw/edit?usp=sharing)
@@ -189,7 +192,6 @@ course_number: 240
 ### More on entertainment
 
 - Tuesday, March 23
-        - [A blank version of the map]( {% link /courses/240/quizzes/Map for quiz II blank.png %} )
 	-  *AC*: ch. 22, 360-361 "Amphitheater [of Pompeii]" ch 23, 385-387 "Flavian Amphitheater"
 	- Wikipedia "[list of Roman amphitheatres](https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres)"
 	- *Gladiator* scenes:
@@ -212,6 +214,7 @@ course_number: 240
 
 - Tuesday, March 30
     - Quiz 2: [Geography of Rome]({% link /courses/240/quizzes/Map for quiz II - Rome.pdf %} )
+        - [A blank version of the map]( {% link /courses/240/quizzes/Map for quiz II blank.png %} )
 	- *AC*: ch. 23, 382-385 "Commemorative monuments [arches and Trajan's Column]"; ch. 25, 420-421 "Arch of Constantine".
 	- Wikipedia Stubs: [the final list]({% link courses/240/wikipedia_stubs_final.md %})
 	- [Lecture images]({% link blank.md%})
