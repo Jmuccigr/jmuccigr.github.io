@@ -197,7 +197,8 @@ course_number: 232
     - Claudius & Nero
     - Assignments:
         - *HoRP* ch. 23
-
+    - [Images from class]({% link courses/232/lectures/CLAS-232 13 Caesar & Octavian.html %})
+CLAS-232 13 Caesar & Octavian.html
 - Friday, March 26
     - Historian: Edward Togo Salmon (1905–1988) - Mike
     - Topic: *Lex de imperio Vespasiani* - Shuang
