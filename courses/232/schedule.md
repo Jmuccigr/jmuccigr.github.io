@@ -193,12 +193,13 @@ course_number: 232
 ### Chaos, pt. I
 
 - Wednesday, March 24
+    - [Class video](https://drew.zoom.us/rec/share/_S6-Jo2kiRRM1_dLYKq0VkuN5yWrzE_sSobz8XR_au329ZG3FT0c495Wd63jXK0f.3P-C6YFyiHAzuzXM)
     - Quiz on the Big Men
     - Claudius & Nero
     - Assignments:
         - *HoRP* ch. 23
     - [Images from class]({% link courses/232/lectures/CLAS-232 13 Caesar & Octavian.html %})
-CLAS-232 13 Caesar & Octavian.html
+
 - Friday, March 26
     - Historian: Edward Togo Salmon (1905–1988) - Mike
     - Topic: *Lex de imperio Vespasiani* - Shuang

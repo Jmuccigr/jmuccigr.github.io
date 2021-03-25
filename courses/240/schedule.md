@@ -180,13 +180,13 @@ course_number: 240
 - Thursday, March 18
     - Archaeologist: [Massimo Pallottino (1909 – 1995) - Katie](https://docs.google.com/presentation/d/1orHVS4pDWSOrTJz5YQa1LuDESYjyFBF72xnzai9J7iw/edit?usp=sharing)
     - Site: [Herculaneum, Italy - Spencer Hall](https://docs.google.com/presentation/d/1uHH94EHwop9JaiHW6msUKdj6gpKPdqhTpCS1sISIKs8/edit?usp=sharing)
-	- *AC*: ch. 16, 263-264 "Theater of Dionysus"; ch. 17, 272-273 at Epidauros; ch. 18, 293 Pergamon; ch. 20, 345 "Theater of Pompey"; ch. 22, 360 "Theaters [of Pompeii]".
-	- *GAA*: ch. 9, 296 "Epidauros", 324 "Were women in the audience?"; ch. 10, 341 "Pergamon", 354 "Syracuse".
-	- [Wheeler, M. 1964. *Roman art and architecture*. New York: F.A. Praeger.
- ch. 5 on theaters and amphitheaters.](../../readings/Wheeler_RAA_ch5.pdf).
-	- Wikipedia "[list of Roman theatres](https://en.wikipedia.org/wiki/List_of_Roman_theatres)"
-	- [Reconstructions of the Theater of Pompey](http://www.pompey.cch.kcl.ac.uk/Burge.htm)
-	- [Lecture Images]({% link courses/240/lectures/CLAS-240 Theaters.html%})
+    - *AC*: ch. 16, 263-264 "Theater of Dionysus"; ch. 17, 272-273 at Epidauros; ch. 18, 293 Pergamon; ch. 20, 345 "Theater of Pompey"; ch. 22, 360 "Theaters [of Pompeii]".
+    - *GAA*: ch. 9, 296 "Epidauros", 324 "Were women in the audience?"; ch. 10, 341 "Pergamon", 354 "Syracuse".
+    - [Wheeler, M. 1964. *Roman art and architecture*. New York: F.A. Praeger.
+ ch. 4, section on theaters and amphitheaters.](../../readings/Wheeler - 1964 - Roman art and architecture.pdf).
+    - Wikipedia "[list of Roman theatres](https://en.wikipedia.org/wiki/List_of_Roman_theatres)"
+    - [Reconstructions of the Theater of Pompey](http://www.pompey.cch.kcl.ac.uk/Burge.htm)
+    - [Lecture Images]({% link courses/240/lectures/CLAS-240 Theaters.html %})
 
 #### Week 10
 ### More on entertainment
@@ -194,10 +194,11 @@ course_number: 240
 - Tuesday, March 23
 	-  *AC*: ch. 22, 360-361 "Amphitheater [of Pompeii]" ch 23, 385-387 "Flavian Amphitheater"
 	- Wikipedia "[list of Roman amphitheatres](https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres)"
+    - [Animated map]({% link /images/(amphi)theater_combo_animated.gif %}) of theaters and amphitheaters
 	- *Gladiator* scenes:
         - [Tiger fight](https://youtu.be/fAf1w_ruXeY)
         - [Arrival in Rome](https://youtu.be/gp46l7jfUzo)
-	- [Lecture Images]({% link blank.md%})
+	- [Lecture Images]({% link courses/240/lectures/CLAS-240 Amphitheaters.html%})
 
 - Thursday, March 25
     - Archaeologist: Wilhelmina Jashemski (1910 – 2007) - Veronica
