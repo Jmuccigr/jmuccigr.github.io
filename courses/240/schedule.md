@@ -201,8 +201,8 @@ course_number: 240
 	- [Lecture Images]({% link courses/240/lectures/CLAS-240 Amphitheaters.html%})
 
 - Thursday, March 25
-    - Archaeologist: Wilhelmina Jashemski (1910 – 2007) - Veronica
-    - Site: Caesarea Maritima, Israel - Chelsea
+    - Archaeologist: [Wilhelmina Jashemski (1910 – 2007) - Veronica](https://docs.google.com/presentation/d/1MlrOw4vz05kTi9AqIxmKQoJ9SpY1MzopJXG7a25im1A/edit?usp=sharing)
+    - Site: [Caesarea Maritima, Israel - Chelsea](https://docs.google.com/presentation/d/1197QShOF7wfU6dc6Ps7Ft7hZwBUwHI8wCELxaepBJcw/edit?usp=drive_web)
 	- Macedonia: *GAA*: ch. 9, 333-337 "Vergina"; Rome: *AC*: ch. 20, 345 "Circus Maximus"; ch. 21, 352-355 "Ara Pacis".
 	- Baths: *AC* ch. 22, 361-362 "The baths [of Pompeii]"; ch. 23, 388-390 "Baths of Trajan"
 	- Final Project
