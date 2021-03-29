@@ -15,5 +15,5 @@ Memorize the below listed locations on this map of the area of the Roman empire.
 |- Arabia     | - Dacia     | - Macedonia     | - Pannonia|
 |- Armenia     | - Dalmatia     | - Mauretania     | - Scythia|
 |- Asia     | - Gallia     | - Mesopotamia     | - Syria|
-|- Brittania     | - Hispania     | - Noricum     | - Thracia|
+|- Britannia     | - Hispania     | - Noricum     | - Thracia|
 
