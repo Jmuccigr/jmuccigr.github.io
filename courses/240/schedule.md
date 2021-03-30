@@ -198,16 +198,20 @@ course_number: 240
 	- *Gladiator* scenes:
         - [Tiger fight](https://youtu.be/fAf1w_ruXeY)
         - [Arrival in Rome](https://youtu.be/gp46l7jfUzo)
-	- [Lecture Images]({% link courses/240/lectures/CLAS-240 Amphitheaters.html%})
+	- [Lecture Images]({% link courses/240/lectures/CLAS-240 Amphitheaters.html %})
 
 - Thursday, March 25
     - Archaeologist: [Wilhelmina Jashemski (1910 – 2007) - Veronica](https://docs.google.com/presentation/d/1MlrOw4vz05kTi9AqIxmKQoJ9SpY1MzopJXG7a25im1A/edit?usp=sharing)
     - Site: [Caesarea Maritima, Israel - Chelsea](https://docs.google.com/presentation/d/1197QShOF7wfU6dc6Ps7Ft7hZwBUwHI8wCELxaepBJcw/edit?usp=drive_web)
+    - Clips:
+        - [Ben Hur chariot race](https://www.youtube.com/watch?v=frE9rXnaHpE)
+        - [Star Wars pod race](https://youtu.be/ol7YjysLrEE?t=200), [pt 2](https://www.youtube.com/watch?v=KZUR4brUPN4)
+    - Reading: [*Iliad* Book 23](http://classics.mit.edu/Homer/iliad.23.xxiii.html)
 	- Macedonia: *GAA*: ch. 9, 333-337 "Vergina"; Rome: *AC*: ch. 20, 345 "Circus Maximus"; ch. 21, 352-355 "Ara Pacis".
 	- Baths: *AC* ch. 22, 361-362 "The baths [of Pompeii]"; ch. 23, 388-390 "Baths of Trajan"
 	- Final Project
         - Description due via [email](mailto:jmuccigr@drew.edu?subject=Final project proposal)
-	- [Lecture images]({% link blank.md%})
+	- [Lecture images]({% link courses/240/lectures/CLAS-240 Athletics.html %})
 	- [Lecture images]({% link blank.md%})
 
 #### Week 11
@@ -232,7 +236,7 @@ course_number: 240
 ### Sculpture & Statuary
 
 - Tuesday, April 6
-    - Wikipedia session in Library
+    - Catch-up
     - [Groups]({% link courses/240/Wikipedia_Groups.md %})
 
 - Thursday, April 8

@@ -201,7 +201,8 @@ course_number: 232
     - [Images from class]({% link courses/232/lectures/CLAS-232 13 Caesar & Octavian.html %})
 
 - Friday, March 26
-    - Historian: Edward Togo Salmon (1905–1988) - Mike
+    - [Class video](https://drew.zoom.us/rec/share/UvW81vR0sDZBnz9J3ErJEHMwvfiA7LQci6k1aGWi5UFnbW4I9Z8TgMA1PL9nwXTv.-SXyi48V3LhspMoy)
+    - Historian: [Edward Togo Salmon (1905–1988) - Mike](https://docs.google.com/presentation/d/1y-5tdpWrAyPDOg68uecLZ6si-PrkozQ48wlY-_RCJgw/edit?usp=sharing_eip&ts=605dfcd2)
     - Topic: *Lex de imperio Vespasiani* - Shuang
     - 69 CE: The Year of the Four Emperors
     - Our Sources: Tacitus
