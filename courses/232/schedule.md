@@ -212,9 +212,10 @@ course_number: 232
 ### The Good Emperors
 
 - Wednesday, March 31
+[Class video](https://drew.zoom.us/rec/share/L5RfUGbK-fF44CgMKxrbS9jnUxkxnPqBw_iJxETLyx4RZ2H37iBFM8Wt6ih7u7js.1cZ_YSuZWXnGDILz)
     - Map Quiz II: [Geography of the Empire]({% link /courses/232/quizzes/Map for quiz II - Empire.pdf %} )
         - [A blank version of the map]( {% link /courses/232/quizzes/Map for quiz II blank.pdf %} )
-    - Topic: Life expectancy - Daniel
+    - Topic: [Life expectancy - Daniel]({% link /courses/232/presentations/Life Expectancy, Daniel Viera.pdf %})
     - Flavians
     - Assignments:
         - *HoRP* ch. 24
