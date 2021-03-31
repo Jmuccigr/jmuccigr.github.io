@@ -210,7 +210,7 @@ course_number: 240
 	- Macedonia: *GAA*: ch. 9, 333-337 "Vergina"; Rome: *AC*: ch. 20, 345 "Circus Maximus"; ch. 21, 352-355 "Ara Pacis".
 	- Baths: *AC* ch. 22, 361-362 "The baths [of Pompeii]"; ch. 23, 388-390 "Baths of Trajan"
 	- Reading: [Introduction]( {% link /courses/240/readings/Fagan - 2002 - Bathing in public in the Roman world.pdf %} ), Fagan, G.G. 2002. Bathing in public in the Roman world. Ann Arbor: University of Michigan Press.
-	- Video: [Discovery of a section of the Aqua Appia in Rome]( {% link /courses/240/readings/appia.mp4 %} ), Fagan, G.G. 2002. Bathing in public in the Roman world. Ann Arbor: University of Michigan Press.
+	- Video: [Discovery of a section of the Aqua Appia in Rome]( {% link /courses/240/readings/appia.mp4 %} )
 	- Final Project
         - Description due via [email](mailto:jmuccigr@drew.edu?subject=Final project proposal)
 	- [Lecture images]({% link courses/240/lectures/CLAS-240 Athletics.html %})
