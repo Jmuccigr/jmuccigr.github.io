@@ -203,7 +203,6 @@ course_number: 232
 - Friday, March 26
     - [Class video](https://drew.zoom.us/rec/share/UvW81vR0sDZBnz9J3ErJEHMwvfiA7LQci6k1aGWi5UFnbW4I9Z8TgMA1PL9nwXTv.-SXyi48V3LhspMoy)
     - Historian: [Edward Togo Salmon (1905–1988) - Mike](https://docs.google.com/presentation/d/1y-5tdpWrAyPDOg68uecLZ6si-PrkozQ48wlY-_RCJgw/edit?usp=sharing_eip&ts=605dfcd2)
-    - Topic: *Lex de imperio Vespasiani* - Shuang
     - 69 CE: The Year of the Four Emperors
     - Our Sources: Tacitus
     - Assignments:
@@ -219,7 +218,8 @@ course_number: 232
     - Flavians
     - Assignments:
         - *HoRP* ch. 24
-    - Wikipedia Stubs: [the final list]({% link courses/232/wikipedia_stubs_final.md %})
+<!--    - Wikipedia Stubs: [the final list]({% link courses/232/wikipedia_stubs_final.md %})-->
+    - [Images from class]({% link courses/232/lectures/CLAS-232 14 Augustus.html %})
 
 - *Friday, April 2 - Holiday*
 
@@ -227,6 +227,7 @@ course_number: 232
 ### Good & then Not So Good
 
 - Wednesday, April 7
+    - Topic: *Lex de imperio Vespasiani* - Shuang
     - Trajan & Hadrian
     - Our Sources: Pliny the Younger
     - Assignments:
