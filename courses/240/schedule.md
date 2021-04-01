@@ -214,7 +214,7 @@ course_number: 240
 	- Final Project
         - Description due via [email](mailto:jmuccigr@drew.edu?subject=Final project proposal)
 	- [Lecture images]({% link courses/240/lectures/CLAS-240 Athletics.html %})
-	- [Lecture images]({% link blank.md%})
+	- [Lecture images]({% link courses/240/lectures/CLAS-240 Baths.html %})
 
 #### Week 11
 ### Stadia & Other commemorative monuments
