@@ -227,12 +227,12 @@ course_number: 240
 	- [Lecture images]({% link blank.md%})
 
 - Thursday, April 1
-    - Archaeologist: Kent Vaughn Flannery (born 1934) - Chelsea
+    - Archaeologist: [Kent Vaughn Flannery (born 1934) - Chelsea](https://docs.google.com/presentation/d/1vu_aZ5tlYpnAN7Bd12yEmPjJeH2vpqLPXz5WNRXeeZ0/)
     - Site: Vindolanda, England - Adaline
 	- *GAA*: ch. 4, 110-110 "Sculpture"; ch. 5, 139-145; ch. 6, 171-172, 187-189; ch. 7, 229-241; ch. 8, 276-281; ch. 9, 305-318; ch. 10, 354-377.
 	- *AC*: ch. 15, 246 "Early Classical Style".
 	- *Kouroi* and *Korai*: *AC*: ch. 14, 234-237 "Sculpture"; *GAA*: ch. 6, 172-187 "Kouroi", "Korai"; 184 "The Getty Kouros".
-	- [Lecture images]({% link blank.md%})
+	- [Lecture images]({% link courses/240/lectures/CLAS-240 Sculpture.html %})
 
 #### Week 12
 ### Sculpture & Statuary
