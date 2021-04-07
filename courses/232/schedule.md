@@ -228,7 +228,6 @@ course_number: 232
 ### Good & then Not So Good
 
 - Wednesday, April 7
-    - Topic: *Lex de imperio Vespasiani* - Shuang
     - Trajan & Hadrian
     - Our Sources: Pliny the Younger
     - Assignments:
@@ -246,6 +245,7 @@ course_number: 232
 ### Chaos, pt. 2: The Military Emperors
 
 - Wednesday, April 14
+    - Topic: *Lex de imperio Vespasiani* - Shuang
     - Quiz IIII: The Emperors
     - Culture under the Empire
     - Assignments:
