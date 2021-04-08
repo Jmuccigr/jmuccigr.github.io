@@ -254,8 +254,11 @@ course_number: 240
 - Tuesday, April 13
 	- Italy
 	- Amphoras, red-slip, etc.
-	- Vickers, M.J. 1985. [“Artful crafts: The influence of metalwork on Athenian painted pottery.”](http://www.jstor.org/stable/631525) *Journal of Hellenic Studies* 105: 108–128.
-	- Gill, D.W.J., and M.J. Vickers. 1990. [“Reflected glory: Pottery and precious metal in Classical Greece.”]({% link courses/240/readings/Gill and Vickers - 1990 - Reflected glory Pottery and precious metal in Cla.pdf %}) *Jahrbuch des Deutschen Archäologischen Instituts* 105: 1–30.
+	- Readings:
+    	- Oakley, J.H. 2009. “Greek vase painting.” American Journal of Archaeology 113 4: 599–627. [doi:10.3764/aja.113.4.599](https://www.jstor.org/stable/20627620).
+    	- one of the following:
+        	- Spencer Hall, Katie, Veronica, Adaline: Vickers, M.J. 1985. [“Artful crafts: The influence of metalwork on Athenian painted pottery.”](http://www.jstor.org/stable/631525) *Journal of Hellenic Studies* 105: 108–128.
+        	- Others: Gill, D.W.J., and M.J. Vickers. 1990. [“Reflected glory: Pottery and precious metal in Classical Greece.”]({% link courses/240/readings/Gill and Vickers - 1990 - Reflected glory Pottery and precious metal in Cla.pdf %}) *Jahrbuch des Deutschen Archäologischen Instituts* 105: 1–30.
 
 - Thursday, April 15
     - Catch-up
