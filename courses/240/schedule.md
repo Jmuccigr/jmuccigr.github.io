@@ -238,7 +238,7 @@ course_number: 240
 ### Sculpture & Statuary
 
 - Tuesday, April 6
-    - Catch-up
+    - [Wikipedia sandbox tutorial](https://dashboard.wikiedu.org/training/students/sandboxes-talk-watchlists)
     - [Groups]({% link courses/240/Wikipedia_Groups.md %})
 
 - Thursday, April 8
