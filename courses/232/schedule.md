@@ -84,7 +84,7 @@ course_number: 232
 
     - [Class video](https://drew.zoom.us/rec/share/Pq3duwdPxY7qYYbSdUvBN5gTQvFXslUHNLl8Vh_yqYWE-ULUyhPltQQ4L-lXN5Fo.SOcEeRtrSeQkuQll)
     - Historian: [Edward Gibbon (1737–1794) - Zachary](https://docs.google.com/presentation/d/1pH4MHcX2qHV76wt7hTCAnDPJwxXPOrg4FWBdq-08CPc/edit?usp=sharing)
-    - Topic: [Law codes - Luke]({% link courses/232/presentations/Law Codes.pptx  %})
+    - Topic: [Law codes - Luke]({% link courses/232/presentations/Law Codes.pptx %})
     - Greek cities
     - Our Sources: Fabius Pictor
     - Assignments:
@@ -228,6 +228,7 @@ course_number: 232
 ### Good & then Not So Good
 
 - Wednesday, April 7
+    - [Class video](https://drew.zoom.us/rec/share/bPASvTOfpsWn602XPqEFb5MG6HNfVJFjh8HElGeWt3Usr7LYEKGI_gV9yIZnIzTn.oYah2hySjjmojzyM)
     - Trajan & Hadrian
     - Our Sources: Pliny the Younger
     - Assignments:
@@ -235,8 +236,9 @@ course_number: 232
         - [OCD entry](https://www-oxfordreference-com.ezproxy.drew.edu/view/10.1093/acref/9780199545568.001.0001/acref-9780199545568-e-5134?rskey=2vDfPH&result=1){:target="_blank"} for Pliny the Younger
 
 - Friday, April 9
+    - [Class video](https://drew.zoom.us/rec/share/Bmdgf87MTWnErzuPdZ0C9Mj7qjHeTTEGWnjTiK15G-xT8Ud5OG6QjPfhmJZOp0UY.SIA58ShAC7oj7vRk)
     - Historian: Arnaldo Dante Momigliano (1908–1987) - Henry
-    - Topic: Antonine Plague - Pat
+    - Topic: [Antonine Plague - Pat]({% link /courses/232/presentations/The Antonine Plague.pptx %})
     - M. Aurelius
     - Assignments:
         - *HoRP* ch. 25, M. Aurelius - end
@@ -246,7 +248,6 @@ course_number: 232
 
 - Wednesday, April 14
     - Topic: *Lex de imperio Vespasiani* - Shuang
-    - Quiz IIII: The Emperors
     - Culture under the Empire
     - Assignments:
         - *HoRP* ch. 26
@@ -254,6 +255,7 @@ course_number: 232
 - Friday, April 16
     - Historian: Moses I. Finley (1912–1986) - Louis
     - Topic: Marriage - Darius
+    - Quiz IIII: The Emperors
     - The Severan Dynasty & the Crisis of the Third century
     - Assignments:
         - *HoRP* ch. 27

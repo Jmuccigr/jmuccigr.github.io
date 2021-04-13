@@ -232,6 +232,7 @@ course_number: 240
 	- *GAA*: ch. 4, 110-110 "Sculpture"; ch. 5, 139-145; ch. 6, 171-172, 187-189; ch. 7, 229-241; ch. 8, 276-281; ch. 9, 305-318; ch. 10, 354-377.
 	- *AC*: ch. 15, 246 "Early Classical Style".
 	- *Kouroi* and *Korai*: *AC*: ch. 14, 234-237 "Sculpture"; *GAA*: ch. 6, 172-187 "Kouroi", "Korai"; 184 "The Getty Kouros".
+	- [Lost-wax casting video](https://www.youtube.com/watch?v=CRfymA6HN5Y)
 	- [Lecture images]({% link courses/240/lectures/CLAS-240 Sculpture.html %})
 
 #### Week 12
