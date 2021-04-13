@@ -264,6 +264,7 @@ course_number: 240
 
 - Thursday, April 15
     - Catch-up
+    - Noble, J.V. 1960. “[The Technique of Attic vase-painting](http://www.jstor.org/stable/501329).” American Journal of Archaeology 64: 307–318.
 
 #### Week 14
 ### Pottery II & other small things
