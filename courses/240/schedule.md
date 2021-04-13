@@ -243,7 +243,7 @@ course_number: 240
     - [Groups]({% link courses/240/Wikipedia_Groups.md %})
 
 - Thursday, April 8
-    - Archaeologist: Anna Marguerite McCann (1933 – 2017) - Sophia
+    - Archaeologist: [Anna Marguerite McCann (1933 – 2017) - Sophia]({% link courses/240/presentations/Sophia Patti Anna Marguerite McCann.pptx %})
     - Site: Petra, Jordan - Emma
 	- *AC*: ch. 14, 232-234 "Attic black-figure and red-figure pottery".
 	- *GAA*: ch. 4, 112-118 "Pottery"; 115 "Burying the dead"; ch. 5, 121-131 "Pottery"; ch. 6, 189-205; ch. 7, 242-247; ch. 8, 281-287; ch. 9, 318-322; ch. 10, 382-385.
@@ -256,10 +256,10 @@ course_number: 240
 	- Italy
 	- Amphoras, red-slip, etc.
 	- Readings:
-    	- Oakley, J.H. 2009. “Greek vase painting.” American Journal of Archaeology 113 4: 599–627. [doi:10.3764/aja.113.4.599](https://www.jstor.org/stable/20627620).
-    	- one of the following:
-        	- Spencer Hall, Katie, Veronica, Adaline: Vickers, M.J. 1985. [“Artful crafts: The influence of metalwork on Athenian painted pottery.”](http://www.jstor.org/stable/631525) *Journal of Hellenic Studies* 105: 108–128.
-        	- Others: Gill, D.W.J., and M.J. Vickers. 1990. [“Reflected glory: Pottery and precious metal in Classical Greece.”]({% link courses/240/readings/Gill and Vickers - 1990 - Reflected glory Pottery and precious metal in Cla.pdf %}) *Jahrbuch des Deutschen Archäologischen Instituts* 105: 1–30.
+        - Oakley, J.H. 2009. “Greek vase painting.” American Journal of Archaeology 113 4: 599–627. [doi:10.3764/aja.113.4.599](https://www.jstor.org/stable/20627620).
+        - one of the following:
+            - Spencer Hall, Katie, Veronica, Adaline: Vickers, M.J. 1985. [“Artful crafts: The influence of metalwork on Athenian painted pottery.”](http://www.jstor.org/stable/631525) *Journal of Hellenic Studies* 105: 108–128.
+            - Others: Gill, D.W.J., and M.J. Vickers. 1990. [“Reflected glory: Pottery and precious metal in Classical Greece.”]({% link courses/240/readings/Gill and Vickers - 1990 - Reflected glory Pottery and precious metal in Cla.pdf %}) *Jahrbuch des Deutschen Archäologischen Instituts* 105: 1–30.
 	- [Lecture images]({% link courses/240/lectures/CLAS-240 Pottery.html %})
 
 - Thursday, April 15
