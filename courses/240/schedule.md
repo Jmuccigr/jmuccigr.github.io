@@ -264,6 +264,9 @@ course_number: 240
 
 - Thursday, April 15
     - Catch-up
+    - Videos
+        - [Ancient Greek Vase Production and the Black-Figure Technique](https://youtu.be/FpLPx_Akl7Y) (slicker, but a little too clean)
+        - [Making Greek vases](https://youtu.be/WhPW50r07L8) (real - though fuzzy - footage)
     - Noble, J.V. 1960. “[The Technique of Attic vase-painting](http://www.jstor.org/stable/501329).” American Journal of Archaeology 64: 307–318.
 
 #### Week 14
