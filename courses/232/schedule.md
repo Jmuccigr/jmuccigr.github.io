@@ -247,7 +247,7 @@ course_number: 232
 ### Chaos, pt. 2: The Military Emperors
 
 - Wednesday, April 14
-    - Topic: *Lex de imperio Vespasiani* - Shuang
+    - [Class video](https://support.microsoft.com/en-us/office/animate-bullet-points-one-at-a-time-in-powerpoint-for-mac-fcbe7e4e-c467-4911-bde8-b120cbc1c9ed)
     - Culture under the Empire
     - Assignments:
         - *HoRP* ch. 26
@@ -255,6 +255,7 @@ course_number: 232
 - Friday, April 16
     - Historian: Moses I. Finley (1912–1986) - Louis
     - Topic: Marriage - Darius
+    - Topic: *Lex de imperio Vespasiani* - Shuang
     - Quiz IIII: The Emperors
     - The Severan Dynasty & the Crisis of the Third century
     - Assignments:
