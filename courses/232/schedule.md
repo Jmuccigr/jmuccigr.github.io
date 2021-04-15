@@ -254,7 +254,6 @@ course_number: 232
 
 - Friday, April 16
     - Historian: Moses I. Finley (1912–1986) - Louis
-    - Topic: Marriage - Darius
     - Topic: *Lex de imperio Vespasiani* - Shuang
     - Quiz IIII: The Emperors
     - The Severan Dynasty & the Crisis of the Third century
@@ -266,6 +265,7 @@ course_number: 232
 
 - Wednesday, April 21
     - Topic: The Aurelian Wall - Maria
+    - Topic: Marriage - Darius
     - The Festival of the *Parilia*: Happy birthday, Rome!
     - Aurelian & the second walling of Rome
     - Assignments:
