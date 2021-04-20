@@ -277,6 +277,10 @@ course_number: 240
 	- Wall-painting: *GAA*: ch. 9, 322-337
 	- Mosaics: *AC*: ch. 17, 280-282 "Floor mosaics"
 	- [Seriation](https://www.thoughtco.com/seriation-scientific-dating-before-radiocarbon-170607)
+	- American Chemical Society. 2016. “Discovery of Radiocarbon Dating.” American Chemical Society. <https://www.acs.org/content/acs/en/education/whatischemistry/landmarks/radiocarbon-dating.html>.
+	- [Lecture images]({% link /courses/240/lectures/CLAS-240 30 Dating & Seriation.html%})
+	- [Lecture images]({% link /courses/240/lectures/CLAS-240 Walls & Floors.html%})
+
 
 ### Coins
 
@@ -284,7 +288,7 @@ course_number: 240
 	- Coinage: *AC*: ch. 12, 217-218 "...coinage"; ch 16, 268 on the mint.
 	- Bursche, A. 2002. December 15. “Circulation of Roman Coinage in Northern Europe in Late Antiquity.” *Histoire & mesure* XVII 3/4 (December 15): 121–141. [doi:10.4000/histoiremesure.886](https://doi.org/10.4000/histoiremesure.886).
 	- Buttrey, T.V. 1972. “[Halved coins, the Augustan reform, and Horace, Odes I.3.](http://www.jstor.org/stable/503609)” *American Journal of Archaeology* 76 1: 31–48.
-	- [Lecture images]({% link blank.md%})
+	- [Lecture images]({% link /courses/240/lectures/CLAS-240 Coinage.html%})
 
 #### Week 15
 ### Student Presentations

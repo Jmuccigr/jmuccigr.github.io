@@ -237,7 +237,7 @@ course_number: 232
 
 - Friday, April 9
     - [Class video](https://drew.zoom.us/rec/share/Bmdgf87MTWnErzuPdZ0C9Mj7qjHeTTEGWnjTiK15G-xT8Ud5OG6QjPfhmJZOp0UY.SIA58ShAC7oj7vRk)
-    - Historian: Arnaldo Dante Momigliano (1908–1987) - Henry
+    - Historian: [Arnaldo Dante Momigliano (1908–1987) - Henry](https://docs.google.com/presentation/d/1Kp-3dIuEmv0gxMKZ9iwy2ClTVg_N-lae7RoZISnCPEo/edit?usp=sharing_eip&ts=6079b38f)
     - Topic: [Antonine Plague - Pat]({% link /courses/232/presentations/The Antonine Plague.pptx %})
     - M. Aurelius
     - Assignments:
@@ -253,7 +253,8 @@ course_number: 232
         - *HoRP* ch. 26
 
 - Friday, April 16
-    - Historian: Moses I. Finley (1912–1986) - Louis
+    - [Class video](https://drew.zoom.us/rec/share/91NiK0pk11mcOzwIPkoQe7IzJUjFMsd71j4U4yZjW0rHafm1PRRWUkOnC0uswWT_.cUmuOB96wuE02h0o)
+    - Historian: [Moses I. Finley (1912–1986) - Louis]({% link /courses/232/presentations/Finley.pdf %})
     - Topic: *Lex de imperio Vespasiani* - Shuang
     - Quiz IIII: The Emperors
     - The Severan Dynasty & the Crisis of the Third century
