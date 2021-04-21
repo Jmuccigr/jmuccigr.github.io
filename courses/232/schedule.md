@@ -265,6 +265,7 @@ course_number: 232
 ### It's a long border
 
 - Wednesday, April 21
+    - [Class video](https://drew.zoom.us/rec/share/xf181SXd3eQ3pUXRFQNzjTq8V4pZmpfGK5F0ZuYlr68WO-6A5eyYdUq5P9gRhKOv.-LJFBLiRPRBfxj0j)
     - Topic: [The Aurelian Wall - Maria](https://docs.google.com/presentation/d/11f-qVBSp0ZQmJed-mKwAq7le9ITIuxz04TtIPahrktU/edit?usp=sharing)
     - The Festival of the *Parilia*: Happy birthday, Rome!
     - Aurelian & the second walling of Rome
