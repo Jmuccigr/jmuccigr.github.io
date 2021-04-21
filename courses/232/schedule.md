@@ -265,16 +265,17 @@ course_number: 232
 ### It's a long border
 
 - Wednesday, April 21
-    - Topic: The Aurelian Wall - Maria
-    - Topic: Marriage - Darius
+    - Topic: [The Aurelian Wall - Maria](https://docs.google.com/presentation/d/11f-qVBSp0ZQmJed-mKwAq7le9ITIuxz04TtIPahrktU/edit?usp=sharing)
     - The Festival of the *Parilia*: Happy birthday, Rome!
     - Aurelian & the second walling of Rome
     - Assignments:
         - *HoRP* ch. 28 & 29
+    - [Images from class (Parilia)]({% link courses/232/lectures/CLAS-232 Parilia.html %})
 
 - Friday, April 23
     - Historian: Keith Hopkins (1934–2004) - Matt
     - Topic: Armor - Tristan
+    - Topic: Marriage - Darius
     - Diocletian & The Tetrarchy
     - Assignments:
         - *HoRP* ch. 30
