@@ -274,8 +274,9 @@ course_number: 232
     - [Images from class (Parilia)]({% link courses/232/lectures/CLAS-232 Parilia.html %})
 
 - Friday, April 23
+    - [Class video](https://drew.zoom.us/rec/share/CqXwzSy2mhD70GisYnEWxjWXnSpn7v6s-TJDh5Kvzk6TZi8FSiVm3pP2io472puT.ZkvYVedzYcgloFHb)
     - Historian: Keith Hopkins (1934–2004) - Matt
-    - Topic: Armor - Tristan
+    - Topic: [Armor - Tristan]({ %link courses/232/presentations/RomanArmor.pptx })
     - Topic: Marriage - Darius
     - Diocletian & The Tetrarchy
     - Assignments:
@@ -298,3 +299,7 @@ course_number: 232
     - Then what happened?
     - Assignments:
         - *HoRP* ch. 33 & 34
+
+### Final
+
+- [Images for the final]({% link courses/232/lectures/Final images.html %})
