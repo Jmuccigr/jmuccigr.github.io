@@ -287,14 +287,12 @@ course_number: 232
 ### Restoring monarchy
 
 - Wednesday, April 28
-    - Historian: Fergus Millar (1935–2019) - Isla
     - Topic: Funerary inscriptions - Rose
     - Constantine
     - Assignments:
         - *HoRP* ch. 31
 
 - Friday, April 30
-    - Historian: Mary Beard (1955-) - Brandon
     - Topic: Travel - Shunuan
     - Then what happened?
     - Assignments:
