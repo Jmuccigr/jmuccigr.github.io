@@ -291,6 +291,7 @@ course_number: 232
     - Constantine
     - Assignments:
         - *HoRP* ch. 31
+    - [Images from class (Parilia)]({% link courses/232/lectures/CLAS-232 19 The 3rd c. AD.html %})
 
 - Friday, April 30
     - Topic: Travel - Shunuan
