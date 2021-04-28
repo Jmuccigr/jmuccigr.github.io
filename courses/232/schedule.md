@@ -287,6 +287,7 @@ course_number: 232
 ### Restoring monarchy
 
 - Wednesday, April 28
+    - [Class video](https://drew.zoom.us/rec/share/mBpZQt4UbHGotUJN7_qFli3FOAxYs_8EKGgaXo0Jry7uiiPbV7xT1mf4XE1vFOOR.xjdCKXmGFR_f8yHD)
     - Topic: Funerary inscriptions - Rose
     - Constantine
     - Assignments:
