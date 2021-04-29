@@ -253,7 +253,7 @@ course_number: 232
         - *HoRP* ch. 26
 
 - Friday, April 16
-    - [Class video](https://drew.zoom.us/rec/share/91NiK0pk11mcOzwIPkoQe7IzJUjFMsd71j4U4yZjW0rHafm1PRRWUkOnC0uswWT_.cUmuOB96wuE02h0o)
+    - [Class video](https://drew.zoom.us/rec/share/qhKq_liKA9SJTYBv-ZqF1AGKlXSB52AlN54D1DmKCpix6I84YosPJ3AfFjIH1WCN.De-GDKUECiCvF1yy)
     - Historian: [Moses I. Finley (1912–1986) - Louis]({% link /courses/232/presentations/Finley.pdf %})
     - Topic: *Lex de imperio Vespasiani* - Shuang
     - Quiz IIII: The Emperors
@@ -265,7 +265,7 @@ course_number: 232
 ### It's a long border
 
 - Wednesday, April 21
-    - [Class video](https://drew.zoom.us/rec/share/xf181SXd3eQ3pUXRFQNzjTq8V4pZmpfGK5F0ZuYlr68WO-6A5eyYdUq5P9gRhKOv.-LJFBLiRPRBfxj0j)
+    - [Class video](https://drew.zoom.us/rec/share/r4GpozLSke4LUpscS8hEQHGtJS7COZKQ70v4sylHJyWnb9R-Tul7Kqy8Q9nVWb9t.F-FJbEA_G6bUKTsF)
     - Topic: [The Aurelian Wall - Maria](https://docs.google.com/presentation/d/11f-qVBSp0ZQmJed-mKwAq7le9ITIuxz04TtIPahrktU/edit?usp=sharing)
     - The Festival of the *Parilia*: Happy birthday, Rome!
     - Aurelian & the second walling of Rome
@@ -274,7 +274,7 @@ course_number: 232
     - [Images from class (Parilia)]({% link courses/232/lectures/CLAS-232 Parilia.html %})
 
 - Friday, April 23
-    - [Class video](https://drew.zoom.us/rec/share/CqXwzSy2mhD70GisYnEWxjWXnSpn7v6s-TJDh5Kvzk6TZi8FSiVm3pP2io472puT.ZkvYVedzYcgloFHb)
+    - [Class video](https://drew.zoom.us/rec/share/Jz2e2WLXk7sHd_NPKP5naA4omn7-tjnkUodgftYmN4tXJfbHnnUnBY2WDYazOAI6.8MkhT_ZeJxB0Oghh)
     - Historian: Keith Hopkins (1934–2004) - Matt
     - Topic: [Armor - Tristan]({ %link courses/232/presentations/RomanArmor.pptx })
     - Topic: Marriage - Darius
@@ -287,7 +287,7 @@ course_number: 232
 ### Restoring monarchy
 
 - Wednesday, April 28
-    - [Class video](https://drew.zoom.us/rec/share/mBpZQt4UbHGotUJN7_qFli3FOAxYs_8EKGgaXo0Jry7uiiPbV7xT1mf4XE1vFOOR.xjdCKXmGFR_f8yHD)
+    - [Class video](https://drew.zoom.us/rec/share/oHXOP5nsnMVdY4nWMCKIvKon3Dd2pDYJUS0Qus15UrnSt78-PAGs_Um0khxnB9w0.kehKErJ2apBnCucB)
     - Topic: Funerary inscriptions - Rose
     - Constantine
     - Assignments:
