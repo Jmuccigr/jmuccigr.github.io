@@ -247,7 +247,7 @@ course_number: 232
 ### Chaos, pt. 2: The Military Emperors
 
 - Wednesday, April 14
-    - [Class video](https://support.microsoft.com/en-us/office/animate-bullet-points-one-at-a-time-in-powerpoint-for-mac-fcbe7e4e-c467-4911-bde8-b120cbc1c9ed)
+    - [Class video](https://drew.zoom.us/rec/share/XSLrhH8OJIbwGngatEzuBTrEU-GVk9Q9xc15mTczd5fKsP-4Tf3csU5A-VmYylrh.CC5d0ymtwjIer2d3)
     - Culture under the Empire
     - Assignments:
         - *HoRP* ch. 26
