@@ -288,13 +288,14 @@ course_number: 232
 
 - Wednesday, April 28
     - [Class video](https://drew.zoom.us/rec/share/oHXOP5nsnMVdY4nWMCKIvKon3Dd2pDYJUS0Qus15UrnSt78-PAGs_Um0khxnB9w0.kehKErJ2apBnCucB)
-    - Topic: Funerary inscriptions - Rose
+    - Topic: [Funerary inscriptions - Rose](https://docs.google.com/presentation/d/1N5O1WHllHbeey8uvk3n-mFEJf1f5CAzIkFYI99nVOWk/edit?usp=sharing)
     - Constantine
     - Assignments:
         - *HoRP* ch. 31
     - [Images from class (Parilia)]({% link courses/232/lectures/CLAS-232 19 The 3rd c. AD.html %})
 
 - Friday, April 30
+    - [Class video](https://drew.zoom.us/rec/play/kESt3BoJdaghkULN7wAxx4_fF8W87Bjp00x31DXYSdjSpMcyUkFBkvcw9DuO7PqAzftS7ja24U61h4A-.-Pj3Mj-m4jdPSu2R)
     - Topic: Travel - Shunuan
     - Then what happened?
     - Assignments:
