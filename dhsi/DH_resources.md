@@ -3,6 +3,10 @@ layout: default
 title: DH Resources
 ---
 
+## The Command Line
+
+- An [introduction](../command_line)
+
 ## Mapping
 
 - GeoJSON - a text-based format for encoding a variety of geographic data structures
@@ -48,25 +52,17 @@ title: DH Resources
 ## How-to
 
 - [Programming Historian](http://programminghistorian.org/) - novice-friendly, peer-reviewed tutorials
-- (GitHub needed)
-
-## Foundational stuff
-
+- Tutorial video: [Git and GitHub for poets, part 1](https://www.youtube.com/watch?v=BCQHnlnPusY)
 - Regex
     - [Wikipedia](https://en.wikipedia.org/wiki/Regular_expression)
     - [RegexOne tutorial](https://www.regexone.com/)
-- Git and GitHub
-    - Tutorial video: [Git and GitHub for poets, part 1](https://www.youtube.com/watch?v=BCQHnlnPusY)
+
+## Linked Open Data (LOD)
+
+- [Intro video](https://www.youtube.com/watch?v=VZBpFiLbi-Y) by Miriam Posner
 
 ## Scholarly things
 
 - [Orcid](https://orcid.org/)
 - [Zenodo](https://zenodo.org/)
 - [Zotero](https://zotero.org/)
-
-## Contributors
-
-- Genesis Guedes
-- Molly Thompson
-- Rae Brickey
-- Andrew Katapodis 
