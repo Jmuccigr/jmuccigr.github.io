@@ -22,13 +22,6 @@ title: DH Resources
     - [Story Maps](https://storymaps.arcgis.com)
     - [Timelines](https://schoolofdata.org/handbook/courses/timeline-tools/)
 
-## Text Resources 
-
-- [Livy Book 1](http://mcadams.posc.mu.edu/txt/ah/Livy/Livy01.html)
-- Dionysius of Halicarnassus
-    - [PDF](http://scans.library.utoronto.ca/pdf/4/26/romanantiquities03dionuoft/romanantiquities03dionuoft.pdf)
-    - [text](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/home.html)
-
 ## Data cleaning
 
 - [OpenRefine](http://openrefine.org)
@@ -37,6 +30,13 @@ title: DH Resources
 
 - [Pleiades](http://pleiades.stoa.org) - Gazetteer of ancient places
 - [Rome Research Group](http://romeresearchgroup.org/database-of-temples/) - temple database
+
+### Text Resources 
+
+- [Livy Book 1](http://mcadams.posc.mu.edu/txt/ah/Livy/Livy01.html)
+- Dionysius of Halicarnassus
+    - [PDF](http://scans.library.utoronto.ca/pdf/4/26/romanantiquities03dionuoft/romanantiquities03dionuoft.pdf)
+    - [text](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/home.html)
 
 ### Rome and its empire
 
