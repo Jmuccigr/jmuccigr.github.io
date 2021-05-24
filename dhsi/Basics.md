@@ -18,3 +18,4 @@ date: Sunday, 23 May 2021
     - NB Cloud-based services like DropBox or Box or Google Drive or Apple's iCloud are not really back-up services. If you delete a file on your computer, it will also be deleted in the cloud and you typically can't get it back.
 - Get a good text editor
     - [BBEdit](http://barebones.com/) is a classic
+- Get the Homebrew package manager to install tools
