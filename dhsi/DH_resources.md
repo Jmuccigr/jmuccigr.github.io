@@ -17,7 +17,7 @@ title: DH Resources
     - [geojson.io](http://geojson.io/) - map or edit geojson files
         - [geojson.net](http://geojson.net/) - newer version
 - [Leaflet](https://leafletjs.com/) - a javascript mapping library
-- [Map Warper](https://mapwarper.net/)
+- [Map Warper](https://mapwarper.net/) - align historical or hand-drawn maps with accurate modern ones
 - Presentation tools
     - [Story Maps](https://storymaps.arcgis.com)
     - [Timelines](https://schoolofdata.org/handbook/courses/timeline-tools/)
@@ -28,6 +28,7 @@ title: DH Resources
 
 ## Classics
 
+- [The Oxford Classical Dictionary](https://www-oxfordreference-com.ezproxy.drew.edu/view/10.1093/acref/9780199545568.001.0001/acref-9780199545568)
 - [Pleiades](http://pleiades.stoa.org) - Gazetteer of ancient places
 - [Rome Research Group](http://romeresearchgroup.org/database-of-temples/) - temple database
 
