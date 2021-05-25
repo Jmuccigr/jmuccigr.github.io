@@ -60,6 +60,7 @@ title: DH Resources
 ## Linked Open Data (LOD)
 
 - [Intro video](https://www.youtube.com/watch?v=VZBpFiLbi-Y) by Miriam Posner
+- [*Programming Historian* lesson](https://programminghistorian.org/en/lessons/intro-to-linked-data)
 
 ## Scholarly things
 
