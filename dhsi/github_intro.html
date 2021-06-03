@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="John D. Muccigrosso">
+  <title>DHSI 2021 Presentation: Introduction to Github</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="/Users/john_muccigrosso/Documents/github/local/reveal.js//dist/reset.css">
+  <link rel="stylesheet" href="/Users/john_muccigrosso/Documents/github/local/reveal.js//dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="/Users/john_muccigrosso/Documents/github/local/reveal.js//dist/theme/black.css" id="theme">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" data-background-image="http://cdn.theunlockr.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-13-at-7.53.08-AM.png" data-background-size="contain">
+  <h1 class="title">DHSI 2021 Presentation: Introduction to Github</h1>
+  <p class="author">John D. Muccigrosso</p>
+  <p class="date">Thursday, 27 May 2021</p>
+</section>
+
+<section id="github" class="slide level2" data-background-image="images/original.png" data-background-size="contain">
+<h2 data-background-image="images/original.png" data-background-size="contain">GitHub</h2>
+<div class="fragment">
+<p>Say hello to Octocat</p>
+</div>
+<div class="fragment">
+<p>And hold on a minute</p>
+</div>
+</section>
+<section>
+<section id="lets-talk-about-text" class="title-slide slide level1">
+<h1>Let’s talk about text</h1>
+<p><span style="font-family:Courier">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p>
+</section>
+<section id="plaintext" class="slide level2">
+<h2>Plaintext</h2>
+<div class="fragment">
+<p>You should be using plain old text more.</p>
+</div>
+</section>
+<section id="plaintext-1" class="slide level2">
+<h2>Plaintext</h2>
+<p>Why?</p>
+<ol type="1">
+<li class="fragment">It lasts</li>
+<li class="fragment">Files are small</li>
+<li class="fragment">👀 You can read it yourself</li>
+<li class="fragment">You don’t need expensive software to work on it</li>
+<li class="fragment">There are standard data formats for lots of uses</li>
+<li class="fragment">There are tools (edit, display, count, process)</li>
+<li class="fragment">You won’t waste time playing with <span style="font-family:Comic Sans MS; size:larger; color:red">Comic Sans</span></li>
+</ol>
+</section>
+<section id="some-tools" class="slide level2">
+<h2>Some tools</h2>
+<ul>
+<li class="fragment"><a href="https://bbedit.com/">BBEdit</a> (for Macs) - text editor</li>
+<li class="fragment">LaTeX - for complex formatting of documents (like math papers)</li>
+<li class="fragment"><a href="http://markdownguide.org">markdown</a> - remarkably competent mark-up language for word-processing</li>
+<li class="fragment"><a href="https://pandoc.org">pandoc</a> - converts from plaintext to multiple formats like PDF, Word, PowerPoint</li>
+</ul>
+</section>
+<section id="some-tools-1" class="slide level2">
+<h2>Some tools</h2>
+<p><img data-src="images/soaking.jpg" /></p>
+</section>
+<section id="some-examples-json" class="slide level2">
+<h2>Some Examples: JSON</h2>
+<figure>
+<img data-src="images/bbedit_json.jpeg" style="width:75.0%;height:75.0%" alt="Testing" /><figcaption aria-hidden="true">Testing</figcaption>
+</figure>
+</section>
+<section id="some-examples-ms-office" class="slide level2">
+<h2>Some Examples: MS Office</h2>
+<pre><code>&gt; unzip -l Mellon-Arts-and-the-Common-Good-Faculty-Mentored-Student-Research-Grant.docx
+Archive:  Mellon-Arts-and-the-Common-Good-Faculty-Mentored-Student-Research-Grant.docx
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+     2119  01-01-1980 00:00   [Content_Types].xml
+      735  01-01-1980 00:00   _rels/.rels
+     1766  01-01-1980 00:00   word/_rels/document.xml.rels
+    27166  01-01-1980 00:00   word/document.xml
+     1384  01-01-1980 00:00   word/footer1.xml
+     1384  01-01-1980 00:00   word/header2.xml
+     1384  01-01-1980 00:00   word/header1.xml
+     1384  01-01-1980 00:00   word/footer2.xml
+   121940  01-01-1980 00:00   docProps/thumbnail.jpeg
+     7643  01-01-1980 00:00   word/theme/theme1.xml
+     2353  01-01-1980 00:00   word/settings.xml
+    16445  01-01-1980 00:00   word/stylesWithEffects.xml
+    15579  01-01-1980 00:00   word/styles.xml
+      737  01-01-1980 00:00   docProps/app.xml
+     2962  01-01-1980 00:00   word/fontTable.xml
+     6651  01-01-1980 00:00   word/numbering.xml
+      431  01-01-1980 00:00   word/webSettings.xml
+      745  01-01-1980 00:00   docProps/core.xml
+---------                     -------
+   212808                     18 files</code></pre>
+</section>
+<section id="some-examples-ms-office-1" class="slide level2">
+<h2>Some Examples: MS Office</h2>
+<p><img data-src="images/word_xml.jpeg" style="width:75.0%;height:75.0%" /></p>
+</section>
+<section id="some-examples-ms-office-2" class="slide level2">
+<h2>Some Examples: MS Office</h2>
+<p><img data-src="images/word_xml_2.jpeg" style="width:75.0%;height:75.0%" /></p>
+</section></section>
+<section>
+<section id="back-to-github" class="title-slide slide level1" data-background-image="https://octodex.github.com/images/original.png" data-background-size="contain">
+<h1 data-background-image="https://octodex.github.com/images/original.png" data-background-size="contain">Back to GitHub</h1>
+<div class="fragment">
+<p>Not a how-to, but a what-is</p>
+</div>
+</section>
+<section id="origins" class="slide level2">
+<h2>Origins</h2>
+<div class="columns">
+<div class="column">
+<ul>
+<li class="fragment">Based on <code>git</code>, a version-control system (2005)
+<ul>
+<li class="fragment">For programmers originally</li>
+</ul></li>
+<li class="fragment">Website <a href="https://github.com/">github.com</a> uses git, but adds lots of goodies</li>
+<li class="fragment">Bought by MicroSoft</li>
+</ul>
+</div><div class="column">
+<figure>
+<img data-src="images/512px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg" alt="Krd (photo)Von Sprat (crop/extraction), CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0, via Wikimedia Commons" /><figcaption aria-hidden="true">Krd (photo)Von Sprat (crop/extraction), CC BY-SA 3.0 <a href="https://creativecommons.org/licenses/by-sa/3.0" class="uri">https://creativecommons.org/licenses/by-sa/3.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="basic-concepts" class="slide level2">
+<h2>Basic concepts</h2>
+<figure>
+<img data-src="images/repoman.jpg" height="500" alt="Repo" /><figcaption aria-hidden="true">Repo</figcaption>
+</figure>
+</section>
+<section id="managing-your-repo" class="slide level2">
+<h2>Managing your repo</h2>
+<p><img data-src="images/git-and-github-workflows-12-638.jpg" /></p>
+</section>
+<section id="forking-a-repo" class="slide level2">
+<h2>Forking a repo</h2>
+<p><img data-src="images/1*IelAxduwS_YtpsrlRe1d0Q.png" /></p>
+</section>
+<section id="handle-teams" class="slide level2">
+<h2>Handle teams</h2>
+<figure>
+<img data-src="images/github_users.png" alt="https://dzone.com/articles/git-vs-github-demystifying-the-differences" /><figcaption aria-hidden="true">https://dzone.com/articles/git-vs-github-demystifying-the-differences</figcaption>
+</figure>
+</section>
+<section id="workflow" class="slide level2">
+<h2>Workflow</h2>
+<p><img data-src="images/branches.png" /></p>
+</section>
+<section id="other-stuff" class="slide level2">
+<h2>Other stuff</h2>
+<ul>
+<li class="fragment">Tracks changes
+<ul>
+<li class="fragment">So a kind of archiving</li>
+</ul></li>
+<li class="fragment">Makes things public (if you want)</li>
+<li class="fragment">Provides services
+<ul>
+<li class="fragment"><a href="https://github.com/Jmuccigr/temples/blob/master/test.geojson">geoJSON maps</a></li>
+<li class="fragment"><a href="https://github.com/Jmuccigr/temples/blob/master/sheet_data.csv">csv</a></li>
+<li class="fragment">syntax highlighting</li>
+</ul></li>
+</ul>
+</section>
+<section id="some-examples" class="slide level2">
+<h2>Some examples</h2>
+<ul>
+<li class="fragment">Data sets
+<ul>
+<li class="fragment"><a href="https://github.com/pcm-dpc/COVID-19">Italy’s covid tracking</a></li>
+<li class="fragment">My <a href="https://github.com/Jmuccigr/temples">temples database</a></li>
+</ul></li>
+<li class="fragment">Software
+<ul>
+<li class="fragment"><a href="https://github.com/Bitcoin/Bitcoin">Bitcoin</a></li>
+<li class="fragment"><a href="https://github.com/moodle/moodle">Moodle</a></li>
+<li class="fragment"><a href="https://github.com/WordPress/gutenberg?ref=hackernoon.com">WordPress Gutenberg</a></li>
+<li class="fragment">Discussions
+<ul>
+<li class="fragment"><a href="https://github.com/ImageMagick/ImageMagick/discussions">ImageMagick</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</section></section>
+<section id="time-for-questions" class="title-slide slide level1">
+<h1>Time for questions</h1>
+<p><img data-src="images/Grilled-Vegetables-Picture-2.jpg" /></p>
+</section>
+    </div>
+  </div>
+
+  <script src="/Users/john_muccigrosso/Documents/github/local/reveal.js//dist/reveal.js"></script>
+
+  <!-- reveal.js plugins -->
+  <script src="/Users/john_muccigrosso/Documents/github/local/reveal.js//plugin/notes/notes.js"></script>
+  <script src="/Users/john_muccigrosso/Documents/github/local/reveal.js//plugin/search/search.js"></script>
+  <script src="/Users/john_muccigrosso/Documents/github/local/reveal.js//plugin/zoom/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Determines whether slide content should be vertically centered
+        center: false,
+      
+        // Push each slide change to the browser history
+        history: true,
+        // Vertical centering of slides
+        center: false,
+        // Transition style
+        transition: 'fade', // none/fade/slide/convex/concave/zoom
+        // Transition speed
+        transitionSpeed: 'slow', // default/fast/slow
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: "100%",
+        height: "100%",
+        // Factor of the display size that should remain empty around the content
+        margin: 0,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
+</html>
