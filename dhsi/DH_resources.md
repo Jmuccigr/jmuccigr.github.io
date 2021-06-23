@@ -16,6 +16,7 @@ title: DH Resources
    - [More than you ever wanted to know about GeoJSON](https://macwright.org/2015/03/23/geojson-second-bite.html)
     - [geojson.io](http://geojson.io/) - map or edit geojson files
         - [geojson.net](http://geojson.net/) - newer version
+    - [Vector](http://VectorRocks.net)
 - [Leaflet](https://leafletjs.com/) - a javascript mapping library
 - [Map Warper](https://mapwarper.net/) - align historical or hand-drawn maps with accurate modern ones
 - Presentation tools
