@@ -1,6 +1,6 @@
 ---
 layout: default
-date: Wednesday, 7 June 2017
+date: Wednesday, 30 June 2021
 title: Welcome!
 ---
 
@@ -35,14 +35,13 @@ There are many of these sites, but here’s a (very) short list to get you start
 
 ## Archaeology
 
-Once again there are a lot of sites out there, but here’s another starter list:
--   Did you miss the links above for our archaeological dig in [Umbria](http://www.users.drew.edu/jmuccigr/vicusadmartis/) ?
+Once again there are a lot of sites out there, but here’s another one:
 -   The [Drew Archaeology minor homepage](http://www.drew.edu/anthropology/archaeology-minor)
 
 ## Current Projects
 
 Currently in the works:
--   [Database of Roman temples](http://romeresearchgroup.org/mapping/) (DH, mapping stuff)
+-   [Database of Roman temples](https://romeresearchgroup.org/database-of-temples/) (DH, mapping stuff)
 -   Computer-aided connoisseurship (“Bitsly”, and very back-burner)
 -   See the next section
 
