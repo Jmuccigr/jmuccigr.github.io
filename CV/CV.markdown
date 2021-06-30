@@ -43,7 +43,7 @@ Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.
 |date|item|
 |:--|:--|
 2020-present | Director of Baldwin Honors
-2017–2018 | Co-Director, Mellon Digital Humanities Grant
+2020-2021, 2017–2018 | Co-Director, Mellon Digital Humanities Grant
 2009–2014 | Associate Dean, [College of Liberal Arts](http://www.drew.edu/cla-dean/)
 &nbsp; | *Budget & salary; retention; management of physical resources; scheduling; college IR; admissions outreach; special projects*
 2011–2014 | [Director of Institutional Research](http://www.drew.edu/about/institutional-research/)
@@ -142,7 +142,7 @@ Native: English
 Full professional Proficiency: Italian  
 Reading ability: Latin, Ancient Greek, French, German
 
-### Publications {.page-break}
+### Publications
 
 #### Books, Papers & Chapters
 
@@ -259,5 +259,5 @@ Leaflet; SQL; Greek-Arch list manager; Drew Classics-Department Image Database, 
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Monday, 25 January 2021.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Wednesday, 30 June 2021.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
