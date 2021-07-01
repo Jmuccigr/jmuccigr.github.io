@@ -46,8 +46,8 @@ Thanks to the wonders of modern satellites and tech giants, we don't have to tak
 
 {% include image.html
     src="piramide.jpg"
-    alt="Western side of the pyramid (at left) measured with Google Earth"
-    caption="Western side of the pyramid measured with Google Earth"
+    alt="Northwestern side of the pyramid (at left) measured with Google Earth"
+    caption="Northwestern side of the pyramid measured with Google Earth"
 %}
 
 The height of the pyramid (which I can't find an easy way to measure myself on-line) is said to be 37 m, or 125 Roman feet. That gives a height:base ratio of 1.25.
@@ -71,7 +71,15 @@ But in 1759 Matthew Raper wrote:
 
 And, though that's closer to the correct measurement, it's not right either.
 
-Possibly Raper's source [John Greaves](https://en.wikipedia.org/wiki/John_Greaves), who died in 1652, was not measuring the actual base of the pyramid since Alexander's clean-up was years away, though this work of his was published in a 1737 edition mentioned by Raper (*Miscellaneous works of Mr. John Greaves, professor of astronomy in the University of Oxford*. 2 vols. London: Thomas Birch. <http://hdl.handle.net/2027/mdp.39015063554847>). But then you'd think he'd have noticed the half-buried columns at the corners and realized he wasn't measuring the base. And Platner and Ashby's numbers give a height:base ratio of "about" 1.23, which is pretty close to the actual 1.25 we'd expect if the pyramid being measured were still partially interred (according to my high-school memory of equal triangles). But the pyramid doesn't seem to have been buried deep enough for either measurement. Google Earth suggests that the difference in altitude between the modern—and so more or less late-Renaissance—street level and the base of the pyramid is about 4 m or 14 Roman feet. That would give us an 11% decrease in the base length, leaving us with 89 feet, still not close enough to either Greaves' or Ashby's numbers. We'd need about twice that (7.4 m) to get to 80 feet.
+Possibly Raper's source [John Greaves](https://en.wikipedia.org/wiki/John_Greaves), who died in 1652, was not measuring the actual base of the pyramid since Alexander's clean-up was years away, though this work of his was published in a 1737 edition mentioned by Raper (*Miscellaneous works of Mr. John Greaves, professor of astronomy in the University of Oxford*. 2 vols. London: Thomas Birch. <http://hdl.handle.net/2027/mdp.39015063554847>). And Platner and Ashby's numbers give a height:base ratio of "about" 1.23, which is pretty close to the actual 1.25 we'd expect if the pyramid being measured were still partially interred (according to my high-school memory of equal triangles). But the pyramid doesn't seem to have been buried deep enough for either measurement. Google Earth suggests that the difference in altitude between the modern—and so more or less late-Renaissance—street level and the base of the pyramid is about 4 m or 14 Roman feet. That would give us an 11% decrease in the base length, leaving us with 89 feet, still not close enough to either Greaves' or Ashby's numbers. We'd need about twice that (7.4 m) to get to 80 feet.
+
+You can see what the Pyramid presumably looked like in 1544 in this drawing of Etienne Du Pérac, before the work of Alexander. He's looking at the southeastern side of the pyramid, with the rounded Porta San Paolo to the right and the square bastion of the Aurelian wall to the left. Note that the square base that the pyramid sits on is clearly visible (unlike today), so basically the whole thing is exposed, at least on this side.
+
+{% include image.html
+    src="duperac.jpg"
+    alt="Southeastern side of the pyramid"
+    caption="Southeastern side of the pyramid"
+%}
 
 So what happened here? I'm not really sure. I could come up with some hypothesis (like maybe Ashby knew the ratio, mistakenly read 27 for 37 for the height and then calculated the base from that), but that would be just playing around. It's very odd to me that two English-speaking works get a basic measurement wrong on such a famous and visible monument.
 
