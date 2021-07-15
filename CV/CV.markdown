@@ -217,7 +217,7 @@ Reading ability: Latin, Ancient Greek, French, German
 2018 | "[A New Database of Roman Temples](doi://10.6084/m9.figshare.5856519)," a lightning talk at NYCDH Week 2018
 &nbsp; | "The Northern Roman-Period Burial Area at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey
 2017 | Introduction to "Digital Approaches to Latin Vocabulary Learning," Classical Association of the Atlantic States, Fall meeting, organized session with Dr. Patrick Burns
-&nbsp; | "Rome Research Project: Students and Digital Faculty Research," OLC Collaborate with Emerging Learning Design, with Dr. Louis Hamilton
+&nbsp; | "Rome Research Project: Students and Digital Faculty Research," Online Learning Consortium Collaborate with Emerging Learning Design, with Dr. Louis Hamilton
 &nbsp; | "[Developing an On-line Database of Roman Temples](https://doi.org/10.6084/m9.figshare.4765129),"  poster, CAA
 &nbsp; | "[A New On-line Database of Roman Temples](https://dx.doi.org/10.6084/m9.figshare.4536260),"  poster, AIA
 2016 | "A Database of Roman Temples," at the NYU Institute for the Study of the Ancient World's LAWDNY 2016 Digital Antiquity Research Workshop
