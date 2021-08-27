@@ -109,7 +109,7 @@ Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.
 
 |date|item|
 |:--|:--|
-2018 | Drew Digital Humanities Summer Institute faculty grant
+2021, 2018 | Drew Digital Humanities Summer Institute faculty grant
 2011–2013 | NEH Institute for Advanced Topics in the Digital Humanities: Linked Ancient World Data Institute, Co-Principal Investigator
 2013, ‘07, ‘06, ‘04 | Summer Faculty Research/Development Grant
 2006 | Presidential Initiative Fund Grant
@@ -261,5 +261,5 @@ Leaflet; SQL; Greek-Arch list manager; Drew Classics-Department Image Database, 
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 9 July 2021.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 27 August 2021.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
