@@ -148,7 +148,7 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |date|item|
 |:--|:--|
-2021 | "A New Dedication to Mercury at S. Martino ai Monti (Rome)", *ZPE* (forthcoming)
+2021 | "A New Dedication to Mercury at S. Martino ai Monti (Rome)," *ZPE* (forthcoming)
 2020 | Fide non ficta. *Essays in honor of Paul B. Harvey, jr.*, co-edited with Celia Schultz, Spirito: Casa Editrice Edipuglia
 &nbsp; | "*Populus* as army and the preservation of Roman legal language," in Fide non ficta. *Essays in Honor of Paul B. Harvey, Jr.*, 13–32. Spirito: Casa Editrice Edipuglia
 2016 | "The Apsidal building of the Vicus Martis Tudertium (PG)," with Sarah Harvey, Elena Lorenzetti, Jill A. Rhodes, and Stefano Spiganti *FOLD&R* [**366**](http://www.fastionline.org/docs/FOLDER-it-2016-366.pdf)
@@ -213,7 +213,8 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |date|item|
 |:--|:--|
-2021 | "Creating and Maintaining a Linked Online Database (on your own)", Association of Computers and the Humanities biennial conference
+2021 | "A Database of (Italian) Temples," *Digital Italy* conference
+2021 | "Creating and Maintaining a Linked Online Database (on your own)," Association of Computers and the Humanities biennial conference
 2018 | "[A New Database of Roman Temples](doi://10.6084/m9.figshare.5856519)," a lightning talk at NYCDH Week 2018
 &nbsp; | "The Northern Roman-Period Burial Area at the *Vicus Martis Tudertium*," AIA, with Dr. Sarah Harvey
 2017 | Introduction to "Digital Approaches to Latin Vocabulary Learning," Classical Association of the Atlantic States, Fall meeting, organized session with Dr. Patrick Burns
@@ -238,7 +239,7 @@ Reading ability: Latin, Ancient Greek, French, German
 1999 | "Preliminary results of a survey of classical-language students," ACL Institute (session organizer)
 1999 | "The Reflective practitioner in the Latin classroom," with D. Ross, NECTFL
 1998 | "Appius Claudius Caecus and the Brindisi elogium," APA
-1998 | "(Mis)Reading Livy", CAMWS
+1998 | "(Mis)Reading Livy," CAMWS
 1997 | "Political rivalry and monuments in the Roman Republic," APA
 1997 | "Courseware on the Internet: Recent work at the University of Michigan," ACL Institute
 1996 | "Using the Internet for teaching," AIA
@@ -261,5 +262,5 @@ Leaflet; SQL; Greek-Arch list manager; Drew Classics-Department Image Database, 
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 27 August 2021.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+    |[My Homepage](http://jmuccigr.github.io/)|Last updated Tuesday, 7 September 2021.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
