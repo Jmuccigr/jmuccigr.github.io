@@ -54,7 +54,7 @@ The height of the pyramid (which I can't find an easy way to measure myself on-l
 
 ## Why is it wrong in anglophone sources?
 
-Now it gets a bit interesting. If you look up in the classics—if superseded—topographical work on ancient Rome (Platner, S.B., and T. Ashby. 1929. *A topographical dictionary of ancient Rome*. London: Oxford University Press, H. Milford), you'll find the pyramid under "Sep(ulcrum) C. Cestii" where it says:
+Now it gets a bit interesting. If you look up in the classic—if superseded—topographical work on ancient Rome (Platner, S.B., and T. Ashby. 1929. *A topographical dictionary of ancient Rome*. London: Oxford University Press, H. Milford), you'll find the pyramid under "Sep(ulcrum) C. Cestii" where it says:
 
 > It is of brick-faced concrete covered with slabs of white marble, is 27 metres high and about 22 square, and stands on a foundation of travertine.
 
