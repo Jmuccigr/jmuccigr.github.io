@@ -197,6 +197,7 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |date|item|
 |:--|:--|
+2022 | "*Umbria nunc revocat*. Landscape, History, and Archaeology of a Territory in Ancient Times" conference, University of Perugia, March 10-11
 2018 | Keynote at opening ceremony of the Digital Liberal Arts Collaboratory, William Patterson University, December 6
 &nbsp; | "*Populus* as 'army' and the preservation of Roman legal language," Pennsylvania State University, April 14
 2016 | "Recent work along the Flaminian Way," AIA lecture program, University of Alberta, March 10
@@ -262,5 +263,5 @@ Leaflet; SQL; Greek-Arch list manager; Drew Classics-Department Image Database, 
 
 |left|center|right|
 |:---|:----:|----:|
-    |[My Homepage](http://jmuccigr.github.io/)|Last updated Tuesday, 7 September 2021.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+    |[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 15 October 2021.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
