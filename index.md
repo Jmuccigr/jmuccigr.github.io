@@ -29,7 +29,7 @@ Welcome to my homepage! It’s perpetually out of date, and I’ve stopped promi
 ## Classics
 
 There are many of these sites, but here’s a (very) short list to get you started:
--   [Drew Classics department homepage](http://www.drew.edu/classics/?)
+-   [Drew Classics department homepage](https://drew.edu/classics-department/)
 -   [Perseus](http://www.perseus.tufts.edu/)
 -   [A list of undergraduate programs in Classics](https://cdn.rawgit.com/Jmuccigr/classics_programs/a39a4d38ef2b7ceff4f696fec57979086ce0aa9d/Undergrad_Classics.html)
 
