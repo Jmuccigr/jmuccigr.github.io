@@ -5,19 +5,19 @@
 	</foaf:personalprofiledocument>
 	<foaf:person rdf:ID="me">
 		<foaf:name>
-			John Muccigrosso 
+			John Muccigrosso
 		</foaf:name>
 		<foaf:title>
-			Prof 
+			Prof
 		</foaf:title>
 		<foaf:givenname>
-			John 
+			John
 		</foaf:givenname>
 		<foaf:family_name>
-			Muccigrosso 
+			Muccigrosso
 		</foaf:family_name>
 		<foaf:mbox_sha1sum>
-			b978a0d579a1a86e2de156a524dadd42d7dc9910 
+			b978a0d579a1a86e2de156a524dadd42d7dc9910
 		</foaf:mbox_sha1sum>
 		<foaf:homepage rdf:resource="http://users.drew.edu/jmuccigr/" />
 		<foaf:workplacehomepage rdf:resource="http://www.drew.edu/" />
@@ -28,17 +28,17 @@
 		<foaf:currentProject>
 			<foaf:Project>
 				<foaf:name>
-					Excavations at the Vicus ad Martis Tudertium 
+					Excavations at the Vicus Martis Tudertium
 				</foaf:name>
-				<foaf:weblog rdf:resource="http://drewinumbria.blogspot.com/" />
-				<foaf:homepage rdf:resource="http://www.users.drew.edu/vicusadmartis/" />
+				<foaf:weblog rdf:resource="https://jmuccigr.github.io/blog/" />
+				<foaf:homepage rdf:resource="https://jmuccigr.github.io/" />
 				<foaf:based_near>
 					<geo:point>
 						<geo:lat>
-							42.751020 
+							42.751020
 						</geo:lat>
 						<geo:long>
-							12.531920 
+							12.531920
 						</geo:long>
 					</geo:point>
 				</foaf:based_near>
@@ -47,10 +47,10 @@
 		<rel:friendof>
 			<foaf:person>
 				<foaf:name>
-					Sebastian Heath 
+					Sebastian Heath
 				</foaf:name>
 				<foaf:title>
-					Dr 
+					Dr
 				</foaf:title>
 				<foaf:homepage rdf:resource="http://www.SebastianHeath.com" />
 			</foaf:person>
