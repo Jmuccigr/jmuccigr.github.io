@@ -41,12 +41,12 @@ body::after {
     <div class="wrapper">
       <header>
            <h3>CLAS - {{ page.course_number }}</h3>
-			<h2><a href="/courses/{{ page.course_number }}/">Information</a></h2>
-			<h2><a href="/courses/{{ page.course_number }}/helpful_items">Helpful items</a></h2>
-			<h2><a href="/courses/{{ page.course_number }}/grading">Grading</a></h2>
-			<h2><a href="/courses/{{ page.course_number }}/policies">Policies</a></h2>
-			<h2><a href="/courses/{{ page.course_number }}/schedule">Schedule</a></h2>
-			<p>Jump to week: <a href="/courses/{{ page.course_number }}/schedule#week-1">1</a>-<a href="/courses/{{ page.course_number }}/schedule#week-2">2</a>-<a href="/courses/{{ page.course_number }}/schedule#week-3">3</a>-<a href="/courses/{{ page.course_number }}/schedule#week-4">4</a>-<a href="/courses/{{ page.course_number }}/schedule#week-5">5</a>-<a href="/courses/{{ page.course_number }}/schedule#week-6">6</a>-<a href="/courses/{{ page.course_number }}/schedule#week-7">7</a>-<a href="/courses/{{ page.course_number }}/schedule#week-8">8</a>-<a href="/courses/{{ page.course_number }}/schedule#week-9">9</a>-<a href="/courses/{{ page.course_number }}/schedule#week-10">10</a>-<a href="/courses/{{ page.course_number }}/schedule#week-11">11</a>-<a href="/courses/{{ page.course_number }}/schedule#week-12">12</a>-<a href="/courses/{{ page.course_number }}/schedule#week-13">13</a>-<a href="/courses/{{ page.course_number }}/schedule#week-14">14</a>-<a href="/courses/{{ page.course_number }}/schedule#week-15">15</a></p>
+			<h2><a href="{{ site.baseurl }}/courses/{{ page.course_number }}/">Information</a></h2>
+			<h2><a href="{{ site.baseurl }}/courses/{{ page.course_number }}/helpful_items">Helpful items</a></h2>
+			<h2><a href="{{ site.baseurl }}/courses/{{ page.course_number }}/grading">Grading</a></h2>
+			<h2><a href="{{ site.baseurl }}/courses/{{ page.course_number }}/policies">Policies</a></h2>
+			<h2><a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule">Schedule</a></h2>
+			<p>Jump to week: <a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-1">1</a>-<a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-2">2</a>-<a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-3">3</a>-<a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-4">4</a>-<a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-5">5</a>-<a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-6">6</a>-<a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-7">7</a>-<a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-8">8</a>-<a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-9">9</a>-<a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-10">10</a>-<a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-11">11</a>-<a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-12">12</a>-<a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-13">13</a>-<a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-14">14</a>-<a href="{{ site.baseurl }}/courses/{{ page.course_number }}/schedule#week-15">15</a></p>
       </header>
       <section>
 <h1>{{ page.title }}</h1>
@@ -54,7 +54,7 @@ body::after {
 
       </section>
       <footer>
-        {% include footer.html %}
+        
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
