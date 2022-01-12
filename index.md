@@ -4,7 +4,7 @@ date: Wednesday, 30 June 2021
 title: Welcome!
 ---
 
-<img src="/images/dig.jpg" alt="Vicus Martis" id="headshot" />
+<img src="{{ site.baseurl }}/images/dig.jpg" alt="Vicus Martis" id="headshot" />
 
 # John D. Muccigrosso
 
