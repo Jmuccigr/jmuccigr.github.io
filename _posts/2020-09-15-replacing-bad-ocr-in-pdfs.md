@@ -51,6 +51,8 @@ This relies on a few other resources:
 
 This seems to work fairly well, which is good because I need it surprisingly often. I've also put in an option to leave the first page of the original alone. This is for times when the source (like JSTOR) sticks a leading page in front of the pages of the document you're actually after. Since that's a PDF page that's generated with lots of "real" text, the step that removes all the OCR text also removes the text from this page, making it fairly useless.
 
+Edit: [Here's the script](https://github.com/Jmuccigr/scripts/blob/master/redo_ocr_PDF.sh) on GitHub.
+
 Enjoy!
 
 PS I've talked about some of my approaches to the other type of problem where the underlying images are inadequate in [a few other posts]({% link blog/tags.md %}#scanning).
