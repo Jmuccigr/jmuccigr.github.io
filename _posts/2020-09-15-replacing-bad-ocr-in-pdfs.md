@@ -48,6 +48,7 @@ This relies on a few other resources:
 1. [qpdf](http://qpdf.sourceforge.net): handy utility to do basic manipulations of PDF files, like overlaying one on the other or (re)assembling the pages of them. (I'm trying to use this instead of [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) which seems to have some issues in increasing PDF size.)
 1. [ghostscript](https://www.ghostscript.com): an interpreter for PDF (and for the PostScript language), which I use to remove the text and images from the PDF.
 1. [ocrmypdf](https://github.com/jbarlow83/OCRmyPDF): this is a pretty nice bit of software by someone who knows a lot more about PDFs than I do. It adds OCR to your PDF, as the name suggests, but often also modifies the underlying images, so I use it to create the OCR, but then get rid of the non-OCR portions.
+1. [PyPDF2](https://pypi.org/project/PyPDF2/): a python library to manipulate PDFs, which I use to remove the text from the PDF.
 
 This seems to work fairly well, which is good because I need it surprisingly often. I've also put in an option to leave the first page of the original alone. This is for times when the source (like JSTOR) sticks a leading page in front of the pages of the document you're actually after. Since that's a PDF page that's generated with lots of "real" text, the step that removes all the OCR text also removes the text from this page, making it fairly useless.
 
