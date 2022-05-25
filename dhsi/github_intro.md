@@ -129,7 +129,7 @@ Not a how-to, but a what-is
 
 ![](images/1*IelAxduwS_YtpsrlRe1d0Q.png)
 
-##  Handle teams
+## Handle teams
 
 ![https://dzone.com/articles/git-vs-github-demystifying-the-differences](images/github_users.png)
 
@@ -145,7 +145,7 @@ Not a how-to, but a what-is
 - Provides services
     - [geoJSON maps](https://github.com/Jmuccigr/temples/blob/master/test.geojson)
     - [csv](https://github.com/Jmuccigr/temples/blob/master/sheet_data.csv)
-    - syntax highlighting
+    - [syntax highlighting](https://github.com/Jmuccigr/scripts/blob/master/pdf_remove_metadata.py)
 
 ## Some examples
 
