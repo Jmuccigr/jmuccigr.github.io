@@ -42,7 +42,7 @@ exclude:
   - Gemfile.lock
   - /CV/CV.markdown
   - README.md
-
+  - courses
 defaults:
   - scope:
       path: "/"
