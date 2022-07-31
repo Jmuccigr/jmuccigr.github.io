@@ -8,13 +8,13 @@ description: "John D. Muccigrosso's CV"
 
 [comment2]: # ({.page-break} seems to work when printing the html version)
 
-
 |left|right|
 |:---|----:|
-Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.drew.edu/)|
-|<jmuccigr@drew.edu>|[207 Brothers College](http://www.drew.edu/map/)|
-|<http://jmuccigr.github.io/>| Madison, NJ 07940 |
-|<span class="dontprint">[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)</span>|+1.973.408.3029|
+Dean of Academic Affairs|[The American University of Rome](http://www.aur.edu/)|
+|<j.muccigrosso@aur.edu>|Via Pietro Roselli 4, 00153|
+|<http://jmuccigr.github.io/>|Rome, Italy|
+|<span class="dontprint">[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)</span>|+1-888-791-8327|
+
 
 ### Education
 
@@ -25,16 +25,22 @@ Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.
 1990–1993 | University of Minnesota, Center for Ancient Studies
 1990 | [Massachusetts Institute of Technology](http://chemistry.mit.edu/), M.S., chemistry
 1987 | [Amherst College](https://www.amherst.edu/), B.A., ΦΒΚ, [classics](https://www.amherst.edu/academiclife/departments/classics/) and [chemistry](https://www.amherst.edu/academiclife/departments/chemistry/)
-1986 (Spring) | [Intercollegiate Center for Classical Studies](http://iccsnews.com/), Rome
+1986 (Spring) | [Intercollegiate Center for Classical Studies](https://thecentrorome.org/), Rome
 1983 | [Regis High School](https://www.regis.org/)
 
 ### Academic Employment
+
+#### The American University of Rome
+
+|date|item|
+|:--|:--|
+2022-present | Dean of Academic Affairs
 
 #### Drew University
 
 |date|item|
 |:--|:--|
-1998–present | [Department of Classics](http://www.drew.edu/classics-department/)
+1998–2022 | [Department of Classics](http://www.drew.edu/classics-department/)
 
 - Fall 2015–2018, 2005–2008 Chair
 - Fall 2000 Acting Chair
@@ -42,7 +48,7 @@ Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.
 
 |date|item|
 |:--|:--|
-2020-present | Director of Baldwin Honors
+2020-2022 | Director of Baldwin Honors
 2021-2022, 2017–2018 | Co-Director, Mellon Digital Humanities Grant
 2009–2014 | Associate Dean, [College of Liberal Arts](http://www.drew.edu/cla-dean/)
 &nbsp; | *Budget & salary; retention; management of physical resources; scheduling; college IR; admissions outreach; special projects*
@@ -90,6 +96,7 @@ Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.
 2012–present | [*Bryn Mawr Classical Review*](https://bmcr.brynmawr.edu/), editorial board
 1995–present | Owner of *Greekarch*, an e-mail list for Greek archaeology
 2007–2010 | APA Committee on the Status of Women and Minority Groups
+1992-1993 | Program Coordinator, Minnesota chapter, AIA
 
 ### Administrative Committee Service
 
@@ -109,7 +116,7 @@ Director of Baldwin Honors & Professor of Classics|[Drew University](http://www.
 
 |date|item|
 |:--|:--|
-2021, 2018 | Drew Digital Humanities Summer Institute faculty grant
+2022, '21, '18 | Drew Digital Humanities Summer Institute faculty grant
 2011–2013 | NEH Institute for Advanced Topics in the Digital Humanities: Linked Ancient World Data Institute, Co-Principal Investigator
 2013, ‘07, ‘06, ‘04 | Summer Faculty Research/Development Grant
 2006 | Presidential Initiative Fund Grant
@@ -186,7 +193,7 @@ Reading ability: Latin, Ancient Greek, French, German
 2005 | Christopher S. Mackay, *Ancient Rome: A Military and political history*, *CO* 83.1  
 &nbsp; |Filippo Canali De Rossi, *Le relazioni diplomatiche di Roma, Vol. I: dall’età regia alla conquista del primato in Italia (753–265 a.C)*, *BMCR* [2005.02.19](http://bmcr.brynmawr.edu/2005/2005-02-19.html)
 2004 | Nathan Rosenstein, *Rome at war: Farms, families, and death in the Middle Republic*, *BMCR* [2004.07.56](http://bmcr.brynmawr.edu/2004/2004-07-56.html)  
-&nbsp; | Thomas F. Scanlon, *Eros and Greek athletics*, *CO* **81**.2 (Winter)  
+&nbsp; | Thomas F. Scanlon, *Eros and Greek athletics*, *CO* [**81**.2 (Winter)](https://www.jstor.org/stable/43938838) 
 &nbsp; | Peter J. Holliday, *Origins of pictorial representation in Roman art*, *NECJ* **31**.1 (February)
 2003 | Guy Bradley, *Ancient Umbria*, *CW* [**96**.2 (Winter), 228–229](https://www.jstor.org/stable/4352751)
 2002 | Serafina Cuomo, *Ancient Mathematics*, *CO* **80**.1 (Fall)  
@@ -246,7 +253,8 @@ Reading ability: Latin, Ancient Greek, French, German
 1996 | "Using the Internet for teaching," AIA
 1992 | "Sardinia and off-island contacts," Chacmool
 
-### Teaching
+
+### Teaching{.page-break}
 
 <span class="item_standalone">
 *Classical Humanities*; *Archaeology of Greece and Rome*; *Introduction to Roman history*; *Ancient Sport & Spectacle*; *Space and Power in the ancient world*; *Science & technology in the ancient world*; *Introduction to ancient drama*; introductory Latin sequence; intermediate Greek; advanced Latin: *Catullus, Vergil, Livy;* First-year seminars: *The Hero, Dead Men Do Tell Tales;* as graduate assistant: *Virgil’s* Aeneid; *Sport and Daily Life in the Roman Empire*; introductory chemistry; organic chemistry laboratory
@@ -263,5 +271,5 @@ Leaflet; SQL; Greek-Arch list manager; Drew Classics-Department Image Database, 
 
 |left|center|right|
 |:---|:----:|----:|
-    |[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 12 November 2021.|[Drew Classics Department](http://www.depts.drew.edu/classics/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Sunday, 31 July 2022.|[The American University of Rome](http://www.aur.edu/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
