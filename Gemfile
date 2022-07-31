@@ -30,3 +30,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "jekyll-theme-cayman"
 gem "jekyll-theme-dinky"
 gem "jekyll-theme-minimal"
+
+gem "webrick", "~> 1.7"
