@@ -1,6 +1,6 @@
 ---
 layout: default
-date: Wednesday, 30 June 2021
+date: Sunday, 31 July 2022
 title: Welcome!
 ---
 
@@ -8,9 +8,9 @@ title: Welcome!
 
 # John D. Muccigrosso
 
-### Professor, Department of Classics
+### Dean of Academic Affairs
 
-### [Drew University](https://www.drew.edu/)
+### [The American University of Rome](https://www.aur.edu/)
 
 - - -
 
@@ -19,12 +19,11 @@ Welcome to my homepage! It’s perpetually out of date, and I’ve stopped promi
 -   See some of the publications from our archaeological dig in [Umbria](http://www.fastionline.org/excavation/micro_view.php?item_key=fst_cd&fst_cd=AIAC_1936)
 -   Peruse my [CV](/CV/CV.html)
 -   Read my [blog](blog/)
--   Send me e-mail at &lt;[jmuccigr@drew.edu](mailto:jmuccigr@drew.edu?subject=Sent%20from%20your%20website)&gt;
+-   Send me e-mail at &lt;[j.muccigrosso@aur.edu](mailto:j.muccigrosso@aur.edu?subject=Sent%20from%20your%20website)&gt;
 -   Follow me on Twitter: [jdmuccigrosso](https://twitter.com/jdmuccigrosso)
 -   See my work on [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)
 -   See my stuff on [GitHub](https://github.com/jmuccigr/)
 -   [ORCID](https://orcid.org/0000-0002-9877-1043), [VIAF](https://viaf.org/viaf/309849093/)
--   Contact me in the office: Phone +1.973.408.3029 (Really, don’t contact me this way. Use some internet method.)
 
 ## Classics
 
@@ -32,11 +31,6 @@ There are many of these sites, but here’s a (very) short list to get you start
 -   [Drew Classics department homepage](https://drew.edu/classics-department/)
 -   [Perseus](http://www.perseus.tufts.edu/)
 -   [A list of undergraduate programs in Classics](https://cdn.rawgit.com/Jmuccigr/classics_programs/a39a4d38ef2b7ceff4f696fec57979086ce0aa9d/Undergrad_Classics.html)
-
-## Archaeology
-
-Once again there are a lot of sites out there, but here’s another one:
--   The [Drew Archaeology minor homepage](http://www.drew.edu/anthropology/archaeology-minor)
 
 ## Current Projects
 
@@ -74,5 +68,5 @@ Currently in the works:
 
 ## Hobbies
 
--   Sunday & Monday/Friday-Night Softball
--   Workouts
+- Crosswords
+- Workouts
