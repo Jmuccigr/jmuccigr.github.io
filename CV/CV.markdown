@@ -76,7 +76,7 @@ Dean of Academic Affairs|[The American University of Rome](http://www.aur.edu/)|
 
 |date|item|
 |:--|:--|
-2021– | Digital Humanities Advisory Committee
+2021–2022| Digital Humanities Advisory Committee
 2016–2018 | Digital Humanities Working Group
 2015–2018 | Super-advisor to incoming students
 2016–2017 | Faculty Associate, Brown First-Year Residence Hall
