@@ -19,9 +19,9 @@ Welcome to my homepage! It’s perpetually out of date, and I’ve stopped promi
 -   See some of the publications from our archaeological dig in [Umbria](http://www.fastionline.org/excavation/micro_view.php?item_key=fst_cd&fst_cd=AIAC_1936)
 -   Peruse my [CV](/CV/CV.html)
 -   Read my [blog](blog/)
--   Send me e-mail at &lt;[j.muccigrosso@aur.edu](mailto:j.muccigrosso@aur.edu?subject=Sent%20from%20your%20website)&gt;
--   Follow me on Twitter: [jdmuccigrosso](https://twitter.com/jdmuccigrosso)
--   Or follow me on [Mastodon](https://mastodon.cc/@John){:rel="me"}
+-   Send me e-mail at work: &lt;[j.muccigrosso@aur.edu](mailto:j.muccigrosso@aur.edu?subject=Sent%20from%20your%20website)&gt;
+-   Follow me on [Mastodon](https://mastodon.cc/@John){:rel="me"}
+-   Follow me on ~~Twitter~~ X (But don't. I'm not on there anymore.): [jdmuccigrosso](https://twitter.com/jdmuccigrosso)
 -   See my work on [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)
 -   See my stuff on [GitHub](https://github.com/jmuccigr/)
 -   [ORCID](https://orcid.org/0000-0002-9877-1043), [VIAF](https://viaf.org/viaf/309849093/)
@@ -62,7 +62,7 @@ Currently in the works:
         2.  [Greek colonies in the west](http://www.users.drew.edu/jmuccigr/colonies/)
 -   My outdated pages on how to use a Mac at Drew are still on the [Internet Archive](https://web.archive.org/web/20011001000000*/http://www.users.drew.edu/jmuccigr/mac/), if you’re really interested.
 -   Latest causes
-    -   “Protocols not platforms”  
+    -   “Protocols not platforms”
         This is a long-running stance of mine on standardization. It needs a good homepage, but for now check out this page:
         -   [Part of a MacCentral series](http://maccentral.macworld.com/news/0006/08.dual.shtml) on dual-platform sites. See the list at the bottom of the article.
     -   [RDF](foaf.rdf) of my [foaf](http://www.foaf-project.org/) entry.
