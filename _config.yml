@@ -31,9 +31,6 @@ github_username:  jmuccigr
 mastodon:
     username: john
     instance: mastodon.cc
-mastodon_username: john
-mastodon_instance: mastodon.cc
-
 blog_title: de vita sua
 
 # Build settings
