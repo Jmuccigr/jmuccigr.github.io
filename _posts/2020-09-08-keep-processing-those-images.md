@@ -1,8 +1,9 @@
 ---
-title: Keep processing those images&colon; tiny TIFFS
+title: "Keep processing those images: tiny TIFFS"
 author: John D. Muccigrosso
 date: Tuesday, 8 September 2020
-tags: 
+description: Black-and-white TIFF files and OCR
+tags:
     - AppleScript
     - cli
     - technology
@@ -21,15 +22,15 @@ A popular image format is [TIFF](https://en.wikipedia.org/wiki/tiff) ("Tagged Im
 
 Here's an image of a page I took with my iPhone, cropped and saved as a png. The text looks pretty smooth at normal viewing size. The next image is a zoomed-in version, where you can see that there are a fair number of pixels per letter (the "r" is about 36 pixels high). (Let's ignore the crappy contrast from the off-white paper and less-than-ideal photography conditions.)
 
-{% include image.html 
+{% include image.html
     src="original_text.png"
     caption="Original text"
-    alt="Original text" 
+    alt="Original text"
 %}
-{% include image.html 
+{% include image.html
     src="original_text_zoom.png"
     caption="Original text zoomed in"
-    alt="Original text zoomed in" 
+    alt="Original text zoomed in"
 %}
 
 ImageMagick's `identify` function tells me this about the original:
@@ -53,35 +54,35 @@ fax_text.tiff 2191x3815 72x72 Group4 2 DirectClass Gray  76402
 
 Everything is the same except that the file has been compressed with Group4 (again = fax), has 2 colors, is Gray (not color, so those colors are black and white) and only 76k in size. How does it look?
 
-{% include image.html 
+{% include image.html
     src="fax_text.tiff"
     caption="Fax-compressed version of the text"
-    alt="Fax-compressed version of the text" 
+    alt="Fax-compressed version of the text"
 %}
-{% include image.html 
+{% include image.html
     src="fax_text_zoom.png"
     caption="Fax-compressed text zoomed in"
-    alt="Fax-compressed text zoomed in" 
+    alt="Fax-compressed text zoomed in"
 %}
 
 It's not perfect. There are some white pixels in the middle of the letters from my heavy-handed thresholding, for example, but it is pretty easy to read. OCR works well on it. Here's the quick output from tesseract:
 
 > THE LOST GIRLS OF PARIS 117
-> 
+>
 > She had to do more. “On second thought,” she said evenly. “I’ll
 > just hang on to them.” She stood to leave.
-> 
+>
 > “But I really don’t think...” the consul fumbled. “You were
 > so eager to return them. That is why you came to the consul-
 > ate, wasn't it? I wouldn’t want them to be a burden.”
-> 
+>
 > “Really, it’s no trouble.” Grace managed a smile through grit-
 > ted teeth. “I found them. They’re mine.”
-> 
+>
 > “Actually,” the consul replied, his voice steely. “They’re El-
 > eanor’s.” They stared at one another for several seconds, neither
 > wavering. Then Grace turned and walked from the consulate.
-> 
+>
 > Outside, Grace paused to consider the photos once more.
 > She hadn’t left them after all, and she still had no idea what to
 > do with them. But she could figure that out later; right now, it
@@ -90,16 +91,16 @@ It's not perfect. There are some white pixels in the middle of the letters from 
 It runs into some trouble at the end where the curvature of the book confuses it, but again that's due to my sloppy photography. Turns out we can even make the file smaller and the OCR is still good. A half-sized copy (done with a simple `-resize 50%` in imagemagick) yields the same text with few exceptions (it actually handles the curve better). Here's what that looks like:
 
 
-{% include image.html 
+{% include image.html
     src="fax_text_small.tiff"
     caption="Fax-compressed version of the text at 50%"
-    alt="Fax-compressed version of the text at 50%" 
+    alt="Fax-compressed version of the text at 50%"
 %}
 
-{% include image.html 
+{% include image.html
     src="fax_small_zoom.png"
     caption="Fax-compressed text zoomed in at 50%"
-    alt="Fax-compressed text zoomed in at 50%" 
+    alt="Fax-compressed text zoomed in at 50%"
 %}
 
 It's not quite as good, but certainly a lot more legible than some scans I have in my library. If we'd actually scanned it at 250 dpi to start with, it would look even better.
