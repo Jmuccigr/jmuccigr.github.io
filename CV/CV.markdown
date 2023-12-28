@@ -15,7 +15,6 @@ Dean of Academic Affairs|[The American University of Rome](http://www.aur.edu/)|
 |<http://jmuccigr.github.io/>|Rome, Italy|
 |<span class="dontprint">[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)</span>|+1-888-791-8327|
 
-
 ### Education
 
 |date|item|
@@ -146,7 +145,7 @@ Italian archaeology, Roman history, Digital Humanities, Latin paedagogy
 
 <span class="item_standalone">
 Native: English  
-Full professional Proficiency: Italian  
+Full professional proficiency: Italian  
 Reading ability: Latin, Ancient Greek, French, German
 
 ### Publications
@@ -155,6 +154,7 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |date|item|
 |:--|:--|
+2023 | "What Happened to the *Vicus Martis Tudertium*? (Massa Martana, PG)," *BollArchOnline* [**14** (Supplemento 1), 275–285](https://bollettinodiarcheologiaonline.beniculturali.it/wp-content/uploads/2023/12/2023_Suppl_1_MUCCIGROSSO-1.pdf)
 2021 | "A New Dedication to Mercury at S. Martino ai Monti (Rome)," *ZPE* **220**, 303-305
 2020 | Fide non ficta. *Essays in honor of Paul B. Harvey, jr.*, co-edited with Celia Schultz, Spirito: Casa Editrice Edipuglia
 &nbsp; | "*Populus* as army and the preservation of Roman legal language," in Fide non ficta. *Essays in Honor of Paul B. Harvey, Jr.*, 13–32. Spirito: Casa Editrice Edipuglia
@@ -162,11 +162,11 @@ Reading ability: Latin, Ancient Greek, French, German
 2015 | "The 2011 Excavation Season at the Site of the Vicus Martis Tudertium (PG)," with Rangar Cline, Sarah Harvey, Elena Lorenzetti, and Stefano Spiganti *FOLD&R* [**327**](http://www.fastionline.org/docs/FOLDER-it-2015-327.pdf)
 &nbsp; | "A Speculative Note on the Golden Calf," self-published, [2015-06-10](https://figshare.com/articles/A_Speculative_Note_on_the_Golden_Calf/1444441)
 2014 | *Current Practice in Linked Open Data for the Ancient World*, issue ed., with Thomas Elliott and Sebastian Heath, *ISAW Papers* [**7**](http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/)
-2012 | "Re-Interpreting the Robinson Skyphos," *SHT* [**13**.A.1, 1–15](http://sht.ut.ee/index.php/sht/article/view/13.A.1)  
+2012 | "Re-Interpreting the Robinson Skyphos," *SHT* [**13**.A.1, 1–15](http://sht.ut.ee/index.php/sht/article/view/13.A.1)
 &nbsp; | "Report on the Linked Ancient World Data Institute," with Thomas Elliott and Sebastian Heath, *ISQ* [**24**, 2–3](http://www.niso.org/apps/group_public/download.php/9404/CR_Elliott-etal_LAWDI_isqv24no2-3.pdf), Spring/Summer
-2011 | "A New Archaic Dipinto from Poseidonia," with James Higginbotham, *ZPE* [**178**, 191–194](https://www.jstor.org/stable/41616766)  
+2011 | "A New Archaic Dipinto from Poseidonia," with James Higginbotham, *ZPE* [**178**, 191–194](https://www.jstor.org/stable/41616766)
 &nbsp; | "The 2010 Excavation Season at the Site of the Vicus ad Martis Tudertium (PG)," *FOLD&R* [**227**](http://www.fastionline.org/docs/FOLDER-it-2011-227.pdf)
-2010 | "Excavations along the Via Flaminia: the Vicus ad Martis Tudertium," *Etruscan News* [**13**, Winter](http://ancientstudies.fas.nyu.edu/docs/CP/963/EtruscanNews10_winter.pdf), p. 16  
+2010 | "Excavations along the Via Flaminia: the Vicus ad Martis Tudertium," *Etruscan News* [**13**, Winter](http://ancientstudies.fas.nyu.edu/docs/CP/963/EtruscanNews10_winter.pdf), p. 16
 &nbsp; | "The 2008 and 2009 Excavation Seasons at the Site of the Vicus ad Martis Tudertium (PG)," *FOLD&R* [**185**](http://www.fastionline.org/docs/FOLDER-it-2010-185.pdf)
 2009 | "Excavations at the Vicus ad Martis Tudertium," *Etruscan News* [**11**, Winter](http://ancientstudies.fas.nyu.edu/docs/CP/963/etruscannews_vol11_winter2009.pdf), p. 15
 2006 | "Religion and Politics: Did the Romans scruple about the placement of their temples?," *Religion in Roman Italy in the Mid- and Late Republican Eras ("Yale Classical Studies")*, 181–206, Cambridge University Press
@@ -186,17 +186,17 @@ Reading ability: Latin, Ancient Greek, French, German
 2014 | Massimiliano Di Fazio, *Feronia: spazi e tempi di una dea dell'Italia centrale antica*, *BMCR* [2014.10.25](http://bmcr.brynmawr.edu/2014/2014-10-25.html)
 2013 | Michael L. Thomas, Gretchen E. Meyers, Ingrid E. M. Edlund-Berry, ed. *Monumentality in Etruscan and Early Roman Architecture: Ideology and Innovation*, *BMCR* [2013.03.11](http://bmcr.brynmawr.edu/2013/2013-03-11.html)
 2012 | Ramsey MacMullen, *The Earliest Romans: a character sketch*, *BMCR* [2012.02.10](http://bmcr.brynmawr.edu/2012/2012-02-10.html)
-2010 | Fik Meijer, *Chariot racing in the Roman Empire*, *BMCR* [2010.11.26](http://bmcr.brynmawr.edu/2010/2010-11-26.html)  
+2010 | Fik Meijer, *Chariot racing in the Roman Empire*, *BMCR* [2010.11.26](http://bmcr.brynmawr.edu/2010/2010-11-26.html)
 &nbsp; | Nigel B. Crowther, *Sport in Ancient Times*, *CJ* [**106**(2), 242–243](https://www.jstor.org/stable/10.5184/classicalj.106.2.0242)
 2008 | Matthew Hartnett, *By Roman Hands: Inscriptions and Graffiti for Students of Latin*, *CB* **84**.2
 2007 | Keith Hopkins, Mary Beard *The Colosseum*, *Choice*
-2005 | Christopher S. Mackay, *Ancient Rome: A Military and political history*, *CO* 83.1  
+2005 | Christopher S. Mackay, *Ancient Rome: A Military and political history*, *CO* 83.1
 &nbsp; |Filippo Canali De Rossi, *Le relazioni diplomatiche di Roma, Vol. I: dall’età regia alla conquista del primato in Italia (753–265 a.C)*, *BMCR* [2005.02.19](http://bmcr.brynmawr.edu/2005/2005-02-19.html)
-2004 | Nathan Rosenstein, *Rome at war: Farms, families, and death in the Middle Republic*, *BMCR* [2004.07.56](http://bmcr.brynmawr.edu/2004/2004-07-56.html)  
-&nbsp; | Thomas F. Scanlon, *Eros and Greek athletics*, *CO* [**81**.2 (Winter)](https://www.jstor.org/stable/43938838) 
+2004 | Nathan Rosenstein, *Rome at war: Farms, families, and death in the Middle Republic*, *BMCR* [2004.07.56](http://bmcr.brynmawr.edu/2004/2004-07-56.html)
+&nbsp; | Thomas F. Scanlon, *Eros and Greek athletics*, *CO* [**81**.2 (Winter)](https://www.jstor.org/stable/43938838)
 &nbsp; | Peter J. Holliday, *Origins of pictorial representation in Roman art*, *NECJ* **31**.1 (February)
 2003 | Guy Bradley, *Ancient Umbria*, *CW* [**96**.2 (Winter), 228–229](https://www.jstor.org/stable/4352751)
-2002 | Serafina Cuomo, *Ancient Mathematics*, *CO* **80**.1 (Fall)  
+2002 | Serafina Cuomo, *Ancient Mathematics*, *CO* **80**.1 (Fall)
 &nbsp; |Christer Bruun, *The Roman middle republic: Politics, religion, and historiography c. 400–133 B.C.*, *CW* [**95**.4 (Summer), 460–461](https://www.jstor.org/discover/10.2307/4352698)
 2000 | Richard C. Beacham, *Spectacle entertainments of early imperial Rome*, *CO* **78**.1 (Fall)
 
@@ -253,7 +253,6 @@ Reading ability: Latin, Ancient Greek, French, German
 1996 | "Using the Internet for teaching," AIA
 1992 | "Sardinia and off-island contacts," Chacmool
 
-
 ### Teaching{.page-break}
 
 <span class="item_standalone">
@@ -267,7 +266,7 @@ Reading ability: Latin, Ancient Greek, French, German
 ### Technology-Related Experience
 
 <span class="item_standalone">
-Leaflet; SQL; Greek-Arch list manager; Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Web sites (now defunct): Papyrology, Ancient-Mediterranean list archives; computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998); Courseware developer, University of Michigan Classical Civilization program (1995)
+Leaflet; SQL; jekyll; Greek-Arch list manager; Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Web sites (now defunct): Papyrology, Ancient-Mediterranean list archives; computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998); Courseware developer, University of Michigan Classical Civilization program (1995)
 
 |left|center|right|
 |:---|:----:|----:|
