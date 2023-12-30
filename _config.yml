@@ -25,7 +25,7 @@ blog_description_close:
   </a></em></h2>
   <p>a blog</p>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jmuccigr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jmuccigr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jdmuccigrosso
 github_username:  jmuccigr
 mastodon:
