@@ -2,7 +2,7 @@
 layout: default
 ---
 
-	<h1><em>{{ site.blog_title }}</em> <small>&mdash; the blog posts</small></h1>
+	<h1><em>{{ site.blog.title | smartify | xml_escape }}</em> <small>&mdash; the blog posts</small></h1>
 	<ul class="posts">
 
 	  {% for post in site.posts %}

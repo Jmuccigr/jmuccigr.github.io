@@ -12,9 +12,9 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <link rel="shortcut icon" href="favicon.png" sizes="180x180" type="image/x-icon">
-    <link rel="icon" href="favicon.png" sizes="180x180" type="image/x-icon">
-    <link rel="apple-touch-icon" sizes="180x180" href="favicon.png">
+    <link rel="shortcut icon" href="/favicon.png" sizes="180x180" type="image/x-icon">
+    <link rel="icon" href="/favicon.png" sizes="180x180" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon.png">
 <script>
     function setAccessedDate() {
       if (document.getElementById('accessed-on')) {
@@ -46,7 +46,7 @@
     <div class="wrapper">
       <header>
 	  {% if page.layout == "post" %}
-        {{ site.blog_description_open }}{{ site.blog_title}}{{ site.blog_description_close }}
+        {{ site.blog.description_open }}{{ site.blog.title}}{{ site.blog.description_close }}
 		  {% else %}
             <h1><a href="/">{{ page.title | default: site.title }}</a></h1>
 			<p>{{ site.description | default: site.github.project_tagline }}

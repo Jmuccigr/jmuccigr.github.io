@@ -18,12 +18,7 @@ email: j.muccigrosso@aur.edu
 author: "John D. Muccigrosso"
 owner_name: "John D. Muccigrosso"
 description: > # this means to ignore newlines until "baseurl:"
-  My website via jekyll and github pages.
-blog_description_open:
-  <h2><em><a href="../../../../">
-blog_description_close:
-  </a></em></h2>
-  <p>a blog</p>
+  My stuff via jekyll and github pages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jmuccigr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jdmuccigrosso
@@ -31,7 +26,15 @@ github_username:  jmuccigr
 mastodon:
     username: john
     instance: mastodon.cc
-blog_title: de vita sua
+blog:
+  icon: /images/icon.png
+  logo: /images/logo.png
+  title: de vita sua
+  description_open:
+    <h2><em><a href="../../../../">
+  description_close:
+    </a></em></h2>
+    <p>a blog</p>
 
 # Build settings
 markdown: kramdown
