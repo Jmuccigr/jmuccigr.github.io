@@ -27,14 +27,15 @@ mastodon:
     username: john
     instance: mastodon.cc
 blog:
-  icon: /images/icon.png
-  logo: /images/logo.png
   title: de vita sua
   description_open:
     <h2><em><a href="../../../../">
   description_close:
     </a></em></h2>
     <p>a blog</p>
+feed:
+  icon: /images/icon.png
+  logo: /images/logo.png
 
 # Build settings
 markdown: kramdown
