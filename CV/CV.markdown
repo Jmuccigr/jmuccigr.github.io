@@ -181,6 +181,7 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |date|item|
 |:--|:--|
+2024 | Seth Bernard, Lisa M. Mignone, and Dan-el Padilla Peralta, eds. *Making the Middle Republic: New Approaches to Rome and Italy, c.400-200 BCE*, *BMCR* [2024.02.53](https://bmcr.brynmawr.edu/2024/2024.02.53/)
 2020 | Giovanna Battaglini, ed., *Fregellae: il tempio del Foro e il tempio suburbano sulla via Latina*. Monumenti antichi. Serie miscellanea, Volume 23, *BMCR* [2020.09.03](https://bmcr.brynmawr.edu/2020/2020.09.03/)
 2015 | Filippo Canali De Rossi, *Le relazioni diplomatiche di Roma, Volume IV. Dalla 'liberazione della Grecia' alla pace infida con Antioco III (201–194 a. C.)*, *BMCR* [2015.03.47](http://bmcr.brynmawr.edu/2015/2015-03-47.html)
 2014 | Massimiliano Di Fazio, *Feronia: spazi e tempi di una dea dell'Italia centrale antica*, *BMCR* [2014.10.25](http://bmcr.brynmawr.edu/2014/2014-10-25.html)
@@ -270,5 +271,5 @@ Leaflet; SQL; jekyll; Greek-Arch list manager; Drew Classics-Department Image Da
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Sunday, 31 July 2022.|[The American University of Rome](http://www.aur.edu/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Saturday, 2 March 2024.|[The American University of Rome](http://www.aur.edu/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
