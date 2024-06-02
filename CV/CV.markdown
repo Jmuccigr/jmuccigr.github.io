@@ -35,6 +35,10 @@ Dean of Academic Affairs|[The American University of Rome](http://www.aur.edu/)|
 |:--|:--|
 2022-present | Dean of Academic Affairs
 
+- Direct Reports: Graduate School Directors, Registrar, Library, Instructional Technology, Career and Internships, Institutional Research
+- Committees: Presidential Leadership Council, Academic Council (Chair), Admissions Boosting, Curriculum and Academic Affairs (Chair), Student Success (Chair), Students at Risk Action Group (Chair), Board Committee on Academic Affairs & Enrollments
+- Special Role: Middle States Steering Committee (Chair)
+
 #### Drew University
 
 |date|item|
@@ -271,5 +275,5 @@ Leaflet; SQL; jekyll; Greek-Arch list manager; Drew Classics-Department Image Da
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Saturday, 2 March 2024.|[The American University of Rome](http://www.aur.edu/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Sunday, 2 June 2024.|[The American University of Rome](http://www.aur.edu/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
