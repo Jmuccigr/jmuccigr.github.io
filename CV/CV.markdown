@@ -14,6 +14,8 @@ Dean of Academic Affairs|[The American University of Rome](http://www.aur.edu/)|
 |<j.muccigrosso@aur.edu>|Via Pietro Roselli 4, 00153|
 |<http://jmuccigr.github.io/>|Rome, Italy|
 |<span class="dontprint">[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)</span>|+1-888-791-8327|
+| | Citizenship: USA
+
 
 ### Education
 
@@ -270,10 +272,13 @@ Reading ability: Latin, Ancient Greek, French, German
 
 ### Technology-Related Experience
 
-<span class="item_standalone">
-Leaflet; SQL; jekyll; Greek-Arch list manager; Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Web sites (now defunct): Papyrology, Ancient-Mediterranean list archives; computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998); Courseware developer, University of Michigan Classical Civilization program (1995)
+|date|item|
+|:--|:--|
+| Software | Microsoft Office 365 (and older); R; SQL; Leaflet; jekyll|
+| Projects & Roles | Greek-Arch list manager; Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Courseware developer, University of Michigan Classical Civilization program (1995); computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998) |
+| Web sites (now defunct) | Papyrology, Ancient-Mediterranean list archives |
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Sunday, 2 June 2024.|[The American University of Rome](http://www.aur.edu/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Sunday, 9 June 2024.|[The American University of Rome](http://www.aur.edu/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
