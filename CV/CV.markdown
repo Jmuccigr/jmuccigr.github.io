@@ -274,11 +274,12 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |date|item|
 |:--|:--|
-| Software | Microsoft Office 365 (and older); R; SQL; Leaflet; jekyll|
+| Learning Management Systems | Canvas; Moodle |
+| Other Software | Microsoft Office 365 (and older); R; SQL; Leaflet; jekyll|
 | Projects & Roles | Greek-Arch list manager; Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Courseware developer, University of Michigan Classical Civilization program (1995); computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998) |
 | Web sites (now defunct) | Papyrology, Ancient-Mediterranean list archives |
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Sunday, 9 June 2024.|[The American University of Rome](http://www.aur.edu/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 14 June 2024.|[The American University of Rome](http://www.aur.edu/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
