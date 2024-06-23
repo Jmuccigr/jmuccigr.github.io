@@ -59,9 +59,9 @@ Paragraphs are just one or more consecutive lines of text, separated by one or m
 
 -----
 
-- Headers are lines preceded by one or more hash marks `#`
-	- \# Header
-	- Add more hash marks to increase header level
+- Headings are lines preceded by one or more hash marks `#`
+	- \# Heading
+	- Add more hash marks to increase heading level
 		- \#\# Second Level
 - Lists are lines preceded by hyphens `-`
 - Emphasize words by surrounding them with `*` or `_`:
