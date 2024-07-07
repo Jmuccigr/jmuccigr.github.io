@@ -1,7 +1,7 @@
 ---
 title: launchd and virtual envelopes in Python
 author: John D. Muccigrosso
-date: 2024-07-06
+date: 2024-07-07
 tags: 
     - cli
     - mac
