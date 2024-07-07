@@ -1,6 +1,7 @@
 <small>
   <ul>
 	<li><a href="{{ site.url }}">My homepage</a></li>
+	<li><a href="/blog">My blog</a></li>
 	<li><a href="{% link blog/tags.md %}">Blog tags</a>
 	{% if site.email %}
 	<li> {% include icon-email.html username=site.email %} </li>
@@ -10,12 +11,12 @@
 	{% endif %}
 	{% if site.mastodon.username %}
 	<li> {% include icon-mastodon.html username=site.mastodon.username instance=site.mastodon.instance %} </li>
+	{% endif %}
 <!--
 	{% if site.twitter_username %}
 	<li> {% include icon-twitter.html username=site.twitter_username %} </li>
 	{% endif %}
  -->
-	{% endif %}
 	<li> {% include icon-rss.html %} </li>
   </ul>
 </small>
