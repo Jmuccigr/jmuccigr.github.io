@@ -10,11 +10,9 @@ description: "John D. Muccigrosso's CV"
 
 |left|right|
 |:---|----:|
-Dean of Academic Affairs|[The American University of Rome](http://www.aur.edu/)|
-|<j.muccigrosso@aur.edu>|Via Pietro Roselli 4, 00153|
+|<muccigrosso@icloud.com>|Via Basilio Bricci 21, 00152|
 |<http://jmuccigr.github.io/>|Rome, Italy|
-|<span class="dontprint">[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)</span>|+1-888-791-8327|
-| | Citizenship: USA
+|<span class="dontprint">[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)</span>|Citizenship: USA
 
 
 ### Education
@@ -35,7 +33,7 @@ Dean of Academic Affairs|[The American University of Rome](http://www.aur.edu/)|
 
 |date|item|
 |:--|:--|
-2022-present | Dean of Academic Affairs
+2022-2024 | Dean of Academic Affairs
 
 - Direct Reports: Graduate School Directors, Registrar, Library, Instructional Technology, Career and Internships, Institutional Research
 - Committees: Presidential Leadership Council, Academic Council (Chair), Admissions Boosting, Curriculum and Academic Affairs (Chair), Student Success (Chair), Students at Risk Action Group (Chair), Board Committee on Academic Affairs & Enrollments
@@ -281,5 +279,5 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Friday, 14 June 2024.|[The American University of Rome](http://www.aur.edu/)|
+|[My Homepage](http://jmuccigr.github.io/)|Last updated Thursday, 8 August 2024.|[The American University of Rome](http://www.aur.edu/)|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
