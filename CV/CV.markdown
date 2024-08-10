@@ -10,9 +10,9 @@ description: "John D. Muccigrosso's CV"
 
 |left|right|
 |:---|----:|
-|<muccigrosso@icloud.com>|Via Basilio Bricci 21, 00152|
-|<http://jmuccigr.github.io/>|Rome, Italy|
-|<span class="dontprint">[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)</span>|Citizenship: USA
+|<muccigrosso@icloud.com>|Via Basilio Bricci 21|
+|<http://jmuccigr.github.io/>|00152 Rome, Italy|
+|<span class="dontprint">[VIAF](http://viaf.org/viaf/309849093/), [ORCID](http://orcid.org/0000-0002-9877-1043), [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)</span>|Citizenship: USA|
 
 
 ### Education
@@ -279,5 +279,5 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)|Last updated Thursday, 8 August 2024.|[The American University of Rome](http://www.aur.edu/)|
+|[My Homepage](http://jmuccigr.github.io/)||Last updated Saturday, 10 August 2024.|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
