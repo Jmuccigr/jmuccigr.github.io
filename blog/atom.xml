@@ -15,11 +15,19 @@
 		<email>jmuccigr@drew.edu</email>
 	</author>
 
+{% assign pdate = post.date | date: "%Y-%m-%d" %}
+{% assign sdate = site.date | date: "%Y-%m-%d" %}
+{% if pdate == sdate %}
+{% assign d = site.date %}
+{% else %}
+{% assign d = post.date %}
+{% endif %}
+{{ d | date_to_xmlschema }}
 	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
 			<link href="http://jmuccigr.github.io{{ post.url }}"/>
-			<updated>{{ post.date | date_to_xmlschema }}</updated>
+			<updated>{{ d | date_to_xmlschema }}</updated>
 			<id>http://jmuccigr.github.io{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
