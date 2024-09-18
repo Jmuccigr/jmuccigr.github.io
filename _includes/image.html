@@ -1,19 +1,26 @@
 <!-- _includes/image.html -->
 <figure>
+    <!-- assume that all images without a url are local -->
     {% if include.url %}
     <a href="{{ include.url }}" target="_blank">
+    {% else %}
+    <a href="{{ site.url }}/images/{{ include.src }}" target="_blank">
     {% endif %}
     <img
         {% if include.srcabs %}
             src="{{ include.srcabs }}"
         {% else %}
-            src="{{ site.baseurl }}/images/{{ include.src }}"
+            src="{{ site.url }}/images/{{ include.src }}"
         {% endif %}
     alt="{{ include.alt }}">
-    {% if include.url %}
     </a>
-    {% endif %}
     {% if include.caption %}
-        <figcaption>{{ include.caption }}</figcaption>
+        <figcaption>{{ include.caption }}
+    {% if include.attribution %}
+        {{ include.attribution }}
+    {% else %}
+        {% include attribution_image.html %}
+    {% endif %}
+        </figcaption>
     {% endif %}
 </figure>
