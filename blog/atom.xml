@@ -15,19 +15,20 @@
 		<email>jmuccigr@drew.edu</email>
 	</author>
 
-{% assign pdate = post.date | date: "%Y-%m-%d" %}
-{% assign sdate = site.date | date: "%Y-%m-%d" %}
-{% if pdate == sdate %}
-{% assign d = site.date %}
-{% else %}
-{% assign d = post.date %}
-{% endif %}
-{{ d | date_to_xmlschema }}
 	{% for post in site.posts %}
+	    {% comment %}If the post date is the same as the build date, then use the build date
+	    as it includes the time. Otherwise just use the post date. {% endcomment %}
+        {% assign p = post.date | date_to_string %}
+        {% assign s = site.time | date_to_string %}
+        {% if s == p %}
+        {% assign d = site.time %}
+        {% else %}
+        {% assign d = post.date %}
+        {% endif %}
 		<entry>
 			<title>{{ post.title }}</title>
 			<link href="http://jmuccigr.github.io{{ post.url }}"/>
-			<updated>{{ d | date_to_xmlschema }}</updated>
+			<updated>{{ d }}</updated>
 			<id>http://jmuccigr.github.io{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
