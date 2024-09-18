@@ -7,6 +7,7 @@ tags:
     - classics
     - history
     - imagemagick
+    - Rome
 ---
 
 I'm teaching Roman history this spring after a bit of time away from it. I'm also creating some charts to demonstrate some of the things I usually just talk about. I figured I'd share them. As usual they'll be in [their own repository](https://github.com/Jmuccigr/history_data) on my GitHub.

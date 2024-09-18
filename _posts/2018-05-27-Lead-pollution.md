@@ -63,6 +63,7 @@ In order to show that I'm using the right data set, here's my version of their f
     src="lead/figure_3.png"
     caption="Figure 3 from the article"
     alt="Figure 3 from the article" 
+    attribution=""
 %}
 
 Looking at the overall data set, I see a lot of spikes (that is, sudden and short-lived increases in output). You might be able to explain that historically, but it makes me a bit suspicious. I said I wouldn't get into the methodology here, but for this to be convincing it has to be explained—for example—how there's an increase in silver/lead smelting just after 800 BCE that results in a three- or four-fold spike over the baseline, lasting less than 10 years, especially at a time when, to take one activity used to explain a lot of later activity, nobody is minting coins. If you've got a pre-coinage spike, why not assume that there are other, non-coin-related effects later?
