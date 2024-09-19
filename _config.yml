@@ -37,6 +37,8 @@ feed:
   icon: /images/icon.png
   logo: /images/logo.png
 
+excerpt_separator: <!--more-->
+  
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal

@@ -9,7 +9,7 @@ tags:
     - technology
 ...
 
-I use *launchd* in MacOS to run a bunch of scripts automatically. Most of them are simple shell scripts (in bash; I never made the move over to zsh), but one uses the Python package urlwatch ([docs](https://urlwatch.readthedocs.io) and [github project](https://github.com/thp/urlwatch)) to monitor some websites. I use it when RSS isn't available or when I don't want to get email updates. It's very handy and not hard to set up and use.
+I use *launchd* in MacOS to run a bunch of scripts automatically.<!--more--> Most of them are simple shell scripts (in bash; I never made the move over to zsh), but one uses the Python package urlwatch ([docs](https://urlwatch.readthedocs.io) and [github project](https://github.com/thp/urlwatch)) to monitor some websites. I use it when RSS isn't available or when I don't want to get email updates. It's very handy and not hard to set up and use.
 
 Recently though it's become necessary to run Python within virtual environments which has meant some changes to my configuration. It's not a big deal for things I run directly from the command line, but it killed my launchd urlwatch job and it wasn't obvious (to me) how to fix it, so I spent some time yesterday figuring it out. Here's what I had to do, with all of my ignorant thrashing about omitted.
 

@@ -14,6 +14,7 @@ published: true
 ## tl;dr
 
 Rome's newest museum is on the Celio and showcases the marble plan of the ancient city. It's well worth a visit, though you won't see anything but the plan inside.
+<!--more-->
 
 ## Introduction
 
