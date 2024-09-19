@@ -33,7 +33,7 @@
     {% assign d = post.date %}
     {% endif -%}
     <entry>
-        <title>{{ post.title | url_encode }}</title>
+        <title>{{ post.title }}</title>
         <link href="{{ site.url }}{{ post.url }}"/>
         <updated>{{ d | date_to_xmlschema }}</updated>
         <id>{{ site.url }}/{{ post.id }}</id>
