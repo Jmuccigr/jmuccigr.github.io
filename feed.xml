@@ -6,13 +6,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>De vita sua – John Muccigrosso's Blog</title>
-	<link href="http://jmuccigr.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://jmuccigr.github.io/blog"/>
+	<link href="{{ site.url }}/feed.xml" rel="self"/>
+	<link href="{{ site.url }}/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://jmuccigr.github.io/blog</id>
 	<author>
 		<name>John Muccigrosso</name>
-		<email>jmuccigr@drew.edu</email>
+		<email>owner@muccigrosso.org</email>
 	</author>
 
 	{% for post in site.posts %}
@@ -30,6 +30,7 @@
 			<link href="http://jmuccigr.github.io{{ post.url }}"/>
 			<updated>{{ d }}</updated>
 			<id>http://jmuccigr.github.io{{ post.id }}</id>
+			<excerpt type="html">{{ post.excerpt | xml_escape }}</excerpt>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
