@@ -8,9 +8,7 @@ title: Welcome!
 
 # John D. Muccigrosso
 
-### Dean of Academic Affairs
-
-### [The American University of Rome](https://www.aur.edu/)
+### Classicist, DH guy
 
 - - -
 
@@ -19,7 +17,7 @@ Welcome to my homepage! It’s perpetually out of date, and I’ve stopped promi
 -   See some of the publications from our archaeological dig in [Umbria](http://www.fastionline.org/excavation/micro_view.php?item_key=fst_cd&fst_cd=AIAC_1936)
 -   Peruse my [CV](/CV/CV.html)
 -   Read my [blog](blog/)
--   Send me e-mail at work: &lt;[j.muccigrosso@aur.edu](mailto:j.muccigrosso@aur.edu?subject=Sent%20from%20your%20website)&gt;
+-   Send me e-mail: &lt;[owner@muccigrosso.org](mailto:owner@muccigrosso.org?subject=Sent%20from%20your%20website)&gt;
 -   Follow me on [Mastodon](https://mastodon.cc/@John){:rel="me"}
 -   Follow me on ~~Twitter~~ X (But don't. I'm not on there anymore.): [jdmuccigrosso](https://twitter.com/jdmuccigrosso)
 -   See my work on [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)
@@ -29,7 +27,6 @@ Welcome to my homepage! It’s perpetually out of date, and I’ve stopped promi
 ## Classics
 
 There are many of these sites, but here’s a (very) short list to get you started:
--   [AUR Archaeology & Classics](https://aur.edu/program/bachelor-degree-archaeology-classics)
 -   [Perseus](http://www.perseus.tufts.edu/)
 -   [A list of undergraduate programs in Classics](https://cdn.rawgit.com/Jmuccigr/classics_programs/a39a4d38ef2b7ceff4f696fec57979086ce0aa9d/Undergrad_Classics.html)
 
