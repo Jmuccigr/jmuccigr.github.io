@@ -116,7 +116,8 @@ magick rose: rose: rose: -append toptobottomroses.png
 {% include image.html 
     src="toptobottomroses.png"
     caption="top to bottom roses"
-    alt="top to bottom roses" 
+    alt="top to bottom roses"
+    attribution=""
 %}
 
 ```
@@ -127,6 +128,7 @@ magick piece-*.png +append lefttorightroses.png
     src="lefttorightroses.png"
     caption="left to right roses"
     alt="left to right roses" 
+    attribution=""
 %}
 
 You're likely going to need to edit the resulting image because it will be the entire page, not just the image you want.

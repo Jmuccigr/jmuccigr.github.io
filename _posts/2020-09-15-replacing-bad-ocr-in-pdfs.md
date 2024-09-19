@@ -32,7 +32,8 @@ Given all this it's not surprising that you sometimes find PDFs that come with d
 {% include image.html 
     src="jstor_ocr.jpg"
     caption="JSTOR scan showing two typical OCR problems"
-    alt="JSTOR scan showing two typical OCR problems" 
+    alt="JSTOR scan showing two typical OCR problems"
+    attribution="" 
 %}
 
 So I wrote a fairly straightforward script for that, which works fairly simply in outline:

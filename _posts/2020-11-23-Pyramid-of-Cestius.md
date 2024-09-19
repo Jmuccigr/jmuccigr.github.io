@@ -15,7 +15,8 @@ Visitors to Rome will know one of the more unexpected ancient monuments, the [fu
     srcabs="https://upload.wikimedia.org/wikipedia/commons/8/88/CestiusPyramide3.jpg" 
     url="https://commons.wikimedia.org/wiki/File:CestiusPyramide3.jpg"
     alt="Pyramid of C. Cestius in 2018" 
-    caption="Pyramid of C. Cestius in 2018 <a href=\"https://commons.wikimedia.org/wiki/File:CestiusPyramide3.jpg\">Rabax63</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons" 
+    caption="Pyramid of C. Cestius in 2018 <a href=\"https://commons.wikimedia.org/wiki/File:CestiusPyramide3.jpg\">Rabax63</a>"
+    attribution=" (<a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons)" 
 %}
 
 The pyramid has been at least partly visible since its construction in the late first c. BCE and was probably preserved, like the famous [tomb of the baker Eurysaces](https://en.wikipedia.org/wiki/Tomb_of_Eurysaces_the_Baker), by being incorporated into the late-third-centry [Aurelian walls](https://en.wikipedia.org/wiki/Aurelian_Walls) of the city. In the early 1660s, [Pope Alexander VII](https://en.wikipedia.org/wiki/Pope_Alexander_VII) excavated and cleaned off much of the monument and explored its contents.
@@ -26,7 +27,8 @@ Alexander had the entrance that you can see in the photo cut into the western fa
     srcabs="https://upload.wikimedia.org/wikipedia/commons/0/00/Piranesi-17044.jpg" 
     url="https://commons.wikimedia.org/wiki/File:PiranesiPyramid.jpg"
     alt="Drawing of the pyramid by Piranesi" 
-    caption="Drawing by Giovanni Battista Piranesi (Giovanni Battista Piranesi, Public domain, via Wikimedia Commons)" 
+    caption="Drawing by Giovanni Battista Piranesi (Giovanni Battista Piranesi, Public domain, via Wikimedia Commons)"
+    attribution=""
 %}
 
 It also seems clear from comparison of the two images that in Piranesi's time, the very bottom of the pyramid was still (again?) covered with soil. You can see that easily in the height of the bases below the two columns Alexander had re-erected at the corners of the pyramid. Despite this Piranesi made a detailed drawing of the foundations of the pyramid and also its plan, including a scale.
@@ -35,7 +37,8 @@ It also seems clear from comparison of the two images that in Piranesi's time, t
     srcabs="https://upload.wikimedia.org/wikipedia/commons/2/29/Piranesi-3-43.jpg" 
     url="https://commons.wikimedia.org/wiki/File:Piranesi-3-43.jpg"
     alt="Plan of the pyramid by Piranesi" 
-    caption="Plan of the pyramid by Piranesi" 
+    caption="Plan of the pyramid by Piranesi"
+    attribution="" 
 %}
 
 If you follow the link to the Wikimedia Commons version of that image and grab the [biggest size](https://upload.wikimedia.org/wikipedia/commons/2/29/Piranesi-3-43.jpg), you'll find that the 80 Roman palms on the scale take up 2,116 pixels, for a ratio of 26.45 pixels/palm or 0.0378 palms/pixel (rounding a tiny bit). The width of the western (*ponente*) side is 3,537 pixels or 133.7 Roman palms. So how big is a Roman palm? [Apparently](https://en.wikipedia.org/wiki/Palm_(unit)#Continental_Europe), about 22.32 cm (if we use the architect's version, which seems like a good idea for Piranesi), making the length of that side about 29.8 m.
@@ -79,6 +82,7 @@ You can see what the Pyramid presumably looked like in 1544 in this drawing of [
     src="duperac.jpg"
     alt="Southeastern side of the pyramid"
     caption="Southeastern side of the pyramid"
+    attribution=""
 %}
 
 So what happened here? I'm not really sure. I could come up with some hypothesis (like maybe Ashby knew the ratio, mistakenly read 27 for 37 for the height and then calculated the base from that), but that would be just playing around. It's very odd to me that two English-speaking works get a basic measurement wrong on such a famous and visible monument.
