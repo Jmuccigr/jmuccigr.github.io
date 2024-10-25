@@ -1,0 +1,104 @@
+# Delete this line
+---
+title: "{{ title }}"
+category: literaturenote
+citekey: {{citekey}}
+status: {% if annotations.length > 0 %}read{% else %}unread{% endif %}
+dateread:
+dateimported: {{importDate | format("YYYY-MM-DD HH:mm")}}
+tags:{% if allTags %}{% set t = allTags | replace(" ", "_") %}
+  - {{ t | replace(",_", "\n  - ") }}{% endif %}
+---
+
+>[!Metadata]+
+{% for type, creators in creators | groupby("creatorType") -%}
+{%- for creator in creators -%}
+> **{{"First" if loop.first}}{{type | capitalize}}**::{% if creator.name %} {{creator.name}}  
+{% else %} {{creator.lastName}}, {{creator.firstName}}  
+{% endif %}  
+{%- endfor -%}
+{%- endfor -%}  
+> **Year**:: {{date | format("YYYY")}}  
+> **Citekey**:: @{{citekey}} {%- if itemType %}  
+> **itemType**:: {{itemType}}{%- endif %}{%- if itemType == "journalArticle" %}  
+> **Journal**:: *{{publicationTitle}}* {%- endif %}{%- if volume %}  
+> **Volume**:: {{volume}} {%- endif %}{%- if issue %}  
+> **Issue**:: {{issue}} {%- endif %}{%- if itemType == "bookSection" %}  
+> **Book**:: {{publicationTitle}} {%- endif %}{%- if publisher %}  
+> **Publisher**:: {{publisher}} {%- endif %}{%- if place %}  
+> **Location**:: {{place}} {%- endif %}{%- if pages %}  
+> **Pages**:: {{pages}} {%- endif %}{%- if DOI %}  
+> **DOI**:: <a href="http://doi.org/{{DOI}}">{{DOI}}</a> {%- endif %}{%- if ISBN %}  
+> **ISBN**:: <a href="https://isbnsearch.org/search?s={{ISBN}}">{{ISBN}}</a> {% endif %}  
+
+{% if abstractNote %}
+> [!Abstract]+
+> {%- if abstractNote %}
+> {{abstractNote}}
+> {% endif -%}
+{% endif %}
+
+> [!Link]+ Links from Zotero
+> [Zotero entry]({{select}})
+{%- for attachment in attachments | filterby("path", "endswith", ".pdf") %}
+> Attachments: [{{attachment.title}}](file://{{attachment.path | replace(" ", "%20")}})  {% endfor -%}
+{% if relations | length > 0 %}
+> Related:  {% for relation in relations | selectattr("citekey") %} [[@{{relation.citekey}}]]{% if not loop.last %}, {% endif%} {% endfor %}
+{% endif %}
+
+{#- Commenting this out because I'm not sure how Contribution is supposed to work
+{% if relations | length > 0 %}
+>[!Synth]
+>**Contribution**
+>
+>**Related**:  {% for relation in relations | selectattr("citekey") %} [[@{{relation.citekey}}]]{% if not loop.last %}, {% endif%} {% endfor %}
+>
+{% endif %}
+-#}
+
+{%- if markdownNotes %}
+
+## Notes from Zotero
+
+{{markdownNotes}}
+
+-----
+{% endif -%}
+{%- set l = annotations.length -%}
+{%- if l > 0 %}  
+{%- set loop = true -%}
+{%- set src0 = annotations[0].source -%}
+{%- if src0 == annotations[l - 1].source %} {% set loop = false %} {% endif -%}
+{%- set srcList = [] -%}
+{%- if loop %} {% set srcList = ["zotero","pdf"] %} {% else %} {% set srcList = [src0] %} {% endif %}
+
+## Annotations from Zotero  
+
+{% for src in srcList %}{% if srcList.length > 1 %}### From {{ src }}{% endif %}
+
+{% for a in annotations %}
+{%- if a.source == src -%}
+{%- if a.type == "highlight" or a.type == "underline" -%}
+> <mark style="background-color: {{a.color}}">Quote</mark>
+> {{ a.annotatedText }}
+> ([p. {{a.pageLabel}}](zotero://open-pdf/library/items/{{a.attachment.itemKey}}?page={{a.page}}&annotation={{a.id}}))
+{%- if a.comment %}
+> > Attached Note: 
+> > <mark style="background-color: {{a.color}}">{{a.comment}}</mark>
+{% endif -%}<br>
+{% elif a.type == "text" or a.type == "note" -%}
+> <mark style="background-color: {{a.color}}">{{a.comment}}</mark>
+> ([p. {{a.pageLabel}}](zotero://open-pdf/library/items/{{a.attachment.itemKey}}?page={{a.page}}&annotation={{a.id}}))
+{% else %}
+> <mark style="background-color: red">Uh-oh, an unknown note type was here!<br>{{a.comment}}</mark>
+> ([p. {{a.pageLabel}}](zotero://open-pdf/library/items/{{a.attachment.itemKey}}?page={{a.page}}&annotation={{a.id}}))
+{% endif %}
+{% endif -%}
+{% endfor -%}
+{% endfor -%}
+{% endif %}
+
+## My Notes
+{% persist "myNotes" %}
+
+{% endpersist %}
