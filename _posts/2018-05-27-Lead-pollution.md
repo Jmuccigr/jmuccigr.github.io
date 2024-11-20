@@ -6,11 +6,13 @@ date: Sunday, 27 May 2018
 tags:
   - technology
   - archaeometry
+excerpt_separator: <!--more-->
 ---
 
 ## Introduction
 
-A fascinating article recently appeared in [PNAS](http://www.pnas.org/content/early/2018/05/08/1721818115): "Lead pollution recorded in Greenland ice indicates European emissions tracked plagues, wars, and imperial expansion during antiquity."[^reference] It uses very sensitive and highly chronologically resolved measurements of lead in Greenland ice cores to calculate the prevalence of lead pollution in the ancient atmosphere year by year, and considers this "a proxy of wider economic performance" (p. 2, col. 2), since it is mainly lead–silver mining and smelting that causes it (as the theory goes).[^contradiction]
+A fascinating article recently appeared in [PNAS](http://www.pnas.org/content/early/2018/05/08/1721818115): "Lead pollution recorded in Greenland ice indicates European emissions tracked plagues, wars, and imperial expansion during antiquity."[^reference] It uses very sensitive and highly chronologically resolved measurements of lead in Greenland ice cores to calculate the prevalence of lead pollution in the ancient atmosphere year by year, and considers this "a proxy of wider economic performance" (p. 2, col. 2), since it is mainly lead–silver mining and smelting that causes it (as the theory goes).<!--more-->[^contradiction]
+
 
 This is a terrific use of modern scientific analyses to take a look at the ancient world using evidence that is independent of our frequently used literary (and even archaeological) sources.
 
@@ -30,8 +32,10 @@ I took the Excel spreadsheet they provided and turned the data there into two se
 
 I'm going to look at the various remarks that connect changes in lead deposition to specific historical events. In particular I'm starting with their comments in their "Significance" box (p. 1):
 
-> ...European emissions closely varied with historical events, including imperial expansion, wars, and major plagues.and
-> Emissions fluctuated synchronously with wars and political instability, particularly during the Roman Republic...
+> ...European emissions closely varied with historical events, including imperial expansion, wars, and major plagues.
+
+and
+> Emissions fluctuated synchronously with wars and political instability, particularly during the Roman Republic...
 
 Note that these comments *almost* suggest that it's the changes in the emissions that are relevant and not their absolute values ("varied", "fluctuated"), though the text often is concerned with the absolute values. This makes me uncertain which features of the data we should be looking at.
 
