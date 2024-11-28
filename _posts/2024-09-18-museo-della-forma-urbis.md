@@ -2,6 +2,7 @@
 title: Rome's newest museum
 author: John D. Muccigrosso
 date: 2024-09-18
+image: "/images/Museo_FU_exterior_sm.jpeg"
 tags:
   - Rome
   - museums
@@ -10,6 +11,7 @@ tags:
   - archaeology
   - classics
 published: true
+excerpt_separator: <!--more-->
 ---
 ## tl;dr
 
