@@ -1,7 +1,7 @@
 ---
 title: "DHSI 2021 Presentation: Introduction to Github"
 author: John D. Muccigrosso
-date: Thursday, 27 May 2021
+date: Friday, 27 May 2022
 title-slide-attributes:
     data-background-image: http://cdn.theunlockr.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-13-at-7.53.08-AM.png
     data-background-size: contain
@@ -156,15 +156,32 @@ Not a how-to, but a what-is
     - [Bitcoin](https://github.com/Bitcoin/Bitcoin)
     - [Moodle](https://github.com/moodle/moodle)
     - [WordPress Gutenberg](https://github.com/WordPress/gutenberg?ref=hackernoon.com)
-    - Discussions
-        - [ImageMagick](https://github.com/ImageMagick/ImageMagick/discussions)
+- Websites
+    - [Mine via github.io](https://jmuccigr.github.io)
+        - PS this runs on [plaintext via markdown](https://github.com/Jmuccigr/jmuccigr.github.io/blob/master/index.md)
 
-## Some resources
+## More examples
+
+- Books
+    - [Statistics textbook](https://github.com/OpenIntroStat/openintro-statistics)
+- [Style sheets](https://github.com/citation-style-language/styles) (for Zotero) (in "citation style language" or *csl*)
+- Discussions
+    - [ImageMagick](https://github.com/ImageMagick/ImageMagick/discussions)
+
+# Some resources
 
 - ["Git and Github for poets" video](https://www.youtube.com/watch?v=BCQHnlnPusY)
 - StackExchange - a Q&A site
 - [Google groups](https://groups.google.com/) often has relevant groups (e.g., pandoc)
 - Just do an [internet search](http://duckduckgo.com) for your question or find the homepage of the project/software/dataset you're having problems with
+
+# Your data
+
+## Think about what you're doing with your data
+
+- Is it available to others?
+- If so, what kind of license are you putting on it?
+- You can publish it via GitHub or at sites like [Zenodo](https://Zenodo.org/)
 
 # Time for questions
 

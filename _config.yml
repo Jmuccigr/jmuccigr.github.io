@@ -37,7 +37,7 @@ feed:
   icon: /images/icon.png
   logo: /images/logo.png
 
-excerpt_separator: <!--more-->
+# excerpt_separator: <!--more-->
   
 # Build settings
 markdown: kramdown
@@ -51,6 +51,7 @@ exclude:
   - /CV/CV.markdown
   - README.md
   - courses
+  - assets_for_minimal_theme
 defaults:
   - scope:
       path: "/"
