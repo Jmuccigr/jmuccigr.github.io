@@ -29,6 +29,12 @@ description: "John D. Muccigrosso's CV"
 
 ### Academic Employment
 
+#### John Cabot University
+
+|date|item|
+|:--|:--|
+2025 Spring | Lecturer, History and Humanities Department
+
 #### The American University of Rome
 
 |date|item|
@@ -279,5 +285,5 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |left|center|right|
 |:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)||Last updated Saturday, 10 August 2024.|
+|[My Homepage](http://jmuccigr.github.io/)||Last updated Saturday, January 25, 2025.|
 |&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
