@@ -42,6 +42,10 @@
       }
     }
 </script>
+{% if page.usemath %}
+    {% include mathjax.html %}
+{% endif %}
+
   </head>
   <body onload="setModifiedDate(); setAccessedDate();">
     <div class="wrapper">
