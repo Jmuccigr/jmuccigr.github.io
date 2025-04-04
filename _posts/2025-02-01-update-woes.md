@@ -31,6 +31,8 @@ Lessons learned? First, the Dovecot community is very helpful. Second, maybe I s
 
 This currently works for me with dovecot 2.4.0 and macOS 13.6.9 (Ventura).
 
+Edit on Feb 6, 2025: I added (back) the line `ssl = no` because dovecot was shutting down after I started it up. The logs showed "Failed to initialize SSL connection", which made sense since I had deliberately set it up not to use SSL. Live and learn!
+
 ```
 # Start new configs with the latest Dovecot version numbers here:
 dovecot_config_version = 2.4.0
@@ -38,6 +40,7 @@ dovecot_storage_version = 2.4.0
 
 auth_username_format = %{user|lower}
 default_vsz_limit = unlimited
+ssl = no
 
 # Enable wanted protocols:
 protocols {
