@@ -286,4 +286,4 @@ Reading ability: Latin, Ancient Greek, French, German
 |left|center|right|
 |:---|:----:|----:|
 |[My Homepage](http://jmuccigr.github.io/)||Last updated Saturday, January 25, 2025.|
-|&nbsp;|Download a printable [PDF version](CV.pdf) of this document.|&nbsp;|
+|&nbsp;|[A printable PDF version](CV.pdf) of this document.|&nbsp;|
