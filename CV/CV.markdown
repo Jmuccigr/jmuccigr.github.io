@@ -283,7 +283,8 @@ Reading ability: Latin, Ancient Greek, French, German
 | Projects & Roles | Greek-Arch list manager; Drew Classics-Department Image Database, Latin Noun Morphology Drill program; Michigan-Latin Vocabulary Project; Courseware developer, University of Michigan Classical Civilization program (1995); computing consultant: American Classical League (1995–1999), University of Michigan Classical Studies (1994–1998) |
 | Web sites (now defunct) | Papyrology, Ancient-Mediterranean list archives |
 
-|left|center|right|
-|:---|:----:|----:|
-|[My Homepage](http://jmuccigr.github.io/)||Last updated Saturday, January 25, 2025.|
+
+|left  |center| right|
+|:-----|:----:|-----:|
+|[My Homepage](http://jmuccigr.github.io/)||Updated January 25, 2025.|
 |&nbsp;|[A printable PDF version](CV.pdf) of this document.|&nbsp;|
