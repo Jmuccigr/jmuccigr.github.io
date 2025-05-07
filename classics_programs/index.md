@@ -5,9 +5,8 @@ css: https://cdn.rawgit.com/Jmuccigr/css/latest/clean_md.css
 
 This list started as the one I maintained for the [ACL](http://www.aclclassics.org/), the primary purpose of which was to provide to secondary-school Classics programs and prospective undergraduates the WWW pages, e-mail addresses, and, lacking those, the telephone numbers and snail-mail addresses of undergraduate programs in Classics and Classical Archaeology. I suppose it ought to continue to do this, but I found it useful for myself, so I decided to keep it up, even after the I stopped being ACL webmaster.
 
-\
 
-I am eager to have as complete a listing as possible. Undergraduate programs are encouraged to use [GitHub](https://github.com/Jmuccigr/classics_programs) to make edits to this document and create a pull request for their changes. Alternatively, you can [send me](mailto:j.muccigrosso@aur.edu) relevant information, especially the e-mail addresses of contact people for prospective students. If a department has no internet information, I'll post its street address and phone number.
+I am eager to have as complete a listing as possible. Undergraduate programs are encouraged to use [GitHub](https://github.com/Jmuccigr/classics_programs) to make edits to this document and create a pull request for their changes. Alternatively, you can [send me](mailto:muccigrosso@icloud.com) relevant information, especially the e-mail addresses of contact people for prospective students. If a department has no internet information, I'll post its street address and phone number.
 
 ------------------------------------------------------------------------
 
@@ -77,14 +76,11 @@ Skip to institutions whose names begin with:
     -   [Department Homepage](http://www.beloit.edu/~classics/)
     -   [Art Robson](mailto:robsona@beloit.edu), Department Contact
 
-1. Birmingham-Southern College
-    -   [Department Homepage](http://www.bsc.edu/academics/catalog2004-05/pages/courses/classics.htm)
-
 1. Boston College
     -   [Department Homepage](http://fmwww.bc.edu/CL/)
 
 1. Bowdoin College
-    -   [Department Homepage](http://academic.bowdoin.edu/classics/)
+    -   [Department Homepage](https://www.bowdoin.edu/classics/)
     -   [James Higginbotham](mailto:jhigginb@polar.bowdoin.edu),
         Department Contact
 
@@ -282,7 +278,7 @@ Skip to institutions whose names begin with:
 
 1. Loyola University of Chicago
     -   [Department Homepage](http://www.luc.edu/depts/classics/)
-    -   [Darice Birge](mailto:dbirge@orion.it.luc.edu)Department Chair
+    -   [Darice Birge](mailto:dbirge@orion.it.luc.edu), Department Chair
         and Graduate Program Director
 
 1. Loyola University, New Orleans
@@ -303,6 +299,10 @@ Skip to institutions whose names begin with:
 
 1. Miami University, Ohio
     -   [Department Homepage](http://montgomery.cas.muohio.edu/classics/)
+
+1. Millsaps College
+    -   [Department Homepage](https://millsaps.edu/majorsminors/greek-roman-studies/)
+    -   [David Yates](mailto:yatesdc@millsaps.edu), Department Chair, Greek & Roman Studies
 
 1. Monmouth College
     -   [Department Homepage](http://department.monm.edu/classics/)
@@ -791,4 +791,4 @@ Skip to institutions whose names begin with:
 
 ------------------------------------------------------------------------
 
-[Please send me your questions and comments.](mailto:john@muccigrosso.org)
+[Please send me your questions and comments.](mailto:muccigrosso@icloud.com)
