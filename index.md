@@ -28,7 +28,7 @@ Welcome to my homepage! It’s perpetually out of date, and I’ve stopped promi
 
 There are many of these sites, but here’s a (very) short list to get you started:
 -   [Perseus](http://www.perseus.tufts.edu/)
--   [A list of undergraduate programs in Classics](https://cdn.rawgit.com/Jmuccigr/classics_programs/a39a4d38ef2b7ceff4f696fec57979086ce0aa9d/Undergrad_Classics.html)
+-   [A list of undergraduate programs in Classics](Classics_programs)
 
 ## Current Projects
 
