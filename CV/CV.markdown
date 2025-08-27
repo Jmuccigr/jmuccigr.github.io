@@ -191,7 +191,7 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |date|item|
 |:--|:--|
-2025 | Alessandro Launaro, ed. *Roman urbanism in Italy: recent discoveries and new directions*, *BMCR* 2025
+2025 | Alessandro Launaro, ed. *Roman urbanism in Italy: recent discoveries and new directions*, *BMCR* [2025.08.10](https://bmcr.brynmawr.edu/2025/2025.08.10/)
 2024 | Seth Bernard, Lisa M. Mignone, and Dan-el Padilla Peralta, eds. *Making the Middle Republic: New Approaches to Rome and Italy, c.400-200 BCE*, *BMCR* [2024.02.53](https://bmcr.brynmawr.edu/2024/2024.02.53/)
 2020 | Giovanna Battaglini, ed., *Fregellae: il tempio del Foro e il tempio suburbano sulla via Latina*. Monumenti antichi. Serie miscellanea, Volume 23, *BMCR* [2020.09.03](https://bmcr.brynmawr.edu/2020/2020.09.03/)
 2015 | Filippo Canali De Rossi, *Le relazioni diplomatiche di Roma, Volume IV. Dalla 'liberazione della Grecia' alla pace infida con Antioco III (201–194 a. C.)*, *BMCR* [2015.03.47](http://bmcr.brynmawr.edu/2015/2015-03-47.html)
@@ -288,5 +288,5 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |left  |center| right|
 |:-----|:----:|-----:|
-|[My Homepage](http://jmuccigr.github.io/)||Updated July 15, 2025.|
+|[My Homepage](http://jmuccigr.github.io/)||Updated August 28, 2025.|
 |&nbsp;|[A printable PDF version](CV.pdf) of this document.|&nbsp;|
