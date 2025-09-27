@@ -33,7 +33,7 @@ description: "John D. Muccigrosso's CV"
 
 |date|item|
 |:--|:--|
-2025 Spring | Lecturer, History and Humanities Department
+2025- | Lecturer, History and Humanities Department
 
 #### The American University of Rome
 
@@ -49,7 +49,7 @@ description: "John D. Muccigrosso's CV"
 
 |date|item|
 |:--|:--|
-1998–2022 | [Department of Classics](http://www.drew.edu/classics-department/)
+1998–2022 | [Department of Classics](https://drew.edu/academics/classical-studies/)
 
 - Fall 2015–2018, 2005–2008 Chair
 - Fall 2000 Acting Chair
@@ -141,22 +141,26 @@ description: "John D. Muccigrosso's CV"
 
 <span class="item_standalone">
 Italian archaeology, Roman history, Digital Humanities, Latin paedagogy
+</span>
 
 ### Archaeological Experience
 
 <span class="item_standalone">Director: *Vicus Martis Tudertium* Field School (2008–2017)
+</span>
 
 <span class="item_standalone">Supervisor:  [Paestum](https://pleiades.stoa.org/places/442733) (Italy, 1995, ‘97, ‘99)
+</span>
 
-<span class="item_standalone">Participant: Duos Nuraghes (Sardinia, Italy, 1992); Roman Forum
-(Rome, Italy, 1991); Son Mas Sanctuary (Mallorca, Spain, 1990); [Poggio Civitate](http://www.poggiocivitate.org/) (Murlo, Italy, 1987–88)
+<span class="item_standalone">Participant: Duos Nuraghes (Sardinia, Italy, 1992); Roman Forum (Rome, Italy, 1991); Son Mas Sanctuary (Mallorca, Spain, 1990); [Poggio Civitate](http://www.poggiocivitate.org/) (Murlo, Italy, 1987–88)
+</span>
 
 ### Languages
 
 <span class="item_standalone">
-Native: English  
-Full professional proficiency: Italian  
+Native: English
+Full professional proficiency: Italian
 Reading ability: Latin, Ancient Greek, French, German
+</span>
 
 ### Publications
 
@@ -233,7 +237,7 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |date|item|
 |:--|:--|
-2025 | "The Ogulnii and the *Gens Fabia*: Etruscan and Roman Elites Collaborating in Rome," *Etruscan Landscapes* conference (Sept.)
+2025 | "The Ogulnii and the *Gens Fabia*: Etruscan and Roman Elites Collaborating in Rome," *Etruscan Landscapes* conference
 2021 | "A Database of (Italian) Temples," *Digital Italy* conference
 2021 | "Creating and Maintaining a Linked Online Database (on your own)," Association of Computers and the Humanities biennial conference
 2018 | "[A New Database of Roman Temples](doi://10.6084/m9.figshare.5856519)," a lightning talk at NYCDH Week 2018
@@ -269,12 +273,14 @@ Reading ability: Latin, Ancient Greek, French, German
 ### Teaching{.page-break}
 
 <span class="item_standalone">
-*Classical Humanities*; *Archaeology of Greece and Rome*; *Introduction to Roman history*; *Ancient Sport & Spectacle*; *Space and Power in the ancient world*; *Science & technology in the ancient world*; *Introduction to ancient drama*; introductory Latin sequence; intermediate Greek; advanced Latin: *Catullus, Vergil, Livy;* First-year seminars: *The Hero, Dead Men Do Tell Tales;* as graduate assistant: *Virgil’s* Aeneid; *Sport and Daily Life in the Roman Empire*; introductory chemistry; organic chemistry laboratory
+*Classical Humanities*; *Archaeology of Greece and Rome*; *Introduction to Roman history*; *Ancient Sport & Spectacle*; *Space and Power in the ancient world*; *Science & technology in the ancient world*; Greek and Roman literature in translation; *Introduction to ancient drama*; introductory Latin sequence; intermediate Greek; advanced Latin: *Catullus, Vergil, Livy*; First-year seminars: *The Hero, Dead Men Do Tell Tales*; as graduate assistant: *Virgil’s* Aeneid; *Sport and Daily Life in the Roman Empire*; introductory chemistry; organic chemistry laboratory
+</span>
 
 ### Dissertation
 
 <span class="item_standalone">
 "[Factional Competition and Monumental Construction in Mid-Republican Rome](https://dx.doi.org/10.6084/m9.figshare.763319)," D. S. Potter, advisor
+</span>
 
 ### Technology-Related Experience
 
@@ -288,5 +294,5 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |left  |center| right|
 |:-----|:----:|-----:|
-|[My Homepage](http://jmuccigr.github.io/)||Updated August 28, 2025.|
+|[My Homepage](http://jmuccigr.github.io/)||Updated September 27, 2025.|
 |&nbsp;|[A printable PDF version](CV.pdf) of this document.|&nbsp;|
