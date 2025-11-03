@@ -7,7 +7,7 @@ tags: Italy
 
 I thought it might be useful (fun?) to write up my months-long experience getting a driver's license as an American in Italy, so here it is.
 
-Overall it was an interesting mix of the kind of bureaucratic complexity Italy is famous for and a technological modernity that it most definitely is not. Those devils are most definitely in the details.
+Overall it was an interesting mix of the kind of bureaucratic complexity Italy is famous for and a technological modernity that it most definitely is not.
 
 I should start by noting that I've been living full-time in Italy for three years now. I have a "permit to stay", as the common stilted translation of *permesso di soggiorno* has it, and the required identity card (*carta d'identità*) and health-system card (*tessera sanitaria*). Legally you're required to get an Italian license after a year in the country in order to drive. As an American, you can't just exchange your US state license for an Italian one, the way people from [other European countries](https://www.gov.uk/guidance/driving-in-the-eu-uk-licence-holders-living-in-the-eu) can. This is not a crazy idea, as the whole system of traffic signs, to take an obvious example, is very different. That said, you'd hope that you could do just the written exam, especially after 40 years of driving, but no such luck.
 
