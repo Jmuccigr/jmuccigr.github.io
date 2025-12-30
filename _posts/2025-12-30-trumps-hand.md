@@ -180,7 +180,7 @@ Given all this, I'd put the timeline this way:
 
 - July 2020: early COVID-19, some bruising and maybe light makeup appears on the back of Trump's right hand. I find the photos convincing, but opinions may differ.
 - October 2020: after his stay at Walter Reed and five-day "quarantine" in the White House, Trump emerges with band-aids on the back of his right hand. When he removes them on October 18, he's got some kind of scab. This evidence is solid.
-- Mid-2022: significant brusing is visible on Trump's right hand and on one of the rare occasions when it's visible, his left forearm had a couple of band-aids.
+- Mid-2022: significant brusing is visible on Trump's right hand and on one of the rare occasions when it was visible, his left forearm had a couple of band-aids.
 - Late-2024: regular application of fairly heavy makeup on the back of Trump's right hand. It's pretty easy to see as it has a different texture and color from his skin.
 - Mid-2025: Trump's left hand now occasionally shows definite similar—though less extensive—bruising, and his right has had band-aids on it again.
 
