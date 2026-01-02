@@ -20,7 +20,7 @@ I've moved off Xitter and onto Bluesky, for a variety of reasons, none of them c
 Back in November [an article](https://www.dsb.dk/om-dsb/baredygtighed/indsatser/nye-solceller-paa-hoeje-taastrup/) appeared on the website of the Danish rail service DSB about how they had added solar panels to one of their train stations. 600 PV panels are expected to produce about 254MWh of energy a year (which likely means that they're 400 or 420W panels, given the amount of sun that Denmark gets). They expect the output to completely cover the station's energy needs during summer days. There aren't a lot of details, but the accompanying image seems to show the panels deployed on top of the shelters on the platforms. A quick set of measurements on Google Earth confirms that there's likely enough room on those. (PV panels are typically ~1x2m, as confirmed by the article which says these take up 1200 square meters.)
 
 {% include image.html 
-    srcabs="/images/solceller-hoeje-taastrup_1900x1080.jpg" 
+    src="solceller-hoeje-taastrup_1900x1080.jpg" 
     url="https://www.dsb.dk/globalassets/om-dsb/baeredygtighed/artikler/nye-solceller-pa-hoje-taastrup/solceller-hoeje-taastrup_1900x1080.jpg" 
     caption="Image from the article showing PV panels on top of track shelters (I think)"
     alt="Image from the article showing PV panels on top of track shelters (I think)" 
@@ -34,7 +34,7 @@ It seems to me that train stations would offer good opportunities for solar. The
 For example, here's a view from Google Earth of one of Rome's smaller stations, the one at San Pietro.
 
 {% include image.html 
-    src="Stazione_San_Pietro.png" 
+    src="Stazione_San_Pietro.jpeg" 
     caption="Satellite view of Rome's &quot;small&quot; San Pietro station"
     alt="Satellite view of Rome's &quot;small&quot; San Pietro station" 
     attribution="(Image: Google)" 
@@ -45,7 +45,7 @@ It's got five tracks, and two platforms which actually have shelters over them (
 At Rome's main station, Stazione Termini, they recently did some new construction, putting in a building across all the platforms (outlined in red in the image). No solar on top. Out front (outlined in green), they're putting the finishing touches on the massive—and sweltering—bus area. No shelters, with or without solar. Two big missed opportunties. Finally the area of the tracks between the new building and the main station building to the northwest is about 36,000 square meters. 50% coverage would yield 9,000 PV panels for 3.78MW peak, or something like 5GWh a year (assuming they put the panels on some structure that went high up across that space. Just using the existing 200x10m shelters would give us space for maybe 3 panels across, so 6000 panels (8,000 if you got four across). That's 3.4MW peak or 4GWh a year. Not too shabby and that's without any panels at all on the main building.
 
 {% include image.html 
-    src="Stazione_Termini.png" 
+    src="Stazione_Termini.jpeg" 
     caption="Satellite view of Rome's Stazione Termini"
     alt="Satellite view of Rome's Stazione Termini" 
     attribution="(Image: Google)" 
@@ -58,7 +58,7 @@ Quick calc: the [website](https://www.rfi.it/it/stazioni.html) for the Italian r
 A quick note to say that Rome missed out on a similar chance recently when it redid (or added) the shelters for many bus stops, putting in 435 of the new smart ["Eterna" model](https://romamobilita.it/it/node/23645). (Rome's the **eternal** city, get it?)
 
 {% include image.html 
-    srcabs="https://romamobilita.it/sites/default/files/2024-12/pensilina%20smart.jpg" 
+    src="primapensilinasmart_d0.jpeg" 
     url="https://romamobilita.it/sites/default/files/2024-12/pensilina%20smart.jpg" 
     caption="Image from the article showing the new bus shelters with partially transparent roofs"
     alt="Rome's new Eterna bus shelters" 
