@@ -22,7 +22,7 @@ Speaking of photographs, keep in mind that I've got access only to what's on Get
 The back of Donald Trump's right hand now sports heavy, sometimes almost latex-looking, cover-up makeup. The fact that the color does not quite match his skin (an issue he has long had with his face paint) makes it fairly easy to see.
 
 {% include image.html 
-    src="trump/trump_hand.png"
+    src="trump/trump_hand.jpeg"
     alt="Visible cover-up makeup on Trump's right hand (July 22, 2025)."
     caption="Visible cover-up makeup on Trump's right hand (July 22, 2025)."
         attribution="(Getty Images)"
@@ -32,7 +32,7 @@ The back of Donald Trump's right hand now sports heavy, sometimes almost latex-l
 Several times in the past few weeks, he's also had a band-aid on, sometimes two, which suggests that it's more than bruising that needed covering during that period. There are in fact times when it also looks like there's a small puncture-like wound, consistent with that.
 
 {% include image.html 
-    src="trump/trump_bandaid.png"
+    src="trump/trump_bandaid.jpeg"
     alt="Trump sports a band-aid on his right hand over the made-up area."
     caption="Trump sports a band-aid on his right hand over the made-up area (Dec 9, 2025)."
     attribution="(Getty Images)"
@@ -42,7 +42,7 @@ Several times in the past few weeks, he's also had a band-aid on, sometimes two,
 The makeup is there to cover up significant bruising which is visible when the makeup wears off (as it did during his [visit to King Charles](https://www.gettyimages.it/detail/fotografie-di-cronaca/president-donald-trump-and-king-charles-iii-fotografie-di-cronaca/2235423348) over the summer) or when he simply doesn't put any makeup on.
 
 {% include image.html 
-    src="trump/trump_charles.png"
+    src="trump/trump_charles.jpeg"
     alt="Bruising evident on Trump's hand as the makeup has worn off during his visit to the king of England (Sept 17, 2025)."
     caption="Bruising evident on Trump's hand as the makeup has worn off during his visit to the king of England (Sept 17, 2025)."
     attribution="(Getty Images)"
@@ -52,7 +52,7 @@ The makeup is there to cover up significant bruising which is visible when the m
 The latter is a rare event, but did happen as recently as late August of this year.
 
 {% include image.html 
-    src="trump/trump_bruise.png"
+    src="trump/trump_bruise.jpeg"
     alt="The bruise on Trump's right hand is very visible in the absence of makeup (Aug 25, 2025)."
     caption="The bruise on Trump's right hand is very visible in the absence of makeup (Aug 25, 2025)."
     attribution="(Getty Images)"
@@ -64,7 +64,7 @@ The latter is a rare event, but did happen as recently as late August of this ye
 Besides the makeup Trump is also covering up the back of his right hand when he sits by placing his left hand over it. This is now his usual pose while seated at the Resolute desk, for example (and he is **often** sitting during meetings these days).
 
 {% include image.html 
-    src="trump/trump_seated.png"
+    src="trump/trump_seated.jpeg"
     alt="Trump's frequent pose: sitting with his left hand covering his right"
     caption="Trump's frequent pose: sitting with his left hand covering his right"
     attribution="(Getty Images)"
@@ -87,7 +87,7 @@ I don't have hard data on this, but he also seems to go out of his way sometimes
 Whatever's going on is not confined to his right hand. It was on July 29 of this year that I first noticed something on his left hand as he was getting off Air Force 1.
 
 {% include image.html 
-    src="trump/trump_left_1.png"
+    src="trump/trump_left_1.jpeg"
     alt="Bruising on the back of Trump's left hand"
     caption="Bruising on the back of Trump's left hand"
     attribution="(Getty Images)"
@@ -101,7 +101,7 @@ By the next day he covered that up with makeup. The bruising or makeup or punctu
 Although Trump has been wearing makeup on his right hand pretty much continually since the election last year, issues with the hand seem to be traceable to 2020. In October he wore a band-aid for an extended period starting on the 10th, in the same spot he has recently. He had been hospitalized with COVID-19 from October 2–5, less than a week earlier. There's no band-aid visible when he returns from the hospital on the 5th (not shown), but the 10th is when he next appears in public and a couple of band-aids are visible then (overlapping exactly as they have recently). [Reports](https://www.nytimes.com/2020/10/05/us/politics/trump-leaves-hospital-coronavirus.html) were that he was being treated in the White House during that period. If the issue is related to his COVID-19 therapy, it seems odd that it would still be going on.
 
 {% include image.html 
-    src="trump/trump_2020.png"
+    src="trump/trump_2020.jpeg"
     alt="Trump wearing a couple of band-aids on October 10, 2020"
     caption="Trump wearing a couple of band-aids on October 10, 2020"
     attribution="(Getty Images)"
@@ -111,7 +111,7 @@ Although Trump has been wearing makeup on his right hand pretty much continually
 By the 12th, he's down to [one band-aid](https://www.gettyimages.it/detail/fotografie-di-cronaca/president-donald-trump-holds-a-make-america-fotografie-di-cronaca/1229035843), and it's there until the 18th, when you can see the scab(?) in its place.
 
 {% include image.html 
-    src="trump/trump_2020_scab.png"
+    src="trump/trump_2020_scab.jpeg"
     alt="Trump with a scab on the back of his hand on October 18, 2020"
     caption="Trump with a scab on the back of his hand on October 18, 2020"
     attribution="(Getty Images)"
@@ -121,7 +121,7 @@ By the 12th, he's down to [one band-aid](https://www.gettyimages.it/detail/fotog
 After Trump leaves office, there are **a lot** fewer photos of him until the campaigning starts up in earnest for 2024, so it's hard to say how consistently there is something there. It does definitely look like things come and go, that is, there are photos were the hand looks fine. Still, over the following years, marks are occasionally visible, as in this June 17, 2022 shot.
 
 {% include image.html 
-    src="trump/trump_2022.png"
+    src="trump/trump_2022.jpeg"
     alt="A bruise on the back of Trump's hand on June 17, 2022"
     caption="A bruise on the back of Trump's hand on June 17, 2022"
     attribution="(Getty Images)"
@@ -131,7 +131,7 @@ After Trump leaves office, there are **a lot** fewer photos of him until the cam
 I'd also say this July 20, 2022 photo, taken at Ivana Trump's funeral, shows makeup on both hands, or at least bruising on the left. (Other photos from the same day seem to show it as well, though none are particularly close up.)
 
 {% include image.html 
-    src="trump/makeup_2022.png"
+    src="trump/makeup_2022.jpeg"
     alt="makeup on both of Trump's hands in July 2022"
     caption="makeup on both of Trump's hands in July 2022"
     attribution="(Getty Images)"
@@ -141,7 +141,7 @@ I'd also say this July 20, 2022 photo, taken at Ivana Trump's funeral, shows mak
 Here's one from a golf outing less than a month later which provides an opportunity to see his lower arms which are usually covered by his suits. The bruising on his right hand is pretty extensive and his left forearm sports two band-aids that were not there during a July golf event at Bedminster.
 
 {% include image.html 
-    src="trump/golf_2022.png"
+    src="trump/golf_2022.jpeg"
     alt="Bruising on the right hand and two band-aids on the left forearm on September 13, 2022"
     caption="Bruising on the right hand and two band-aids on the left forearm on September 13, 2022"
     attribution="(Getty Images)"
@@ -151,7 +151,7 @@ Here's one from a golf outing less than a month later which provides an opportun
 EDIT Jan-4-2026 - Another rare shot of Trump's arm above the wrist, this time the right one, was taken in July of 2025 and shows some bruising. Of course the discoloration from the makeup is also there on the hand.
 
 {% include image.html 
-    src="trump/forearm.png"
+    src="trump/forearm.jpeg"
     alt="Bruising visible on Trump's right forearm on July 22, 2025"
     caption="Bruising visible on Trump's right forearm on July 22, 2025"
     attribution="(Getty Images)"
@@ -165,7 +165,7 @@ Is whatever's going on visible earlier than October 2020? Yes, I'd say so.
 The earliest pretty clear evidence is from July 15, 2020, in this photo of Trump at his desk. You can see some light bruising, possibly under some makeup. (This is a day where Trump mostly covers his right hand with his left which strikes me as a bit of a tell, as I noted above. Have a look at other photos from that day.)
 
 {% include image.html 
-    src="trump/July_2020.png"
+    src="trump/July_2020.jpeg"
     alt="Bruising on Trump's right hand on July 15, 2020"
     caption="Bruising on Trump's right hand on July 15, 2020"
     attribution="(Getty Images)"
@@ -175,7 +175,7 @@ The earliest pretty clear evidence is from July 15, 2020, in this photo of Trump
 Then again on July 23, 2020, where you can see bruising right near his pinkie and perhaps some makeup in the middle of his hand.
 
 {% include image.html 
-    src="trump/July_2020_2.png"
+    src="trump/July_2020_2.jpeg"
     alt="Bruising and makeup(?) on Trump's right hand on July 23, 2020"
     caption="Bruising and makeup(?) on Trump's right hand on July 23, 2020"
     attribution="(Getty Images)"
