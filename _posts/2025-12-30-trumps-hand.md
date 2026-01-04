@@ -148,6 +148,16 @@ Here's one from a golf outing less than a month later which provides an opportun
     url="https://www.gettyimages.it/detail/fotografie-di-cronaca/former-u-s-president-donald-trump-golfs-at-trump-fotografie-di-cronaca/1423400898"
 %}
 
+EDIT Jan-4-2026 - Another rare shot of Trump's arm above the wrist, this time the right one, was taken in July of 2025 and shows some bruising. Of course the discoloration from the makeup is also there on the hand.
+
+{% include image.html 
+    src="trump/forearm.png"
+    alt="Bruising visible on Trump's right forearm on July 22, 2025"
+    caption="Bruising visible on Trump's right forearm on July 22, 2025"
+    attribution="(Getty Images)"
+    url="https://www.gettyimages.it/detail/fotografie-di-cronaca/president-donald-trump-greets-attendees-during-a-fotografie-di-cronaca/2225682713"
+%}
+
 ### The Start
 
 Is whatever's going on visible earlier than October 2020? Yes, I'd say so.
