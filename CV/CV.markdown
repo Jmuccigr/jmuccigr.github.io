@@ -220,6 +220,7 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |date|item|
 |:--|:--|
+2026 | "Creating, Managing, & Using a Database of Classical-World Temples," Mathematics, Computing, and the Liberal Arts Seminar Series, John Cabot University, April 22
 2022 | "*Umbria nunc revocat*. Landscape, History, and Archaeology of a Territory in Ancient Times" conference, University of Perugia, March 10-11
 2018 | Keynote at opening ceremony of the Digital Liberal Arts Collaboratory, William Patterson University, December 6
 &nbsp; | "*Populus* as 'army' and the preservation of Roman legal language," Pennsylvania State University, April 14
@@ -294,5 +295,5 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |left  |center| right|
 |:-----|:----:|-----:|
-|[My Homepage](http://jmuccigr.github.io/)||Updated September 27, 2025.|
+|[My Homepage](http://jmuccigr.github.io/)||Updated April 24, 2026.|
 |&nbsp;|[A printable PDF version](CV.pdf) of this document.|&nbsp;|
