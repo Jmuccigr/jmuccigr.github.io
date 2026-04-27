@@ -1,6 +1,6 @@
 #!/bin/bash
 
-me=`whoami`
+me=$USER
 thisdir=`dirname "$0"`
 cd $thisdir
 
