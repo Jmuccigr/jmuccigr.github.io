@@ -48,3 +48,7 @@ I've been using this for a few weeks now and so far, so good. I do need to get t
 Here's [the script](https://github.com/Jmuccigr/scripts/blob/master/zotero/Mange%20Zotero%20file.applescript) in my GitHub repo. You'll have to tweak the path for yourself, so I'm not including the Automator file.
 
 If you're looking to replace the ability to quickly add and manage files in Zotero, I find the [Attanger](https://github-com.translate.goog/MuiseDestiny/zotero-attanger?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) utility useful.
+
+### Addendem of June 2, 2026
+
+As it turns out, there was a way to use this script directly from Zotero using a plug-in that I had already installed: [Attanger](https://github.com/muisedestiny/zotero-attanger). This utility adds an "Open using..." contextual menu option that will open the file that is attached to the Zotero entry with whatever app you choose. Since these Applescript applets qualify, I just had to select the "Other..." option, navigate to my applet, and voilà! The plug-in conveniently remembers previous choices, so now the applet is in the menu and I can work from Zotero and not worry about accessing the file directly in the Finder. I did have to do a minor tweak to the Applescript, but nothing serious.
