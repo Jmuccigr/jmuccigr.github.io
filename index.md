@@ -18,7 +18,7 @@ Welcome to my homepage! It’s perpetually out of date, and I’ve stopped promi
 -   Peruse my [CV](/CV/CV.html)
 -   Read my [blog](blog/)
 -   Send me e-mail: &lt;[owner@muccigrosso.org](mailto:owner@muccigrosso.org?subject=Sent%20from%20your%20website)&gt;
--   Follow me on [Mastodon](https://mastodon.cc/@John){:rel="me"}
+-   Follow me on [Bluesky](https://bsky.app/profile/john.muccigrosso.org){:rel="me"}
 -   Follow me on ~~Twitter~~ X (But don't. I'm not on there anymore.): [jdmuccigrosso](https://twitter.com/jdmuccigrosso)
 -   See my work on [Academia.edu](https://drew.academia.edu/JohnMuccigrosso)
 -   See my stuff on [GitHub](https://github.com/jmuccigr/)
@@ -32,14 +32,10 @@ There are many of these sites, but here’s a (very) short list to get you start
 
 ## Current Projects
 
-Currently in the works:
--   [Database of Roman temples](https://romeresearchgroup.org/database-of-temples/) (DH, mapping stuff)
--   Computer-aided connoisseurship (“Bitsly”, and very back-burner)
--   See the next section
-
-## Computing
+A bunch of these need to get moved to GitHub. Sorry about that...
 
 -   I am currently involved in a bunch of Digital Humanities stuff. Most of the software-type stuff lives on [GitHub](https://github.com/Jmuccigr/), but not all:
+    -   [Temples of the Classical World (TCW)](https://romeresearchgroup.org/database-of-temples/) (DH, mapping stuff)
     -   [Scripts](https://github.com/Jmuccigr/scripts/) (mostly for cleaning up old scans with ImageMagick)
     -   Some Mac OS X Services
         -   I made up a few Classics-related services. Install them in the Library/Services folder and then find them under the Services submenu in the currently running application’s menu:
@@ -58,7 +54,7 @@ Currently in the works:
         1.  Latin animations, a [Summer 1999 Drew CINC](http://www.users.drew.edu/jmuccigr/cinc/) project on word order in Latin
         2.  [Greek colonies in the west](http://www.users.drew.edu/jmuccigr/colonies/)
 -   My outdated pages on how to use a Mac at Drew are still on the [Internet Archive](https://web.archive.org/web/20011001000000*/http://www.users.drew.edu/jmuccigr/mac/), if you’re really interested.
--   Latest causes
+-   Causes
     -   “Protocols not platforms”
         This is a long-running stance of mine on standardization. It needs a good homepage, but for now check out this page:
         -   [Part of a MacCentral series](http://maccentral.macworld.com/news/0006/08.dual.shtml) on dual-platform sites. See the list at the bottom of the article.
