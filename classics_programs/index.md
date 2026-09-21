@@ -81,8 +81,7 @@ Skip to institutions whose names begin with:
 
 1. Bowdoin College
     -   [Department Homepage](https://www.bowdoin.edu/classics/)
-    -   [James Higginbotham](mailto:jhigginb@polar.bowdoin.edu),
-        Department Contact
+    -   [Jennifer Kosak](mailto:jkosak@bowdoin.edu), Department Chair
 
 1. Brandeis University
     -   [Department Homepage](http://www.brandeis.edu/departments/classics/)
@@ -184,8 +183,8 @@ Skip to institutions whose names begin with:
     -   [Department Homepage](http://www.dickinson.edu/departments/clst/)
 
 1. Drew University
-    -   [Department Homepage](http://www.depts.drew.edu/classics/)
-    -   [John Muccigrosso](mailto:jmuccigr@drew.edu), Department Chair
+    -   [Department Homepage](https://drew.edu/academics/classical-studies/classics-department/)
+    -   [John Lenz](mailto:jlenz@drew.edu), Department Contact
 
 1. Duke University
     -   [Department Homepage](http://www.duke.edu/web/classics/)
@@ -206,8 +205,8 @@ Skip to institutions whose names begin with:
     -   [Department Homepage](http://www.fordham.edu/info/20556/classics)
 
 1. Franklin and Marshall College
-    -   [Department Homepage](http://server1.fandm.edu/departments/classics/)
-    -   [Robert J. Barnett](mailto:R_barnett@fandm.edu), Department Chair and Contact
+    -   [Department Homepage](https://www.fandm.edu/fields-of-study/classics/)
+    -   [Zachary P. Biles](mailto:zachary.biles@fandm.edu), Department Chair
 
 1. <span id="G"> George Mason University</span>
     -   [Department Homepage](http://cas.gmu.edu/undergraduate_students/minors/classical_studies/index.html)
@@ -254,7 +253,7 @@ Skip to institutions whose names begin with:
     -   [Department Homepage](http://www.iastate.edu/~classics/)
     -   [Madeleine Henry](mailto:mhenry@iastate.edu), Department Chair
 
-1. <span id="J"> Johns Hopkins University</span>
+1. <span id="J">Johns Hopkins University</span>
     -   [Department Homepage](http://classics.jhu.edu/)
 
 1. <span id="K"> Kenyon College</span>
@@ -786,6 +785,10 @@ Skip to institutions whose names begin with:
 1.  American University of Rome
     -   [Department Homepage](https://aur.edu/program/bachelor-degree-archaeology-classics)
     -   [Elizabeth Wueste](mailto:e.wueste@aur.edu), Department contact
+
+1. John Cabot University
+    -   [Program Homepage](https://www.johncabot.edu/history-humanities/classical-studies-degree)
+    -   [Massimo Betello](mailto:mbetello@johncabot.edu), Department Chair
 
 [To the top](#undergraduate-programs-in-classics)
 
