@@ -376,8 +376,8 @@ Skip to institutions whose names begin with:
     -   [Department Homepage](http://www.slu.edu/colleges/AS/languages/index.html)
 
 1. St. Olaf College
-    -   [Department Homepage](http://www.stolaf.edu/depts/classics/)
-    -   [Jim May](mailto:may@stolaf.edu), Department Contact
+    -   [Department Homepage](https://wp.stolaf.edu/classics/)
+    -   [Anne Groton](mailto:groton@stolaf.edu), Department Chair
 
 1. San Diego State University
     -   [Department Homepage](http://www-rohan.sdsu.edu/dept/clasxhum/index.htm)
@@ -779,6 +779,7 @@ Skip to institutions whose names begin with:
     -   [David M. Schaps](mailto:dschaps@tamar.cc.biu.ac.il), Department contact
 
 [To the top](#undergraduate-programs-in-classics)
+
 
 ### Italy
 
