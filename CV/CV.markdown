@@ -81,7 +81,7 @@ description: "John D. Muccigrosso's CV"
 - Direct reports: School Deans, Library, Registrar, Institutional Research, Center for Excellence in Teaching and Learning, Raskob Day School
 - Committees: Cabinet, Institutional Planning, Rank and Tenure, Faculty Development, Admissions, Data Governance, Board Committee on Academic Affairs
 
-### Faculty Service
+### Faculty Service{.page-break}
 
 |date|item|
 |:--|:--|
@@ -137,7 +137,7 @@ description: "John D. Muccigrosso's CV"
 1990 | Amherst Memorial Fellow in Archaeology, Amherst College
 1983–1987 | Amherst College Classics Prizes: Bertram, Billings Ancient Greek, Crowell Freshman Latin, Harry DeForrest Smith entering-freshmen Greek-language
 
-### Academic Interests
+### Academic Interests{.page-break}
 
 <span class="item_standalone">
 Italian archaeology, Roman history, Digital Humanities, Latin paedagogy
@@ -157,8 +157,8 @@ Italian archaeology, Roman history, Digital Humanities, Latin paedagogy
 ### Languages
 
 <span class="item_standalone">
-Native: English
-Full professional proficiency: Italian
+Native: English  
+Full professional proficiency: Italian  
 Reading ability: Latin, Ancient Greek, French, German
 </span>
 
@@ -168,6 +168,7 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |date|item|
 |:--|:--|
+2027 | "The Ogulnii and the *Gens Fabia*: Etruscan and Roman Elites Collaborating in Rome," in the proceedings of the *Etruscan Landscapes* conference, Palgrave Macmillan
 2023 | "What Happened to the *Vicus Martis Tudertium*? (Massa Martana, PG)," *BollArchOnline* [**14** (Supplemento 1), 275–285](https://bollettinodiarcheologiaonline.beniculturali.it/wp-content/uploads/2023/12/2023_Suppl_1_MUCCIGROSSO-1.pdf)
 2021 | "A New Dedication to Mercury at S. Martino ai Monti (Rome)," *ZPE* **220**, 303-305
 2020 | Fide non ficta. *Essays in honor of Paul B. Harvey, jr.*, co-edited with Celia Schultz, Spirito: Casa Editrice Edipuglia
@@ -271,7 +272,7 @@ Reading ability: Latin, Ancient Greek, French, German
 1996 | "Using the Internet for teaching," AIA
 1992 | "Sardinia and off-island contacts," Chacmool
 
-### Teaching{.page-break}
+### Teaching
 
 <span class="item_standalone">
 *Classical Humanities*; *Archaeology of Greece and Rome*; *Introduction to Roman history*; *Ancient Sport & Spectacle*; *Space and Power in the ancient world*; *Science & technology in the ancient world*; Greek and Roman literature in translation; *Introduction to ancient drama*; introductory Latin sequence; intermediate Greek; advanced Latin: *Catullus, Vergil, Livy*; First-year seminars: *The Hero, Dead Men Do Tell Tales*; as graduate assistant: *Virgil’s* Aeneid; *Sport and Daily Life in the Roman Empire*; introductory chemistry; organic chemistry laboratory
@@ -295,5 +296,5 @@ Reading ability: Latin, Ancient Greek, French, German
 
 |left  |center| right|
 |:-----|:----:|-----:|
-|[My Homepage](http://jmuccigr.github.io/)||Updated April 24, 2026.|
+|[My Homepage](http://jmuccigr.github.io/)||Updated May 24, 2026.|
 |&nbsp;|[A printable PDF version](CV.pdf) of this document.|&nbsp;|
